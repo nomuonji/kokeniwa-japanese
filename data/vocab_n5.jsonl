@@ -1,0 +1,110 @@
+{"id":1,"jp":"赤","kana":"あか","romaji":"aka","en":"red","example_ja":"赤が好きです。","example_en":"I like red."}
+{"id":2,"jp":"青","kana":"あお","romaji":"ao","en":"blue","example_ja":"青い空。","example_en":"A blue sky."}
+{"id":3,"jp":"白","kana":"しろ","romaji":"shiro","en":"white","example_ja":"白いシャツを着る。","example_en":"I wear a white shirt."}
+{"id":4,"jp":"黒","kana":"くろ","romaji":"kuro","en":"black","example_ja":"黒が似合う。","example_en":"Black suits you."}
+{"id":5,"jp":"色","kana":"いろ","romaji":"iro","en":"color","example_ja":"好きな色は何ですか。","example_en":"What is your favorite color?"}
+{"id":6,"jp":"大きい","kana":"おおきい","romaji":"ookii","en":"big","example_ja":"大きい家。","example_en":"A big house."}
+{"id":7,"jp":"小さい","kana":"ちいさい","romaji":"chiisai","en":"small","example_ja":"小さい猫。","example_en":"A small cat."}
+{"id":8,"jp":"長い","kana":"ながい","romaji":"nagai","en":"long","example_ja":"長い髪。","example_en":"Long hair."}
+{"id":9,"jp":"短い","kana":"みじかい","romaji":"mijikai","en":"short","example_ja":"短い手紙。","example_en":"A short letter."}
+{"id":10,"jp":"新しい","kana":"あたらしい","romaji":"atarashii","en":"new","example_ja":"新しい本を買う。","example_en":"I buy a new book."}
+{"id":11,"jp":"古い","kana":"ふるい","romaji":"furui","en":"old (thing)","example_ja":"古い時計。","example_en":"An old clock."}
+{"id":12,"jp":"高い","kana":"たかい","romaji":"takai","en":"tall; expensive","example_ja":"値段が高い。","example_en":"The price is high."}
+{"id":13,"jp":"安い","kana":"やすい","romaji":"yasui","en":"cheap","example_ja":"安い店。","example_en":"A cheap shop."}
+{"id":14,"jp":"早い","kana":"はやい","romaji":"hayai","en":"early; fast","example_ja":"早く起きる。","example_en":"I get up early."}
+{"id":15,"jp":"遅い","kana":"おそい","romaji":"osoi","en":"late; slow","example_ja":"電車が遅い。","example_en":"The train is late."}
+{"id":16,"jp":"いい","kana":"いい","romaji":"ii","en":"good","example_ja":"今日はいい天気だ。","example_en":"The weather is nice today."}
+{"id":17,"jp":"悪い","kana":"わるい","romaji":"warui","en":"bad","example_ja":"気分が悪い。","example_en":"I feel bad."}
+{"id":18,"jp":"暑い","kana":"あつい","romaji":"atsui","en":"hot (weather)","example_ja":"今日は暑い。","example_en":"It's hot today."}
+{"id":19,"jp":"寒い","kana":"さむい","romaji":"samui","en":"cold (weather)","example_ja":"冬は寒い。","example_en":"It is cold in winter."}
+{"id":20,"jp":"涼しい","kana":"すずしい","romaji":"suzushii","en":"cool (weather)","example_ja":"朝は涼しい。","example_en":"It's cool in the morning."}
+{"id":21,"jp":"暖かい","kana":"あたたかい","romaji":"atatakai","en":"warm","example_ja":"春は暖かい。","example_en":"Spring is warm."}
+{"id":22,"jp":"強い","kana":"つよい","romaji":"tsuyoi","en":"strong","example_ja":"風が強い。","example_en":"The wind is strong."}
+{"id":23,"jp":"弱い","kana":"よわい","romaji":"yowai","en":"weak","example_ja":"日差しが弱い。","example_en":"The sunlight is weak."}
+{"id":24,"jp":"近い","kana":"ちかい","romaji":"chikai","en":"near; close","example_ja":"駅は近い。","example_en":"The station is close."}
+{"id":25,"jp":"遠い","kana":"とおい","romaji":"tooi","en":"far","example_ja":"駅は遠い。","example_en":"The station is far."}
+{"id":26,"jp":"上","kana":"うえ","romaji":"ue","en":"up; above","example_ja":"棚の上にある。","example_en":"It's on the shelf."}
+{"id":27,"jp":"下","kana":"した","romaji":"shita","en":"down; below","example_ja":"机の下にある。","example_en":"It's under the desk."}
+{"id":28,"jp":"中","kana":"なか","romaji":"naka","en":"inside; middle","example_ja":"箱の中に入っている。","example_en":"It's inside the box."}
+{"id":29,"jp":"外","kana":"そと","romaji":"soto","en":"outside","example_ja":"外で遊ぶ。","example_en":"Play outside."}
+{"id":30,"jp":"前","kana":"まえ","romaji":"mae","en":"front; before","example_ja":"駅の前で会う。","example_en":"Meet in front of the station."}
+{"id":31,"jp":"後ろ","kana":"うしろ","romaji":"ushiro","en":"back; behind","example_ja":"後ろを向く。","example_en":"Look back."}
+{"id":32,"jp":"右","kana":"みぎ","romaji":"migi","en":"right (direction)","example_ja":"右に曲がる。","example_en":"Turn right."}
+{"id":33,"jp":"左","kana":"ひだり","romaji":"hidari","en":"left (direction)","example_ja":"左に曲がる。","example_en":"Turn left."}
+{"id":34,"jp":"人","kana":"ひと","romaji":"hito","en":"person","example_ja":"優しい人。","example_en":"A kind person."}
+{"id":35,"jp":"子供","kana":"こども","romaji":"kodomo","en":"child","example_ja":"元気な子供。","example_en":"A lively child."}
+{"id":36,"jp":"友達","kana":"ともだち","romaji":"tomodachi","en":"friend","example_ja":"友達と遊ぶ。","example_en":"Play with a friend."}
+{"id":37,"jp":"家族","kana":"かぞく","romaji":"kazoku","en":"family","example_ja":"家族と旅行する。","example_en":"Travel with family."}
+{"id":38,"jp":"父","kana":"ちち","romaji":"chichi","en":"(my) father","example_ja":"父は医者です。","example_en":"My father is a doctor."}
+{"id":39,"jp":"母","kana":"はは","romaji":"haha","en":"(my) mother","example_ja":"母は優しい。","example_en":"My mother is kind."}
+{"id":40,"jp":"兄","kana":"あに","romaji":"ani","en":"older brother","example_ja":"兄は背が高い。","example_en":"My older brother is tall."}
+{"id":41,"jp":"姉","kana":"あね","romaji":"ane","en":"older sister","example_ja":"姉は学生です。","example_en":"My older sister is a student."}
+{"id":42,"jp":"弟","kana":"おとうと","romaji":"otouto","en":"younger brother","example_ja":"弟は小学生です。","example_en":"My younger brother is an elementary student."}
+{"id":43,"jp":"妹","kana":"いもうと","romaji":"imouto","en":"younger sister","example_ja":"妹は元気だ。","example_en":"My younger sister is energetic."}
+{"id":44,"jp":"先生","kana":"せんせい","romaji":"sensei","en":"teacher","example_ja":"先生に聞く。","example_en":"Ask the teacher."}
+{"id":45,"jp":"学生","kana":"がくせい","romaji":"gakusei","en":"student","example_ja":"私は学生です。","example_en":"I am a student."}
+{"id":46,"jp":"学校","kana":"がっこう","romaji":"gakkou","en":"school","example_ja":"学校へ行く。","example_en":"Go to school."}
+{"id":47,"jp":"会社","kana":"かいしゃ","romaji":"kaisha","en":"company","example_ja":"大きな会社。","example_en":"A big company."}
+{"id":48,"jp":"会社員","kana":"かいしゃいん","romaji":"kaishain","en":"company employee","example_ja":"父は会社員です。","example_en":"My father is a company employee."}
+{"id":49,"jp":"銀行","kana":"ぎんこう","romaji":"ginkou","en":"bank","example_ja":"銀行に行く。","example_en":"Go to the bank."}
+{"id":50,"jp":"病院","kana":"びょういん","romaji":"byouin","en":"hospital","example_ja":"病院へ行く。","example_en":"Go to the hospital."}
+{"id":51,"jp":"駅","kana":"えき","romaji":"eki","en":"station","example_ja":"駅で待つ。","example_en":"Wait at the station."}
+{"id":52,"jp":"空港","kana":"くうこう","romaji":"kuukou","en":"airport","example_ja":"空港に着く。","example_en":"Arrive at the airport."}
+{"id":53,"jp":"バス","kana":"ばす","romaji":"basu","en":"bus","example_ja":"バスに乗る。","example_en":"Get on a bus."}
+{"id":54,"jp":"電車","kana":"でんしゃ","romaji":"densha","en":"train","example_ja":"電車で行く。","example_en":"Go by train."}
+{"id":55,"jp":"自転車","kana":"じてんしゃ","romaji":"jitensha","en":"bicycle","example_ja":"自転車に乗る。","example_en":"Ride a bicycle."}
+{"id":56,"jp":"車","kana":"くるま","romaji":"kuruma","en":"car","example_ja":"車を買う。","example_en":"Buy a car."}
+{"id":57,"jp":"道","kana":"みち","romaji":"michi","en":"road; way","example_ja":"道に迷う。","example_en":"Get lost on the way."}
+{"id":58,"jp":"交差点","kana":"こうさてん","romaji":"kousaten","en":"intersection","example_ja":"交差点を右に曲がる。","example_en":"Turn right at the intersection."}
+{"id":59,"jp":"信号","kana":"しんごう","romaji":"shingou","en":"traffic light","example_ja":"信号を待つ。","example_en":"Wait at the traffic light."}
+{"id":60,"jp":"橋","kana":"はし","romaji":"hashi","en":"bridge","example_ja":"橋を渡る。","example_en":"Cross the bridge."}
+{"id":61,"jp":"家","kana":"いえ","romaji":"ie","en":"house; home","example_ja":"家に帰る。","example_en":"Go home."}
+{"id":62,"jp":"部屋","kana":"へや","romaji":"heya","en":"room","example_ja":"部屋を掃除する。","example_en":"Clean the room."}
+{"id":63,"jp":"台所","kana":"だいどころ","romaji":"daidokoro","en":"kitchen","example_ja":"台所で料理する。","example_en":"Cook in the kitchen."}
+{"id":64,"jp":"風呂","kana":"ふろ","romaji":"furo","en":"bath","example_ja":"風呂に入る。","example_en":"Take a bath."}
+{"id":65,"jp":"トイレ","kana":"といれ","romaji":"toire","en":"toilet","example_ja":"トイレはどこですか。","example_en":"Where is the restroom?"}
+{"id":66,"jp":"窓","kana":"まど","romaji":"mado","en":"window","example_ja":"窓を開ける。","example_en":"Open the window."}
+{"id":67,"jp":"ドア","kana":"どあ","romaji":"doa","en":"door","example_ja":"ドアを閉める。","example_en":"Close the door."}
+{"id":68,"jp":"机","kana":"つくえ","romaji":"tsukue","en":"desk","example_ja":"机に座る。","example_en":"Sit at the desk."}
+{"id":69,"jp":"椅子","kana":"いす","romaji":"isu","en":"chair","example_ja":"椅子に座る。","example_en":"Sit on a chair."}
+{"id":70,"jp":"ベッド","kana":"べっど","romaji":"beddo","en":"bed","example_ja":"ベッドで寝る。","example_en":"Sleep in the bed."}
+{"id":71,"jp":"本","kana":"ほん","romaji":"hon","en":"book","example_ja":"本を読む。","example_en":"Read a book."}
+{"id":72,"jp":"新聞","kana":"しんぶん","romaji":"shinbun","en":"newspaper","example_ja":"新聞を読む。","example_en":"Read a newspaper."}
+{"id":73,"jp":"雑誌","kana":"ざっし","romaji":"zasshi","en":"magazine","example_ja":"雑誌を買う。","example_en":"Buy a magazine."}
+{"id":74,"jp":"手紙","kana":"てがみ","romaji":"tegami","en":"letter","example_ja":"手紙を書く。","example_en":"Write a letter."}
+{"id":75,"jp":"写真","kana":"しゃしん","romaji":"shashin","en":"photo","example_ja":"写真を撮る。","example_en":"Take a photo."}
+{"id":76,"jp":"時計","kana":"とけい","romaji":"tokei","en":"clock; watch","example_ja":"時計を見る。","example_en":"Look at the clock."}
+{"id":77,"jp":"携帯電話","kana":"けいたいでんわ","romaji":"keitai denwa","en":"mobile phone","example_ja":"携帯電話をなくした。","example_en":"I lost my mobile phone."}
+{"id":78,"jp":"パソコン","kana":"ぱそこん","romaji":"pasokon","en":"computer","example_ja":"パソコンを使う。","example_en":"Use a computer."}
+{"id":79,"jp":"食べる","kana":"たべる","romaji":"taberu","en":"to eat","example_ja":"朝ご飯を食べる。","example_en":"I eat breakfast."}
+{"id":80,"jp":"飲む","kana":"のむ","romaji":"nomu","en":"to drink","example_ja":"水を飲む。","example_en":"I drink water."}
+{"id":81,"jp":"見る","kana":"みる","romaji":"miru","en":"to see; to watch","example_ja":"映画を見る。","example_en":"I watch a movie."}
+{"id":82,"jp":"聞く","kana":"きく","romaji":"kiku","en":"to listen; to ask","example_ja":"音楽を聞く。","example_en":"I listen to music."}
+{"id":83,"jp":"話す","kana":"はなす","romaji":"hanasu","en":"to speak","example_ja":"日本語を話す。","example_en":"I speak Japanese."}
+{"id":84,"jp":"読む","kana":"よむ","romaji":"yomu","en":"to read","example_ja":"本を読む。","example_en":"I read a book."}
+{"id":85,"jp":"書く","kana":"かく","romaji":"kaku","en":"to write","example_ja":"名前を書く。","example_en":"Write your name."}
+{"id":86,"jp":"行く","kana":"いく","romaji":"iku","en":"to go","example_ja":"学校へ行く。","example_en":"Go to school."}
+{"id":87,"jp":"来る","kana":"くる","romaji":"kuru","en":"to come","example_ja":"友達が来る。","example_en":"A friend comes."}
+{"id":88,"jp":"帰る","kana":"かえる","romaji":"kaeru","en":"to return; to go home","example_ja":"家に帰る。","example_en":"I go home."}
+{"id":89,"jp":"起きる","kana":"おきる","romaji":"okiru","en":"to get up","example_ja":"6時に起きる。","example_en":"I get up at six."}
+{"id":90,"jp":"寝る","kana":"ねる","romaji":"neru","en":"to sleep","example_ja":"早く寝る。","example_en":"I sleep early."}
+{"id":91,"jp":"する","kana":"する","romaji":"suru","en":"to do","example_ja":"宿題をする。","example_en":"I do homework."}
+{"id":92,"jp":"ある","kana":"ある","romaji":"aru","en":"to exist (inanimate)","example_ja":"机の上に本がある。","example_en":"There is a book on the desk."}
+{"id":93,"jp":"いる","kana":"いる","romaji":"iru","en":"to exist (animate)","example_ja":"犬がいる。","example_en":"There is a dog."}
+{"id":94,"jp":"使う","kana":"つかう","romaji":"tsukau","en":"to use","example_ja":"スマホを使う。","example_en":"I use a smartphone."}
+{"id":95,"jp":"作る","kana":"つくる","romaji":"tsukuru","en":"to make; to create","example_ja":"ケーキを作る。","example_en":"I make a cake."}
+{"id":96,"jp":"買う","kana":"かう","romaji":"kau","en":"to buy","example_ja":"野菜を買う。","example_en":"I buy vegetables."}
+{"id":97,"jp":"売る","kana":"うる","romaji":"uru","en":"to sell","example_ja":"服を売る。","example_en":"I sell clothes."}
+{"id":98,"jp":"会う","kana":"あう","romaji":"au","en":"to meet","example_ja":"友達に会う。","example_en":"I meet a friend."}
+{"id":99,"jp":"住む","kana":"すむ","romaji":"sumu","en":"to live; to reside","example_ja":"東京に住む。","example_en":"I live in Tokyo."}
+{"id":100,"jp":"分かる","kana":"わかる","romaji":"wakaru","en":"to understand","example_ja":"意味が分かる。","example_en":"I understand the meaning."}
+{"id":101,"jp":"今日","kana":"きょう","romaji":"kyou","en":"today","example_ja":"今日はいい天気です。","example_en":"The weather is nice today."}
+{"id":102,"jp":"明日","kana":"あした","romaji":"ashita","en":"tomorrow","example_ja":"また明日会いましょう。","example_en":"Let's meet again tomorrow."}
+{"id":103,"jp":"昨日","kana":"きのう","romaji":"kinou","en":"yesterday","example_ja":"昨日は雨でした。","example_en":"It was rainy yesterday."}
+{"id":104,"jp":"今","kana":"いま","romaji":"ima","en":"now","example_ja":"今、何時ですか？","example_en":"What time is it now?"}
+{"id":105,"jp":"朝","kana":"あさ","romaji":"asa","en":"morning","example_ja":"朝ご飯を食べます。","example_en":"I eat breakfast."}
+{"id":106,"jp":"昼","kana":"ひる","romaji":"hiru","en":"daytime; noon","example_ja":"昼休みは1時間です。","example_en":"The lunch break is one hour."}
+{"id":107,"jp":"晩","kana":"ばん","romaji":"ban","en":"evening; night","example_ja":"今晩、何をしますか？","example_en":"What are you doing tonight?"}
+{"id":108,"jp":"時","kana":"とき","romaji":"toki","en":"time; when","example_ja":"子供の時、よく外で遊びました。","example_en":"When I was a child, I often played outside."}
+{"id":109,"jp":"分","kana":"ふん","romaji":"fun","en":"minute","example_ja":"あと5分で着きます。","example_en":"I will arrive in 5 minutes."}
+{"id":110,"jp":"半","kana":"はん","romaji":"han","en":"half","example_ja":"今、9時半です。","example_en":"It's half past nine now."}

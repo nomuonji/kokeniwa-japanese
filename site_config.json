@@ -1,0 +1,8 @@
+{
+  "site_name": "Kotsukotsu Japanese",
+  "tagline": "Learn Japanese vocabulary, one card at a time.",
+  "description": "Free Japanese vocabulary flashcards for English speakers — JLPT N5 to N1 and survival phrases, with kana readings and romaji.",
+  "base_url": "https://example.pages.dev",
+  "lang": "en",
+  "include_draft": true
+}

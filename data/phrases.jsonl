@@ -1,0 +1,80 @@
+{"id":1,"jp":"こんにちは","kana":"こんにちは","romaji":"konnichiwa","en":"hello","example_ja":"こんにちは。","example_en":"Hello."}
+{"id":2,"jp":"おはようございます","kana":"おはようございます","romaji":"ohayou gozaimasu","en":"good morning","example_ja":"おはようございます。","example_en":"Good morning."}
+{"id":3,"jp":"こんばんは","kana":"こんばんは","romaji":"konbanwa","en":"good evening","example_ja":"こんばんは。","example_en":"Good evening."}
+{"id":4,"jp":"ありがとう","kana":"ありがとう","romaji":"arigatou","en":"thank you","example_ja":"ありがとう。","example_en":"Thank you."}
+{"id":5,"jp":"ありがとうございます","kana":"ありがとうございます","romaji":"arigatou gozaimasu","en":"thank you very much","example_ja":"本当にありがとうございます。","example_en":"Thank you very much."}
+{"id":6,"jp":"すみません","kana":"すみません","romaji":"sumimasen","en":"excuse me / I'm sorry","example_ja":"すみません、道に迷いました。","example_en":"Excuse me, I'm lost."}
+{"id":7,"jp":"ごめんなさい","kana":"ごめんなさい","romaji":"gomen nasai","en":"I'm sorry","example_ja":"ごめんなさい。","example_en":"I'm sorry."}
+{"id":8,"jp":"お願いします","kana":"おねがいします","romaji":"onegai shimasu","en":"please","example_ja":"水をお願いします。","example_en":"Water, please."}
+{"id":9,"jp":"はい","kana":"はい","romaji":"hai","en":"yes","example_ja":"はい、大丈夫です。","example_en":"Yes, it's okay."}
+{"id":10,"jp":"いいえ","kana":"いいえ","romaji":"iie","en":"no","example_ja":"いいえ、分かりません。","example_en":"No, I don't understand."}
+{"id":11,"jp":"英語を話せますか？","kana":"えいごをはなせますか","romaji":"eigo o hanasemasu ka","en":"Can you speak English?","example_ja":"英語を話せますか？","example_en":"Can you speak English?"}
+{"id":12,"jp":"日本語は少し話せます","kana":"にほんごはすこしはなせます","romaji":"nihongo wa sukoshi hanasemasu","en":"I can speak a little Japanese","example_ja":"日本語は少し話せます。","example_en":"I can speak a little Japanese."}
+{"id":13,"jp":"もう一度お願いします","kana":"もういちどおねがいします","romaji":"mou ichido onegai shimasu","en":"One more time, please","example_ja":"もう一度お願いします。","example_en":"One more time, please."}
+{"id":14,"jp":"ゆっくり話してください","kana":"ゆっくりはなしてください","romaji":"yukkuri hanashite kudasai","en":"Please speak slowly","example_ja":"ゆっくり話してください。","example_en":"Please speak slowly."}
+{"id":15,"jp":"トイレはどこですか？","kana":"といれはどこですか","romaji":"toire wa doko desu ka","en":"Where is the restroom?","example_ja":"トイレはどこですか？","example_en":"Where is the restroom?"}
+{"id":16,"jp":"いくらですか？","kana":"いくらですか","romaji":"ikura desu ka","en":"How much is it?","example_ja":"これはいくらですか？","example_en":"How much is this?"}
+{"id":17,"jp":"これは何ですか？","kana":"これはなんですか","romaji":"kore wa nan desu ka","en":"What is this?","example_ja":"これは何ですか？","example_en":"What is this?"}
+{"id":18,"jp":"駅はどこですか？","kana":"えきはどこですか","romaji":"eki wa doko desu ka","en":"Where is the station?","example_ja":"駅はどこですか？","example_en":"Where is the station?"}
+{"id":19,"jp":"助けてください","kana":"たすけてください","romaji":"tasukete kudasai","en":"Please help me","example_ja":"助けてください！","example_en":"Please help me!"}
+{"id":20,"jp":"大丈夫です","kana":"だいじょうぶです","romaji":"daijoubu desu","en":"I'm okay","example_ja":"大丈夫です。","example_en":"I'm okay."}
+{"id":21,"jp":"いただきます","kana":"いただきます","romaji":"itadakimasu","en":"Let's eat (before meals)","example_ja":"いただきます。","example_en":"Let's eat."}
+{"id":22,"jp":"ごちそうさまでした","kana":"ごちそうさまでした","romaji":"gochisousama deshita","en":"Thank you for the meal","example_ja":"ごちそうさまでした。","example_en":"Thank you for the meal."}
+{"id":23,"jp":"初めまして","kana":"はじめまして","romaji":"hajimemashite","en":"Nice to meet you","example_ja":"初めまして。","example_en":"Nice to meet you."}
+{"id":24,"jp":"よろしくお願いします","kana":"よろしくおねがいします","romaji":"yoroshiku onegai shimasu","en":"Please treat me well","example_ja":"よろしくお願いします。","example_en":"Nice to meet you (lit. please treat me well)."}
+{"id":25,"jp":"お名前は何ですか？","kana":"おなまえはなんですか","romaji":"onamae wa nan desu ka","en":"What is your name?","example_ja":"お名前は何ですか？","example_en":"What is your name?"}
+{"id":26,"jp":"分かりません","kana":"わかりません","romaji":"wakarimasen","en":"I don't understand","example_ja":"すみません、分かりません。","example_en":"Sorry, I don't understand."}
+{"id":27,"jp":"分かりました","kana":"わかりました","romaji":"wakarimashita","en":"I understand","example_ja":"分かりました。","example_en":"I understand."}
+{"id":28,"jp":"ちょっと待ってください","kana":"ちょっとまってください","romaji":"chotto matte kudasai","en":"Please wait a moment","example_ja":"ちょっと待ってください。","example_en":"Please wait a moment."}
+{"id":29,"jp":"大使館はどこですか？","kana":"たいしかんはどこですか","romaji":"taishikan wa doko desu ka","en":"Where is the embassy?","example_ja":"大使館はどこですか？","example_en":"Where is the embassy?"}
+{"id":30,"jp":"病院はどこですか？","kana":"びょういんはどこですか","romaji":"byouin wa doko desu ka","en":"Where is the hospital?","example_ja":"病院はどこですか？","example_en":"Where is the hospital?"}
+{"id":31,"jp":"お会計お願いします","kana":"おかいけいおねがいします","romaji":"okaikei onegai shimasu","en":"Check, please.","example_ja":"お会計お願いします。","example_en":"Check, please."}
+{"id":32,"jp":"お水をもう一杯ください","kana":"おみずをもういっぱいください","romaji":"omizu o mou ippai kudasai","en":"Another glass of water, please.","example_ja":"お水をもう一杯ください。","example_en":"Another glass of water, please."}
+{"id":33,"jp":"英語のメニューはありますか？","kana":"えいごのめにゅーはありますか","romaji":"eigo no menyuu wa arimasu ka","en":"Do you have an English menu?","example_ja":"英語のメニューはありますか？","example_en":"Do you have an English menu?"}
+{"id":34,"jp":"これは何といいますか？","kana":"これはなんといいますか","romaji":"kore wa nan to iimasu ka","en":"What do you call this?","example_ja":"これは何といいますか？","example_en":"What do you call this?"}
+{"id":35,"jp":"切符はどこで買えますか？","kana":"きっぷはどこでかえますか","romaji":"kippu wa doko de kaemasu ka","en":"Where can I buy a ticket?","example_ja":"切符はどこで買えますか？","example_en":"Where can I buy a ticket?"}
+{"id":36,"jp":"カードは使えますか？","kana":"かーどはつかえますか","romaji":"kaado wa tsukaemasu ka","en":"Do you take credit cards?","example_ja":"カードは使えますか？","example_en":"Do you take credit cards?"}
+{"id":37,"jp":"現金で払います","kana":"げんきんではらいます","romaji":"genkin de haraimasu","en":"I'll pay in cash.","example_ja":"現金で払います。","example_en":"I'll pay in cash."}
+{"id":38,"jp":"領収書をください","kana":"りょうしゅうしょをください","romaji":"ryoushuusho o kudasai","en":"Receipt, please.","example_ja":"領収書をください。","example_en":"Receipt, please."}
+{"id":39,"jp":"写真を撮ってもいいですか？","kana":"しゃしんをとってもいいですか","romaji":"shashin o totte mo ii desu ka","en":"May I take photos?","example_ja":"写真を撮ってもいいですか？","example_en":"May I take photos?"}
+{"id":40,"jp":"写真を撮ってもらえますか？","kana":"しゃしんをとってもらえますか","romaji":"shashin o totte moraemasu ka","en":"Could you take a photo (of me)?","example_ja":"写真を撮ってもらえますか？","example_en":"Could you take a photo (of me)?"}
+{"id":41,"jp":"道に迷いました","kana":"みちにまよいました","romaji":"michi ni mayoimashita","en":"I'm lost.","example_ja":"道に迷いました。","example_en":"I'm lost."}
+{"id":42,"jp":"地図を見せてください","kana":"ちずをみせてください","romaji":"chizu o misete kudasai","en":"Please show me a map.","example_ja":"地図を見せてください。","example_en":"Please show me a map."}
+{"id":43,"jp":"Wi‑Fiはありますか？","kana":"わいふぁいはありますか","romaji":"waifai wa arimasu ka","en":"Do you have Wi‑Fi?","example_ja":"Wi‑Fiはありますか？","example_en":"Do you have Wi‑Fi?"}
+{"id":44,"jp":"パスワードは何ですか？","kana":"ぱすわーどはなんですか","romaji":"pasuwaado wa nan desu ka","en":"What's the password?","example_ja":"パスワードは何ですか？","example_en":"What's the password?"}
+{"id":45,"jp":"大丈夫ですか？","kana":"だいじょうぶですか","romaji":"daijoubu desu ka","en":"Are you okay?","example_ja":"大丈夫ですか？","example_en":"Are you okay?"}
+{"id":46,"jp":"医者を呼んでください","kana":"いしゃをよんでください","romaji":"isha o yonde kudasai","en":"Please call a doctor.","example_ja":"医者を呼んでください。","example_en":"Please call a doctor."}
+{"id":47,"jp":"薬はどこで買えますか？","kana":"くすりはどこでかえますか","romaji":"kusuri wa doko de kaemasu ka","en":"Where can I buy medicine?","example_ja":"薬はどこで買えますか？","example_en":"Where can I buy medicine?"}
+{"id":48,"jp":"おすすめは何ですか？","kana":"おすすめはなんですか","romaji":"osusume wa nan desu ka","en":"What do you recommend?","example_ja":"おすすめは何ですか？","example_en":"What do you recommend?"}
+{"id":49,"jp":"浅草に行きたいです","kana":"あさくさにいきたいです","romaji":"asakusa ni ikitai desu","en":"I want to go to Asakusa.","example_ja":"浅草に行きたいです。","example_en":"I want to go to Asakusa."}
+{"id":50,"jp":"写真を送ってください","kana":"しゃしんをおくってください","romaji":"shashin o okutte kudasai","en":"Please send me the photo.","example_ja":"写真を送ってください。","example_en":"Please send me the photo."}
+{"id":51,"jp":"おすすめの店はありますか？","kana":"おすすめのみせはありますか","romaji":"osusume no mise wa arimasu ka","en":"Do you have a recommended place?","example_ja":"この辺でおすすめの店はありますか？","example_en":"Do you have a recommended place around here?"}
+{"id":52,"jp":"辛くないものはありますか？","kana":"からくないものはありますか","romaji":"karakunai mono wa arimasu ka","en":"Do you have something not spicy?","example_ja":"辛くないものはありますか？","example_en":"Do you have something not spicy?"}
+{"id":53,"jp":"ベジタリアンです","kana":"べじたりあんです","romaji":"bejitarian desu","en":"I'm vegetarian.","example_ja":"私はベジタリアンです。","example_en":"I'm vegetarian."}
+{"id":54,"jp":"アレルギーがあります","kana":"あれるぎーがあります","romaji":"arerugii ga arimasu","en":"I have an allergy.","example_ja":"ナッツにアレルギーがあります。","example_en":"I'm allergic to nuts."}
+{"id":55,"jp":"サイズ違いはありますか？","kana":"さいずちがいはありますか","romaji":"saizu chigai wa arimasu ka","en":"Do you have different sizes?","example_ja":"Mサイズの他にサイズ違いはありますか？","example_en":"Do you have other sizes besides M?"}
+{"id":56,"jp":"試着してもいいですか？","kana":"しちゃくしてもいいですか","romaji":"shichaku shite mo ii desu ka","en":"May I try it on?","example_ja":"これ、試着してもいいですか？","example_en":"May I try this on?"}
+{"id":57,"jp":"値引きできますか？","kana":"ねびきできますか","romaji":"nebiki dekimasu ka","en":"Can you give me a discount?","example_ja":"少し値引きできますか？","example_en":"Can you give me a small discount?"}
+{"id":58,"jp":"道を教えてください","kana":"みちをおしえてください","romaji":"michi o oshiete kudasai","en":"Please tell me the way.","example_ja":"駅までの道を教えてください。","example_en":"Please tell me the way to the station."}
+{"id":59,"jp":"この電車は渋谷に行きますか？","kana":"このでんしゃはしぶやにいきますか","romaji":"kono densha wa shibuya ni ikimasu ka","en":"Does this train go to Shibuya?","example_ja":"この電車は渋谷に行きますか？","example_en":"Does this train go to Shibuya?"}
+{"id":60,"jp":"乗り換えはどこですか？","kana":"のりかえはどこですか","romaji":"norikae wa doko desu ka","en":"Where do I transfer?","example_ja":"乗り換えはどこですか？","example_en":"Where do I transfer?"}
+{"id":61,"jp":"道に迷っていません","kana":"みちにまよっていません","romaji":"michi ni mayotte imasen","en":"I'm not lost.","example_ja":"大丈夫、道に迷っていません。","example_en":"I'm fine, I'm not lost."}
+{"id":62,"jp":"ここで降ります","kana":"ここでおります","romaji":"koko de orimasu","en":"I get off here.","example_ja":"すみません、ここで降ります。","example_en":"Excuse me, I get off here."}
+{"id":63,"jp":"ここは観光名所ですか？","kana":"ここはかんこうめいしょですか","romaji":"koko wa kankou meisho desu ka","en":"Is this a tourist spot?","example_ja":"ここは観光名所ですか？","example_en":"Is this a tourist attraction?"}
+{"id":64,"jp":"チェックインをお願いします","kana":"ちぇっくいんをおねがいします","romaji":"chekkuin o onegai shimasu","en":"Check-in, please.","example_ja":"チェックインをお願いします。","example_en":"I'd like to check in."}
+{"id":65,"jp":"チェックアウトは何時ですか？","kana":"ちぇっくあうとはなんじですか","romaji":"chekkuauto wa nanji desu ka","en":"What time is check-out?","example_ja":"チェックアウトは何時ですか？","example_en":"What time is check-out?"}
+{"id":66,"jp":"荷物を預けられますか？","kana":"にもつをあずけられますか","romaji":"nimotsu o azukeraremasu ka","en":"Can I leave my luggage?","example_ja":"荷物を預けられますか？","example_en":"Can I leave my luggage here?"}
+{"id":67,"jp":"領収書の名前は…","kana":"りょうしゅうしょのなまえは","romaji":"ryoushuusho no namae wa","en":"Name on the receipt is…","example_ja":"領収書の名前はABCでお願いします。","example_en":"Please make the receipt out to ABC."}
+{"id":68,"jp":"電源はどこですか？","kana":"でんげんはどこですか","romaji":"dengen wa doko desu ka","en":"Where is a power outlet?","example_ja":"電源はどこですか？","example_en":"Where is a power outlet?"}
+{"id":69,"jp":"充電させてもらえますか？","kana":"じゅうでんさせてもらえますか","romaji":"juuden sasete moraemasu ka","en":"May I charge my device?","example_ja":"ここで充電させてもらえますか？","example_en":"May I charge my device here?"}
+{"id":70,"jp":"英語で説明してもらえますか？","kana":"えいごでせつめいしてもらえますか","romaji":"eigo de setsumei shite moraemasu ka","en":"Could you explain in English?","example_ja":"英語で説明してもらえますか？","example_en":"Could you explain in English?"}
+{"id":71,"jp":"お元気ですか？","kana":"おげんきですか","romaji":"ogenki desu ka","en":"How are you?","example_ja":"お久しぶりです。お元気ですか？","example_en":"Long time no see. How are you?"}
+{"id":72,"jp":"元気です","kana":"げんきです","romaji":"genki desu","en":"I'm fine.","example_ja":"はい、元気です。あなたは？","example_en":"Yes, I'm fine. And you?"}
+{"id":73,"jp":"お疲れ様です","kana":"おつかれさまです","romaji":"otsukaresama desu","en":"Good work / Cheers (after work)","example_ja":"お疲れ様です。先に失礼します。","example_en":"Good work. I'll be leaving now."}
+{"id":74,"jp":"いってきます","kana":"いってきます","romaji":"ittekimasu","en":"I'm leaving (and coming back)","example_ja":"じゃあ、いってきます。","example_en":"Well, I'm off."}
+{"id":75,"jp":"いってらっしゃい","kana":"いってらっしゃい","romaji":"itterasshai","en":"Have a good day (to someone leaving)","example_ja":"はい、いってらっしゃい。","example_en":"Okay, have a good day."}
+{"id":76,"jp":"ただいま","kana":"ただいま","romaji":"tadaima","en":"I'm home","example_ja":"ただいま戻りました。","example_en":"I'm back now."}
+{"id":77,"jp":"おかえりなさい","kana":"おかえりなさい","romaji":"okaerinasai","en":"Welcome back","example_ja":"おかえりなさい。早かったですね。","example_en":"Welcome back. You're early."}
+{"id":78,"jp":"お腹が空きました","kana":"おなかがすきました","romaji":"onaka ga sukimashita","en":"I'm hungry.","example_ja":"お腹が空きました。何か食べたいです。","example_en":"I'm hungry. I want to eat something."}
+{"id":79,"jp":"喉が渇きました","kana":"のどがかわきました","romaji":"nodo ga kawakimashita","en":"I'm thirsty.","example_ja":"喉が渇きました。水が飲みたいです。","example_en":"I'm thirsty. I want to drink water."}
+{"id":80,"jp":"また会いましょう","kana":"またあいましょう","romaji":"mata aimashou","en":"Let's meet again.","example_ja":"楽しかったです。また会いましょう。","example_en":"It was fun. Let's meet again."}

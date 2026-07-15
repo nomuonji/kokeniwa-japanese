@@ -1,0 +1,110 @@
+{"id":1,"jp":"案内","kana":"あんない","romaji":"annai","en":"guidance; information","example_ja":"駅で案内してもらう。","example_en":"I get directions at the station."}
+{"id":2,"jp":"受付","kana":"うけつけ","romaji":"uketsuke","en":"reception; information desk","example_ja":"受付で名前を書く。","example_en":"I write my name at the reception."}
+{"id":3,"jp":"先輩","kana":"せんぱい","romaji":"senpai","en":"senior (at school/work)","example_ja":"先輩に相談する。","example_en":"I consult a senior colleague."}
+{"id":4,"jp":"後輩","kana":"こうはい","romaji":"kouhai","en":"junior (at school/work)","example_ja":"後輩を指導する。","example_en":"I coach a junior member."}
+{"id":5,"jp":"社長","kana":"しゃちょう","romaji":"shachou","en":"company president","example_ja":"社長に報告する。","example_en":"I report to the president."}
+{"id":6,"jp":"部長","kana":"ぶちょう","romaji":"buchou","en":"department manager","example_ja":"部長の指示を聞く。","example_en":"I follow the manager's instructions."}
+{"id":7,"jp":"課長","kana":"かちょう","romaji":"kachou","en":"section chief","example_ja":"課長と打ち合わせする。","example_en":"I have a meeting with the section chief."}
+{"id":8,"jp":"約束","kana":"やくそく","romaji":"yakusoku","en":"promise; appointment","example_ja":"約束を守る。","example_en":"I keep a promise."}
+{"id":9,"jp":"残業","kana":"ざんぎょう","romaji":"zangyou","en":"overtime work","example_ja":"最近残業が多い。","example_en":"I have a lot of overtime recently."}
+{"id":10,"jp":"出張","kana":"しゅっちょう","romaji":"shucchou","en":"business trip","example_ja":"大阪へ出張する。","example_en":"I go to Osaka on business."}
+{"id":11,"jp":"引っ越す","kana":"ひっこす","romaji":"hikkosu","en":"to move (house)","example_ja":"来月引っ越す。","example_en":"I will move next month."}
+{"id":12,"jp":"規則","kana":"きそく","romaji":"kisoku","en":"rule; regulation","example_ja":"規則を守る。","example_en":"I obey the rules."}
+{"id":13,"jp":"禁止","kana":"きんし","romaji":"kinshi","en":"prohibition","example_ja":"ここは喫煙禁止だ。","example_en":"Smoking is prohibited here."}
+{"id":14,"jp":"注意","kana":"ちゅうい","romaji":"chuui","en":"caution; attention","example_ja":"走らないように注意する。","example_en":"Be careful not to run."}
+{"id":15,"jp":"支度","kana":"したく","romaji":"shitaku","en":"preparation; getting ready","example_ja":"出かける支度をする。","example_en":"I get ready to go out."}
+{"id":16,"jp":"並ぶ","kana":"ならぶ","romaji":"narabu","en":"to line up","example_ja":"人が並ぶ。","example_en":"People line up."}
+{"id":17,"jp":"並べる","kana":"ならべる","romaji":"naraberu","en":"to arrange; to line up","example_ja":"机を並べる。","example_en":"I line up the desks."}
+{"id":18,"jp":"済む","kana":"すむ","romaji":"sumu","en":"to be finished; to be settled","example_ja":"手続きが済む。","example_en":"The procedure is completed."}
+{"id":19,"jp":"済ませる","kana":"すませる","romaji":"sumaseru","en":"to finish; to get done","example_ja":"宿題を済ませる。","example_en":"I finish my homework."}
+{"id":20,"jp":"コピー","kana":"こぴー","romaji":"kopii","en":"copy","example_ja":"書類をコピーする。","example_en":"I make copies of the documents."}
+{"id":21,"jp":"伝える","kana":"つたえる","romaji":"tsutaeru","en":"to convey; to tell","example_ja":"予定を伝える。","example_en":"I tell the schedule."}
+{"id":22,"jp":"伝わる","kana":"つたわる","romaji":"tsutawaru","en":"to be conveyed","example_ja":"気持ちが伝わる。","example_en":"My feelings are conveyed."}
+{"id":23,"jp":"遅刻","kana":"ちこく","romaji":"chikoku","en":"tardiness; being late","example_ja":"会議に遅刻した。","example_en":"I was late for the meeting."}
+{"id":24,"jp":"早退","kana":"そうたい","romaji":"soutai","en":"leaving early","example_ja":"今日は早退した。","example_en":"I left early today."}
+{"id":25,"jp":"欠席","kana":"けっせき","romaji":"kesseki","en":"absence","example_ja":"授業を欠席する。","example_en":"I am absent from class."}
+{"id":26,"jp":"出席","kana":"しゅっせき","romaji":"shusseki","en":"attendance","example_ja":"会議に出席する。","example_en":"I attend the meeting."}
+{"id":27,"jp":"引き出し","kana":"ひきだし","romaji":"hikidashi","en":"drawer","example_ja":"引き出しを開ける。","example_en":"I open the drawer."}
+{"id":28,"jp":"決める","kana":"きめる","romaji":"kimeru","en":"to decide","example_ja":"予定を決める。","example_en":"I decide the schedule."}
+{"id":29,"jp":"決まる","kana":"きまる","romaji":"kimaru","en":"to be decided","example_ja":"日程が決まる。","example_en":"The date is decided."}
+{"id":30,"jp":"相談する","kana":"そうだんする","romaji":"soudan suru","en":"to consult","example_ja":"友達に相談する。","example_en":"I consult a friend."}
+{"id":31,"jp":"予算","kana":"よさん","romaji":"yosan","en":"budget","example_ja":"来年度の予算を決める。","example_en":"Decide next year's budget."}
+{"id":32,"jp":"申請","kana":"しんせい","romaji":"shinsei","en":"application (to apply)","example_ja":"パスポートを申請する。","example_en":"Apply for a passport."}
+{"id":33,"jp":"配達","kana":"はいたつ","romaji":"haitatsu","en":"delivery","example_ja":"荷物を配達してもらう。","example_en":"Have my package delivered."}
+{"id":34,"jp":"到着","kana":"とうちゃく","romaji":"touchaku","en":"arrival","example_ja":"飛行機は10時に到着する。","example_en":"The plane arrives at 10."}
+{"id":35,"jp":"出発","kana":"しゅっぱつ","romaji":"shuppatsu","en":"departure","example_ja":"東京を出発する。","example_en":"Depart from Tokyo."}
+{"id":36,"jp":"変更","kana":"へんこう","romaji":"henkou","en":"change; modification","example_ja":"予定を変更する。","example_en":"Change the schedule."}
+{"id":37,"jp":"連絡先","kana":"れんらくさき","romaji":"renrakusaki","en":"contact information","example_ja":"連絡先を教えてください。","example_en":"Please tell me your contact information."}
+{"id":38,"jp":"署名","kana":"しょめい","romaji":"shomei","en":"signature","example_ja":"書類に署名する。","example_en":"Sign the document."}
+{"id":39,"jp":"印鑑","kana":"いんかん","romaji":"inkan","en":"seal; stamp","example_ja":"印鑑が必要です。","example_en":"A personal seal is required."}
+{"id":40,"jp":"両替","kana":"りょうがえ","romaji":"ryougae","en":"currency exchange","example_ja":"空港で両替する。","example_en":"Exchange money at the airport."}
+{"id":41,"jp":"保証","kana":"ほしょう","romaji":"hoshou","en":"guarantee; warranty","example_ja":"保証期間は一年です。","example_en":"The warranty period is one year."}
+{"id":42,"jp":"修理","kana":"しゅうり","romaji":"shuuri","en":"repair","example_ja":"スマホを修理に出す。","example_en":"Send my phone for repair."}
+{"id":43,"jp":"返品","kana":"へんぴん","romaji":"henpin","en":"return (goods)","example_ja":"不良品を返品する。","example_en":"Return a defective product."}
+{"id":44,"jp":"交換","kana":"こうかん","romaji":"koukan","en":"exchange","example_ja":"サイズを交換する。","example_en":"Exchange for a different size."}
+{"id":45,"jp":"予約席","kana":"よやくせき","romaji":"yoyakuseki","en":"reserved seat","example_ja":"予約席に座る。","example_en":"Sit in a reserved seat."}
+{"id":46,"jp":"自由席","kana":"じゆうせき","romaji":"jiyuuseki","en":"non-reserved seat","example_ja":"自由席を利用する。","example_en":"Use a non-reserved seat."}
+{"id":47,"jp":"乗車券","kana":"じょうしゃけん","romaji":"joushaken","en":"boarding ticket","example_ja":"乗車券を買う。","example_en":"Buy a boarding ticket."}
+{"id":48,"jp":"精算","kana":"せいさん","romaji":"seisan","en":"adjustment; settlement","example_ja":"運賃を精算する。","example_en":"Settle the fare difference."}
+{"id":49,"jp":"遅延","kana":"ちえん","romaji":"chien","en":"delay","example_ja":"電車が遅延している。","example_en":"The train is delayed."}
+{"id":50,"jp":"振替","kana":"ふりかえ","romaji":"furikae","en":"substitution; alternative service","example_ja":"振替輸送を利用する。","example_en":"Use alternative transportation."}
+{"id":51,"jp":"連休","kana":"れんきゅう","romaji":"renkyuu","en":"consecutive holidays","example_ja":"連休に旅行する。","example_en":"Travel during the holidays."}
+{"id":52,"jp":"定休日","kana":"ていきゅうび","romaji":"teikyuubi","en":"regular holiday (shop)","example_ja":"水曜日は定休日です。","example_en":"We are closed on Wednesdays."}
+{"id":53,"jp":"営業中","kana":"えいぎょうちゅう","romaji":"eigyouchuu","en":"open for business","example_ja":"今は営業中です。","example_en":"We are open now."}
+{"id":54,"jp":"満席","kana":"まんせき","romaji":"manseki","en":"full; no seats","example_ja":"本日は満席です。","example_en":"We are fully booked today."}
+{"id":55,"jp":"空席","kana":"くうせき","romaji":"kuuseki","en":"available seat","example_ja":"空席があります。","example_en":"There are available seats."}
+{"id":56,"jp":"受付中","kana":"うけつけちゅう","romaji":"uketsukechuu","en":"accepting (applications)","example_ja":"ただいま受付中です。","example_en":"We are now accepting applications."}
+{"id":57,"jp":"締切","kana":"しめきり","romaji":"shimekiri","en":"deadline","example_ja":"締切は金曜日です。","example_en":"The deadline is Friday."}
+{"id":58,"jp":"期間","kana":"きかん","romaji":"kikan","en":"period; term","example_ja":"キャンペーン期間中です。","example_en":"It's during the campaign period."}
+{"id":59,"jp":"期限","kana":"きげん","romaji":"kigen","en":"due date; expiration","example_ja":"有効期限を確認する。","example_en":"Check the expiration date."}
+{"id":60,"jp":"延長","kana":"えんちょう","romaji":"enchou","en":"extension","example_ja":"滞在を延長する。","example_en":"Extend the stay."}
+{"id":61,"jp":"短縮","kana":"たんしゅく","romaji":"tanshuku","en":"shortening; reduction","example_ja":"時間を短縮する。","example_en":"Shorten the time."}
+{"id":62,"jp":"案内所","kana":"あんないじょ","romaji":"annaijo","en":"information desk","example_ja":"案内所で聞く。","example_en":"Ask at the information desk."}
+{"id":63,"jp":"窓口","kana":"まどぐち","romaji":"madoguchi","en":"service counter","example_ja":"窓口で手続きする。","example_en":"Do the procedure at the counter."}
+{"id":64,"jp":"手数料","kana":"てすうりょう","romaji":"tesuuryou","en":"handling fee","example_ja":"手数料がかかる。","example_en":"A handling fee is charged."}
+{"id":65,"jp":"合計","kana":"ごうけい","romaji":"goukei","en":"total","example_ja":"合計は5,000円です。","example_en":"The total is 5,000 yen."}
+{"id":66,"jp":"小計","kana":"しょうけい","romaji":"shoukei","en":"subtotal","example_ja":"小計を確認する。","example_en":"Check the subtotal."}
+{"id":67,"jp":"税込","kana":"ぜいこみ","romaji":"zeikomi","en":"tax included","example_ja":"税込価格です。","example_en":"The price includes tax."}
+{"id":68,"jp":"税別","kana":"ぜいべつ","romaji":"zeibetsu","en":"tax excluded","example_ja":"税別価格です。","example_en":"The price excludes tax."}
+{"id":69,"jp":"帳票","kana":"ちょうひょう","romaji":"chouhyou","en":"form; report","example_ja":"帳票を印刷する。","example_en":"Print the form."}
+{"id":70,"jp":"書類","kana":"しょるい","romaji":"shorui","en":"documents","example_ja":"書類を提出する。","example_en":"Submit the documents."}
+{"id":71,"jp":"届出","kana":"とどけで","romaji":"todokede","en":"notification; report","example_ja":"住所変更の届出をする。","example_en":"File a change-of-address notice."}
+{"id":72,"jp":"申込書","kana":"もうしこみしょ","romaji":"moushikomi sho","en":"application form","example_ja":"申込書を記入する。","example_en":"Fill out the application form."}
+{"id":73,"jp":"見積書","kana":"みつもりしょ","romaji":"mitsumori sho","en":"quotation","example_ja":"見積書を作成する。","example_en":"Prepare a quotation."}
+{"id":74,"jp":"請求書","kana":"せいきゅうしょ","romaji":"seikyuusho","en":"invoice","example_ja":"請求書を送る。","example_en":"Send the invoice."}
+{"id":75,"jp":"領収書","kana":"りょうしゅうしょ","romaji":"ryoushuusho","en":"receipt","example_ja":"領収書をください。","example_en":"Please give me a receipt."}
+{"id":76,"jp":"契約書","kana":"けいやくしょ","romaji":"keiyakusho","en":"contract (document)","example_ja":"契約書に署名する。","example_en":"Sign the contract."}
+{"id":77,"jp":"契約","kana":"けいやく","romaji":"keiyaku","en":"contract","example_ja":"契約を更新する。","example_en":"Renew the contract."}
+{"id":78,"jp":"解約","kana":"かいやく","romaji":"kaiyaku","en":"cancellation (contract)","example_ja":"契約を解約する。","example_en":"Cancel the contract."}
+{"id":79,"jp":"更新","kana":"こうしん","romaji":"koushin","en":"renewal; update","example_ja":"パスポートを更新する。","example_en":"Renew my passport."}
+{"id":80,"jp":"変更届","kana":"へんこうとどけ","romaji":"henkou todoke","en":"change notice","example_ja":"変更届を提出する。","example_en":"Submit a change notice."}
+{"id":81,"jp":"住所変更","kana":"じゅうしょへんこう","romaji":"juusho henkou","en":"address change","example_ja":"住所変更を行う。","example_en":"Make an address change."}
+{"id":82,"jp":"氏名変更","kana":"しめいへんこう","romaji":"shimei henkou","en":"name change","example_ja":"氏名変更の手続き。","example_en":"Name change procedure."}
+{"id":83,"jp":"口座","kana":"こうざ","romaji":"kouza","en":"bank account","example_ja":"口座を開設する。","example_en":"Open a bank account."}
+{"id":84,"jp":"振込","kana":"ふりこみ","romaji":"furikomi","en":"bank transfer","example_ja":"代金を振込する。","example_en":"Pay by bank transfer."}
+{"id":85,"jp":"引き落とし","kana":"ひきおとし","romaji":"hikiotoshi","en":"automatic debit","example_ja":"料金は引き落としです。","example_en":"The fee is paid by automatic debit."}
+{"id":86,"jp":"残高","kana":"ざんだか","romaji":"zandaka","en":"balance","example_ja":"残高を確認する。","example_en":"Check the balance."}
+{"id":87,"jp":"明細","kana":"めいさい","romaji":"meisai","en":"statement; details","example_ja":"明細を発行する。","example_en":"Issue a statement."}
+{"id":88,"jp":"暗証番号","kana":"あんしょうばんごう","romaji":"anshou bangou","en":"PIN; password","example_ja":"暗証番号を入力する。","example_en":"Enter your PIN."}
+{"id":89,"jp":"身分証","kana":"みぶんしょう","romaji":"mibunshou","en":"ID card","example_ja":"身分証を提示する。","example_en":"Show your ID."}
+{"id":90,"jp":"本人確認","kana":"ほんにんかくにん","romaji":"honnin kakunin","en":"identity verification","example_ja":"本人確認が必要です。","example_en":"ID verification is required."}
+{"id":91,"jp":"予約番号","kana":"よやくばんごう","romaji":"yoyaku bangou","en":"reservation number","example_ja":"予約番号を教える。","example_en":"Tell the reservation number."}
+{"id":92,"jp":"問い合わせ","kana":"といあわせ","romaji":"toiawase","en":"inquiry","example_ja":"問い合わせに対応する。","example_en":"Respond to inquiries."}
+{"id":93,"jp":"折り返し","kana":"おりかえし","romaji":"orikaeshi","en":"call back; return","example_ja":"折り返し電話します。","example_en":"I'll call you back."}
+{"id":94,"jp":"不在","kana":"ふざい","romaji":"fuzai","en":"absence; not at home","example_ja":"不在のため受け取れなかった。","example_en":"I couldn't receive it because I was out."}
+{"id":95,"jp":"在庫","kana":"ざいこ","romaji":"zaiko","en":"stock; inventory","example_ja":"在庫を確認する。","example_en":"Check the stock."}
+{"id":96,"jp":"入荷","kana":"にゅうか","romaji":"nyuuka","en":"arrival of goods","example_ja":"新商品が入荷した。","example_en":"New products have arrived."}
+{"id":97,"jp":"欠品","kana":"けっぴん","romaji":"keppin","en":"out of stock","example_ja":"人気商品が欠品中だ。","example_en":"The popular item is out of stock."}
+{"id":98,"jp":"取扱い","kana":"とりあつかい","romaji":"toriatsukai","en":"handling","example_ja":"取扱いに注意する。","example_en":"Handle with care."}
+{"id":99,"jp":"禁止事項","kana":"きんしじこう","romaji":"kinshi jikou","en":"prohibited items","example_ja":"禁止事項を守る。","example_en":"Follow the prohibited items list."}
+{"id":100,"jp":"注意事項","kana":"ちゅういじこう","romaji":"chuui jikou","en":"points to note","example_ja":"注意事項をよく読む。","example_en":"Read the notes carefully."}
+{"id":101,"jp":"意見","kana":"いけん","romaji":"iken","en":"opinion","example_ja":"彼の意見に賛成です。","example_en":"I agree with his opinion."}
+{"id":102,"jp":"経験","kana":"けいけん","romaji":"keiken","en":"experience","example_ja":"海外で働いた経験があります。","example_en":"I have experience working abroad."}
+{"id":103,"jp":"文化","kana":"ぶんか","romaji":"bunka","en":"culture","example_ja":"日本の文化に興味があります。","example_en":"I am interested in Japanese culture."}
+{"id":104,"jp":"社会","kana":"しゃかい","romaji":"shakai","en":"society","example_ja":"社会の問題について考えます。","example_en":"I think about social problems."}
+{"id":105,"jp":"法律","kana":"ほうりつ","romaji":"houritsu","en":"law","example_ja":"法律を守らなければなりません。","example_en":"You must obey the law."}
+{"id":106,"jp":"経済","kana":"けいざい","romaji":"keizai","en":"economy","example_ja":"日本の経済は安定しています。","example_en":"The Japanese economy is stable."}
+{"id":107,"jp":"政治","kana":"せいじ","romaji":"seiji","en":"politics","example_ja":"彼は政治家になりたいです。","example_en":"He wants to be a politician."}
+{"id":108,"jp":"理由","kana":"りゆう","romaji":"riyuu","en":"reason","example_ja":"遅刻した理由を説明してください。","example_en":"Please explain the reason for being late."}
+{"id":109,"jp":"原因","kana":"げんいん","romaji":"gen'in","en":"cause","example_ja":"事故の原因を調べています。","example_en":"They are investigating the cause of the accident."}
+{"id":110,"jp":"結果","kana":"けっか","romaji":"kekka","en":"result","example_ja":"テストの結果が心配です。","example_en":"I am worried about the test results."}

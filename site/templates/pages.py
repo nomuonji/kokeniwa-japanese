@@ -1,0 +1,109 @@
+"""Home, About, and 404 pages."""
+from lib import config
+from lib.render import esc
+from templates import layout
+from templates import vocab as vocab_tpl
+
+
+def render_home(cfg, *, counts, articles):
+    total = sum(counts[k] for k in config.PUBLIC_SETS)
+
+    level_cards = []
+    for set_key in config.LEVEL_SETS:
+        vset = config.VOCAB_SETS[set_key]
+        level_cards.append(
+            f'<a class="card card-jp" href="{vocab_tpl.set_url(set_key)}">'
+            f'<span class="card-icon">{vset["icon"]}</span>'
+            f'<h2>{esc(vset["title"])}</h2><p>{esc(vset["description"])}</p>'
+            f'<div class="card-meta">{counts[set_key]} cards · tap to flip</div></a>')
+
+    latest = ""
+    if articles:
+        items = "".join(
+            f'<a class="list-item" href="/blog/{a["slug"]}/">'
+            f'<h3>{esc(a["title"])}</h3>'
+            f'<span class="article-date">{esc(a["date"])}</span></a>'
+            for a in articles[:3])
+        latest = f"""
+<div class="section-head"><h2>From the blog</h2><a class="more" href="/blog/">See all →</a></div>
+<div class="article-list">{items}</div>"""
+
+    content = f"""
+<section class="hero">
+  <h1>{esc(cfg["tagline"])}</h1>
+  <p>{esc(cfg["description"])}</p>
+</section>
+
+<div class="section-head"><h2>JLPT vocabulary by level</h2><a class="more" href="/vocab/">All sets →</a></div>
+<div class="card-grid">{"".join(level_cards)}</div>
+
+<div class="section-head"><h2>Everyday Japanese</h2></div>
+<div class="card-grid">
+  <a class="card card-jp" href="/vocab/phrases/">
+    <span class="card-icon">💬</span>
+    <h2>Survival Phrases</h2>
+    <p>Greetings, requests and essentials for travel and daily life in Japan.</p>
+    <div class="card-meta">{counts["phrases"]} cards · tap to flip</div>
+  </a>
+</div>
+
+{latest}
+"""
+    jsonld = {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": cfg["site_name"],
+        "description": cfg["description"],
+        "url": cfg["base_url"] + "/",
+        "inLanguage": "en",
+    }
+    return layout.page(
+        cfg, title=cfg["site_name"], description=cfg["description"],
+        path="/", content=content, jsonld=jsonld)
+
+
+def render_about(cfg):
+    content = """
+<h1>About</h1>
+<p class="lead">A free, no-frills place to drill Japanese vocabulary for English speakers.
+Everything is a simple flashcard: tap to flip between the Japanese word and its
+English meaning and reading.</p>
+
+<h2>How it works</h2>
+<p>Pick a JLPT level (N5 is the easiest, N1 the hardest) or the phrases set.
+Each page shows every word as a card. Tap a card to reveal the meaning, kana reading
+and romaji. Use “Show all meanings” to flip the whole set at once for a quick review.</p>
+
+<h2>What’s inside</h2>
+<ul>
+  <li><strong>JLPT N5–N1 vocabulary</strong> — graded by difficulty.</li>
+  <li><strong>Survival phrases</strong> — practical set phrases for daily life.</li>
+</ul>
+
+<h2>Readings and romaji</h2>
+<p>Every card shows the kana reading and Hepburn romaji, so you can study even before
+you are fully comfortable with kanji.</p>
+"""
+    return layout.page(
+        cfg, title="About",
+        description="About this free Japanese vocabulary flashcard site for English speakers.",
+        path="/about/", content=content,
+        breadcrumbs=[("/about/", "About")], active_nav="/about/")
+
+
+def render_404(cfg):
+    content = """
+<section class="hero">
+<h1>Page not found</h1>
+<p>The page you’re looking for may have moved or no longer exists.</p>
+</section>
+<div class="card-grid">
+  <a class="card" href="/"><h3>Home</h3><p>Start from the top</p></a>
+  <a class="card" href="/vocab/"><h3>Vocabulary</h3><p>Browse all flashcard sets</p></a>
+  <a class="card" href="/vocab/n5/"><h3>JLPT N5</h3><p>Begin with the basics</p></a>
+</div>
+"""
+    return layout.page(
+        cfg, title="404 Not Found",
+        description="Page not found.",
+        path="/404.html", content=content)
