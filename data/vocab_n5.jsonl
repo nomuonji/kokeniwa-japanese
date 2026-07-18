@@ -108,3 +108,696 @@
 {"id":108,"jp":"時","kana":"とき","romaji":"toki","en":"time; when","example_ja":"子供の時、よく外で遊びました。","example_en":"When I was a child, I often played outside."}
 {"id":109,"jp":"分","kana":"ふん","romaji":"fun","en":"minute","example_ja":"あと5分で着きます。","example_en":"I will arrive in 5 minutes."}
 {"id":110,"jp":"半","kana":"はん","romaji":"han","en":"half","example_ja":"今、9時半です。","example_en":"It's half past nine now."}
+{"id": 111, "jp": "一つ", "kana": "ひとつ", "romaji": "hitotsu", "en": "one (thing)", "pos": "noun", "example_ja": "りんごを一つください。", "example_en": "One apple, please."}
+{"id": 112, "jp": "二つ", "kana": "ふたつ", "romaji": "futatsu", "en": "two (things)", "pos": "noun", "example_ja": "椅子が二つあります。", "example_en": "There are two chairs."}
+{"id": 113, "jp": "三つ", "kana": "みっつ", "romaji": "mittsu", "en": "three (things)", "pos": "noun", "example_ja": "質問が三つあります。", "example_en": "I have three questions."}
+{"id": 114, "jp": "四つ", "kana": "よっつ", "romaji": "yottsu", "en": "four (things)", "pos": "noun", "example_ja": "箱を四つ運びました。", "example_en": "I carried four boxes."}
+{"id": 115, "jp": "五つ", "kana": "いつつ", "romaji": "itsutsu", "en": "five (things)", "pos": "noun", "example_ja": "星が五つ見えます。", "example_en": "I can see five stars."}
+{"id": 116, "jp": "六つ", "kana": "むっつ", "romaji": "muttsu", "en": "six (things)", "pos": "noun", "example_ja": "卵を六つ買いました。", "example_en": "I bought six eggs."}
+{"id": 117, "jp": "七つ", "kana": "ななつ", "romaji": "nanatsu", "en": "seven (things)", "pos": "noun", "example_ja": "七つの言葉を覚えました。", "example_en": "I memorized seven words."}
+{"id": 118, "jp": "八つ", "kana": "やっつ", "romaji": "yattsu", "en": "eight (things)", "pos": "noun", "example_ja": "お皿が八つあります。", "example_en": "There are eight plates."}
+{"id": 119, "jp": "九つ", "kana": "ここのつ", "romaji": "kokonotsu", "en": "nine (things)", "pos": "noun", "example_ja": "九つの町を旅しました。", "example_en": "I traveled through nine towns."}
+{"id": 120, "jp": "十", "kana": "とお", "romaji": "too", "en": "ten (things)", "pos": "noun", "example_ja": "みかんが十あります。", "example_en": "There are ten mandarins."}
+{"id": 121, "jp": "百", "kana": "ひゃく", "romaji": "hyaku", "en": "hundred", "pos": "noun", "example_ja": "百円のお菓子を買いました。", "example_en": "I bought a 100-yen snack."}
+{"id": 122, "jp": "千", "kana": "せん", "romaji": "sen", "en": "thousand", "pos": "noun", "example_ja": "千円札を出しました。", "example_en": "I handed over a 1,000-yen bill."}
+{"id": 123, "jp": "万", "kana": "まん", "romaji": "man", "en": "ten thousand", "pos": "noun", "example_ja": "一万円を銀行に入れました。", "example_en": "I put 10,000 yen in the bank."}
+{"id": 124, "jp": "円", "kana": "えん", "romaji": "en", "en": "yen", "pos": "counter", "example_ja": "このパンは二百円です。", "example_en": "This bread is 200 yen."}
+{"id": 125, "jp": "歳", "kana": "さい", "romaji": "sai", "en": "years old (counter)", "pos": "counter", "example_ja": "弟は十歳です。", "example_en": "My little brother is ten years old."}
+{"id": 126, "jp": "番", "kana": "ばん", "romaji": "ban", "en": "number (in a series)", "pos": "counter", "example_ja": "三番の窓口へ行ってください。", "example_en": "Please go to window number three."}
+{"id": 127, "jp": "回", "kana": "かい", "romaji": "kai", "en": "times (occurrences)", "pos": "counter", "example_ja": "週に二回ジムに行きます。", "example_en": "I go to the gym twice a week."}
+{"id": 128, "jp": "階", "kana": "かい", "romaji": "kai", "en": "floor (of a building)", "pos": "counter", "example_ja": "本屋は三階にあります。", "example_en": "The bookstore is on the third floor."}
+{"id": 129, "jp": "個", "kana": "こ", "romaji": "ko", "en": "piece (small object counter)", "pos": "counter", "example_ja": "ケーキを二個食べました。", "example_en": "I ate two pieces of cake."}
+{"id": 130, "jp": "枚", "kana": "まい", "romaji": "mai", "en": "sheet (flat object counter)", "pos": "counter", "example_ja": "紙を三枚ください。", "example_en": "Please give me three sheets of paper."}
+{"id": 131, "jp": "冊", "kana": "さつ", "romaji": "satsu", "en": "volume (book counter)", "pos": "counter", "example_ja": "本を二冊借りました。", "example_en": "I borrowed two books."}
+{"id": 132, "jp": "台", "kana": "だい", "romaji": "dai", "en": "machine/vehicle counter", "pos": "counter", "example_ja": "車が二台あります。", "example_en": "We have two cars."}
+{"id": 133, "jp": "匹", "kana": "ひき", "romaji": "hiki", "en": "small animal counter", "pos": "counter", "example_ja": "猫を二匹飼っています。", "example_en": "I have two cats."}
+{"id": 134, "jp": "杯", "kana": "はい", "romaji": "hai", "en": "cup/glass counter", "pos": "counter", "example_ja": "コーヒーを一杯飲みました。", "example_en": "I drank a cup of coffee."}
+{"id": 135, "jp": "月曜日", "kana": "げつようび", "romaji": "getsuyoubi", "en": "Monday", "pos": "noun", "example_ja": "月曜日に会議があります。", "example_en": "There is a meeting on Monday."}
+{"id": 136, "jp": "火曜日", "kana": "かようび", "romaji": "kayoubi", "en": "Tuesday", "pos": "noun", "example_ja": "火曜日は忙しいです。", "example_en": "I am busy on Tuesdays."}
+{"id": 137, "jp": "水曜日", "kana": "すいようび", "romaji": "suiyoubi", "en": "Wednesday", "pos": "noun", "example_ja": "水曜日に映画を見ます。", "example_en": "I watch a movie on Wednesday."}
+{"id": 138, "jp": "木曜日", "kana": "もくようび", "romaji": "mokuyoubi", "en": "Thursday", "pos": "noun", "example_ja": "木曜日にテストがあります。", "example_en": "There is a test on Thursday."}
+{"id": 139, "jp": "金曜日", "kana": "きんようび", "romaji": "kinyoubi", "en": "Friday", "pos": "noun", "example_ja": "金曜日の夜は楽しいです。", "example_en": "Friday nights are fun."}
+{"id": 140, "jp": "土曜日", "kana": "どようび", "romaji": "doyoubi", "en": "Saturday", "pos": "noun", "example_ja": "土曜日に買い物をします。", "example_en": "I go shopping on Saturday."}
+{"id": 141, "jp": "日曜日", "kana": "にちようび", "romaji": "nichiyoubi", "en": "Sunday", "pos": "noun", "example_ja": "日曜日は家で休みます。", "example_en": "I rest at home on Sunday."}
+{"id": 142, "jp": "週", "kana": "しゅう", "romaji": "shuu", "en": "week", "pos": "noun", "example_ja": "今週は雨が多いです。", "example_en": "It has rained a lot this week."}
+{"id": 143, "jp": "先週", "kana": "せんしゅう", "romaji": "senshuu", "en": "last week", "pos": "noun", "example_ja": "先週、京都へ行きました。", "example_en": "I went to Kyoto last week."}
+{"id": 144, "jp": "来週", "kana": "らいしゅう", "romaji": "raishuu", "en": "next week", "pos": "noun", "example_ja": "来週、友達が来ます。", "example_en": "My friend is coming next week."}
+{"id": 145, "jp": "毎日", "kana": "まいにち", "romaji": "mainichi", "en": "every day", "pos": "noun", "example_ja": "毎日、日本語を勉強します。", "example_en": "I study Japanese every day."}
+{"id": 146, "jp": "毎週", "kana": "まいしゅう", "romaji": "maishuu", "en": "every week", "pos": "noun", "example_ja": "毎週、プールで泳ぎます。", "example_en": "I swim at the pool every week."}
+{"id": 147, "jp": "毎朝", "kana": "まいあさ", "romaji": "maiasa", "en": "every morning", "pos": "noun", "example_ja": "毎朝、コーヒーを飲みます。", "example_en": "I drink coffee every morning."}
+{"id": 148, "jp": "毎晩", "kana": "まいばん", "romaji": "maiban", "en": "every night", "pos": "noun", "example_ja": "毎晩、本を読みます。", "example_en": "I read a book every night."}
+{"id": 149, "jp": "午前", "kana": "ごぜん", "romaji": "gozen", "en": "a.m.; morning", "pos": "noun", "example_ja": "午前九時に始まります。", "example_en": "It starts at 9 a.m."}
+{"id": 150, "jp": "午後", "kana": "ごご", "romaji": "gogo", "en": "p.m.; afternoon", "pos": "noun", "example_ja": "午後から雨が降ります。", "example_en": "It will rain from the afternoon."}
+{"id": 151, "jp": "夜", "kana": "よる", "romaji": "yoru", "en": "night", "pos": "noun", "example_ja": "夜は静かです。", "example_en": "It is quiet at night."}
+{"id": 152, "jp": "夕方", "kana": "ゆうがた", "romaji": "yuugata", "en": "evening", "pos": "noun", "example_ja": "夕方に散歩します。", "example_en": "I take a walk in the evening."}
+{"id": 153, "jp": "今年", "kana": "ことし", "romaji": "kotoshi", "en": "this year", "pos": "noun", "example_ja": "今年、日本へ行きます。", "example_en": "I am going to Japan this year."}
+{"id": 154, "jp": "去年", "kana": "きょねん", "romaji": "kyonen", "en": "last year", "pos": "noun", "example_ja": "去年、結婚しました。", "example_en": "I got married last year."}
+{"id": 155, "jp": "来年", "kana": "らいねん", "romaji": "rainen", "en": "next year", "pos": "noun", "example_ja": "来年、大学に入ります。", "example_en": "I will enter university next year."}
+{"id": 156, "jp": "今月", "kana": "こんげつ", "romaji": "kongetsu", "en": "this month", "pos": "noun", "example_ja": "今月は忙しいです。", "example_en": "I am busy this month."}
+{"id": 157, "jp": "先月", "kana": "せんげつ", "romaji": "sengetsu", "en": "last month", "pos": "noun", "example_ja": "先月、引っ越しました。", "example_en": "I moved last month."}
+{"id": 158, "jp": "来月", "kana": "らいげつ", "romaji": "raigetsu", "en": "next month", "pos": "noun", "example_ja": "来月、試験があります。", "example_en": "There is an exam next month."}
+{"id": 159, "jp": "誕生日", "kana": "たんじょうび", "romaji": "tanjoubi", "en": "birthday", "pos": "noun", "example_ja": "明日は母の誕生日です。", "example_en": "Tomorrow is my mother's birthday."}
+{"id": 160, "jp": "休み", "kana": "やすみ", "romaji": "yasumi", "en": "holiday; day off", "pos": "noun", "example_ja": "日曜日は休みです。", "example_en": "Sunday is my day off."}
+{"id": 161, "jp": "ご飯", "kana": "ごはん", "romaji": "gohan", "en": "rice; meal", "pos": "noun", "example_ja": "朝ご飯を食べましたか。", "example_en": "Did you eat breakfast?"}
+{"id": 162, "jp": "パン", "kana": "パン", "romaji": "pan", "en": "bread", "pos": "noun", "example_ja": "毎朝パンを食べます。", "example_en": "I eat bread every morning."}
+{"id": 163, "jp": "肉", "kana": "にく", "romaji": "niku", "en": "meat", "pos": "noun", "example_ja": "肉と野菜を買いました。", "example_en": "I bought meat and vegetables."}
+{"id": 164, "jp": "魚", "kana": "さかな", "romaji": "sakana", "en": "fish", "pos": "noun", "example_ja": "日本の魚はおいしいです。", "example_en": "Japanese fish is delicious."}
+{"id": 165, "jp": "卵", "kana": "たまご", "romaji": "tamago", "en": "egg", "pos": "noun", "example_ja": "卵を三つ使います。", "example_en": "I use three eggs."}
+{"id": 166, "jp": "野菜", "kana": "やさい", "romaji": "yasai", "en": "vegetable", "pos": "noun", "example_ja": "野菜をたくさん食べてください。", "example_en": "Please eat lots of vegetables."}
+{"id": 167, "jp": "果物", "kana": "くだもの", "romaji": "kudamono", "en": "fruit", "pos": "noun", "example_ja": "果物の中でりんごが一番好きです。", "example_en": "Among fruits, I like apples best."}
+{"id": 168, "jp": "水", "kana": "みず", "romaji": "mizu", "en": "water", "pos": "noun", "example_ja": "水を一杯ください。", "example_en": "A glass of water, please."}
+{"id": 169, "jp": "お茶", "kana": "おちゃ", "romaji": "ocha", "en": "tea; green tea", "pos": "noun", "example_ja": "お茶を飲みませんか。", "example_en": "Would you like some tea?"}
+{"id": 170, "jp": "コーヒー", "kana": "コーヒー", "romaji": "koohii", "en": "coffee", "pos": "noun", "example_ja": "コーヒーに砂糖を入れますか。", "example_en": "Do you put sugar in your coffee?"}
+{"id": 171, "jp": "牛乳", "kana": "ぎゅうにゅう", "romaji": "gyuunyuu", "en": "milk", "pos": "noun", "example_ja": "毎日牛乳を飲みます。", "example_en": "I drink milk every day."}
+{"id": 172, "jp": "お酒", "kana": "おさけ", "romaji": "osake", "en": "alcohol; sake", "pos": "noun", "example_ja": "お酒はあまり飲みません。", "example_en": "I don't drink alcohol very often."}
+{"id": 173, "jp": "料理", "kana": "りょうり", "romaji": "ryouri", "en": "cooking; dish", "pos": "noun", "example_ja": "母の料理が大好きです。", "example_en": "I love my mother's cooking."}
+{"id": 174, "jp": "朝ご飯", "kana": "あさごはん", "romaji": "asagohan", "en": "breakfast", "pos": "noun", "example_ja": "朝ご飯は七時に食べます。", "example_en": "I eat breakfast at seven."}
+{"id": 175, "jp": "昼ご飯", "kana": "ひるごはん", "romaji": "hirugohan", "en": "lunch", "pos": "noun", "example_ja": "昼ご飯は何にしますか。", "example_en": "What will you have for lunch?"}
+{"id": 176, "jp": "晩ご飯", "kana": "ばんごはん", "romaji": "bangohan", "en": "dinner", "pos": "noun", "example_ja": "晩ご飯を一緒に食べましょう。", "example_en": "Let's have dinner together."}
+{"id": 177, "jp": "お弁当", "kana": "おべんとう", "romaji": "obentou", "en": "boxed lunch", "pos": "noun", "example_ja": "駅でお弁当を買いました。", "example_en": "I bought a boxed lunch at the station."}
+{"id": 178, "jp": "塩", "kana": "しお", "romaji": "shio", "en": "salt", "pos": "noun", "example_ja": "塩を少し入れてください。", "example_en": "Please add a little salt."}
+{"id": 179, "jp": "砂糖", "kana": "さとう", "romaji": "satou", "en": "sugar", "pos": "noun", "example_ja": "砂糖は要りません。", "example_en": "I don't need sugar."}
+{"id": 180, "jp": "醤油", "kana": "しょうゆ", "romaji": "shouyu", "en": "soy sauce", "pos": "noun", "example_ja": "醤油を取ってください。", "example_en": "Please pass the soy sauce."}
+{"id": 181, "jp": "りんご", "kana": "りんご", "romaji": "ringo", "en": "apple", "pos": "noun", "example_ja": "赤いりんごを買いました。", "example_en": "I bought a red apple."}
+{"id": 182, "jp": "みかん", "kana": "みかん", "romaji": "mikan", "en": "mandarin orange", "pos": "noun", "example_ja": "冬はみかんをよく食べます。", "example_en": "I often eat mandarins in winter."}
+{"id": 183, "jp": "バナナ", "kana": "バナナ", "romaji": "banana", "en": "banana", "pos": "noun", "example_ja": "朝はバナナを食べます。", "example_en": "I eat a banana in the morning."}
+{"id": 184, "jp": "お菓子", "kana": "おかし", "romaji": "okashi", "en": "sweets; snacks", "pos": "noun", "example_ja": "子供にお菓子をあげました。", "example_en": "I gave the child some sweets."}
+{"id": 185, "jp": "ケーキ", "kana": "ケーキ", "romaji": "keeki", "en": "cake", "pos": "noun", "example_ja": "誕生日にケーキを作ります。", "example_en": "I make a cake for birthdays."}
+{"id": 186, "jp": "アイスクリーム", "kana": "アイスクリーム", "romaji": "aisukuriimu", "en": "ice cream", "pos": "noun", "example_ja": "夏はアイスクリームが食べたいです。", "example_en": "In summer I want to eat ice cream."}
+{"id": 187, "jp": "ジュース", "kana": "ジュース", "romaji": "juusu", "en": "juice", "pos": "noun", "example_ja": "オレンジジュースをください。", "example_en": "Orange juice, please."}
+{"id": 188, "jp": "ビール", "kana": "ビール", "romaji": "biiru", "en": "beer", "pos": "noun", "example_ja": "父はビールが好きです。", "example_en": "My father likes beer."}
+{"id": 189, "jp": "ワイン", "kana": "ワイン", "romaji": "wain", "en": "wine", "pos": "noun", "example_ja": "赤ワインを一本買いました。", "example_en": "I bought a bottle of red wine."}
+{"id": 190, "jp": "レストラン", "kana": "レストラン", "romaji": "resutoran", "en": "restaurant", "pos": "noun", "example_ja": "駅前のレストランで食べました。", "example_en": "We ate at the restaurant in front of the station."}
+{"id": 191, "jp": "喫茶店", "kana": "きっさてん", "romaji": "kissaten", "en": "coffee shop; café", "pos": "noun", "example_ja": "喫茶店で友達と話しました。", "example_en": "I talked with a friend at a café."}
+{"id": 192, "jp": "食堂", "kana": "しょくどう", "romaji": "shokudou", "en": "cafeteria; dining hall", "pos": "noun", "example_ja": "大学の食堂は安いです。", "example_en": "The university cafeteria is cheap."}
+{"id": 193, "jp": "メニュー", "kana": "メニュー", "romaji": "menyuu", "en": "menu", "pos": "noun", "example_ja": "メニューを見せてください。", "example_en": "Please show me the menu."}
+{"id": 194, "jp": "箸", "kana": "はし", "romaji": "hashi", "en": "chopsticks", "pos": "noun", "example_ja": "箸で魚を食べます。", "example_en": "I eat fish with chopsticks."}
+{"id": 195, "jp": "皿", "kana": "さら", "romaji": "sara", "en": "plate; dish", "pos": "noun", "example_ja": "皿を洗ってください。", "example_en": "Please wash the dishes."}
+{"id": 196, "jp": "コップ", "kana": "コップ", "romaji": "koppu", "en": "glass; cup", "pos": "noun", "example_ja": "コップに水を入れました。", "example_en": "I poured water into the glass."}
+{"id": 197, "jp": "茶碗", "kana": "ちゃわん", "romaji": "chawan", "en": "rice bowl; teacup", "pos": "noun", "example_ja": "茶碗にご飯をよそいます。", "example_en": "I serve rice into the bowl."}
+{"id": 198, "jp": "味", "kana": "あじ", "romaji": "aji", "en": "taste; flavor", "pos": "noun", "example_ja": "このスープは味が薄いです。", "example_en": "This soup has a mild flavor."}
+{"id": 199, "jp": "甘い", "kana": "あまい", "romaji": "amai", "en": "sweet", "pos": "i-adj", "example_ja": "このケーキはとても甘いです。", "example_en": "This cake is very sweet."}
+{"id": 200, "jp": "辛い", "kana": "からい", "romaji": "karai", "en": "spicy; hot", "pos": "i-adj", "example_ja": "辛いカレーが好きです。", "example_en": "I like spicy curry."}
+{"id": 201, "jp": "おいしい", "kana": "おいしい", "romaji": "oishii", "en": "delicious", "pos": "i-adj", "example_ja": "この店のラーメンはおいしいです。", "example_en": "The ramen at this shop is delicious."}
+{"id": 202, "jp": "まずい", "kana": "まずい", "romaji": "mazui", "en": "bad-tasting", "pos": "i-adj", "example_ja": "この薬は少しまずいです。", "example_en": "This medicine tastes a little bad."}
+{"id": 203, "jp": "熱い", "kana": "あつい", "romaji": "atsui", "en": "hot (to the touch)", "pos": "i-adj", "example_ja": "お茶が熱いので気をつけて。", "example_en": "The tea is hot, so be careful."}
+{"id": 204, "jp": "冷たい", "kana": "つめたい", "romaji": "tsumetai", "en": "cold (to the touch)", "pos": "i-adj", "example_ja": "冷たい水が飲みたいです。", "example_en": "I want to drink cold water."}
+{"id": 205, "jp": "レモン", "kana": "レモン", "romaji": "remon", "en": "lemon", "pos": "noun", "example_ja": "紅茶にレモンを入れます。", "example_en": "I put lemon in my tea."}
+{"id": 206, "jp": "カレー", "kana": "カレー", "romaji": "karee", "en": "curry", "pos": "noun", "example_ja": "今晩はカレーを作ります。", "example_en": "I'm making curry tonight."}
+{"id": 207, "jp": "ラーメン", "kana": "ラーメン", "romaji": "raamen", "en": "ramen", "pos": "noun", "example_ja": "寒い日はラーメンが一番です。", "example_en": "On cold days, ramen is the best."}
+{"id": 208, "jp": "寿司", "kana": "すし", "romaji": "sushi", "en": "sushi", "pos": "noun", "example_ja": "週末に寿司を食べに行きます。", "example_en": "I'm going out for sushi this weekend."}
+{"id": 209, "jp": "食べ物", "kana": "たべもの", "romaji": "tabemono", "en": "food", "pos": "noun", "example_ja": "好きな食べ物は何ですか。", "example_en": "What is your favorite food?"}
+{"id": 210, "jp": "飲み物", "kana": "のみもの", "romaji": "nomimono", "en": "drink; beverage", "pos": "noun", "example_ja": "飲み物は何にしますか。", "example_en": "What would you like to drink?"}
+{"id": 211, "jp": "頭", "kana": "あたま", "romaji": "atama", "en": "head", "pos": "noun", "example_ja": "頭が痛いです。", "example_en": "I have a headache."}
+{"id": 212, "jp": "顔", "kana": "かお", "romaji": "kao", "en": "face", "pos": "noun", "example_ja": "朝、顔を洗います。", "example_en": "I wash my face in the morning."}
+{"id": 213, "jp": "目", "kana": "め", "romaji": "me", "en": "eye", "pos": "noun", "example_ja": "彼女は目が大きいです。", "example_en": "She has big eyes."}
+{"id": 214, "jp": "耳", "kana": "みみ", "romaji": "mimi", "en": "ear", "pos": "noun", "example_ja": "うさぎは耳が長いです。", "example_en": "Rabbits have long ears."}
+{"id": 215, "jp": "鼻", "kana": "はな", "romaji": "hana", "en": "nose", "pos": "noun", "example_ja": "象は鼻が長いです。", "example_en": "Elephants have long trunks."}
+{"id": 216, "jp": "口", "kana": "くち", "romaji": "kuchi", "en": "mouth", "pos": "noun", "example_ja": "口を大きく開けてください。", "example_en": "Please open your mouth wide."}
+{"id": 217, "jp": "歯", "kana": "は", "romaji": "ha", "en": "tooth", "pos": "noun", "example_ja": "毎晩、歯を磨きます。", "example_en": "I brush my teeth every night."}
+{"id": 218, "jp": "手", "kana": "て", "romaji": "te", "en": "hand", "pos": "noun", "example_ja": "食事の前に手を洗います。", "example_en": "I wash my hands before meals."}
+{"id": 219, "jp": "足", "kana": "あし", "romaji": "ashi", "en": "foot; leg", "pos": "noun", "example_ja": "たくさん歩いて足が疲れました。", "example_en": "My legs are tired from walking a lot."}
+{"id": 220, "jp": "体", "kana": "からだ", "romaji": "karada", "en": "body", "pos": "noun", "example_ja": "体に気をつけてください。", "example_en": "Please take care of yourself."}
+{"id": 221, "jp": "お腹", "kana": "おなか", "romaji": "onaka", "en": "stomach; belly", "pos": "noun", "example_ja": "お腹が空きました。", "example_en": "I'm hungry."}
+{"id": 222, "jp": "背", "kana": "せ", "romaji": "se", "en": "height; back", "pos": "noun", "example_ja": "兄は背が高いです。", "example_en": "My older brother is tall."}
+{"id": 223, "jp": "声", "kana": "こえ", "romaji": "koe", "en": "voice", "pos": "noun", "example_ja": "大きい声で話してください。", "example_en": "Please speak in a loud voice."}
+{"id": 224, "jp": "髪", "kana": "かみ", "romaji": "kami", "en": "hair", "pos": "noun", "example_ja": "髪を短く切りました。", "example_en": "I cut my hair short."}
+{"id": 225, "jp": "病気", "kana": "びょうき", "romaji": "byouki", "en": "illness; sickness", "pos": "noun", "example_ja": "病気で学校を休みました。", "example_en": "I missed school because I was sick."}
+{"id": 226, "jp": "薬", "kana": "くすり", "romaji": "kusuri", "en": "medicine", "pos": "noun", "example_ja": "食後に薬を飲んでください。", "example_en": "Please take the medicine after meals."}
+{"id": 227, "jp": "元気", "kana": "げんき", "romaji": "genki", "en": "healthy; energetic", "pos": "na-adj", "example_ja": "おばあさんはとても元気です。", "example_en": "My grandmother is very energetic."}
+{"id": 228, "jp": "痛い", "kana": "いたい", "romaji": "itai", "en": "painful", "pos": "i-adj", "example_ja": "歯が痛いです。", "example_en": "My tooth hurts."}
+{"id": 229, "jp": "風邪", "kana": "かぜ", "romaji": "kaze", "en": "a cold", "pos": "noun", "example_ja": "風邪をひきました。", "example_en": "I caught a cold."}
+{"id": 230, "jp": "熱", "kana": "ねつ", "romaji": "netsu", "en": "fever", "pos": "noun", "example_ja": "熱が三十八度あります。", "example_en": "I have a fever of 38 degrees."}
+{"id": 231, "jp": "医者", "kana": "いしゃ", "romaji": "isha", "en": "doctor", "pos": "noun", "example_ja": "医者に行った方がいいですよ。", "example_en": "You should go see a doctor."}
+{"id": 232, "jp": "私", "kana": "わたし", "romaji": "watashi", "en": "I; me", "pos": "noun", "example_ja": "私は日本語を勉強しています。", "example_en": "I am studying Japanese."}
+{"id": 233, "jp": "あなた", "kana": "あなた", "romaji": "anata", "en": "you", "pos": "noun", "example_ja": "あなたの名前は何ですか。", "example_en": "What is your name?"}
+{"id": 234, "jp": "彼", "kana": "かれ", "romaji": "kare", "en": "he; boyfriend", "pos": "noun", "example_ja": "彼は医者です。", "example_en": "He is a doctor."}
+{"id": 235, "jp": "彼女", "kana": "かのじょ", "romaji": "kanojo", "en": "she; girlfriend", "pos": "noun", "example_ja": "彼女は歌が上手です。", "example_en": "She is good at singing."}
+{"id": 236, "jp": "男", "kana": "おとこ", "romaji": "otoko", "en": "man; male", "pos": "noun", "example_ja": "あの男の人は誰ですか。", "example_en": "Who is that man?"}
+{"id": 237, "jp": "女", "kana": "おんな", "romaji": "onna", "en": "woman; female", "pos": "noun", "example_ja": "女の人が三人います。", "example_en": "There are three women."}
+{"id": 238, "jp": "男の子", "kana": "おとこのこ", "romaji": "otokonoko", "en": "boy", "pos": "noun", "example_ja": "公園で男の子が遊んでいます。", "example_en": "A boy is playing in the park."}
+{"id": 239, "jp": "女の子", "kana": "おんなのこ", "romaji": "onnanoko", "en": "girl", "pos": "noun", "example_ja": "女の子が絵を描いています。", "example_en": "A girl is drawing a picture."}
+{"id": 240, "jp": "大人", "kana": "おとな", "romaji": "otona", "en": "adult", "pos": "noun", "example_ja": "大人は千円、子供は五百円です。", "example_en": "Adults are 1,000 yen, children 500 yen."}
+{"id": 241, "jp": "名前", "kana": "なまえ", "romaji": "namae", "en": "name", "pos": "noun", "example_ja": "ここに名前を書いてください。", "example_en": "Please write your name here."}
+{"id": 242, "jp": "みんな", "kana": "みんな", "romaji": "minna", "en": "everyone", "pos": "noun", "example_ja": "みんなで歌いましょう。", "example_en": "Let's all sing together."}
+{"id": 243, "jp": "誰", "kana": "だれ", "romaji": "dare", "en": "who", "pos": "noun", "example_ja": "あの人は誰ですか。", "example_en": "Who is that person?"}
+{"id": 244, "jp": "何", "kana": "なに", "romaji": "nani", "en": "what", "pos": "noun", "example_ja": "これは何ですか。", "example_en": "What is this?"}
+{"id": 245, "jp": "どこ", "kana": "どこ", "romaji": "doko", "en": "where", "pos": "noun", "example_ja": "トイレはどこですか。", "example_en": "Where is the bathroom?"}
+{"id": 246, "jp": "いつ", "kana": "いつ", "romaji": "itsu", "en": "when", "pos": "noun", "example_ja": "いつ日本に来ましたか。", "example_en": "When did you come to Japan?"}
+{"id": 247, "jp": "どうして", "kana": "どうして", "romaji": "doushite", "en": "why", "pos": "adverb", "example_ja": "どうして遅れましたか。", "example_en": "Why were you late?"}
+{"id": 248, "jp": "祖父", "kana": "そふ", "romaji": "sofu", "en": "grandfather", "pos": "noun", "example_ja": "祖父は九十歳です。", "example_en": "My grandfather is ninety years old."}
+{"id": 249, "jp": "祖母", "kana": "そぼ", "romaji": "sobo", "en": "grandmother", "pos": "noun", "example_ja": "祖母と電話で話しました。", "example_en": "I talked with my grandmother on the phone."}
+{"id": 250, "jp": "兄弟", "kana": "きょうだい", "romaji": "kyoudai", "en": "siblings", "pos": "noun", "example_ja": "兄弟が三人います。", "example_en": "I have three siblings."}
+{"id": 251, "jp": "おじさん", "kana": "おじさん", "romaji": "ojisan", "en": "uncle; middle-aged man", "pos": "noun", "example_ja": "おじさんは大阪に住んでいます。", "example_en": "My uncle lives in Osaka."}
+{"id": 252, "jp": "おばさん", "kana": "おばさん", "romaji": "obasan", "en": "aunt; middle-aged woman", "pos": "noun", "example_ja": "おばさんがお菓子をくれました。", "example_en": "My aunt gave me some sweets."}
+{"id": 253, "jp": "赤ちゃん", "kana": "あかちゃん", "romaji": "akachan", "en": "baby", "pos": "noun", "example_ja": "赤ちゃんが寝ています。", "example_en": "The baby is sleeping."}
+{"id": 254, "jp": "皆さん", "kana": "みなさん", "romaji": "minasan", "en": "everyone (polite)", "pos": "noun", "example_ja": "皆さん、おはようございます。", "example_en": "Good morning, everyone."}
+{"id": 255, "jp": "一人", "kana": "ひとり", "romaji": "hitori", "en": "one person; alone", "pos": "noun", "example_ja": "一人で旅行しました。", "example_en": "I traveled alone."}
+{"id": 256, "jp": "二人", "kana": "ふたり", "romaji": "futari", "en": "two people", "pos": "noun", "example_ja": "二人で映画を見ました。", "example_en": "The two of us watched a movie."}
+{"id": 257, "jp": "友人", "kana": "ゆうじん", "romaji": "yuujin", "en": "friend (formal)", "pos": "noun", "example_ja": "大学の友人に会いました。", "example_en": "I met a friend from university."}
+{"id": 258, "jp": "隣", "kana": "となり", "romaji": "tonari", "en": "next to; neighbor", "pos": "noun", "example_ja": "隣の人はとても親切です。", "example_en": "The person next door is very kind."}
+{"id": 259, "jp": "自分", "kana": "じぶん", "romaji": "jibun", "en": "oneself", "pos": "noun", "example_ja": "自分で料理を作ります。", "example_en": "I cook for myself."}
+{"id": 260, "jp": "泳ぐ", "kana": "およぐ", "romaji": "oyogu", "en": "to swim", "pos": "verb", "example_ja": "夏は海で泳ぎます。", "example_en": "In summer I swim in the sea."}
+{"id": 261, "jp": "遊ぶ", "kana": "あそぶ", "romaji": "asobu", "en": "to play", "pos": "verb", "example_ja": "子供たちが公園で遊んでいます。", "example_en": "The children are playing in the park."}
+{"id": 262, "jp": "歩く", "kana": "あるく", "romaji": "aruku", "en": "to walk", "pos": "verb", "example_ja": "駅まで歩いて十分です。", "example_en": "It's a ten-minute walk to the station."}
+{"id": 263, "jp": "走る", "kana": "はしる", "romaji": "hashiru", "en": "to run", "pos": "verb", "example_ja": "毎朝、公園を走ります。", "example_en": "I run in the park every morning."}
+{"id": 264, "jp": "飛ぶ", "kana": "とぶ", "romaji": "tobu", "en": "to fly", "pos": "verb", "example_ja": "鳥が空を飛んでいます。", "example_en": "A bird is flying in the sky."}
+{"id": 265, "jp": "休む", "kana": "やすむ", "romaji": "yasumu", "en": "to rest; to take a day off", "pos": "verb", "example_ja": "疲れたので少し休みましょう。", "example_en": "I'm tired, so let's rest a little."}
+{"id": 266, "jp": "働く", "kana": "はたらく", "romaji": "hataraku", "en": "to work", "pos": "verb", "example_ja": "父は銀行で働いています。", "example_en": "My father works at a bank."}
+{"id": 267, "jp": "待つ", "kana": "まつ", "romaji": "matsu", "en": "to wait", "pos": "verb", "example_ja": "駅で友達を待ちます。", "example_en": "I'll wait for my friend at the station."}
+{"id": 268, "jp": "立つ", "kana": "たつ", "romaji": "tatsu", "en": "to stand", "pos": "verb", "example_ja": "皆さん、立ってください。", "example_en": "Everyone, please stand up."}
+{"id": 269, "jp": "座る", "kana": "すわる", "romaji": "suwaru", "en": "to sit", "pos": "verb", "example_ja": "どうぞ、こちらに座ってください。", "example_en": "Please, have a seat here."}
+{"id": 270, "jp": "入る", "kana": "はいる", "romaji": "hairu", "en": "to enter", "pos": "verb", "example_ja": "部屋に入ってもいいですか。", "example_en": "May I enter the room?"}
+{"id": 271, "jp": "出る", "kana": "でる", "romaji": "deru", "en": "to go out; to leave", "pos": "verb", "example_ja": "八時に家を出ます。", "example_en": "I leave home at eight."}
+{"id": 272, "jp": "乗る", "kana": "のる", "romaji": "noru", "en": "to ride; to get on", "pos": "verb", "example_ja": "バスに乗って学校へ行きます。", "example_en": "I take the bus to school."}
+{"id": 273, "jp": "降りる", "kana": "おりる", "romaji": "oriru", "en": "to get off", "pos": "verb", "example_ja": "次の駅で降ります。", "example_en": "I get off at the next station."}
+{"id": 274, "jp": "歌う", "kana": "うたう", "romaji": "utau", "en": "to sing", "pos": "verb", "example_ja": "カラオケで歌いました。", "example_en": "I sang at karaoke."}
+{"id": 275, "jp": "洗う", "kana": "あらう", "romaji": "arau", "en": "to wash", "pos": "verb", "example_ja": "車を洗いました。", "example_en": "I washed the car."}
+{"id": 276, "jp": "教える", "kana": "おしえる", "romaji": "oshieru", "en": "to teach; to tell", "pos": "verb", "example_ja": "道を教えてください。", "example_en": "Please tell me the way."}
+{"id": 277, "jp": "習う", "kana": "ならう", "romaji": "narau", "en": "to learn (from someone)", "pos": "verb", "example_ja": "ピアノを習っています。", "example_en": "I am taking piano lessons."}
+{"id": 278, "jp": "覚える", "kana": "おぼえる", "romaji": "oboeru", "en": "to memorize; to remember", "pos": "verb", "example_ja": "漢字を覚えるのは大変です。", "example_en": "Memorizing kanji is hard."}
+{"id": 279, "jp": "貸す", "kana": "かす", "romaji": "kasu", "en": "to lend", "pos": "verb", "example_ja": "ペンを貸してください。", "example_en": "Please lend me a pen."}
+{"id": 280, "jp": "借りる", "kana": "かりる", "romaji": "kariru", "en": "to borrow", "pos": "verb", "example_ja": "図書館で本を借りました。", "example_en": "I borrowed a book from the library."}
+{"id": 281, "jp": "返す", "kana": "かえす", "romaji": "kaesu", "en": "to return (something)", "pos": "verb", "example_ja": "明日、本を返します。", "example_en": "I will return the book tomorrow."}
+{"id": 282, "jp": "送る", "kana": "おくる", "romaji": "okuru", "en": "to send", "pos": "verb", "example_ja": "母に手紙を送りました。", "example_en": "I sent a letter to my mother."}
+{"id": 283, "jp": "もらう", "kana": "もらう", "romaji": "morau", "en": "to receive", "pos": "verb", "example_ja": "友達にプレゼントをもらいました。", "example_en": "I received a present from my friend."}
+{"id": 284, "jp": "あげる", "kana": "あげる", "romaji": "ageru", "en": "to give", "pos": "verb", "example_ja": "妹に花をあげました。", "example_en": "I gave my little sister flowers."}
+{"id": 285, "jp": "着る", "kana": "きる", "romaji": "kiru", "en": "to wear (upper body)", "pos": "verb", "example_ja": "今日は新しいシャツを着ています。", "example_en": "I'm wearing a new shirt today."}
+{"id": 286, "jp": "脱ぐ", "kana": "ぬぐ", "romaji": "nugu", "en": "to take off (clothes)", "pos": "verb", "example_ja": "ここで靴を脱いでください。", "example_en": "Please take off your shoes here."}
+{"id": 287, "jp": "履く", "kana": "はく", "romaji": "haku", "en": "to wear (lower body)", "pos": "verb", "example_ja": "新しい靴を履きました。", "example_en": "I wore new shoes."}
+{"id": 288, "jp": "開ける", "kana": "あける", "romaji": "akeru", "en": "to open", "pos": "verb", "example_ja": "窓を開けてください。", "example_en": "Please open the window."}
+{"id": 289, "jp": "閉める", "kana": "しめる", "romaji": "shimeru", "en": "to close", "pos": "verb", "example_ja": "ドアを閉めてください。", "example_en": "Please close the door."}
+{"id": 290, "jp": "つける", "kana": "つける", "romaji": "tsukeru", "en": "to turn on", "pos": "verb", "example_ja": "電気をつけてください。", "example_en": "Please turn on the light."}
+{"id": 291, "jp": "消す", "kana": "けす", "romaji": "kesu", "en": "to turn off; to erase", "pos": "verb", "example_ja": "テレビを消しました。", "example_en": "I turned off the TV."}
+{"id": 292, "jp": "始まる", "kana": "はじまる", "romaji": "hajimaru", "en": "to begin (intransitive)", "pos": "verb", "example_ja": "授業は九時に始まります。", "example_en": "Class begins at nine."}
+{"id": 293, "jp": "終わる", "kana": "おわる", "romaji": "owaru", "en": "to end", "pos": "verb", "example_ja": "仕事は六時に終わります。", "example_en": "Work ends at six."}
+{"id": 294, "jp": "死ぬ", "kana": "しぬ", "romaji": "shinu", "en": "to die", "pos": "verb", "example_ja": "金魚が死んでしまいました。", "example_en": "The goldfish died."}
+{"id": 295, "jp": "生まれる", "kana": "うまれる", "romaji": "umareru", "en": "to be born", "pos": "verb", "example_ja": "私は東京で生まれました。", "example_en": "I was born in Tokyo."}
+{"id": 296, "jp": "疲れる", "kana": "つかれる", "romaji": "tsukareru", "en": "to get tired", "pos": "verb", "example_ja": "今日はとても疲れました。", "example_en": "I got very tired today."}
+{"id": 297, "jp": "急ぐ", "kana": "いそぐ", "romaji": "isogu", "en": "to hurry", "pos": "verb", "example_ja": "時間がないので急ぎましょう。", "example_en": "We don't have time, so let's hurry."}
+{"id": 298, "jp": "止まる", "kana": "とまる", "romaji": "tomaru", "en": "to stop (intransitive)", "pos": "verb", "example_ja": "電車が急に止まりました。", "example_en": "The train stopped suddenly."}
+{"id": 299, "jp": "曲がる", "kana": "まがる", "romaji": "magaru", "en": "to turn (a corner)", "pos": "verb", "example_ja": "次の角を右に曲がってください。", "example_en": "Please turn right at the next corner."}
+{"id": 300, "jp": "渡る", "kana": "わたる", "romaji": "wataru", "en": "to cross", "pos": "verb", "example_ja": "橋を渡って左に行きます。", "example_en": "Cross the bridge and go left."}
+{"id": 301, "jp": "登る", "kana": "のぼる", "romaji": "noboru", "en": "to climb", "pos": "verb", "example_ja": "夏に富士山に登りたいです。", "example_en": "I want to climb Mt. Fuji in summer."}
+{"id": 302, "jp": "入れる", "kana": "いれる", "romaji": "ireru", "en": "to put in", "pos": "verb", "example_ja": "かばんに本を入れました。", "example_en": "I put the book in my bag."}
+{"id": 303, "jp": "出す", "kana": "だす", "romaji": "dasu", "en": "to take out; to submit", "pos": "verb", "example_ja": "宿題を出してください。", "example_en": "Please hand in your homework."}
+{"id": 304, "jp": "取る", "kana": "とる", "romaji": "toru", "en": "to take", "pos": "verb", "example_ja": "塩を取ってください。", "example_en": "Please pass me the salt."}
+{"id": 305, "jp": "撮る", "kana": "とる", "romaji": "toru", "en": "to take (a photo)", "pos": "verb", "example_ja": "ここで写真を撮りましょう。", "example_en": "Let's take a photo here."}
+{"id": 306, "jp": "持つ", "kana": "もつ", "romaji": "motsu", "en": "to hold; to have", "pos": "verb", "example_ja": "重いかばんを持っています。", "example_en": "I'm carrying a heavy bag."}
+{"id": 307, "jp": "置く", "kana": "おく", "romaji": "oku", "en": "to put; to place", "pos": "verb", "example_ja": "机の上に本を置きました。", "example_en": "I put the book on the desk."}
+{"id": 308, "jp": "探す", "kana": "さがす", "romaji": "sagasu", "en": "to look for", "pos": "verb", "example_ja": "鍵を探しています。", "example_en": "I'm looking for my keys."}
+{"id": 309, "jp": "呼ぶ", "kana": "よぶ", "romaji": "yobu", "en": "to call; to invite", "pos": "verb", "example_ja": "タクシーを呼んでください。", "example_en": "Please call a taxi."}
+{"id": 310, "jp": "多い", "kana": "おおい", "romaji": "ooi", "en": "many; much", "pos": "i-adj", "example_ja": "東京は人が多いです。", "example_en": "There are many people in Tokyo."}
+{"id": 311, "jp": "少ない", "kana": "すくない", "romaji": "sukunai", "en": "few; little", "pos": "i-adj", "example_ja": "この町は店が少ないです。", "example_en": "This town has few shops."}
+{"id": 312, "jp": "広い", "kana": "ひろい", "romaji": "hiroi", "en": "wide; spacious", "pos": "i-adj", "example_ja": "この公園はとても広いです。", "example_en": "This park is very spacious."}
+{"id": 313, "jp": "狭い", "kana": "せまい", "romaji": "semai", "en": "narrow; small (space)", "pos": "i-adj", "example_ja": "私の部屋は狭いです。", "example_en": "My room is small."}
+{"id": 314, "jp": "重い", "kana": "おもい", "romaji": "omoi", "en": "heavy", "pos": "i-adj", "example_ja": "この荷物は重いです。", "example_en": "This luggage is heavy."}
+{"id": 315, "jp": "軽い", "kana": "かるい", "romaji": "karui", "en": "light (weight)", "pos": "i-adj", "example_ja": "このパソコンは軽いです。", "example_en": "This laptop is light."}
+{"id": 316, "jp": "太い", "kana": "ふとい", "romaji": "futoi", "en": "thick; fat", "pos": "i-adj", "example_ja": "太いペンで書いてください。", "example_en": "Please write with a thick pen."}
+{"id": 317, "jp": "細い", "kana": "ほそい", "romaji": "hosoi", "en": "thin; slender", "pos": "i-adj", "example_ja": "この道は細いです。", "example_en": "This road is narrow."}
+{"id": 318, "jp": "明るい", "kana": "あかるい", "romaji": "akarui", "en": "bright; cheerful", "pos": "i-adj", "example_ja": "この部屋は明るいですね。", "example_en": "This room is bright, isn't it?"}
+{"id": 319, "jp": "暗い", "kana": "くらい", "romaji": "kurai", "en": "dark", "pos": "i-adj", "example_ja": "外はもう暗いです。", "example_en": "It's already dark outside."}
+{"id": 320, "jp": "忙しい", "kana": "いそがしい", "romaji": "isogashii", "en": "busy", "pos": "i-adj", "example_ja": "今週はとても忙しいです。", "example_en": "I am very busy this week."}
+{"id": 321, "jp": "楽しい", "kana": "たのしい", "romaji": "tanoshii", "en": "fun; enjoyable", "pos": "i-adj", "example_ja": "パーティーは楽しかったです。", "example_en": "The party was fun."}
+{"id": 322, "jp": "面白い", "kana": "おもしろい", "romaji": "omoshiroi", "en": "interesting; funny", "pos": "i-adj", "example_ja": "この映画はとても面白いです。", "example_en": "This movie is very interesting."}
+{"id": 323, "jp": "つまらない", "kana": "つまらない", "romaji": "tsumaranai", "en": "boring", "pos": "i-adj", "example_ja": "その番組はつまらなかったです。", "example_en": "That TV show was boring."}
+{"id": 324, "jp": "難しい", "kana": "むずかしい", "romaji": "muzukashii", "en": "difficult", "pos": "i-adj", "example_ja": "漢字は難しいですが、面白いです。", "example_en": "Kanji is difficult but interesting."}
+{"id": 325, "jp": "易しい", "kana": "やさしい", "romaji": "yasashii", "en": "easy; simple", "pos": "i-adj", "example_ja": "このテストは易しかったです。", "example_en": "This test was easy."}
+{"id": 326, "jp": "楽しみ", "kana": "たのしみ", "romaji": "tanoshimi", "en": "looking forward to; pleasure", "pos": "noun", "example_ja": "旅行が楽しみです。", "example_en": "I'm looking forward to the trip."}
+{"id": 327, "jp": "きれい", "kana": "きれい", "romaji": "kirei", "en": "beautiful; clean", "pos": "na-adj", "example_ja": "この花はきれいですね。", "example_en": "This flower is beautiful, isn't it?"}
+{"id": 328, "jp": "静か", "kana": "しずか", "romaji": "shizuka", "en": "quiet", "pos": "na-adj", "example_ja": "図書館は静かです。", "example_en": "The library is quiet."}
+{"id": 329, "jp": "賑やか", "kana": "にぎやか", "romaji": "nigiyaka", "en": "lively; bustling", "pos": "na-adj", "example_ja": "この通りは夜も賑やかです。", "example_en": "This street is lively even at night."}
+{"id": 330, "jp": "便利", "kana": "べんり", "romaji": "benri", "en": "convenient", "pos": "na-adj", "example_ja": "駅の近くは便利です。", "example_en": "It's convenient near the station."}
+{"id": 331, "jp": "好き", "kana": "すき", "romaji": "suki", "en": "to like", "pos": "na-adj", "example_ja": "日本の音楽が好きです。", "example_en": "I like Japanese music."}
+{"id": 332, "jp": "嫌い", "kana": "きらい", "romaji": "kirai", "en": "to dislike", "pos": "na-adj", "example_ja": "野菜が嫌いな子供が多いです。", "example_en": "Many children dislike vegetables."}
+{"id": 333, "jp": "上手", "kana": "じょうず", "romaji": "jouzu", "en": "skillful; good at", "pos": "na-adj", "example_ja": "彼は料理が上手です。", "example_en": "He is good at cooking."}
+{"id": 334, "jp": "下手", "kana": "へた", "romaji": "heta", "en": "unskillful; bad at", "pos": "na-adj", "example_ja": "私は歌が下手です。", "example_en": "I am bad at singing."}
+{"id": 335, "jp": "大切", "kana": "たいせつ", "romaji": "taisetsu", "en": "important; precious", "pos": "na-adj", "example_ja": "家族は大切です。", "example_en": "Family is important."}
+{"id": 336, "jp": "大変", "kana": "たいへん", "romaji": "taihen", "en": "tough; terrible; very", "pos": "na-adj", "example_ja": "仕事が大変です。", "example_en": "Work is tough."}
+{"id": 337, "jp": "大丈夫", "kana": "だいじょうぶ", "romaji": "daijoubu", "en": "okay; all right", "pos": "na-adj", "example_ja": "大丈夫ですか。", "example_en": "Are you okay?"}
+{"id": 338, "jp": "簡単", "kana": "かんたん", "romaji": "kantan", "en": "easy; simple", "pos": "na-adj", "example_ja": "この問題は簡単です。", "example_en": "This problem is easy."}
+{"id": 339, "jp": "丈夫", "kana": "じょうぶ", "romaji": "joubu", "en": "sturdy; durable", "pos": "na-adj", "example_ja": "このかばんは丈夫です。", "example_en": "This bag is sturdy."}
+{"id": 340, "jp": "暇", "kana": "ひま", "romaji": "hima", "en": "free (time)", "pos": "na-adj", "example_ja": "明日は暇ですか。", "example_en": "Are you free tomorrow?"}
+{"id": 341, "jp": "丸い", "kana": "まるい", "romaji": "marui", "en": "round", "pos": "i-adj", "example_ja": "月は丸いです。", "example_en": "The moon is round."}
+{"id": 342, "jp": "速い", "kana": "はやい", "romaji": "hayai", "en": "fast", "pos": "i-adj", "example_ja": "新幹線はとても速いです。", "example_en": "The Shinkansen is very fast."}
+{"id": 343, "jp": "若者", "kana": "わかもの", "romaji": "wakamono", "en": "young person", "pos": "noun", "example_ja": "若者に人気の店です。", "example_en": "It's a shop popular with young people."}
+{"id": 344, "jp": "低い", "kana": "ひくい", "romaji": "hikui", "en": "low; short (height)", "pos": "i-adj", "example_ja": "このテーブルは低いです。", "example_en": "This table is low."}
+{"id": 345, "jp": "厚い", "kana": "あつい", "romaji": "atsui", "en": "thick (object)", "pos": "i-adj", "example_ja": "厚い本を読んでいます。", "example_en": "I'm reading a thick book."}
+{"id": 346, "jp": "薄い", "kana": "うすい", "romaji": "usui", "en": "thin; weak (taste)", "pos": "i-adj", "example_ja": "薄いコートを着ています。", "example_en": "I'm wearing a thin coat."}
+{"id": 347, "jp": "汚い", "kana": "きたない", "romaji": "kitanai", "en": "dirty", "pos": "i-adj", "example_ja": "靴が汚くなりました。", "example_en": "My shoes got dirty."}
+{"id": 348, "jp": "危ない", "kana": "あぶない", "romaji": "abunai", "en": "dangerous", "pos": "i-adj", "example_ja": "ここで泳ぐのは危ないです。", "example_en": "Swimming here is dangerous."}
+{"id": 349, "jp": "眠い", "kana": "ねむい", "romaji": "nemui", "en": "sleepy", "pos": "i-adj", "example_ja": "昨日寝ていないので眠いです。", "example_en": "I'm sleepy because I didn't sleep last night."}
+{"id": 350, "jp": "うるさい", "kana": "うるさい", "romaji": "urusai", "en": "noisy", "pos": "i-adj", "example_ja": "隣の部屋がうるさいです。", "example_en": "The room next door is noisy."}
+{"id": 351, "jp": "かわいい", "kana": "かわいい", "romaji": "kawaii", "en": "cute", "pos": "i-adj", "example_ja": "この猫はとてもかわいいです。", "example_en": "This cat is very cute."}
+{"id": 352, "jp": "欲しい", "kana": "ほしい", "romaji": "hoshii", "en": "to want (something)", "pos": "i-adj", "example_ja": "新しい自転車が欲しいです。", "example_en": "I want a new bicycle."}
+{"id": 353, "jp": "同じ", "kana": "おなじ", "romaji": "onaji", "en": "same", "pos": "na-adj", "example_ja": "私たちは同じ学校です。", "example_en": "We go to the same school."}
+{"id": 354, "jp": "色々", "kana": "いろいろ", "romaji": "iroiro", "en": "various", "pos": "na-adj", "example_ja": "色々な国へ行きたいです。", "example_en": "I want to go to various countries."}
+{"id": 355, "jp": "本当", "kana": "ほんとう", "romaji": "hontou", "en": "true; real", "pos": "noun", "example_ja": "それは本当ですか。", "example_en": "Is that true?"}
+{"id": 356, "jp": "立派", "kana": "りっぱ", "romaji": "rippa", "en": "splendid; fine", "pos": "na-adj", "example_ja": "立派な家ですね。", "example_en": "What a splendid house!"}
+{"id": 357, "jp": "有名人", "kana": "ゆうめいじん", "romaji": "yuumeijin", "en": "celebrity", "pos": "noun", "example_ja": "駅で有名人を見ました。", "example_en": "I saw a celebrity at the station."}
+{"id": 358, "jp": "新鮮", "kana": "しんせん", "romaji": "shinsen", "en": "fresh", "pos": "na-adj", "example_ja": "この魚は新鮮です。", "example_en": "This fish is fresh."}
+{"id": 359, "jp": "山", "kana": "やま", "romaji": "yama", "en": "mountain", "pos": "noun", "example_ja": "週末に山へ行きます。", "example_en": "I'm going to the mountains this weekend."}
+{"id": 360, "jp": "川", "kana": "かわ", "romaji": "kawa", "en": "river", "pos": "noun", "example_ja": "川で魚を釣りました。", "example_en": "I caught fish in the river."}
+{"id": 361, "jp": "海", "kana": "うみ", "romaji": "umi", "en": "sea; ocean", "pos": "noun", "example_ja": "夏休みに海へ行きたいです。", "example_en": "I want to go to the sea during summer vacation."}
+{"id": 362, "jp": "空", "kana": "そら", "romaji": "sora", "en": "sky", "pos": "noun", "example_ja": "今日は空が青いです。", "example_en": "The sky is blue today."}
+{"id": 363, "jp": "木", "kana": "き", "romaji": "ki", "en": "tree; wood", "pos": "noun", "example_ja": "庭に大きい木があります。", "example_en": "There is a big tree in the garden."}
+{"id": 364, "jp": "花", "kana": "はな", "romaji": "hana", "en": "flower", "pos": "noun", "example_ja": "春はたくさんの花が咲きます。", "example_en": "Many flowers bloom in spring."}
+{"id": 365, "jp": "雨", "kana": "あめ", "romaji": "ame", "en": "rain", "pos": "noun", "example_ja": "明日は雨が降るでしょう。", "example_en": "It will probably rain tomorrow."}
+{"id": 366, "jp": "雪", "kana": "ゆき", "romaji": "yuki", "en": "snow", "pos": "noun", "example_ja": "北海道は雪が多いです。", "example_en": "Hokkaido gets a lot of snow."}
+{"id": 367, "jp": "風", "kana": "かぜ", "romaji": "kaze", "en": "wind", "pos": "noun", "example_ja": "今日は風が強いです。", "example_en": "The wind is strong today."}
+{"id": 368, "jp": "天気", "kana": "てんき", "romaji": "tenki", "en": "weather", "pos": "noun", "example_ja": "今日はいい天気ですね。", "example_en": "Nice weather today, isn't it?"}
+{"id": 369, "jp": "晴れ", "kana": "はれ", "romaji": "hare", "en": "sunny weather", "pos": "noun", "example_ja": "明日は晴れです。", "example_en": "It will be sunny tomorrow."}
+{"id": 370, "jp": "曇り", "kana": "くもり", "romaji": "kumori", "en": "cloudy weather", "pos": "noun", "example_ja": "今日は朝から曇りです。", "example_en": "It's been cloudy since morning."}
+{"id": 371, "jp": "春", "kana": "はる", "romaji": "haru", "en": "spring", "pos": "noun", "example_ja": "春に桜が咲きます。", "example_en": "Cherry blossoms bloom in spring."}
+{"id": 372, "jp": "夏", "kana": "なつ", "romaji": "natsu", "en": "summer", "pos": "noun", "example_ja": "日本の夏は暑いです。", "example_en": "Japanese summers are hot."}
+{"id": 373, "jp": "秋", "kana": "あき", "romaji": "aki", "en": "autumn; fall", "pos": "noun", "example_ja": "秋は涼しくて好きです。", "example_en": "I like autumn because it's cool."}
+{"id": 374, "jp": "冬", "kana": "ふゆ", "romaji": "fuyu", "en": "winter", "pos": "noun", "example_ja": "冬はスキーをします。", "example_en": "I ski in winter."}
+{"id": 375, "jp": "月", "kana": "つき", "romaji": "tsuki", "en": "moon; month", "pos": "noun", "example_ja": "今夜は月がきれいです。", "example_en": "The moon is beautiful tonight."}
+{"id": 376, "jp": "星", "kana": "ほし", "romaji": "hoshi", "en": "star", "pos": "noun", "example_ja": "田舎では星がよく見えます。", "example_en": "You can see the stars well in the countryside."}
+{"id": 377, "jp": "太陽", "kana": "たいよう", "romaji": "taiyou", "en": "sun", "pos": "noun", "example_ja": "太陽が出て暖かくなりました。", "example_en": "The sun came out and it got warm."}
+{"id": 378, "jp": "公園", "kana": "こうえん", "romaji": "kouen", "en": "park", "pos": "noun", "example_ja": "公園でお弁当を食べました。", "example_en": "We ate lunch in the park."}
+{"id": 379, "jp": "店", "kana": "みせ", "romaji": "mise", "en": "shop; store", "pos": "noun", "example_ja": "あの店は何でも安いです。", "example_en": "Everything is cheap at that store."}
+{"id": 380, "jp": "図書館", "kana": "としょかん", "romaji": "toshokan", "en": "library", "pos": "noun", "example_ja": "図書館で勉強します。", "example_en": "I study at the library."}
+{"id": 381, "jp": "映画館", "kana": "えいがかん", "romaji": "eigakan", "en": "movie theater", "pos": "noun", "example_ja": "映画館で新しい映画を見ました。", "example_en": "I saw a new movie at the theater."}
+{"id": 382, "jp": "郵便局", "kana": "ゆうびんきょく", "romaji": "yuubinkyoku", "en": "post office", "pos": "noun", "example_ja": "郵便局で切手を買いました。", "example_en": "I bought stamps at the post office."}
+{"id": 383, "jp": "大学", "kana": "だいがく", "romaji": "daigaku", "en": "university", "pos": "noun", "example_ja": "兄は大学で経済を勉強しています。", "example_en": "My brother studies economics at university."}
+{"id": 384, "jp": "高校", "kana": "こうこう", "romaji": "koukou", "en": "high school", "pos": "noun", "example_ja": "高校の友達に会いました。", "example_en": "I met a friend from high school."}
+{"id": 385, "jp": "中学校", "kana": "ちゅうがっこう", "romaji": "chuugakkou", "en": "junior high school", "pos": "noun", "example_ja": "妹は中学校に通っています。", "example_en": "My sister goes to junior high school."}
+{"id": 386, "jp": "小学校", "kana": "しょうがっこう", "romaji": "shougakkou", "en": "elementary school", "pos": "noun", "example_ja": "小学校の前に公園があります。", "example_en": "There is a park in front of the elementary school."}
+{"id": 387, "jp": "町", "kana": "まち", "romaji": "machi", "en": "town", "pos": "noun", "example_ja": "この町は静かで住みやすいです。", "example_en": "This town is quiet and easy to live in."}
+{"id": 388, "jp": "村", "kana": "むら", "romaji": "mura", "en": "village", "pos": "noun", "example_ja": "山の中に小さい村があります。", "example_en": "There is a small village in the mountains."}
+{"id": 389, "jp": "国", "kana": "くに", "romaji": "kuni", "en": "country", "pos": "noun", "example_ja": "どこの国から来ましたか。", "example_en": "Which country are you from?"}
+{"id": 390, "jp": "外国", "kana": "がいこく", "romaji": "gaikoku", "en": "foreign country", "pos": "noun", "example_ja": "外国に住みたいです。", "example_en": "I want to live in a foreign country."}
+{"id": 391, "jp": "外国人", "kana": "がいこくじん", "romaji": "gaikokujin", "en": "foreigner", "pos": "noun", "example_ja": "この町には外国人が多いです。", "example_en": "There are many foreigners in this town."}
+{"id": 392, "jp": "庭", "kana": "にわ", "romaji": "niwa", "en": "garden; yard", "pos": "noun", "example_ja": "庭で花を育てています。", "example_en": "I grow flowers in the garden."}
+{"id": 393, "jp": "建物", "kana": "たてもの", "romaji": "tatemono", "en": "building", "pos": "noun", "example_ja": "あの高い建物は何ですか。", "example_en": "What is that tall building?"}
+{"id": 394, "jp": "場所", "kana": "ばしょ", "romaji": "basho", "en": "place; location", "pos": "noun", "example_ja": "静かな場所で話しましょう。", "example_en": "Let's talk in a quiet place."}
+{"id": 395, "jp": "地下鉄", "kana": "ちかてつ", "romaji": "chikatetsu", "en": "subway", "pos": "noun", "example_ja": "地下鉄で会社へ行きます。", "example_en": "I go to work by subway."}
+{"id": 396, "jp": "飛行機", "kana": "ひこうき", "romaji": "hikouki", "en": "airplane", "pos": "noun", "example_ja": "飛行機で北海道へ行きました。", "example_en": "I went to Hokkaido by plane."}
+{"id": 397, "jp": "船", "kana": "ふね", "romaji": "fune", "en": "ship; boat", "pos": "noun", "example_ja": "船で島へ渡りました。", "example_en": "I crossed to the island by boat."}
+{"id": 398, "jp": "タクシー", "kana": "タクシー", "romaji": "takushii", "en": "taxi", "pos": "noun", "example_ja": "駅からタクシーに乗りました。", "example_en": "I took a taxi from the station."}
+{"id": 399, "jp": "動物", "kana": "どうぶつ", "romaji": "doubutsu", "en": "animal", "pos": "noun", "example_ja": "どんな動物が好きですか。", "example_en": "What animals do you like?"}
+{"id": 400, "jp": "犬", "kana": "いぬ", "romaji": "inu", "en": "dog", "pos": "noun", "example_ja": "毎朝、犬と散歩します。", "example_en": "I walk my dog every morning."}
+{"id": 401, "jp": "猫", "kana": "ねこ", "romaji": "neko", "en": "cat", "pos": "noun", "example_ja": "猫が窓の近くで寝ています。", "example_en": "The cat is sleeping near the window."}
+{"id": 402, "jp": "鳥", "kana": "とり", "romaji": "tori", "en": "bird", "pos": "noun", "example_ja": "朝、鳥の声が聞こえます。", "example_en": "I hear birds singing in the morning."}
+{"id": 403, "jp": "馬", "kana": "うま", "romaji": "uma", "en": "horse", "pos": "noun", "example_ja": "北海道で馬に乗りました。", "example_en": "I rode a horse in Hokkaido."}
+{"id": 404, "jp": "池", "kana": "いけ", "romaji": "ike", "en": "pond", "pos": "noun", "example_ja": "池に魚がたくさんいます。", "example_en": "There are many fish in the pond."}
+{"id": 405, "jp": "森", "kana": "もり", "romaji": "mori", "en": "forest", "pos": "noun", "example_ja": "森の中を歩きました。", "example_en": "I walked through the forest."}
+{"id": 406, "jp": "島", "kana": "しま", "romaji": "shima", "en": "island", "pos": "noun", "example_ja": "日本にはたくさんの島があります。", "example_en": "Japan has many islands."}
+{"id": 407, "jp": "石", "kana": "いし", "romaji": "ishi", "en": "stone", "pos": "noun", "example_ja": "きれいな石を拾いました。", "example_en": "I picked up a pretty stone."}
+{"id": 408, "jp": "桜", "kana": "さくら", "romaji": "sakura", "en": "cherry blossom", "pos": "noun", "example_ja": "公園の桜が満開です。", "example_en": "The cherry blossoms in the park are in full bloom."}
+{"id": 409, "jp": "傘", "kana": "かさ", "romaji": "kasa", "en": "umbrella", "pos": "noun", "example_ja": "雨なので傘を持って行きます。", "example_en": "It's raining, so I'll take an umbrella."}
+{"id": 410, "jp": "鞄", "kana": "かばん", "romaji": "kaban", "en": "bag", "pos": "noun", "example_ja": "新しい鞄を買いました。", "example_en": "I bought a new bag."}
+{"id": 411, "jp": "靴", "kana": "くつ", "romaji": "kutsu", "en": "shoes", "pos": "noun", "example_ja": "玄関で靴を脱ぎます。", "example_en": "We take off our shoes at the entrance."}
+{"id": 412, "jp": "靴下", "kana": "くつした", "romaji": "kutsushita", "en": "socks", "pos": "noun", "example_ja": "白い靴下を履いています。", "example_en": "I'm wearing white socks."}
+{"id": 413, "jp": "服", "kana": "ふく", "romaji": "fuku", "en": "clothes", "pos": "noun", "example_ja": "どんな服が好きですか。", "example_en": "What kind of clothes do you like?"}
+{"id": 414, "jp": "帽子", "kana": "ぼうし", "romaji": "boushi", "en": "hat; cap", "pos": "noun", "example_ja": "夏は帽子をかぶります。", "example_en": "I wear a hat in summer."}
+{"id": 415, "jp": "眼鏡", "kana": "めがね", "romaji": "megane", "en": "glasses", "pos": "noun", "example_ja": "父は眼鏡をかけています。", "example_en": "My father wears glasses."}
+{"id": 416, "jp": "財布", "kana": "さいふ", "romaji": "saifu", "en": "wallet", "pos": "noun", "example_ja": "財布をなくしました。", "example_en": "I lost my wallet."}
+{"id": 417, "jp": "鍵", "kana": "かぎ", "romaji": "kagi", "en": "key", "pos": "noun", "example_ja": "家の鍵を忘れました。", "example_en": "I forgot my house key."}
+{"id": 418, "jp": "箱", "kana": "はこ", "romaji": "hako", "en": "box", "pos": "noun", "example_ja": "箱の中に何がありますか。", "example_en": "What's in the box?"}
+{"id": 419, "jp": "紙", "kana": "かみ", "romaji": "kami", "en": "paper", "pos": "noun", "example_ja": "紙に名前を書きました。", "example_en": "I wrote my name on the paper."}
+{"id": 420, "jp": "ペン", "kana": "ペン", "romaji": "pen", "en": "pen", "pos": "noun", "example_ja": "黒いペンで書いてください。", "example_en": "Please write with a black pen."}
+{"id": 421, "jp": "鉛筆", "kana": "えんぴつ", "romaji": "enpitsu", "en": "pencil", "pos": "noun", "example_ja": "鉛筆で絵を描きます。", "example_en": "I draw pictures with a pencil."}
+{"id": 422, "jp": "消しゴム", "kana": "けしゴム", "romaji": "keshigomu", "en": "eraser", "pos": "noun", "example_ja": "消しゴムを貸してください。", "example_en": "Please lend me an eraser."}
+{"id": 423, "jp": "辞書", "kana": "じしょ", "romaji": "jisho", "en": "dictionary", "pos": "noun", "example_ja": "辞書で言葉を調べます。", "example_en": "I look up words in the dictionary."}
+{"id": 424, "jp": "ノート", "kana": "ノート", "romaji": "nooto", "en": "notebook", "pos": "noun", "example_ja": "ノートに漢字を書きます。", "example_en": "I write kanji in my notebook."}
+{"id": 425, "jp": "地図", "kana": "ちず", "romaji": "chizu", "en": "map", "pos": "noun", "example_ja": "地図を見ながら歩きました。", "example_en": "I walked while looking at the map."}
+{"id": 426, "jp": "切手", "kana": "きって", "romaji": "kitte", "en": "stamp", "pos": "noun", "example_ja": "八十円の切手をください。", "example_en": "An 80-yen stamp, please."}
+{"id": 427, "jp": "封筒", "kana": "ふうとう", "romaji": "fuutou", "en": "envelope", "pos": "noun", "example_ja": "封筒に手紙を入れました。", "example_en": "I put the letter in the envelope."}
+{"id": 428, "jp": "葉書", "kana": "はがき", "romaji": "hagaki", "en": "postcard", "pos": "noun", "example_ja": "旅行先から葉書を送りました。", "example_en": "I sent a postcard from my trip."}
+{"id": 429, "jp": "荷物", "kana": "にもつ", "romaji": "nimotsu", "en": "luggage; package", "pos": "noun", "example_ja": "荷物が多くて大変です。", "example_en": "I have so much luggage, it's tough."}
+{"id": 430, "jp": "お金", "kana": "おかね", "romaji": "okane", "en": "money", "pos": "noun", "example_ja": "お金が足りません。", "example_en": "I don't have enough money."}
+{"id": 431, "jp": "切符", "kana": "きっぷ", "romaji": "kippu", "en": "ticket", "pos": "noun", "example_ja": "切符を二枚買いました。", "example_en": "I bought two tickets."}
+{"id": 432, "jp": "テレビ", "kana": "テレビ", "romaji": "terebi", "en": "television", "pos": "noun", "example_ja": "夜はテレビを見ます。", "example_en": "I watch TV at night."}
+{"id": 433, "jp": "ラジオ", "kana": "ラジオ", "romaji": "rajio", "en": "radio", "pos": "noun", "example_ja": "ラジオで日本語を聞いています。", "example_en": "I listen to Japanese on the radio."}
+{"id": 434, "jp": "カメラ", "kana": "カメラ", "romaji": "kamera", "en": "camera", "pos": "noun", "example_ja": "新しいカメラで写真を撮りました。", "example_en": "I took photos with my new camera."}
+{"id": 435, "jp": "テーブル", "kana": "テーブル", "romaji": "teeburu", "en": "table", "pos": "noun", "example_ja": "テーブルの上に花があります。", "example_en": "There are flowers on the table."}
+{"id": 436, "jp": "シャワー", "kana": "シャワー", "romaji": "shawaa", "en": "shower", "pos": "noun", "example_ja": "朝シャワーを浴びます。", "example_en": "I take a shower in the morning."}
+{"id": 437, "jp": "ホテル", "kana": "ホテル", "romaji": "hoteru", "en": "hotel", "pos": "noun", "example_ja": "駅の近くのホテルに泊まりました。", "example_en": "I stayed at a hotel near the station."}
+{"id": 438, "jp": "デパート", "kana": "デパート", "romaji": "depaato", "en": "department store", "pos": "noun", "example_ja": "デパートで服を買いました。", "example_en": "I bought clothes at the department store."}
+{"id": 439, "jp": "スーパー", "kana": "スーパー", "romaji": "suupaa", "en": "supermarket", "pos": "noun", "example_ja": "スーパーで野菜を買います。", "example_en": "I buy vegetables at the supermarket."}
+{"id": 440, "jp": "コンビニ", "kana": "コンビニ", "romaji": "konbini", "en": "convenience store", "pos": "noun", "example_ja": "コンビニでお弁当を買いました。", "example_en": "I bought a boxed lunch at the convenience store."}
+{"id": 441, "jp": "エレベーター", "kana": "エレベーター", "romaji": "erebeetaa", "en": "elevator", "pos": "noun", "example_ja": "エレベーターで五階へ行きます。", "example_en": "I take the elevator to the fifth floor."}
+{"id": 442, "jp": "アパート", "kana": "アパート", "romaji": "apaato", "en": "apartment", "pos": "noun", "example_ja": "小さいアパートに住んでいます。", "example_en": "I live in a small apartment."}
+{"id": 443, "jp": "プール", "kana": "プール", "romaji": "puuru", "en": "swimming pool", "pos": "noun", "example_ja": "夏はプールで泳ぎます。", "example_en": "I swim in the pool in summer."}
+{"id": 444, "jp": "パーティー", "kana": "パーティー", "romaji": "paatii", "en": "party", "pos": "noun", "example_ja": "金曜日にパーティーがあります。", "example_en": "There is a party on Friday."}
+{"id": 445, "jp": "スポーツ", "kana": "スポーツ", "romaji": "supootsu", "en": "sports", "pos": "noun", "example_ja": "どんなスポーツをしますか。", "example_en": "What sports do you play?"}
+{"id": 446, "jp": "サッカー", "kana": "サッカー", "romaji": "sakkaa", "en": "soccer", "pos": "noun", "example_ja": "弟はサッカーが上手です。", "example_en": "My little brother is good at soccer."}
+{"id": 447, "jp": "テニス", "kana": "テニス", "romaji": "tenisu", "en": "tennis", "pos": "noun", "example_ja": "日曜日にテニスをします。", "example_en": "I play tennis on Sundays."}
+{"id": 448, "jp": "野球", "kana": "やきゅう", "romaji": "yakyuu", "en": "baseball", "pos": "noun", "example_ja": "野球の試合を見に行きました。", "example_en": "I went to see a baseball game."}
+{"id": 449, "jp": "音楽", "kana": "おんがく", "romaji": "ongaku", "en": "music", "pos": "noun", "example_ja": "音楽を聞きながら勉強します。", "example_en": "I study while listening to music."}
+{"id": 450, "jp": "映画", "kana": "えいが", "romaji": "eiga", "en": "movie", "pos": "noun", "example_ja": "週末に映画を見ました。", "example_en": "I watched a movie on the weekend."}
+{"id": 451, "jp": "歌", "kana": "うた", "romaji": "uta", "en": "song", "pos": "noun", "example_ja": "日本の歌を覚えました。", "example_en": "I learned a Japanese song."}
+{"id": 452, "jp": "絵", "kana": "え", "romaji": "e", "en": "picture; painting", "pos": "noun", "example_ja": "壁に絵がかかっています。", "example_en": "A painting hangs on the wall."}
+{"id": 453, "jp": "ギター", "kana": "ギター", "romaji": "gitaa", "en": "guitar", "pos": "noun", "example_ja": "ギターを弾くのが趣味です。", "example_en": "Playing the guitar is my hobby."}
+{"id": 454, "jp": "ピアノ", "kana": "ピアノ", "romaji": "piano", "en": "piano", "pos": "noun", "example_ja": "姉はピアノが弾けます。", "example_en": "My older sister can play the piano."}
+{"id": 455, "jp": "趣味", "kana": "しゅみ", "romaji": "shumi", "en": "hobby", "pos": "noun", "example_ja": "趣味は写真を撮ることです。", "example_en": "My hobby is taking photos."}
+{"id": 456, "jp": "シャツ", "kana": "シャツ", "romaji": "shatsu", "en": "shirt", "pos": "noun", "example_ja": "青いシャツを着ています。", "example_en": "I'm wearing a blue shirt."}
+{"id": 457, "jp": "ズボン", "kana": "ズボン", "romaji": "zubon", "en": "trousers; pants", "pos": "noun", "example_ja": "黒いズボンを買いました。", "example_en": "I bought black trousers."}
+{"id": 458, "jp": "コート", "kana": "コート", "romaji": "kooto", "en": "coat", "pos": "noun", "example_ja": "寒いのでコートを着ます。", "example_en": "It's cold, so I'll wear a coat."}
+{"id": 459, "jp": "とても", "kana": "とても", "romaji": "totemo", "en": "very", "pos": "adverb", "example_ja": "この本はとても面白いです。", "example_en": "This book is very interesting."}
+{"id": 460, "jp": "少し", "kana": "すこし", "romaji": "sukoshi", "en": "a little", "pos": "adverb", "example_ja": "日本語が少し話せます。", "example_en": "I can speak a little Japanese."}
+{"id": 461, "jp": "たくさん", "kana": "たくさん", "romaji": "takusan", "en": "a lot; many", "pos": "adverb", "example_ja": "宿題がたくさんあります。", "example_en": "I have a lot of homework."}
+{"id": 462, "jp": "もっと", "kana": "もっと", "romaji": "motto", "en": "more", "pos": "adverb", "example_ja": "もっとゆっくり話してください。", "example_en": "Please speak more slowly."}
+{"id": 463, "jp": "ちょっと", "kana": "ちょっと", "romaji": "chotto", "en": "a bit; a moment", "pos": "adverb", "example_ja": "ちょっと待ってください。", "example_en": "Please wait a moment."}
+{"id": 464, "jp": "まだ", "kana": "まだ", "romaji": "mada", "en": "still; not yet", "pos": "adverb", "example_ja": "宿題はまだ終わっていません。", "example_en": "I haven't finished my homework yet."}
+{"id": 465, "jp": "もう", "kana": "もう", "romaji": "mou", "en": "already; anymore", "pos": "adverb", "example_ja": "もう晩ご飯を食べました。", "example_en": "I have already eaten dinner."}
+{"id": 466, "jp": "いつも", "kana": "いつも", "romaji": "itsumo", "en": "always", "pos": "adverb", "example_ja": "いつも七時に起きます。", "example_en": "I always get up at seven."}
+{"id": 467, "jp": "時々", "kana": "ときどき", "romaji": "tokidoki", "en": "sometimes", "pos": "adverb", "example_ja": "時々、映画を見に行きます。", "example_en": "I sometimes go to see movies."}
+{"id": 468, "jp": "よく", "kana": "よく", "romaji": "yoku", "en": "often; well", "pos": "adverb", "example_ja": "友達とよくカフェに行きます。", "example_en": "I often go to cafés with my friends."}
+{"id": 469, "jp": "たぶん", "kana": "たぶん", "romaji": "tabun", "en": "probably", "pos": "adverb", "example_ja": "明日はたぶん晴れるでしょう。", "example_en": "It will probably be sunny tomorrow."}
+{"id": 470, "jp": "全然", "kana": "ぜんぜん", "romaji": "zenzen", "en": "not at all (with negative)", "pos": "adverb", "example_ja": "お金が全然ありません。", "example_en": "I have no money at all."}
+{"id": 471, "jp": "一緒に", "kana": "いっしょに", "romaji": "isshoni", "en": "together", "pos": "adverb", "example_ja": "一緒に昼ご飯を食べませんか。", "example_en": "Shall we have lunch together?"}
+{"id": 472, "jp": "ゆっくり", "kana": "ゆっくり", "romaji": "yukkuri", "en": "slowly; leisurely", "pos": "adverb", "example_ja": "ゆっくり休んでください。", "example_en": "Please rest well."}
+{"id": 473, "jp": "すぐ", "kana": "すぐ", "romaji": "sugu", "en": "immediately; soon", "pos": "adverb", "example_ja": "すぐ行きます。", "example_en": "I'll be right there."}
+{"id": 474, "jp": "まっすぐ", "kana": "まっすぐ", "romaji": "massugu", "en": "straight", "pos": "adverb", "example_ja": "この道をまっすぐ行ってください。", "example_en": "Please go straight down this road."}
+{"id": 475, "jp": "また", "kana": "また", "romaji": "mata", "en": "again", "pos": "adverb", "example_ja": "また明日会いましょう。", "example_en": "Let's meet again tomorrow."}
+{"id": 476, "jp": "初めて", "kana": "はじめて", "romaji": "hajimete", "en": "for the first time", "pos": "adverb", "example_ja": "初めて日本に来ました。", "example_en": "I came to Japan for the first time."}
+{"id": 477, "jp": "一番", "kana": "いちばん", "romaji": "ichiban", "en": "the most; number one", "pos": "adverb", "example_ja": "寿司が一番好きです。", "example_en": "I like sushi the best."}
+{"id": 478, "jp": "あまり", "kana": "あまり", "romaji": "amari", "en": "not very (with negative)", "pos": "adverb", "example_ja": "テレビはあまり見ません。", "example_en": "I don't watch TV very much."}
+{"id": 479, "jp": "だんだん", "kana": "だんだん", "romaji": "dandan", "en": "gradually", "pos": "adverb", "example_ja": "だんだん暖かくなってきました。", "example_en": "It has gradually gotten warmer."}
+{"id": 480, "jp": "勉強", "kana": "べんきょう", "romaji": "benkyou", "en": "study", "pos": "noun", "example_ja": "毎日二時間勉強します。", "example_en": "I study for two hours every day."}
+{"id": 481, "jp": "練習", "kana": "れんしゅう", "romaji": "renshuu", "en": "practice", "pos": "noun", "example_ja": "ピアノの練習をしています。", "example_en": "I am practicing the piano."}
+{"id": 482, "jp": "掃除", "kana": "そうじ", "romaji": "souji", "en": "cleaning", "pos": "noun", "example_ja": "週末に部屋の掃除をします。", "example_en": "I clean my room on weekends."}
+{"id": 483, "jp": "洗濯", "kana": "せんたく", "romaji": "sentaku", "en": "laundry", "pos": "noun", "example_ja": "今日は洗濯をしました。", "example_en": "I did the laundry today."}
+{"id": 484, "jp": "散歩", "kana": "さんぽ", "romaji": "sanpo", "en": "a walk; stroll", "pos": "noun", "example_ja": "朝、犬と散歩をします。", "example_en": "I take a walk with my dog in the morning."}
+{"id": 485, "jp": "結婚", "kana": "けっこん", "romaji": "kekkon", "en": "marriage", "pos": "noun", "example_ja": "二人は去年結婚しました。", "example_en": "The two got married last year."}
+{"id": 486, "jp": "質問", "kana": "しつもん", "romaji": "shitsumon", "en": "question", "pos": "noun", "example_ja": "質問があります。", "example_en": "I have a question."}
+{"id": 487, "jp": "電話", "kana": "でんわ", "romaji": "denwa", "en": "telephone; phone call", "pos": "noun", "example_ja": "後で電話します。", "example_en": "I'll call you later."}
+{"id": 488, "jp": "買い物", "kana": "かいもの", "romaji": "kaimono", "en": "shopping", "pos": "noun", "example_ja": "母と買い物に行きました。", "example_en": "I went shopping with my mother."}
+{"id": 489, "jp": "仕事", "kana": "しごと", "romaji": "shigoto", "en": "work; job", "pos": "noun", "example_ja": "仕事は九時から五時までです。", "example_en": "Work is from nine to five."}
+{"id": 490, "jp": "授業", "kana": "じゅぎょう", "romaji": "jugyou", "en": "class; lesson", "pos": "noun", "example_ja": "日本語の授業は楽しいです。", "example_en": "Japanese class is fun."}
+{"id": 491, "jp": "宿題", "kana": "しゅくだい", "romaji": "shukudai", "en": "homework", "pos": "noun", "example_ja": "宿題を忘れました。", "example_en": "I forgot my homework."}
+{"id": 492, "jp": "試験", "kana": "しけん", "romaji": "shiken", "en": "exam; test", "pos": "noun", "example_ja": "来週、試験があります。", "example_en": "There is an exam next week."}
+{"id": 493, "jp": "言葉", "kana": "ことば", "romaji": "kotoba", "en": "word; language", "pos": "noun", "example_ja": "新しい言葉を三つ覚えました。", "example_en": "I learned three new words."}
+{"id": 494, "jp": "漢字", "kana": "かんじ", "romaji": "kanji", "en": "kanji; Chinese character", "pos": "noun", "example_ja": "漢字を書くのが好きです。", "example_en": "I like writing kanji."}
+{"id": 495, "jp": "平仮名", "kana": "ひらがな", "romaji": "hiragana", "en": "hiragana", "pos": "noun", "example_ja": "平仮名はもう読めます。", "example_en": "I can already read hiragana."}
+{"id": 496, "jp": "片仮名", "kana": "カタカナ", "romaji": "katakana", "en": "katakana", "pos": "noun", "example_ja": "片仮名で名前を書いてください。", "example_en": "Please write your name in katakana."}
+{"id": 497, "jp": "英語", "kana": "えいご", "romaji": "eigo", "en": "English (language)", "pos": "noun", "example_ja": "英語と日本語を話します。", "example_en": "I speak English and Japanese."}
+{"id": 498, "jp": "日本語", "kana": "にほんご", "romaji": "nihongo", "en": "Japanese (language)", "pos": "noun", "example_ja": "日本語の勉強は楽しいです。", "example_en": "Studying Japanese is fun."}
+{"id": 499, "jp": "意味", "kana": "いみ", "romaji": "imi", "en": "meaning", "pos": "noun", "example_ja": "この言葉の意味が分かりません。", "example_en": "I don't understand the meaning of this word."}
+{"id": 500, "jp": "問題", "kana": "もんだい", "romaji": "mondai", "en": "problem; question", "pos": "noun", "example_ja": "この問題は難しいです。", "example_en": "This problem is difficult."}
+{"id": 501, "jp": "答え", "kana": "こたえ", "romaji": "kotae", "en": "answer", "pos": "noun", "example_ja": "答えが分かりますか。", "example_en": "Do you know the answer?"}
+{"id": 502, "jp": "話", "kana": "はなし", "romaji": "hanashi", "en": "talk; story", "pos": "noun", "example_ja": "面白い話を聞きました。", "example_en": "I heard an interesting story."}
+{"id": 503, "jp": "字", "kana": "じ", "romaji": "ji", "en": "character; handwriting", "pos": "noun", "example_ja": "彼女は字がきれいです。", "example_en": "Her handwriting is beautiful."}
+{"id": 504, "jp": "作文", "kana": "さくぶん", "romaji": "sakubun", "en": "essay; composition", "pos": "noun", "example_ja": "日本語で作文を書きました。", "example_en": "I wrote an essay in Japanese."}
+{"id": 505, "jp": "教室", "kana": "きょうしつ", "romaji": "kyoushitsu", "en": "classroom", "pos": "noun", "example_ja": "教室に学生が二十人います。", "example_en": "There are twenty students in the classroom."}
+{"id": 506, "jp": "黒板", "kana": "こくばん", "romaji": "kokuban", "en": "blackboard", "pos": "noun", "example_ja": "先生が黒板に字を書きました。", "example_en": "The teacher wrote on the blackboard."}
+{"id": 507, "jp": "クラス", "kana": "クラス", "romaji": "kurasu", "en": "class (group)", "pos": "noun", "example_ja": "クラスに留学生が三人います。", "example_en": "There are three international students in my class."}
+{"id": 508, "jp": "留学生", "kana": "りゅうがくせい", "romaji": "ryuugakusei", "en": "international student", "pos": "noun", "example_ja": "彼はアメリカからの留学生です。", "example_en": "He is an international student from America."}
+{"id": 509, "jp": "東", "kana": "ひがし", "romaji": "higashi", "en": "east", "pos": "noun", "example_ja": "太陽は東から昇ります。", "example_en": "The sun rises in the east."}
+{"id": 510, "jp": "西", "kana": "にし", "romaji": "nishi", "en": "west", "pos": "noun", "example_ja": "駅の西口で会いましょう。", "example_en": "Let's meet at the station's west exit."}
+{"id": 511, "jp": "南", "kana": "みなみ", "romaji": "minami", "en": "south", "pos": "noun", "example_ja": "南の島へ旅行に行きたいです。", "example_en": "I want to travel to a southern island."}
+{"id": 512, "jp": "北", "kana": "きた", "romaji": "kita", "en": "north", "pos": "noun", "example_ja": "北海道は日本の北にあります。", "example_en": "Hokkaido is in the north of Japan."}
+{"id": 513, "jp": "側", "kana": "そば", "romaji": "soba", "en": "near; beside", "pos": "noun", "example_ja": "駅の側に住んでいます。", "example_en": "I live near the station."}
+{"id": 514, "jp": "間", "kana": "あいだ", "romaji": "aida", "en": "between; during", "pos": "noun", "example_ja": "銀行と郵便局の間にあります。", "example_en": "It's between the bank and the post office."}
+{"id": 515, "jp": "角", "kana": "かど", "romaji": "kado", "en": "corner", "pos": "noun", "example_ja": "あの角を左に曲がってください。", "example_en": "Please turn left at that corner."}
+{"id": 516, "jp": "入口", "kana": "いりぐち", "romaji": "iriguchi", "en": "entrance", "pos": "noun", "example_ja": "入口はあちらです。", "example_en": "The entrance is over there."}
+{"id": 517, "jp": "出口", "kana": "でぐち", "romaji": "deguchi", "en": "exit", "pos": "noun", "example_ja": "出口が分かりません。", "example_en": "I can't find the exit."}
+{"id": 518, "jp": "受け取る", "kana": "うけとる", "romaji": "uketoru", "en": "to receive; to pick up", "pos": "verb", "example_ja": "荷物を受け取りました。", "example_en": "I received the package."}
+{"id": 519, "jp": "地下", "kana": "ちか", "romaji": "chika", "en": "basement; underground", "pos": "noun", "example_ja": "食品売り場は地下にあります。", "example_en": "The food section is in the basement."}
+{"id": 520, "jp": "屋上", "kana": "おくじょう", "romaji": "okujou", "en": "rooftop", "pos": "noun", "example_ja": "屋上から町が見えます。", "example_en": "You can see the town from the rooftop."}
+{"id": 521, "jp": "事務所", "kana": "じむしょ", "romaji": "jimusho", "en": "office", "pos": "noun", "example_ja": "事務所は二階にあります。", "example_en": "The office is on the second floor."}
+{"id": 522, "jp": "交番", "kana": "こうばん", "romaji": "kouban", "en": "police box", "pos": "noun", "example_ja": "交番で道を聞きました。", "example_en": "I asked for directions at the police box."}
+{"id": 523, "jp": "警察", "kana": "けいさつ", "romaji": "keisatsu", "en": "police", "pos": "noun", "example_ja": "警察に電話しました。", "example_en": "I called the police."}
+{"id": 524, "jp": "美容院", "kana": "びよういん", "romaji": "biyouin", "en": "hair salon", "pos": "noun", "example_ja": "美容院で髪を切りました。", "example_en": "I got my hair cut at the salon."}
+{"id": 525, "jp": "本屋", "kana": "ほんや", "romaji": "honya", "en": "bookstore", "pos": "noun", "example_ja": "本屋で雑誌を買いました。", "example_en": "I bought a magazine at the bookstore."}
+{"id": 526, "jp": "花屋", "kana": "はなや", "romaji": "hanaya", "en": "flower shop", "pos": "noun", "example_ja": "花屋でバラを買いました。", "example_en": "I bought roses at the flower shop."}
+{"id": 527, "jp": "パン屋", "kana": "パンや", "romaji": "panya", "en": "bakery", "pos": "noun", "example_ja": "このパン屋は朝七時に開きます。", "example_en": "This bakery opens at seven in the morning."}
+{"id": 528, "jp": "肉屋", "kana": "にくや", "romaji": "nikuya", "en": "butcher shop", "pos": "noun", "example_ja": "肉屋で鶏肉を買いました。", "example_en": "I bought chicken at the butcher shop."}
+{"id": 529, "jp": "八百屋", "kana": "やおや", "romaji": "yaoya", "en": "vegetable shop; greengrocer", "pos": "noun", "example_ja": "八百屋でトマトを買いました。", "example_en": "I bought tomatoes at the greengrocer."}
+{"id": 530, "jp": "薬局", "kana": "やっきょく", "romaji": "yakkyoku", "en": "pharmacy", "pos": "noun", "example_ja": "薬局で風邪薬を買いました。", "example_en": "I bought cold medicine at the pharmacy."}
+{"id": 531, "jp": "銭湯", "kana": "せんとう", "romaji": "sentou", "en": "public bath", "pos": "noun", "example_ja": "近所の銭湯に行きました。", "example_en": "I went to the local public bath."}
+{"id": 532, "jp": "神社", "kana": "じんじゃ", "romaji": "jinja", "en": "Shinto shrine", "pos": "noun", "example_ja": "お正月に神社へ行きます。", "example_en": "I visit a shrine at New Year's."}
+{"id": 533, "jp": "お寺", "kana": "おてら", "romaji": "otera", "en": "Buddhist temple", "pos": "noun", "example_ja": "京都で古いお寺を見ました。", "example_en": "I saw old temples in Kyoto."}
+{"id": 534, "jp": "お土産", "kana": "おみやげ", "romaji": "omiyage", "en": "souvenir", "pos": "noun", "example_ja": "京都のお土産を買いました。", "example_en": "I bought souvenirs from Kyoto."}
+{"id": 535, "jp": "旅行", "kana": "りょこう", "romaji": "ryokou", "en": "travel; trip", "pos": "noun", "example_ja": "来月、家族と旅行します。", "example_en": "I'm traveling with my family next month."}
+{"id": 536, "jp": "写真屋", "kana": "しゃしんや", "romaji": "shashinya", "en": "photo shop", "pos": "noun", "example_ja": "写真屋で写真を印刷しました。", "example_en": "I printed photos at the photo shop."}
+{"id": 537, "jp": "門", "kana": "もん", "romaji": "mon", "en": "gate", "pos": "noun", "example_ja": "学校の門の前で待っています。", "example_en": "I'm waiting in front of the school gate."}
+{"id": 538, "jp": "壁", "kana": "かべ", "romaji": "kabe", "en": "wall", "pos": "noun", "example_ja": "壁に地図を貼りました。", "example_en": "I put a map on the wall."}
+{"id": 539, "jp": "床", "kana": "ゆか", "romaji": "yuka", "en": "floor", "pos": "noun", "example_ja": "床を掃除しました。", "example_en": "I cleaned the floor."}
+{"id": 540, "jp": "天井", "kana": "てんじょう", "romaji": "tenjou", "en": "ceiling", "pos": "noun", "example_ja": "この部屋は天井が高いです。", "example_en": "This room has a high ceiling."}
+{"id": 541, "jp": "階段", "kana": "かいだん", "romaji": "kaidan", "en": "stairs", "pos": "noun", "example_ja": "階段で三階まで上がりました。", "example_en": "I went up to the third floor by the stairs."}
+{"id": 542, "jp": "廊下", "kana": "ろうか", "romaji": "rouka", "en": "hallway; corridor", "pos": "noun", "example_ja": "廊下を走らないでください。", "example_en": "Please don't run in the hallway."}
+{"id": 543, "jp": "玄関", "kana": "げんかん", "romaji": "genkan", "en": "entrance (of a house)", "pos": "noun", "example_ja": "玄関で靴を脱ぎました。", "example_en": "I took off my shoes at the entrance."}
+{"id": 544, "jp": "押入れ", "kana": "おしいれ", "romaji": "oshiire", "en": "closet (Japanese-style)", "pos": "noun", "example_ja": "布団を押入れにしまいました。", "example_en": "I put the futon away in the closet."}
+{"id": 545, "jp": "本棚", "kana": "ほんだな", "romaji": "hondana", "en": "bookshelf", "pos": "noun", "example_ja": "本棚に本がたくさんあります。", "example_en": "There are many books on the bookshelf."}
+{"id": 546, "jp": "冷蔵庫", "kana": "れいぞうこ", "romaji": "reizouko", "en": "refrigerator", "pos": "noun", "example_ja": "冷蔵庫に牛乳があります。", "example_en": "There is milk in the refrigerator."}
+{"id": 547, "jp": "電気", "kana": "でんき", "romaji": "denki", "en": "electricity; light", "pos": "noun", "example_ja": "電気を消してください。", "example_en": "Please turn off the light."}
+{"id": 548, "jp": "エアコン", "kana": "エアコン", "romaji": "eakon", "en": "air conditioner", "pos": "noun", "example_ja": "暑いのでエアコンをつけました。", "example_en": "It was hot, so I turned on the air conditioner."}
+{"id": 549, "jp": "ストーブ", "kana": "ストーブ", "romaji": "sutoobu", "en": "heater; stove", "pos": "noun", "example_ja": "冬はストーブを使います。", "example_en": "We use a heater in winter."}
+{"id": 550, "jp": "洗濯機", "kana": "せんたくき", "romaji": "sentakuki", "en": "washing machine", "pos": "noun", "example_ja": "新しい洗濯機を買いました。", "example_en": "I bought a new washing machine."}
+{"id": 551, "jp": "布団", "kana": "ふとん", "romaji": "futon", "en": "futon; bedding", "pos": "noun", "example_ja": "布団で寝るのが好きです。", "example_en": "I like sleeping on a futon."}
+{"id": 552, "jp": "畳", "kana": "たたみ", "romaji": "tatami", "en": "tatami mat", "pos": "noun", "example_ja": "畳の部屋でお茶を飲みました。", "example_en": "We drank tea in a tatami room."}
+{"id": 553, "jp": "石鹸", "kana": "せっけん", "romaji": "sekken", "en": "soap", "pos": "noun", "example_ja": "石鹸で手を洗ってください。", "example_en": "Please wash your hands with soap."}
+{"id": 554, "jp": "タオル", "kana": "タオル", "romaji": "taoru", "en": "towel", "pos": "noun", "example_ja": "タオルで顔を拭きました。", "example_en": "I wiped my face with a towel."}
+{"id": 555, "jp": "歯ブラシ", "kana": "はブラシ", "romaji": "haburashi", "en": "toothbrush", "pos": "noun", "example_ja": "新しい歯ブラシを買いました。", "example_en": "I bought a new toothbrush."}
+{"id": 556, "jp": "鏡", "kana": "かがみ", "romaji": "kagami", "en": "mirror", "pos": "noun", "example_ja": "鏡を見ながら髪をとかしました。", "example_en": "I combed my hair while looking in the mirror."}
+{"id": 557, "jp": "ごみ", "kana": "ごみ", "romaji": "gomi", "en": "garbage; trash", "pos": "noun", "example_ja": "ごみは月曜日に出します。", "example_en": "We take out the garbage on Mondays."}
+{"id": 558, "jp": "ポスト", "kana": "ポスト", "romaji": "posuto", "en": "mailbox", "pos": "noun", "example_ja": "手紙をポストに入れました。", "example_en": "I put the letter in the mailbox."}
+{"id": 559, "jp": "言う", "kana": "いう", "romaji": "iu", "en": "to say", "pos": "verb", "example_ja": "先生が「明日は休みです」と言いました。", "example_en": "The teacher said, \"Tomorrow is a day off.\""}
+{"id": 560, "jp": "思う", "kana": "おもう", "romaji": "omou", "en": "to think", "pos": "verb", "example_ja": "日本語は面白いと思います。", "example_en": "I think Japanese is interesting."}
+{"id": 561, "jp": "知る", "kana": "しる", "romaji": "shiru", "en": "to know", "pos": "verb", "example_ja": "その店を知っていますか。", "example_en": "Do you know that shop?"}
+{"id": 562, "jp": "考える", "kana": "かんがえる", "romaji": "kangaeru", "en": "to think; to consider", "pos": "verb", "example_ja": "答えをよく考えてください。", "example_en": "Please think carefully about the answer."}
+{"id": 563, "jp": "見せる", "kana": "みせる", "romaji": "miseru", "en": "to show", "pos": "verb", "example_ja": "写真を見せてください。", "example_en": "Please show me the photo."}
+{"id": 564, "jp": "聞こえる", "kana": "きこえる", "romaji": "kikoeru", "en": "to be audible", "pos": "verb", "example_ja": "音楽が聞こえます。", "example_en": "I can hear music."}
+{"id": 565, "jp": "見える", "kana": "みえる", "romaji": "mieru", "en": "to be visible", "pos": "verb", "example_ja": "窓から山が見えます。", "example_en": "You can see mountains from the window."}
+{"id": 566, "jp": "出かける", "kana": "でかける", "romaji": "dekakeru", "en": "to go out", "pos": "verb", "example_ja": "午後から買い物に出かけます。", "example_en": "I'm going out shopping in the afternoon."}
+{"id": 567, "jp": "始める", "kana": "はじめる", "romaji": "hajimeru", "en": "to begin (transitive)", "pos": "verb", "example_ja": "来月から日本語を始めます。", "example_en": "I will start Japanese next month."}
+{"id": 568, "jp": "終える", "kana": "おえる", "romaji": "oeru", "en": "to finish (transitive)", "pos": "verb", "example_ja": "仕事を終えて家に帰りました。", "example_en": "I finished work and went home."}
+{"id": 569, "jp": "忘れ物", "kana": "わすれもの", "romaji": "wasuremono", "en": "forgotten item", "pos": "noun", "example_ja": "電車に忘れ物をしました。", "example_en": "I left something on the train."}
+{"id": 570, "jp": "落とす", "kana": "おとす", "romaji": "otosu", "en": "to drop; to lose", "pos": "verb", "example_ja": "財布を落としました。", "example_en": "I dropped my wallet."}
+{"id": 571, "jp": "拾う", "kana": "ひろう", "romaji": "hirou", "en": "to pick up", "pos": "verb", "example_ja": "道で百円を拾いました。", "example_en": "I picked up 100 yen on the street."}
+{"id": 572, "jp": "押す", "kana": "おす", "romaji": "osu", "en": "to push; to press", "pos": "verb", "example_ja": "このボタンを押してください。", "example_en": "Please press this button."}
+{"id": 573, "jp": "引く", "kana": "ひく", "romaji": "hiku", "en": "to pull", "pos": "verb", "example_ja": "ドアを引いて開けてください。", "example_en": "Please pull the door to open it."}
+{"id": 574, "jp": "切る", "kana": "きる", "romaji": "kiru", "en": "to cut", "pos": "verb", "example_ja": "野菜を小さく切ります。", "example_en": "I cut the vegetables into small pieces."}
+{"id": 575, "jp": "貼る", "kana": "はる", "romaji": "haru", "en": "to stick; to paste", "pos": "verb", "example_ja": "封筒に切手を貼りました。", "example_en": "I put a stamp on the envelope."}
+{"id": 576, "jp": "渡す", "kana": "わたす", "romaji": "watasu", "en": "to hand over", "pos": "verb", "example_ja": "先生にレポートを渡しました。", "example_en": "I handed the report to the teacher."}
+{"id": 577, "jp": "届く", "kana": "とどく", "romaji": "todoku", "en": "to arrive (mail); to reach", "pos": "verb", "example_ja": "荷物が今日届きました。", "example_en": "The package arrived today."}
+{"id": 578, "jp": "磨く", "kana": "みがく", "romaji": "migaku", "en": "to brush; to polish", "pos": "verb", "example_ja": "寝る前に歯を磨きます。", "example_en": "I brush my teeth before bed."}
+{"id": 579, "jp": "座席", "kana": "ざせき", "romaji": "zaseki", "en": "seat", "pos": "noun", "example_ja": "座席は窓側がいいです。", "example_en": "I prefer a window seat."}
+{"id": 580, "jp": "飲み会", "kana": "のみかい", "romaji": "nomikai", "en": "drinking party", "pos": "noun", "example_ja": "金曜日に会社の飲み会があります。", "example_en": "There's a company drinking party on Friday."}
+{"id": 581, "jp": "歌手", "kana": "かしゅ", "romaji": "kashu", "en": "singer", "pos": "noun", "example_ja": "好きな歌手は誰ですか。", "example_en": "Who is your favorite singer?"}
+{"id": 582, "jp": "料理人", "kana": "りょうりにん", "romaji": "ryourinin", "en": "cook; chef", "pos": "noun", "example_ja": "彼は有名な料理人です。", "example_en": "He is a famous chef."}
+{"id": 583, "jp": "運転手", "kana": "うんてんしゅ", "romaji": "untenshu", "en": "driver", "pos": "noun", "example_ja": "タクシーの運転手に道を聞きました。", "example_en": "I asked the taxi driver for directions."}
+{"id": 584, "jp": "店員", "kana": "てんいん", "romaji": "tenin", "en": "shop clerk", "pos": "noun", "example_ja": "店員さんが親切でした。", "example_en": "The shop clerk was kind."}
+{"id": 585, "jp": "看護師", "kana": "かんごし", "romaji": "kangoshi", "en": "nurse", "pos": "noun", "example_ja": "姉は看護師です。", "example_en": "My older sister is a nurse."}
+{"id": 586, "jp": "警察官", "kana": "けいさつかん", "romaji": "keisatsukan", "en": "police officer", "pos": "noun", "example_ja": "警察官に道を聞きました。", "example_en": "I asked a police officer for directions."}
+{"id": 587, "jp": "銀行員", "kana": "ぎんこういん", "romaji": "ginkouin", "en": "bank employee", "pos": "noun", "example_ja": "父は銀行員です。", "example_en": "My father is a bank employee."}
+{"id": 588, "jp": "公務員", "kana": "こうむいん", "romaji": "koumuin", "en": "civil servant", "pos": "noun", "example_ja": "兄は公務員になりました。", "example_en": "My brother became a civil servant."}
+{"id": 589, "jp": "生活する", "kana": "せいかつする", "romaji": "seikatsu suru", "en": "to live (daily life)", "pos": "verb", "example_ja": "東京で一人で生活しています。", "example_en": "I live alone in Tokyo."}
+{"id": 590, "jp": "住所", "kana": "じゅうしょ", "romaji": "juusho", "en": "address", "pos": "noun", "example_ja": "ここに住所を書いてください。", "example_en": "Please write your address here."}
+{"id": 591, "jp": "電話番号", "kana": "でんわばんごう", "romaji": "denwabangou", "en": "phone number", "pos": "noun", "example_ja": "電話番号を教えてください。", "example_en": "Please tell me your phone number."}
+{"id": 592, "jp": "番号", "kana": "ばんごう", "romaji": "bangou", "en": "number", "pos": "noun", "example_ja": "部屋の番号は三〇二です。", "example_en": "The room number is 302."}
+{"id": 593, "jp": "生年月日", "kana": "せいねんがっぴ", "romaji": "seinengappi", "en": "date of birth", "pos": "noun", "example_ja": "生年月日を書いてください。", "example_en": "Please write your date of birth."}
+{"id": 594, "jp": "吹く", "kana": "ふく", "romaji": "fuku", "en": "to blow (wind)", "pos": "verb", "example_ja": "今日は冷たい風が吹いています。", "example_en": "A cold wind is blowing today."}
+{"id": 595, "jp": "時間", "kana": "じかん", "romaji": "jikan", "en": "time; hour", "pos": "noun", "example_ja": "時間がありません。", "example_en": "There is no time."}
+{"id": 596, "jp": "止める", "kana": "とめる", "romaji": "tomeru", "en": "to stop (transitive); to park", "pos": "verb", "example_ja": "ここに車を止めてもいいですか。", "example_en": "May I park the car here?"}
+{"id": 597, "jp": "半分", "kana": "はんぶん", "romaji": "hanbun", "en": "half", "pos": "noun", "example_ja": "ケーキを半分ください。", "example_en": "Please give me half of the cake."}
+{"id": 598, "jp": "全部", "kana": "ぜんぶ", "romaji": "zenbu", "en": "all; everything", "pos": "noun", "example_ja": "宿題を全部終わらせました。", "example_en": "I finished all my homework."}
+{"id": 599, "jp": "答える", "kana": "こたえる", "romaji": "kotaeru", "en": "to answer", "pos": "verb", "example_ja": "先生の質問に答えました。", "example_en": "I answered the teacher's question."}
+{"id": 600, "jp": "今晩", "kana": "こんばん", "romaji": "konban", "en": "tonight", "pos": "noun", "example_ja": "今晩、電話してもいいですか。", "example_en": "May I call you tonight?"}
+{"id": 601, "jp": "今朝", "kana": "けさ", "romaji": "kesa", "en": "this morning", "pos": "noun", "example_ja": "今朝は六時に起きました。", "example_en": "I got up at six this morning."}
+{"id": 602, "jp": "昨夜", "kana": "ゆうべ", "romaji": "yuube", "en": "last night", "pos": "noun", "example_ja": "昨夜は早く寝ました。", "example_en": "I went to bed early last night."}
+{"id": 603, "jp": "明後日", "kana": "あさって", "romaji": "asatte", "en": "the day after tomorrow", "pos": "noun", "example_ja": "明後日、試験があります。", "example_en": "There's an exam the day after tomorrow."}
+{"id": 604, "jp": "一昨日", "kana": "おととい", "romaji": "ototoi", "en": "the day before yesterday", "pos": "noun", "example_ja": "一昨日、映画を見ました。", "example_en": "I watched a movie the day before yesterday."}
+{"id": 605, "jp": "週末", "kana": "しゅうまつ", "romaji": "shuumatsu", "en": "weekend", "pos": "noun", "example_ja": "週末は何をしますか。", "example_en": "What do you do on weekends?"}
+{"id": 606, "jp": "平日", "kana": "へいじつ", "romaji": "heijitsu", "en": "weekday", "pos": "noun", "example_ja": "平日は仕事があります。", "example_en": "I work on weekdays."}
+{"id": 607, "jp": "最初に", "kana": "さいしょに", "romaji": "saisho ni", "en": "first of all", "pos": "adverb", "example_ja": "最初に名前を書いてください。", "example_en": "First, please write your name."}
+{"id": 608, "jp": "後で", "kana": "あとで", "romaji": "atode", "en": "later", "pos": "adverb", "example_ja": "後で電話します。", "example_en": "I'll call you later."}
+{"id": 609, "jp": "これ", "kana": "これ", "romaji": "kore", "en": "this (thing)", "pos": "noun", "example_ja": "これは何ですか。", "example_en": "What is this?"}
+{"id": 610, "jp": "それ", "kana": "それ", "romaji": "sore", "en": "that (thing)", "pos": "noun", "example_ja": "それは私の傘です。", "example_en": "That is my umbrella."}
+{"id": 611, "jp": "あれ", "kana": "あれ", "romaji": "are", "en": "that (thing over there)", "pos": "noun", "example_ja": "あれは学校です。", "example_en": "That over there is a school."}
+{"id": 612, "jp": "ここ", "kana": "ここ", "romaji": "koko", "en": "here", "pos": "noun", "example_ja": "ここに座ってください。", "example_en": "Please sit here."}
+{"id": 613, "jp": "そこ", "kana": "そこ", "romaji": "soko", "en": "there", "pos": "noun", "example_ja": "そこに置いてください。", "example_en": "Please put it there."}
+{"id": 614, "jp": "あそこ", "kana": "あそこ", "romaji": "asoko", "en": "over there", "pos": "noun", "example_ja": "トイレはあそこです。", "example_en": "The bathroom is over there."}
+{"id": 615, "jp": "こちら", "kana": "こちら", "romaji": "kochira", "en": "this way; this person (polite)", "pos": "noun", "example_ja": "こちらへどうぞ。", "example_en": "This way, please."}
+{"id": 616, "jp": "どちら", "kana": "どちら", "romaji": "dochira", "en": "which; where (polite)", "pos": "noun", "example_ja": "お国はどちらですか。", "example_en": "Where are you from?"}
+{"id": 617, "jp": "どれ", "kana": "どれ", "romaji": "dore", "en": "which one", "pos": "noun", "example_ja": "あなたのかばんはどれですか。", "example_en": "Which one is your bag?"}
+{"id": 618, "jp": "どう", "kana": "どう", "romaji": "dou", "en": "how", "pos": "adverb", "example_ja": "日本の生活はどうですか。", "example_en": "How is life in Japan?"}
+{"id": 619, "jp": "いくら", "kana": "いくら", "romaji": "ikura", "en": "how much", "pos": "noun", "example_ja": "これはいくらですか。", "example_en": "How much is this?"}
+{"id": 620, "jp": "いくつ", "kana": "いくつ", "romaji": "ikutsu", "en": "how many; how old", "pos": "noun", "example_ja": "りんごはいくつありますか。", "example_en": "How many apples are there?"}
+{"id": 621, "jp": "何時", "kana": "なんじ", "romaji": "nanji", "en": "what time", "pos": "noun", "example_ja": "今、何時ですか。", "example_en": "What time is it now?"}
+{"id": 622, "jp": "何人", "kana": "なんにん", "romaji": "nannin", "en": "how many people", "pos": "noun", "example_ja": "家族は何人ですか。", "example_en": "How many people are in your family?"}
+{"id": 623, "jp": "嬉しい", "kana": "うれしい", "romaji": "ureshii", "en": "happy; glad", "pos": "i-adj", "example_ja": "合格して嬉しいです。", "example_en": "I'm happy I passed."}
+{"id": 624, "jp": "悲しい", "kana": "かなしい", "romaji": "kanashii", "en": "sad", "pos": "i-adj", "example_ja": "悲しい映画を見て泣きました。", "example_en": "I cried watching a sad movie."}
+{"id": 625, "jp": "寂しい", "kana": "さびしい", "romaji": "sabishii", "en": "lonely", "pos": "i-adj", "example_ja": "一人暮らしは時々寂しいです。", "example_en": "Living alone is sometimes lonely."}
+{"id": 626, "jp": "怖い", "kana": "こわい", "romaji": "kowai", "en": "scary; afraid", "pos": "i-adj", "example_ja": "怖い夢を見ました。", "example_en": "I had a scary dream."}
+{"id": 627, "jp": "恥ずかしい", "kana": "はずかしい", "romaji": "hazukashii", "en": "embarrassed; shy", "pos": "i-adj", "example_ja": "人前で話すのは恥ずかしいです。", "example_en": "Speaking in public is embarrassing."}
+{"id": 628, "jp": "気分", "kana": "きぶん", "romaji": "kibun", "en": "feeling; mood", "pos": "noun", "example_ja": "今日は気分がいいです。", "example_en": "I feel good today."}
+{"id": 629, "jp": "気持ち", "kana": "きもち", "romaji": "kimochi", "en": "feeling", "pos": "noun", "example_ja": "温泉は気持ちがいいです。", "example_en": "Hot springs feel great."}
+{"id": 630, "jp": "泣く", "kana": "なく", "romaji": "naku", "en": "to cry", "pos": "verb", "example_ja": "赤ちゃんが泣いています。", "example_en": "The baby is crying."}
+{"id": 631, "jp": "怒る", "kana": "おこる", "romaji": "okoru", "en": "to get angry", "pos": "verb", "example_ja": "母は遅刻に怒りました。", "example_en": "My mother got angry about my being late."}
+{"id": 632, "jp": "笑顔", "kana": "えがお", "romaji": "egao", "en": "smile", "pos": "noun", "example_ja": "彼女はいつも笑顔です。", "example_en": "She is always smiling."}
+{"id": 633, "jp": "心", "kana": "こころ", "romaji": "kokoro", "en": "heart; mind", "pos": "noun", "example_ja": "心から感謝します。", "example_en": "I thank you from my heart."}
+{"id": 634, "jp": "お願い", "kana": "おねがい", "romaji": "onegai", "en": "request; favor", "pos": "noun", "example_ja": "お願いがあります。", "example_en": "I have a favor to ask."}
+{"id": 635, "jp": "ありがとう", "kana": "ありがとう", "romaji": "arigatou", "en": "thank you", "pos": "expression", "example_ja": "手伝ってくれてありがとう。", "example_en": "Thank you for helping me."}
+{"id": 636, "jp": "すみません", "kana": "すみません", "romaji": "sumimasen", "en": "excuse me; sorry", "pos": "expression", "example_ja": "すみません、駅はどこですか。", "example_en": "Excuse me, where is the station?"}
+{"id": 637, "jp": "おはよう", "kana": "おはよう", "romaji": "ohayou", "en": "good morning", "pos": "expression", "example_ja": "おはよう。今日もいい天気だね。", "example_en": "Good morning. Nice weather again today."}
+{"id": 638, "jp": "こんにちは", "kana": "こんにちは", "romaji": "konnichiwa", "en": "hello; good afternoon", "pos": "expression", "example_ja": "こんにちは、お元気ですか。", "example_en": "Hello, how are you?"}
+{"id": 639, "jp": "こんばんは", "kana": "こんばんは", "romaji": "konbanwa", "en": "good evening", "pos": "expression", "example_ja": "こんばんは、寒いですね。", "example_en": "Good evening. It's cold, isn't it?"}
+{"id": 640, "jp": "さようなら", "kana": "さようなら", "romaji": "sayounara", "en": "goodbye", "pos": "expression", "example_ja": "さようなら、また明日。", "example_en": "Goodbye, see you tomorrow."}
+{"id": 641, "jp": "おやすみなさい", "kana": "おやすみなさい", "romaji": "oyasuminasai", "en": "good night", "pos": "expression", "example_ja": "もう寝ます。おやすみなさい。", "example_en": "I'm going to bed now. Good night."}
+{"id": 642, "jp": "いただきます", "kana": "いただきます", "romaji": "itadakimasu", "en": "expression before eating", "pos": "expression", "example_ja": "おいしそう!いただきます。", "example_en": "Looks delicious! Let's eat."}
+{"id": 643, "jp": "ごちそうさま", "kana": "ごちそうさま", "romaji": "gochisousama", "en": "expression after eating", "pos": "expression", "example_ja": "ごちそうさま。おいしかったです。", "example_en": "Thanks for the meal. It was delicious."}
+{"id": 644, "jp": "はい", "kana": "はい", "romaji": "hai", "en": "yes", "pos": "expression", "example_ja": "はい、分かりました。", "example_en": "Yes, I understand."}
+{"id": 645, "jp": "いいえ", "kana": "いいえ", "romaji": "iie", "en": "no", "pos": "expression", "example_ja": "いいえ、違います。", "example_en": "No, that's not right."}
+{"id": 646, "jp": "どうぞ", "kana": "どうぞ", "romaji": "douzo", "en": "please; here you are", "pos": "expression", "example_ja": "どうぞ、お入りください。", "example_en": "Please, come in."}
+{"id": 647, "jp": "どうも", "kana": "どうも", "romaji": "doumo", "en": "thanks; very much", "pos": "expression", "example_ja": "どうもありがとうございます。", "example_en": "Thank you very much."}
+{"id": 648, "jp": "お疲れ様", "kana": "おつかれさま", "romaji": "otsukaresama", "en": "thank you for your work", "pos": "expression", "example_ja": "お疲れ様でした。また明日。", "example_en": "Good work today. See you tomorrow."}
+{"id": 649, "jp": "大好き", "kana": "だいすき", "romaji": "daisuki", "en": "to love; really like", "pos": "na-adj", "example_ja": "チョコレートが大好きです。", "example_en": "I love chocolate."}
+{"id": 650, "jp": "にっこり", "kana": "にっこり", "romaji": "nikkori", "en": "with a smile", "pos": "adverb", "example_ja": "彼女はにっこり笑いました。", "example_en": "She smiled brightly."}
+{"id": 651, "jp": "びっくり", "kana": "びっくり", "romaji": "bikkuri", "en": "surprised", "pos": "adverb", "example_ja": "急な音にびっくりしました。", "example_en": "I was surprised by the sudden noise."}
+{"id": 652, "jp": "楽", "kana": "らく", "romaji": "raku", "en": "easy; comfortable", "pos": "na-adj", "example_ja": "この椅子は座り心地が楽です。", "example_en": "This chair is comfortable to sit in."}
+{"id": 653, "jp": "親切", "kana": "しんせつ", "romaji": "shinsetsu", "en": "kind", "pos": "na-adj", "example_ja": "駅員さんはとても親切でした。", "example_en": "The station attendant was very kind."}
+{"id": 654, "jp": "真面目", "kana": "まじめ", "romaji": "majime", "en": "serious; diligent", "pos": "na-adj", "example_ja": "彼は真面目な学生です。", "example_en": "He is a diligent student."}
+{"id": 655, "jp": "素敵", "kana": "すてき", "romaji": "suteki", "en": "lovely; wonderful", "pos": "na-adj", "example_ja": "素敵なドレスですね。", "example_en": "What a lovely dress!"}
+{"id": 656, "jp": "駄目", "kana": "だめ", "romaji": "dame", "en": "no good; not allowed", "pos": "na-adj", "example_ja": "ここで写真を撮っては駄目です。", "example_en": "You must not take photos here."}
+{"id": 657, "jp": "急行", "kana": "きゅうこう", "romaji": "kyuukou", "en": "express train", "pos": "noun", "example_ja": "急行に乗れば早く着きます。", "example_en": "If you take the express, you'll arrive sooner."}
+{"id": 658, "jp": "特急", "kana": "とっきゅう", "romaji": "tokkyuu", "en": "limited express", "pos": "noun", "example_ja": "特急で京都へ行きました。", "example_en": "I went to Kyoto by limited express."}
+{"id": 659, "jp": "新幹線", "kana": "しんかんせん", "romaji": "shinkansen", "en": "bullet train", "pos": "noun", "example_ja": "新幹線は速くて便利です。", "example_en": "The bullet train is fast and convenient."}
+{"id": 660, "jp": "駅前", "kana": "えきまえ", "romaji": "ekimae", "en": "in front of the station", "pos": "noun", "example_ja": "駅前で待ち合わせしましょう。", "example_en": "Let's meet in front of the station."}
+{"id": 661, "jp": "改札", "kana": "かいさつ", "romaji": "kaisatsu", "en": "ticket gate", "pos": "noun", "example_ja": "改札の前で会いましょう。", "example_en": "Let's meet in front of the ticket gate."}
+{"id": 662, "jp": "ホーム", "kana": "ホーム", "romaji": "hoomu", "en": "train platform", "pos": "noun", "example_ja": "三番ホームから出発します。", "example_en": "It departs from platform three."}
+{"id": 663, "jp": "乗り換える", "kana": "のりかえる", "romaji": "norikaeru", "en": "to transfer (trains)", "pos": "verb", "example_ja": "新宿で乗り換えてください。", "example_en": "Please transfer at Shinjuku."}
+{"id": 664, "jp": "停留所", "kana": "ていりゅうじょ", "romaji": "teiryuujo", "en": "bus stop", "pos": "noun", "example_ja": "次の停留所で降ります。", "example_en": "I'll get off at the next bus stop."}
+{"id": 665, "jp": "運転", "kana": "うんてん", "romaji": "unten", "en": "driving", "pos": "noun", "example_ja": "父は運転が上手です。", "example_en": "My father is good at driving."}
+{"id": 666, "jp": "自動車", "kana": "じどうしゃ", "romaji": "jidousha", "en": "automobile", "pos": "noun", "example_ja": "日本の自動車は人気があります。", "example_en": "Japanese cars are popular."}
+{"id": 667, "jp": "オートバイ", "kana": "オートバイ", "romaji": "ootobai", "en": "motorcycle", "pos": "noun", "example_ja": "兄はオートバイに乗ります。", "example_en": "My brother rides a motorcycle."}
+{"id": 668, "jp": "空気", "kana": "くうき", "romaji": "kuuki", "en": "air", "pos": "noun", "example_ja": "山の空気はきれいです。", "example_en": "The mountain air is clean."}
+{"id": 669, "jp": "景色", "kana": "けしき", "romaji": "keshiki", "en": "scenery", "pos": "noun", "example_ja": "ここからの景色は最高です。", "example_en": "The view from here is the best."}
+{"id": 670, "jp": "温泉", "kana": "おんせん", "romaji": "onsen", "en": "hot spring", "pos": "noun", "example_ja": "週末に温泉に行きます。", "example_en": "I'm going to a hot spring this weekend."}
+{"id": 671, "jp": "祭り", "kana": "まつり", "romaji": "matsuri", "en": "festival", "pos": "noun", "example_ja": "夏祭りで花火を見ました。", "example_en": "I watched fireworks at the summer festival."}
+{"id": 672, "jp": "花火", "kana": "はなび", "romaji": "hanabi", "en": "fireworks", "pos": "noun", "example_ja": "川で花火大会があります。", "example_en": "There's a fireworks show by the river."}
+{"id": 673, "jp": "着物", "kana": "きもの", "romaji": "kimono", "en": "kimono", "pos": "noun", "example_ja": "お祭りで着物を着ました。", "example_en": "I wore a kimono at the festival."}
+{"id": 674, "jp": "写真集", "kana": "しゃしんしゅう", "romaji": "shashinshuu", "en": "photo book", "pos": "noun", "example_ja": "京都の写真集を買いました。", "example_en": "I bought a photo book of Kyoto."}
+{"id": 675, "jp": "泊まる", "kana": "とまる", "romaji": "tomaru", "en": "to stay (overnight)", "pos": "verb", "example_ja": "友達の家に泊まりました。", "example_en": "I stayed at my friend's house."}
+{"id": 676, "jp": "帰り", "kana": "かえり", "romaji": "kaeri", "en": "return; way home", "pos": "noun", "example_ja": "帰りにスーパーに寄ります。", "example_en": "I'll stop by the supermarket on the way home."}
+{"id": 677, "jp": "行き方", "kana": "いきかた", "romaji": "ikikata", "en": "how to get to", "pos": "noun", "example_ja": "駅への行き方を教えてください。", "example_en": "Please tell me how to get to the station."}
+{"id": 678, "jp": "予定表", "kana": "よていひょう", "romaji": "yoteihyou", "en": "schedule", "pos": "noun", "example_ja": "来週の予定表を見せてください。", "example_en": "Please show me next week's schedule."}
+{"id": 679, "jp": "休日", "kana": "きゅうじつ", "romaji": "kyuujitsu", "en": "holiday; day off", "pos": "noun", "example_ja": "休日は家でゆっくりします。", "example_en": "On my days off I relax at home."}
+{"id": 680, "jp": "夏休み", "kana": "なつやすみ", "romaji": "natsuyasumi", "en": "summer vacation", "pos": "noun", "example_ja": "夏休みに海へ行きます。", "example_en": "I'm going to the sea during summer vacation."}
+{"id": 681, "jp": "冬休み", "kana": "ふゆやすみ", "romaji": "fuyuyasumi", "en": "winter vacation", "pos": "noun", "example_ja": "冬休みは国へ帰ります。", "example_en": "I'm going back to my country for winter vacation."}
+{"id": 682, "jp": "春休み", "kana": "はるやすみ", "romaji": "haruyasumi", "en": "spring vacation", "pos": "noun", "example_ja": "春休みに引っ越します。", "example_en": "I'm moving during spring break."}
+{"id": 683, "jp": "お正月", "kana": "おしょうがつ", "romaji": "oshougatsu", "en": "New Year", "pos": "noun", "example_ja": "お正月は家族と過ごします。", "example_en": "I spend New Year's with my family."}
+{"id": 684, "jp": "誕生日会", "kana": "たんじょうびかい", "romaji": "tanjoubikai", "en": "birthday party", "pos": "noun", "example_ja": "友達の誕生日会に行きました。", "example_en": "I went to my friend's birthday party."}
+{"id": 685, "jp": "プレゼント", "kana": "プレゼント", "romaji": "purezento", "en": "present; gift", "pos": "noun", "example_ja": "母にプレゼントをあげました。", "example_en": "I gave my mother a present."}
+{"id": 686, "jp": "カード", "kana": "カード", "romaji": "kaado", "en": "card", "pos": "noun", "example_ja": "誕生日カードを書きました。", "example_en": "I wrote a birthday card."}
+{"id": 687, "jp": "クリスマス", "kana": "クリスマス", "romaji": "kurisumasu", "en": "Christmas", "pos": "noun", "example_ja": "クリスマスにケーキを食べます。", "example_en": "We eat cake at Christmas."}
+{"id": 688, "jp": "始発", "kana": "しはつ", "romaji": "shihatsu", "en": "first train", "pos": "noun", "example_ja": "始発の電車で帰りました。", "example_en": "I went home on the first train."}
+{"id": 689, "jp": "終電", "kana": "しゅうでん", "romaji": "shuuden", "en": "last train", "pos": "noun", "example_ja": "終電に間に合いませんでした。", "example_en": "I missed the last train."}
+{"id": 690, "jp": "間に合う", "kana": "まにあう", "romaji": "maniau", "en": "to be in time", "pos": "verb", "example_ja": "急げば間に合いますよ。", "example_en": "If you hurry, you'll make it."}
+{"id": 691, "jp": "遅れる", "kana": "おくれる", "romaji": "okureru", "en": "to be late", "pos": "verb", "example_ja": "すみません、十分遅れます。", "example_en": "Sorry, I'll be ten minutes late."}
+{"id": 692, "jp": "着く", "kana": "つく", "romaji": "tsuku", "en": "to arrive", "pos": "verb", "example_ja": "駅に八時に着きました。", "example_en": "I arrived at the station at eight."}
+{"id": 693, "jp": "出発する", "kana": "しゅっぱつする", "romaji": "shuppatsu suru", "en": "to depart", "pos": "verb", "example_ja": "バスは九時に出発します。", "example_en": "The bus departs at nine."}
+{"id": 694, "jp": "歩き回る", "kana": "あるきまわる", "romaji": "arukimawaru", "en": "to walk around", "pos": "verb", "example_ja": "一日中、町を歩き回りました。", "example_en": "I walked around town all day."}
+{"id": 695, "jp": "通う", "kana": "かよう", "romaji": "kayou", "en": "to commute; to attend", "pos": "verb", "example_ja": "電車で学校に通っています。", "example_en": "I commute to school by train."}
+{"id": 696, "jp": "引っ越し", "kana": "ひっこし", "romaji": "hikkoshi", "en": "moving (house)", "pos": "noun", "example_ja": "来月、引っ越しをします。", "example_en": "I'm moving next month."}
+{"id": 697, "jp": "生活費", "kana": "せいかつひ", "romaji": "seikatsuhi", "en": "living expenses", "pos": "noun", "example_ja": "東京は生活費が高いです。", "example_en": "Living expenses in Tokyo are high."}
+{"id": 698, "jp": "家賃", "kana": "やちん", "romaji": "yachin", "en": "rent", "pos": "noun", "example_ja": "家賃は月に七万円です。", "example_en": "The rent is 70,000 yen a month."}
+{"id": 699, "jp": "払う", "kana": "はらう", "romaji": "harau", "en": "to pay", "pos": "verb", "example_ja": "レジでお金を払いました。", "example_en": "I paid at the register."}
+{"id": 700, "jp": "レジ", "kana": "レジ", "romaji": "reji", "en": "cash register; checkout", "pos": "noun", "example_ja": "レジに並んでください。", "example_en": "Please line up at the register."}
+{"id": 701, "jp": "お釣り", "kana": "おつり", "romaji": "otsuri", "en": "change (money)", "pos": "noun", "example_ja": "お釣りは三百円です。", "example_en": "Your change is 300 yen."}
+{"id": 702, "jp": "値引き", "kana": "ねびき", "romaji": "nebiki", "en": "discount", "pos": "noun", "example_ja": "この店は今、値引き中です。", "example_en": "This store is having a sale now."}
+{"id": 703, "jp": "無料", "kana": "むりょう", "romaji": "muryou", "en": "free of charge", "pos": "noun", "example_ja": "入場は無料です。", "example_en": "Admission is free."}
+{"id": 704, "jp": "セール", "kana": "セール", "romaji": "seeru", "en": "sale", "pos": "noun", "example_ja": "デパートでセールをしています。", "example_en": "The department store is having a sale."}
+{"id": 705, "jp": "袋", "kana": "ふくろ", "romaji": "fukuro", "en": "bag; sack", "pos": "noun", "example_ja": "袋に入れてください。", "example_en": "Please put it in a bag."}
+{"id": 706, "jp": "牛", "kana": "うし", "romaji": "ushi", "en": "cow", "pos": "noun", "example_ja": "牧場に牛がたくさんいます。", "example_en": "There are many cows on the farm."}
+{"id": 707, "jp": "豚", "kana": "ぶた", "romaji": "buta", "en": "pig", "pos": "noun", "example_ja": "豚肉で料理を作りました。", "example_en": "I made a dish with pork."}
+{"id": 708, "jp": "鶏", "kana": "にわとり", "romaji": "niwatori", "en": "chicken", "pos": "noun", "example_ja": "祖父は鶏を飼っています。", "example_en": "My grandfather keeps chickens."}
+{"id": 709, "jp": "象", "kana": "ぞう", "romaji": "zou", "en": "elephant", "pos": "noun", "example_ja": "動物園で象を見ました。", "example_en": "I saw an elephant at the zoo."}
+{"id": 710, "jp": "ライオン", "kana": "ライオン", "romaji": "raion", "en": "lion", "pos": "noun", "example_ja": "ライオンは動物の王です。", "example_en": "The lion is the king of animals."}
+{"id": 711, "jp": "パンダ", "kana": "パンダ", "romaji": "panda", "en": "panda", "pos": "noun", "example_ja": "上野動物園のパンダは人気です。", "example_en": "The pandas at Ueno Zoo are popular."}
+{"id": 712, "jp": "うさぎ", "kana": "うさぎ", "romaji": "usagi", "en": "rabbit", "pos": "noun", "example_ja": "娘はうさぎを飼いたがっています。", "example_en": "My daughter wants to keep a rabbit."}
+{"id": 713, "jp": "虫", "kana": "むし", "romaji": "mushi", "en": "insect; bug", "pos": "noun", "example_ja": "夏は虫が多いです。", "example_en": "There are many insects in summer."}
+{"id": 714, "jp": "飼う", "kana": "かう", "romaji": "kau", "en": "to keep (a pet)", "pos": "verb", "example_ja": "犬を二匹飼っています。", "example_en": "I keep two dogs."}
+{"id": 715, "jp": "野菜炒め", "kana": "やさいいため", "romaji": "yasai itame", "en": "stir-fried vegetables", "pos": "noun", "example_ja": "晩ご飯に野菜炒めを作りました。", "example_en": "I made stir-fried vegetables for dinner."}
+{"id": 716, "jp": "焼く", "kana": "やく", "romaji": "yaku", "en": "to grill; to bake", "pos": "verb", "example_ja": "パンを焼くのが好きです。", "example_en": "I like baking bread."}
+{"id": 717, "jp": "煮る", "kana": "にる", "romaji": "niru", "en": "to boil; to simmer", "pos": "verb", "example_ja": "野菜を柔らかく煮ます。", "example_en": "I simmer the vegetables until soft."}
+{"id": 718, "jp": "混ぜる", "kana": "まぜる", "romaji": "mazeru", "en": "to mix", "pos": "verb", "example_ja": "卵と牛乳を混ぜてください。", "example_en": "Please mix the eggs and milk."}
+{"id": 719, "jp": "注文", "kana": "ちゅうもん", "romaji": "chuumon", "en": "order (at a restaurant)", "pos": "noun", "example_ja": "注文をお願いします。", "example_en": "I'd like to order, please."}
+{"id": 720, "jp": "お代わり", "kana": "おかわり", "romaji": "okawari", "en": "second helping; refill", "pos": "noun", "example_ja": "ご飯のお代わりをください。", "example_en": "May I have another bowl of rice?"}
+{"id": 721, "jp": "食欲", "kana": "しょくよく", "romaji": "shokuyoku", "en": "appetite", "pos": "noun", "example_ja": "今日は食欲がありません。", "example_en": "I have no appetite today."}
+{"id": 722, "jp": "喉", "kana": "のど", "romaji": "nodo", "en": "throat", "pos": "noun", "example_ja": "喉が渇きました。", "example_en": "I'm thirsty."}
+{"id": 723, "jp": "お腹が空く", "kana": "おなかがすく", "romaji": "onaka ga suku", "en": "to get hungry", "pos": "expression", "example_ja": "朝からお腹が空いています。", "example_en": "I've been hungry since morning."}
+{"id": 724, "jp": "顔色", "kana": "かおいろ", "romaji": "kaoiro", "en": "complexion", "pos": "noun", "example_ja": "顔色が悪いですよ。大丈夫ですか。", "example_en": "You look pale. Are you okay?"}
+{"id": 725, "jp": "背中", "kana": "せなか", "romaji": "senaka", "en": "back (body)", "pos": "noun", "example_ja": "背中が痛いです。", "example_en": "My back hurts."}
+{"id": 726, "jp": "指", "kana": "ゆび", "romaji": "yubi", "en": "finger", "pos": "noun", "example_ja": "指を切ってしまいました。", "example_en": "I cut my finger."}
+{"id": 727, "jp": "首", "kana": "くび", "romaji": "kubi", "en": "neck", "pos": "noun", "example_ja": "首が少し痛いです。", "example_en": "My neck hurts a little."}
+{"id": 728, "jp": "肩", "kana": "かた", "romaji": "kata", "en": "shoulder", "pos": "noun", "example_ja": "肩が凝っています。", "example_en": "My shoulders are stiff."}
+{"id": 729, "jp": "腕", "kana": "うで", "romaji": "ude", "en": "arm", "pos": "noun", "example_ja": "腕を上げてください。", "example_en": "Please raise your arm."}
+{"id": 730, "jp": "膝", "kana": "ひざ", "romaji": "hiza", "en": "knee", "pos": "noun", "example_ja": "走って膝が痛くなりました。", "example_en": "My knees started hurting from running."}
+{"id": 731, "jp": "血", "kana": "ち", "romaji": "chi", "en": "blood", "pos": "noun", "example_ja": "指から血が出ています。", "example_en": "My finger is bleeding."}
+{"id": 732, "jp": "入院", "kana": "にゅういん", "romaji": "nyuuin", "en": "hospitalization", "pos": "noun", "example_ja": "祖母が一週間入院しました。", "example_en": "My grandmother was in the hospital for a week."}
+{"id": 733, "jp": "お見舞い", "kana": "おみまい", "romaji": "omimai", "en": "visiting a sick person", "pos": "noun", "example_ja": "友達のお見舞いに行きました。", "example_en": "I went to visit my sick friend."}
+{"id": 734, "jp": "けが", "kana": "けが", "romaji": "kega", "en": "injury", "pos": "noun", "example_ja": "サッカーでけがをしました。", "example_en": "I got injured playing soccer."}
+{"id": 735, "jp": "歯医者", "kana": "はいしゃ", "romaji": "haisha", "en": "dentist", "pos": "noun", "example_ja": "明日、歯医者に行きます。", "example_en": "I'm going to the dentist tomorrow."}
+{"id": 736, "jp": "体温", "kana": "たいおん", "romaji": "taion", "en": "body temperature", "pos": "noun", "example_ja": "体温を測ってください。", "example_en": "Please take your temperature."}
+{"id": 737, "jp": "健康", "kana": "けんこう", "romaji": "kenkou", "en": "health", "pos": "noun", "example_ja": "健康のために毎日歩きます。", "example_en": "I walk every day for my health."}
+{"id": 738, "jp": "運動", "kana": "うんどう", "romaji": "undou", "en": "exercise", "pos": "noun", "example_ja": "週に三回運動しています。", "example_en": "I exercise three times a week."}
+{"id": 739, "jp": "太る", "kana": "ふとる", "romaji": "futoru", "en": "to gain weight", "pos": "verb", "example_ja": "最近少し太りました。", "example_en": "I've gained a little weight recently."}
+{"id": 740, "jp": "痩せる", "kana": "やせる", "romaji": "yaseru", "en": "to lose weight", "pos": "verb", "example_ja": "三キロ痩せたいです。", "example_en": "I want to lose three kilograms."}
+{"id": 741, "jp": "休憩する", "kana": "きゅうけいする", "romaji": "kyuukei suru", "en": "to take a break", "pos": "verb", "example_ja": "少し休憩しましょう。", "example_en": "Let's take a short break."}
+{"id": 742, "jp": "眠る", "kana": "ねむる", "romaji": "nemuru", "en": "to sleep", "pos": "verb", "example_ja": "赤ちゃんがよく眠っています。", "example_en": "The baby is sleeping soundly."}
+{"id": 743, "jp": "起こす", "kana": "おこす", "romaji": "okosu", "en": "to wake (someone) up", "pos": "verb", "example_ja": "明日六時に起こしてください。", "example_en": "Please wake me up at six tomorrow."}
+{"id": 744, "jp": "ですから", "kana": "ですから", "romaji": "desukara", "en": "therefore; so", "pos": "expression", "example_ja": "明日は試験です。ですから今日は勉強します。", "example_en": "There's an exam tomorrow, so I'll study today."}
+{"id": 745, "jp": "でも", "kana": "でも", "romaji": "demo", "en": "but; however", "pos": "expression", "example_ja": "高いです。でも買います。", "example_en": "It's expensive, but I'll buy it."}
+{"id": 746, "jp": "そして", "kana": "そして", "romaji": "soshite", "en": "and; and then", "pos": "expression", "example_ja": "朝ご飯を食べました。そして学校へ行きました。", "example_en": "I ate breakfast, and then went to school."}
+{"id": 747, "jp": "それから", "kana": "それから", "romaji": "sorekara", "en": "after that", "pos": "expression", "example_ja": "買い物をして、それから映画を見ました。", "example_en": "I went shopping, and after that watched a movie."}
+{"id": 748, "jp": "しかし", "kana": "しかし", "romaji": "shikashi", "en": "however", "pos": "expression", "example_ja": "走りました。しかし間に合いませんでした。", "example_en": "I ran. However, I didn't make it in time."}
+{"id": 749, "jp": "じゃあ", "kana": "じゃあ", "romaji": "jaa", "en": "well then", "pos": "expression", "example_ja": "じゃあ、また明日。", "example_en": "Well then, see you tomorrow."}
+{"id": 750, "jp": "例えば", "kana": "たとえば", "romaji": "tatoeba", "en": "for example", "pos": "adverb", "example_ja": "果物、例えばりんごが好きです。", "example_en": "I like fruit, for example apples."}
+{"id": 751, "jp": "きっと", "kana": "きっと", "romaji": "kitto", "en": "surely; certainly", "pos": "adverb", "example_ja": "彼はきっと来ますよ。", "example_en": "He will surely come."}
+{"id": 752, "jp": "本当に", "kana": "ほんとうに", "romaji": "hontouni", "en": "really; truly", "pos": "adverb", "example_ja": "本当にありがとうございました。", "example_en": "Thank you very much, truly."}
+{"id": 753, "jp": "もちろん", "kana": "もちろん", "romaji": "mochiron", "en": "of course", "pos": "adverb", "example_ja": "もちろん、手伝いますよ。", "example_en": "Of course I'll help you."}
+{"id": 754, "jp": "ぜひ", "kana": "ぜひ", "romaji": "zehi", "en": "by all means; definitely", "pos": "adverb", "example_ja": "ぜひ家に遊びに来てください。", "example_en": "Please do come visit my home."}
+{"id": 755, "jp": "黄色", "kana": "きいろ", "romaji": "kiiro", "en": "yellow", "pos": "noun", "example_ja": "黄色い花が咲いています。", "example_en": "Yellow flowers are blooming."}
+{"id": 756, "jp": "茶色", "kana": "ちゃいろ", "romaji": "chairo", "en": "brown", "pos": "noun", "example_ja": "茶色の靴を買いました。", "example_en": "I bought brown shoes."}
+{"id": 757, "jp": "緑", "kana": "みどり", "romaji": "midori", "en": "green", "pos": "noun", "example_ja": "この町は緑が多いです。", "example_en": "This town has a lot of greenery."}
+{"id": 758, "jp": "ピンク", "kana": "ピンク", "romaji": "pinku", "en": "pink", "pos": "noun", "example_ja": "ピンクの桜がきれいです。", "example_en": "The pink cherry blossoms are beautiful."}
+{"id": 759, "jp": "オレンジ", "kana": "オレンジ", "romaji": "orenji", "en": "orange (color/fruit)", "pos": "noun", "example_ja": "オレンジのシャツを着ています。", "example_en": "I'm wearing an orange shirt."}
+{"id": 760, "jp": "灰色", "kana": "はいいろ", "romaji": "haiiro", "en": "gray", "pos": "noun", "example_ja": "空が灰色になりました。", "example_en": "The sky turned gray."}
+{"id": 761, "jp": "紫", "kana": "むらさき", "romaji": "murasaki", "en": "purple", "pos": "noun", "example_ja": "紫の花が好きです。", "example_en": "I like purple flowers."}
+{"id": 762, "jp": "金色", "kana": "きんいろ", "romaji": "kiniro", "en": "gold (color)", "pos": "noun", "example_ja": "金色の時計を見つけました。", "example_en": "I found a gold-colored watch."}
+{"id": 763, "jp": "形", "kana": "かたち", "romaji": "katachi", "en": "shape; form", "pos": "noun", "example_ja": "星の形のクッキーを作りました。", "example_en": "I made star-shaped cookies."}
+{"id": 764, "jp": "丸", "kana": "まる", "romaji": "maru", "en": "circle", "pos": "noun", "example_ja": "正しい答えに丸をつけてください。", "example_en": "Please circle the correct answer."}
+{"id": 765, "jp": "線", "kana": "せん", "romaji": "sen", "en": "line", "pos": "noun", "example_ja": "白い線の内側で待ってください。", "example_en": "Please wait behind the white line."}
+{"id": 766, "jp": "音", "kana": "おと", "romaji": "oto", "en": "sound", "pos": "noun", "example_ja": "変な音が聞こえます。", "example_en": "I hear a strange sound."}
+{"id": 767, "jp": "匂い", "kana": "におい", "romaji": "nioi", "en": "smell", "pos": "noun", "example_ja": "いい匂いがしますね。", "example_en": "Something smells good, doesn't it?"}
+{"id": 768, "jp": "光", "kana": "ひかり", "romaji": "hikari", "en": "light", "pos": "noun", "example_ja": "朝の光で目が覚めました。", "example_en": "I woke up with the morning light."}
+{"id": 769, "jp": "火", "kana": "ひ", "romaji": "hi", "en": "fire", "pos": "noun", "example_ja": "火に気をつけてください。", "example_en": "Please be careful with fire."}
+{"id": 770, "jp": "お湯", "kana": "おゆ", "romaji": "oyu", "en": "hot water", "pos": "noun", "example_ja": "お湯を沸かしてお茶を入れます。", "example_en": "I boil water and make tea."}
+{"id": 771, "jp": "氷", "kana": "こおり", "romaji": "koori", "en": "ice", "pos": "noun", "example_ja": "ジュースに氷を入れました。", "example_en": "I put ice in the juice."}
+{"id": 772, "jp": "曜日", "kana": "ようび", "romaji": "youbi", "en": "day of the week", "pos": "noun", "example_ja": "今日は何曜日ですか。", "example_en": "What day of the week is it today?"}
+{"id": 773, "jp": "世界中", "kana": "せかいじゅう", "romaji": "sekaijuu", "en": "all over the world", "pos": "noun", "example_ja": "世界中を旅行したいです。", "example_en": "I want to travel all over the world."}
+{"id": 774, "jp": "人気", "kana": "にんき", "romaji": "ninki", "en": "popularity", "pos": "noun", "example_ja": "この店は若い人に人気があります。", "example_en": "This shop is popular with young people."}
+{"id": 775, "jp": "有料", "kana": "ゆうりょう", "romaji": "yuuryou", "en": "paid; charged", "pos": "noun", "example_ja": "駐車場は有料です。", "example_en": "The parking lot is not free."}
+{"id": 776, "jp": "大人気", "kana": "だいにんき", "romaji": "daininki", "en": "very popular", "pos": "noun", "example_ja": "このアニメは大人気です。", "example_en": "This anime is very popular."}
+{"id": 777, "jp": "別々", "kana": "べつべつ", "romaji": "betsubetsu", "en": "separately", "pos": "na-adj", "example_ja": "お会計は別々でお願いします。", "example_en": "Separate checks, please."}
+{"id": 778, "jp": "一人で", "kana": "ひとりで", "romaji": "hitoride", "en": "by oneself", "pos": "adverb", "example_ja": "一人で映画を見に行きました。", "example_en": "I went to see a movie by myself."}
+{"id": 779, "jp": "みんなで", "kana": "みんなで", "romaji": "minnade", "en": "all together", "pos": "adverb", "example_ja": "みんなで写真を撮りましょう。", "example_en": "Let's take a photo all together."}
+{"id": 780, "jp": "始め", "kana": "はじめ", "romaji": "hajime", "en": "beginning", "pos": "noun", "example_ja": "月の始めに家賃を払います。", "example_en": "I pay rent at the beginning of the month."}
+{"id": 781, "jp": "終わり", "kana": "おわり", "romaji": "owari", "en": "end", "pos": "noun", "example_ja": "夏の終わりは少し寂しいです。", "example_en": "The end of summer is a little sad."}
+{"id": 782, "jp": "次", "kana": "つぎ", "romaji": "tsugi", "en": "next", "pos": "noun", "example_ja": "次の駅で降りましょう。", "example_en": "Let's get off at the next station."}
+{"id": 783, "jp": "手袋", "kana": "てぶくろ", "romaji": "tebukuro", "en": "gloves", "pos": "noun", "example_ja": "冬は手袋をします。", "example_en": "I wear gloves in winter."}
+{"id": 784, "jp": "最後に", "kana": "さいごに", "romaji": "saigoni", "en": "lastly; finally", "pos": "adverb", "example_ja": "最後にもう一度確認します。", "example_en": "Lastly, I'll check one more time."}
+{"id": 785, "jp": "今度", "kana": "こんど", "romaji": "kondo", "en": "next time; this time", "pos": "noun", "example_ja": "今度、一緒に食事しましょう。", "example_en": "Let's have a meal together next time."}
+{"id": 786, "jp": "この間", "kana": "このあいだ", "romaji": "konoaida", "en": "the other day", "pos": "noun", "example_ja": "この間はありがとうございました。", "example_en": "Thank you for the other day."}
+{"id": 787, "jp": "昔", "kana": "むかし", "romaji": "mukashi", "en": "long ago; old times", "pos": "noun", "example_ja": "昔、ここは海でした。", "example_en": "Long ago, this place was the sea."}
+{"id": 788, "jp": "生まれ", "kana": "うまれ", "romaji": "umare", "en": "birth; born in", "pos": "noun", "example_ja": "私は大阪生まれです。", "example_en": "I was born in Osaka."}
+{"id": 789, "jp": "お祝い", "kana": "おいわい", "romaji": "oiwai", "en": "celebration", "pos": "noun", "example_ja": "合格のお祝いをしました。", "example_en": "We celebrated passing the exam."}
+{"id": 790, "jp": "約束する", "kana": "やくそくする", "romaji": "yakusoku suru", "en": "to promise", "pos": "verb", "example_ja": "友達と会う約束をしました。", "example_en": "I made plans to meet my friend."}
+{"id": 791, "jp": "手伝う", "kana": "てつだう", "romaji": "tetsudau", "en": "to help", "pos": "verb", "example_ja": "母の料理を手伝いました。", "example_en": "I helped my mother with the cooking."}
+{"id": 792, "jp": "頑張る", "kana": "がんばる", "romaji": "ganbaru", "en": "to do one's best", "pos": "verb", "example_ja": "試験、頑張ってください。", "example_en": "Good luck on the exam."}
+{"id": 793, "jp": "違う", "kana": "ちがう", "romaji": "chigau", "en": "to be different; to be wrong", "pos": "verb", "example_ja": "答えが違いますよ。", "example_en": "That answer is wrong."}
+{"id": 794, "jp": "できる", "kana": "できる", "romaji": "dekiru", "en": "to be able to; to be completed", "pos": "verb", "example_ja": "日本語で話すことができます。", "example_en": "I can speak in Japanese."}
+{"id": 795, "jp": "要る", "kana": "いる", "romaji": "iru", "en": "to need", "pos": "verb", "example_ja": "袋は要りません。", "example_en": "I don't need a bag."}
+{"id": 796, "jp": "なる", "kana": "なる", "romaji": "naru", "en": "to become", "pos": "verb", "example_ja": "医者になりたいです。", "example_en": "I want to become a doctor."}
+{"id": 797, "jp": "開く", "kana": "あく", "romaji": "aku", "en": "to open (intransitive)", "pos": "verb", "example_ja": "店は十時に開きます。", "example_en": "The store opens at ten."}
+{"id": 798, "jp": "閉まる", "kana": "しまる", "romaji": "shimaru", "en": "to close (intransitive)", "pos": "verb", "example_ja": "銀行は三時に閉まります。", "example_en": "The bank closes at three."}
+{"id": 799, "jp": "かかる", "kana": "かかる", "romaji": "kakaru", "en": "to take (time/money)", "pos": "verb", "example_ja": "駅まで二十分かかります。", "example_en": "It takes twenty minutes to the station."}
+{"id": 800, "jp": "住まい", "kana": "すまい", "romaji": "sumai", "en": "residence; home", "pos": "noun", "example_ja": "お住まいはどちらですか。", "example_en": "Where do you live?"}
+{"id": 801, "jp": "暮らす", "kana": "くらす", "romaji": "kurasu", "en": "to live; to get along", "pos": "verb", "example_ja": "家族と楽しく暮らしています。", "example_en": "I live happily with my family."}
+{"id": 802, "jp": "セーター", "kana": "セーター", "romaji": "seetaa", "en": "sweater", "pos": "noun", "example_ja": "暖かいセーターを着ています。", "example_en": "I'm wearing a warm sweater."}
+{"id": 803, "jp": "作り方", "kana": "つくりかた", "romaji": "tsukurikata", "en": "how to make", "pos": "noun", "example_ja": "カレーの作り方を教えてください。", "example_en": "Please teach me how to make curry."}
