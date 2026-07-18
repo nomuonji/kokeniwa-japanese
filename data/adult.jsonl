@@ -34,7 +34,6 @@
 {"id":34,"jp":"不快感","kana":"ふかいかん","romaji":"fukaikan","en":"discomfort","example_ja":"不快感があればすぐ伝える。","example_en":"Speak up if you feel discomfort."}
 {"id":35,"jp":"痛み","kana":"いたみ","romaji":"itami","en":"pain","example_ja":"痛みを我慢しない。","example_en":"Don't endure pain."}
 {"id":36,"jp":"体調","kana":"たいちょう","romaji":"taichou","en":"physical condition","example_ja":"体調を優先する。","example_en":"Prioritize your condition."}
-{"id":37,"jp":"コンドーム","kana":"こんどーむ","romaji":"kondo-mu","en":"condom","example_ja":"コンドームを使用する。","example_en":"Use a condom."}
 {"id":38,"jp":"フェラチオ","kana":"ふぇらちお","romaji":"fera-chio","en":"fellatio","example_ja":"フェラチオをする。","example_en":"Perform fellatio."}
 {"id":39,"jp":"オマンコ","kana":"おまんこ","romaji":"o-manko","en":"pussy","example_ja":"オマンコが濡れている。","example_en":"The pussy is wet."}
 {"id":40,"jp":"チンポ","kana":"ちんぽ","romaji":"chinpo","en":"dick","example_ja":"チンポを触る。","example_en":"Touch the dick."}
@@ -85,15 +84,12 @@
 {"id":85,"jp":"性癖","kana":"せいへき","romaji":"seiheki","en":"sexual preference","example_ja":"性癖を話す。","example_en":"Talk about sexual preferences."}
 {"id":86,"jp":"猥褻","kana":"わいせつ","romaji":"waisetsu","en":"obscene","example_ja":"猥褻な画像を見る。","example_en":"View obscene images."}
 {"id":87,"jp":"性玩具","kana":"せいがんぐ","romaji":"seigangu","en":"sex toy","example_ja":"性玩具を使う。","example_en":"Use a sex toy."}
-{"id":88,"jp":"エッチ","kana":"えっち","romaji":"etchi","en":"naughty","example_ja":"エッチな気分になる。","example_en":"Feel naughty."}
-{"id":89,"jp":"潤滑剤","kana":"じゅんかつざい","romaji":"junkatsuzai","en":"lubricant","example_ja":"潤滑剤を塗る。","example_en":"Apply lubricant."}
 {"id":90,"jp":"性感帯","kana":"せいかんたい","romaji":"seikantai","en":"erogenous zone","example_ja":"性感帯を刺激する。","example_en":"Stimulate an erogenous zone."}
 {"id":91,"jp":"オーラル","kana":"おーらる","romaji":"o-raru","en":"oral","example_ja":"オーラルセックスを楽しむ。","example_en":"Enjoy oral sex."}
 {"id":92,"jp":"後背位","kana":"こうはい","romaji":"kohai","en":"doggy style","example_ja":"後背位でする。","example_en":"Do it in doggy style."}
 {"id":93,"jp":"騎乗位","kana":"きじょうい","romaji":"kijo-i","en":"cowgirl position","example_ja":"騎乗位を試す。","example_en":"Try the cowgirl position."}
 {"id":94,"jp":"正常位","kana":"せいじょうい","romaji":"seijo-i","en":"missionary position","example_ja":"正常位が好きだ。","example_en":"I like the missionary position."}
 {"id":95,"jp":"射精管理","kana":"しゃせいかんり","romaji":"shasei kanri","en":"orgasm control","example_ja":"射精管理をする。","example_en":"Practice orgasm control."}
-{"id":96,"jp":"性行為","kana":"せいこうい","romaji":"seiko-i","en":"sexual act","example_ja":"性行為を行う。","example_en":"Perform a sexual act."}
 {"id":97,"jp":"前立腺","kana":"ぜんりつせん","romaji":"zenritsusen","en":"prostate","example_ja":"前立腺を刺激する。","example_en":"Stimulate the prostate."}
 {"id":98,"jp":"ペッティング","kana":"ぺってぃんぐ","romaji":"pettingu","en":"petting","example_ja":"ペッティングを楽しむ。","example_en":"Enjoy petting."}
 {"id":99,"jp":"ソフトSM","kana":"そふとえすえむ","romaji":"sofuto esuemu","en":"soft SM","example_ja":"ソフトSMを試す。","example_en":"Try soft SM."}
@@ -103,7 +99,6 @@
 {"id":103,"jp":"性的興奮","kana":"せいてきこうふん","romaji":"seiteki kofun","en":"sexual arousal","example_ja":"性的興奮を感じる。","example_en":"Feel sexual arousal."}
 {"id":104,"jp":"エロティック","kana":"えろてぃっく","romaji":"erotikku","en":"erotic","example_ja":"エロティックな雰囲気を作る。","example_en":"Create an erotic atmosphere."}
 {"id":105,"jp":"性病","kana":"せいびょう","romaji":"seibyo","en":"sexually transmitted disease","example_ja":"性病に気をつける。","example_en":"Be careful of sexually transmitted diseases."}
-{"id":106,"jp":"性教育","kana":"せいきょういく","romaji":"seikyoiku","en":"sex education","example_ja":"性教育を受ける。","example_en":"Receive sex education."}
 {"id":107,"jp":"性依存","kana":"せいいぞん","romaji":"seiizon","en":"sex addiction","example_ja":"性依存に悩む。","example_en":"Suffer from sex addiction."}
 {"id":108,"jp":"性被害","kana":"せいひがい","romaji":"seihigai","en":"sexual assault","example_ja":"性被害を防ぐ。","example_en":"Prevent sexual assault."}
 {"id":109,"jp":"性別","kana":"せいべつ","romaji":"seibetsu","en":"gender","example_ja":"性別を意識する。","example_en":"Be conscious of gender."}

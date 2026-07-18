@@ -1,8 +1,6 @@
 {"id":1,"jp":"一般","kana":"いっぱん","romaji":"ippan","en":"general; common","example_ja":"これは一般的な方法だ。","example_en":"This is a common method."}
-{"id":2,"jp":"延長","kana":"えんちょう","romaji":"enchou","en":"extension","example_ja":"契約を延長する。","example_en":"Extend the contract."}
 {"id":3,"jp":"応募","kana":"おうぼ","romaji":"oubo","en":"application (for a job, etc.)","example_ja":"求人に応募する。","example_en":"Apply for the job."}
 {"id":4,"jp":"改善","kana":"かいぜん","romaji":"kaizen","en":"improvement","example_ja":"品質を改善する。","example_en":"Improve quality."}
-{"id":5,"jp":"供給","kana":"きょうきゅう","romaji":"kyoukyuu","en":"supply; provision","example_ja":"電力の供給が安定している。","example_en":"The power supply is stable."}
 {"id":6,"jp":"作曲","kana":"さっきょく","romaji":"sakkyoku","en":"composition (music)","example_ja":"映画音楽を作曲する。","example_en":"Compose film music."}
 {"id":7,"jp":"指導","kana":"しどう","romaji":"shidou","en":"guidance; coaching","example_ja":"新人を指導する。","example_en":"Coach the new employees."}
 {"id":8,"jp":"許可","kana":"きょか","romaji":"kyoka","en":"permission","example_ja":"撮影には許可が必要だ。","example_en":"Permission is required for photography."}
@@ -13,10 +11,8 @@
 {"id":13,"jp":"導入","kana":"どうにゅう","romaji":"dounyuu","en":"introduction; adoption","example_ja":"新システムを導入する。","example_en":"Introduce a new system."}
 {"id":14,"jp":"改良","kana":"かいりょう","romaji":"kairyou","en":"improvement","example_ja":"製品を改良する。","example_en":"Improve the product."}
 {"id":15,"jp":"改訂","kana":"かいてい","romaji":"kaitei","en":"revision","example_ja":"マニュアルを改訂する。","example_en":"Revise the manual."}
-{"id":16,"jp":"需要","kana":"じゅよう","romaji":"juyou","en":"demand","example_ja":"需要が増加している。","example_en":"Demand is increasing."}
 {"id":17,"jp":"収益","kana":"しゅうえき","romaji":"shuueki","en":"revenue; earnings","example_ja":"収益を最大化する。","example_en":"Maximize revenue."}
 {"id":18,"jp":"指摘","kana":"してき","romaji":"shiteki","en":"pointing out","example_ja":"問題点を指摘された。","example_en":"The issues were pointed out."}
-{"id":19,"jp":"管理","kana":"かんり","romaji":"kanri","en":"management; control","example_ja":"在庫を管理する。","example_en":"Manage inventory."}
 {"id":20,"jp":"運営","kana":"うんえい","romaji":"unei","en":"operation; management","example_ja":"施設を運営する。","example_en":"Operate the facility."}
 {"id":21,"jp":"拡大","kana":"かくだい","romaji":"kakudai","en":"expansion","example_ja":"事業を拡大する。","example_en":"Expand the business."}
 {"id":22,"jp":"縮小","kana":"しゅくしょう","romaji":"shukushou","en":"reduction; downsizing","example_ja":"規模を縮小する。","example_en":"Downsize the scale."}
@@ -29,8 +25,6 @@
 {"id":29,"jp":"改善策","kana":"かいぜんさく","romaji":"kaizensaku","en":"improvement measures","example_ja":"改善策を講じる。","example_en":"Take improvement measures."}
 {"id":30,"jp":"検証","kana":"けんしょう","romaji":"kenshou","en":"verification; validation","example_ja":"仮説を検証する。","example_en":"Verify the hypothesis."}
 {"id":31,"jp":"分析","kana":"ぶんせき","romaji":"bunseki","en":"analysis","example_ja":"データを分析する。","example_en":"Analyze the data."}
-{"id":32,"jp":"提案","kana":"ていあん","romaji":"teian","en":"proposal","example_ja":"新しい提案を出す。","example_en":"Make a new proposal."}
-{"id":33,"jp":"承認","kana":"しょうにん","romaji":"shounin","en":"approval","example_ja":"計画が承認された。","example_en":"The plan was approved."}
 {"id":34,"jp":"達成","kana":"たっせい","romaji":"tassei","en":"achievement","example_ja":"目標を達成する。","example_en":"Achieve a goal."}
 {"id":35,"jp":"強化","kana":"きょうか","romaji":"kyouka","en":"strengthening","example_ja":"セキュリティを強化する。","example_en":"Strengthen security."}
 {"id":36,"jp":"維持","kana":"いじ","romaji":"iji","en":"maintenance; retention","example_ja":"品質を維持する。","example_en":"Maintain quality."}
@@ -51,10 +45,8 @@
 {"id":51,"jp":"成長","kana":"せいちょう","romaji":"seichou","en":"growth","example_ja":"市場が成長している。","example_en":"The market is growing."}
 {"id":52,"jp":"予測","kana":"よそく","romaji":"yosoku","en":"prediction; forecast","example_ja":"売上を予測する。","example_en":"Forecast sales."}
 {"id":53,"jp":"調達","kana":"ちょうたつ","romaji":"choutatsu","en":"procurement","example_ja":"部品を調達する。","example_en":"Procure parts."}
-{"id":54,"jp":"在庫","kana":"ざいこ","romaji":"zaiko","en":"inventory; stock","example_ja":"在庫を最適化する。","example_en":"Optimize inventory."}
 {"id":55,"jp":"物流","kana":"ぶつりゅう","romaji":"butsuryuu","en":"logistics","example_ja":"物流コストを削減する。","example_en":"Reduce logistics costs."}
 {"id":56,"jp":"供給網","kana":"きょうきゅうもう","romaji":"kyoukyuu mou","en":"supply chain","example_ja":"供給網を強化する。","example_en":"Strengthen the supply chain."}
-{"id":57,"jp":"影響","kana":"えいきょう","romaji":"eikyou","en":"impact; influence","example_ja":"影響を評価する。","example_en":"Assess the impact."}
 {"id":58,"jp":"対応","kana":"たいおう","romaji":"taiou","en":"response; handling","example_ja":"迅速に対応する。","example_en":"Respond quickly."}
 {"id":59,"jp":"事例","kana":"じれい","romaji":"jirei","en":"case; example","example_ja":"事例を共有する。","example_en":"Share case studies."}
 {"id":60,"jp":"傾向","kana":"けいこう","romaji":"keikou","en":"trend; tendency","example_ja":"消費の傾向が変わる。","example_en":"Consumption trends change."}
@@ -66,12 +58,9 @@
 {"id":66,"jp":"目標","kana":"もくひょう","romaji":"mokuhyou","en":"goal; target","example_ja":"目標を設定する。","example_en":"Set a goal."}
 {"id":67,"jp":"指標","kana":"しひょう","romaji":"shihyou","en":"index; indicator","example_ja":"重要指標を監視する。","example_en":"Monitor key indicators."}
 {"id":68,"jp":"進捗","kana":"しんちょく","romaji":"shinchoku","en":"progress","example_ja":"進捗を報告する。","example_en":"Report progress."}
-{"id":69,"jp":"遅延","kana":"ちえん","romaji":"chien","en":"delay","example_ja":"プロジェクトが遅延した。","example_en":"The project was delayed."}
 {"id":70,"jp":"前倒し","kana":"まえだおし","romaji":"mae daoshi","en":"move up (schedule)","example_ja":"納期を前倒しする。","example_en":"Move up the delivery date."}
 {"id":71,"jp":"後倒し","kana":"あとだおし","romaji":"ato daoshi","en":"postpone (schedule)","example_ja":"会議を後倒しする。","example_en":"Postpone the meeting."}
 {"id":72,"jp":"日程","kana":"にってい","romaji":"nittei","en":"schedule","example_ja":"日程を調整する。","example_en":"Adjust the schedule."}
-{"id":73,"jp":"期限","kana":"きげん","romaji":"kigen","en":"deadline; term","example_ja":"提出期限を守る。","example_en":"Meet the deadline."}
-{"id":74,"jp":"締切","kana":"しめきり","romaji":"shimekiri","en":"closing date","example_ja":"応募の締切は明日だ。","example_en":"The application deadline is tomorrow."}
 {"id":75,"jp":"配置","kana":"はいち","romaji":"haichi","en":"placement","example_ja":"人員を適切に配置する。","example_en":"Place personnel appropriately."}
 {"id":76,"jp":"配属","kana":"はいぞく","romaji":"haizoku","en":"assignment (to a unit)","example_ja":"新入社員を配属する。","example_en":"Assign the new employees."}
 {"id":77,"jp":"異動","kana":"いどう","romaji":"idou","en":"transfer (personnel)","example_ja":"来月異動になる。","example_en":"I'll be transferred next month."}
@@ -121,7 +110,6 @@
 {"id":121,"jp":"折る","kana":"おる","romaji":"oru","en":"to break; to fold","example_ja":"紙を半分に折る。","example_en":"Fold the paper in half."}
 {"id":122,"jp":"海外","kana":"かいがい","romaji":"kaigai","en":"overseas","example_ja":"海外旅行に行きたい。","example_en":"I want to travel overseas."}
 {"id":123,"jp":"会計","kana":"かいけい","romaji":"kaikei","en":"accounting; bill","example_ja":"会計をお願いします。","example_en":"Check, please."}
-{"id":124,"jp":"解決","kana":"かいけつ","romaji":"kaiketsu","en":"solution","example_ja":"問題が解決した。","example_en":"The problem has been solved."}
 {"id":125,"jp":"外交","kana":"がいこう","romaji":"gaikou","en":"diplomacy","example_ja":"外交官として働いている。","example_en":"I work as a diplomat."}
 {"id":126,"jp":"開始","kana":"かいし","romaji":"kaishi","en":"start; commencement","example_ja":"会議を開始します。","example_en":"Let's start the meeting."}
 {"id":127,"jp":"学者","kana":"がくしゃ","romaji":"gakusha","en":"scholar","example_ja":"彼は有名な歴史学者だ。","example_en":"He is a famous historian."}
@@ -135,7 +123,6 @@
 {"id":135,"jp":"貴重","kana":"きちょう","romaji":"kichou","en":"precious; valuable","example_ja":"貴重な時間をありがとう。","example_en":"Thank you for your valuable time."}
 {"id":136,"jp":"議長","kana":"ぎちょう","romaji":"gichou","en":"chairman; chairperson","example_ja":"議長が会議を進めた。","example_en":"The chairperson proceeded with the meeting."}
 {"id":137,"jp":"記事","kana":"きじ","romaji":"kiji","en":"article; news story","example_ja":"新聞でその記事を読んだ。","example_en":"I read that article in the newspaper."}
-{"id":138,"jp":"技術","kana":"ぎじゅつ","romaji":"gijutsu","en":"technology; skill","example_ja":"最新の技術を使っている。","example_en":"We use the latest technology."}
 {"id":139,"jp":"基準","kana":"きじゅん","romaji":"kijun","en":"standard; basis","example_ja":"安全基準を満たしている。","example_en":"It meets the safety standards."}
 {"id":140,"jp":"期待","kana":"きたい","romaji":"kitai","en":"expectation","example_ja":"良い結果を期待している。","example_en":"I'm hoping for a good result."}
 {"id":141,"jp":"機能","kana":"きのう","romaji":"kinou","en":"function","example_ja":"このアプリには便利な機能が多い。","example_en":"This app has many useful functions."}
@@ -151,9 +138,7 @@
 {"id":151,"jp":"強力","kana":"きょうりょく","romaji":"kyouryoku","en":"powerful; strong","example_ja":"彼は強力なリーダーだ。","example_en":"He is a powerful leader."}
 {"id":152,"jp":"巨大","kana":"きょだい","romaji":"kyodai","en":"huge; gigantic","example_ja":"巨大なビルが建設中だ。","example_en":"A huge building is under construction."}
 {"id":153,"jp":"嫌う","kana":"きらう","romaji":"kirau","en":"to hate; to dislike","example_ja":"彼は人混みを嫌う。","example_en":"He dislikes crowds."}
-{"id":154,"jp":"記録","kana":"きろく","romaji":"kiroku","en":"record; document","example_ja":"世界記録を更新した。","example_en":"He broke the world record."}
 {"id":155,"jp":"議論","kana":"ぎろん","romaji":"giron","en":"argument; discussion","example_ja":"その問題について議論した。","example_en":"We discussed that issue."}
-{"id":156,"jp":"禁止","kana":"きんし","romaji":"kinshi","en":"prohibition","example_ja":"ここでは喫煙は禁止です。","example_en":"Smoking is prohibited here."}
 {"id":157,"jp":"金額","kana":"きんがく","romaji":"kingaku","en":"amount of money","example_ja":"合計金額を教えてください。","example_en":"Please tell me the total amount."}
 {"id":158,"jp":"空想","kana":"くうそう","romaji":"kuusou","en":"daydream; fantasy","example_ja":"彼はよく空想にふける。","example_en":"He often daydreams."}
 {"id":159,"jp":"偶然","kana":"ぐうぜん","romaji":"guuzen","en":"by chance; coincidence","example_ja":"駅で偶然、友人に会った。","example_en":"I met a friend by chance at the station."}
@@ -162,7 +147,6 @@
 {"id":162,"jp":"景気","kana":"けいき","romaji":"keiki","en":"business climate; the economy","example_ja":"景気が少しずつ回復している。","example_en":"The economy is recovering little by little."}
 {"id":163,"jp":"警告","kana":"けいこく","romaji":"keikoku","en":"warning","example_ja":"医者から警告された。","example_en":"I was warned by the doctor."}
 {"id":164,"jp":"芸術","kana":"げいじゅつ","romaji":"geijutsu","en":"art","example_ja":"芸術に興味があります。","example_en":"I am interested in art."}
-{"id":165,"jp":"契約","kana":"けいやく","romaji":"keiyaku","en":"contract","example_ja":"契約書にサインした。","example_en":"I signed the contract."}
 {"id":166,"jp":"経由","kana":"けいゆ","romaji":"keiyu","en":"via; by way of","example_ja":"大阪経由で福岡へ行った。","example_en":"I went to Fukuoka via Osaka."}
 {"id":167,"jp":"結論","kana":"けつろん","romaji":"ketsuron","en":"conclusion","example_ja":"議論の末、結論が出た。","example_en":"We reached a conclusion after the discussion."}
 {"id":168,"jp":"現象","kana":"げんしょう","romaji":"genshou","en":"phenomenon","example_ja":"それは珍しい自然現象だ。","example_en":"That is a rare natural phenomenon."}
@@ -172,13 +156,11 @@
 {"id":172,"jp":"建築","kana":"けんちく","romaji":"kenchiku","en":"architecture","example_ja":"彼は建築家だ。","example_en":"He is an architect."}
 {"id":173,"jp":"権利","kana":"けんり","romaji":"kenri","en":"right; privilege","example_ja":"私たちには知る権利がある。","example_en":"We have the right to know."}
 {"id":174,"jp":"恋","kana":"こい","romaji":"koi","en":"love; tender passion","example_ja":"彼は彼女に恋をしている。","example_en":"He is in love with her."}
-{"id":175,"jp":"効果","kana":"こうか","romaji":"kouka","en":"effect; effectiveness","example_ja":"この薬は効果がある。","example_en":"This medicine is effective."}
 {"id":176,"jp":"広告","kana":"こうこく","romaji":"koukoku","en":"advertisement","example_ja":"テレビで新しい広告を見た。","example_en":"I saw a new advertisement on TV."}
 {"id":177,"jp":"交際","kana":"こうさい","romaji":"kousai","en":"association; company","example_ja":"彼らは交際して3年になる。","example_en":"They have been dating for three years."}
 {"id":178,"jp":"構成","kana":"こうせい","romaji":"kousei","en":"organization; composition","example_ja":"この本の構成は素晴らしい。","example_en":"The structure of this book is wonderful."}
 {"id":179,"jp":"構造","kana":"こうぞう","romaji":"kouzou","en":"structure","example_ja":"建物の構造を調べる。","example_en":"Examine the structure of the building."}
 {"id":180,"jp":"行動","kana":"こうどう","romaji":"koudou","en":"action; behavior","example_ja":"彼の行動は理解できない。","example_en":"I can't understand his behavior."}
-{"id":181,"jp":"合計","kana":"ごうけい","romaji":"goukei","en":"total amount","example_ja":"合計で1万円になります。","example_en":"The total is 10,000 yen."}
 {"id":182,"jp":"幸福","kana":"こうふく","romaji":"koufuku","en":"happiness","example_ja":"皆様の幸福を祈っています。","example_en":"I wish you all happiness."}
 {"id":183,"jp":"公平","kana":"こうへい","romaji":"kouhei","en":"fairness; impartiality","example_ja":"公平な判断が求められる。","example_en":"A fair judgment is required."}
 {"id":184,"jp":"候補","kana":"こうほ","romaji":"kouho","en":"candidate","example_ja":"彼は市長候補の一人だ。","example_en":"He is one of the candidates for mayor."}

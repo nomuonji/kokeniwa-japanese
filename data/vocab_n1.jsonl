@@ -1,5 +1,3 @@
-{"id":1,"jp":"把握","kana":"はあく","romaji":"haaku","en":"grasp; understanding","example_ja":"現状を正確に把握する。","example_en":"Accurately grasp the current situation."}
-{"id":2,"jp":"促進","kana":"そくしん","romaji":"sokushin","en":"promotion; acceleration","example_ja":"導入を促進する。","example_en":"Promote the introduction."}
 {"id":3,"jp":"緩和","kana":"かんわ","romaji":"kanwa","en":"alleviation; mitigation","example_ja":"規制を緩和する。","example_en":"Ease the regulations."}
 {"id":4,"jp":"抑制","kana":"よくせい","romaji":"yokusei","en":"suppression; restraint","example_ja":"物価上昇を抑制する。","example_en":"Curb inflation."}
 {"id":5,"jp":"破棄","kana":"はき","romaji":"haki","en":"annulment; discard","example_ja":"契約を破棄する。","example_en":"Annul the contract."}
@@ -32,7 +30,6 @@
 {"id":32,"jp":"遡及","kana":"そっきゅう","romaji":"sokkyuu","en":"retroactive effect","example_ja":"遡及して適用する。","example_en":"Apply retroactively."}
 {"id":33,"jp":"希求","kana":"ききゅう","romaji":"kikyuu","en":"aspiration; desire","example_ja":"平和を希求する。","example_en":"Aspire to peace."}
 {"id":34,"jp":"忌避","kana":"きひ","romaji":"kihi","en":"evasion; avoidance","example_ja":"責任の忌避。","example_en":"Evasion of responsibility."}
-{"id":35,"jp":"進捗","kana":"しんちょく","romaji":"shinchoku","en":"progress","example_ja":"進捗を精査する。","example_en":"Examine the progress closely."}
 {"id":36,"jp":"兆候","kana":"ちょうこう","romaji":"choukou","en":"sign; indication","example_ja":"回復の兆候が見える。","example_en":"Signs of recovery are visible."}
 {"id":37,"jp":"訴求","kana":"そきゅう","romaji":"sokyuu","en":"appeal (to)","example_ja":"若者への訴求力が高い。","example_en":"It strongly appeals to the young."}
 {"id":38,"jp":"窮地","kana":"きゅうち","romaji":"kyuuchi","en":"predicament","example_ja":"窮地に追い込まれる。","example_en":"Be driven into a predicament."}
@@ -121,7 +118,6 @@
 {"id":121,"jp":"解剖","kana":"かいぼう","romaji":"kaibou","en":"dissection; autopsy","example_ja":"生物学の授業でカエルを解剖した。","example_en":"We dissected a frog in biology class."}
 {"id":122,"jp":"顧みる","kana":"かえりみる","romaji":"kaerimiru","en":"to look back; to reflect on","example_ja":"過去を顧みる。","example_en":"Reflect on the past."}
 {"id":123,"jp":"簡潔","kana":"かんけつ","romaji":"kanketsu","en":"concise; brief","example_ja":"要点を簡潔にまとめてください。","example_en":"Please summarize the main points concisely."}
-{"id":124,"jp":"還元","kana":"かんげん","romaji":"kangen","en":"reduction; giving back","example_ja":"利益を社会に還元する。","example_en":"Give back profits to society."}
 {"id":125,"jp":"慣行","kana":"かんこう","romaji":"kankou","en":"custom; practice","example_ja":"古くからの慣行に従う。","example_en":"Follow an old custom."}
 {"id":126,"jp":"勧告","kana":"かんこく","romaji":"kankoku","en":"advice; recommendation","example_ja":"政府が自粛を勧告した。","example_en":"The government advised self-restraint."}
 {"id":127,"jp":"監視","kana":"かんし","romaji":"kanshi","en":"surveillance; monitoring","example_ja":"警察が容疑者を監視している。","example_en":"The police are monitoring the suspect."}
@@ -129,7 +125,6 @@
 {"id":129,"jp":"干渉","kana":"かんしょう","romaji":"kanshou","en":"interference","example_ja":"他人の問題に干渉すべきではない。","example_en":"You shouldn't interfere in other people's problems."}
 {"id":130,"jp":"頑丈","kana":"がんじょう","romaji":"ganjou","en":"sturdy; solid","example_ja":"この机はとても頑丈だ。","example_en":"This desk is very sturdy."}
 {"id":131,"jp":"観点","kana":"かんてん","romaji":"kanten","en":"point of view","example_ja":"別の観点から問題を考える。","example_en":"Consider the problem from a different point of view."}
-{"id":132,"jp":"監督","kana":"かんとく","romaji":"kantoku","en":"supervision; director","example_ja":"彼は有名な映画監督だ。","example_en":"He is a famous movie director."}
 {"id":133,"jp":"勘弁","kana":"かんべん","romaji":"kanben","en":"pardon; forgiveness","example_ja":"もう勘弁してください。","example_en":"Please forgive me."}
 {"id":134,"jp":"関連","kana":"かんれん","romaji":"kanren","en":"relation; connection","example_ja":"関連資料を添付します。","example_en":"I will attach the related documents."}
 {"id":135,"jp":"気圧","kana":"きあつ","romaji":"kiatsu","en":"atmospheric pressure","example_ja":"今日は気圧が低い。","example_en":"The atmospheric pressure is low today."}
@@ -144,7 +139,6 @@
 {"id":144,"jp":"共感","kana":"きょうかん","romaji":"kyoukan","en":"sympathy; empathy","example_ja":"彼の意見に共感する。","example_en":"I sympathize with his opinion."}
 {"id":145,"jp":"共存","kana":"きょうぞん","romaji":"kyouzon","en":"coexistence","example_ja":"自然との共存を目指す。","example_en":"Aim for coexistence with nature."}
 {"id":146,"jp":"協定","kana":"きょうてい","romaji":"kyoutei","en":"agreement; pact","example_ja":"二国間で協定が結ばれた。","example_en":"An agreement was concluded between the two countries."}
-{"id":147,"jp":"協議","kana":"きょうぎ","romaji":"kyougi","en":"consultation; conference","example_ja":"今後の対策について協議する。","example_en":"We will discuss future measures."}
 {"id":148,"jp":"驚異","kana":"きょうい","romaji":"kyoui","en":"wonder; miracle","example_ja":"自然界の驚異に感動した。","example_en":"I was moved by the wonders of the natural world."}
 {"id":149,"jp":"極端","kana":"きょくたん","romaji":"kyokutan","en":"extreme","example_ja":"極端な意見は避けるべきだ。","example_en":"You should avoid extreme opinions."}
 {"id":150,"jp":"拒否","kana":"きょひ","romaji":"kyohi","en":"refusal; rejection","example_ja":"彼は要求を拒否した。","example_en":"He rejected the demand."}
@@ -160,7 +154,6 @@
 {"id":160,"jp":"決裂","kana":"けつれつ","romaji":"ketsuretsu","en":"breakdown; rupture","example_ja":"交渉は決裂した。","example_en":"The negotiations broke down."}
 {"id":161,"jp":"倹約","kana":"けんやく","romaji":"kenyaku","en":"thrift; economy","example_ja":"彼は倹約家だ。","example_en":"He is a thrifty person."}
 {"id":162,"jp":"権威","kana":"けんい","romaji":"ken'i","en":"authority; power","example_ja":"彼はその分野の権威だ。","example_en":"He is an authority in that field."}
-{"id":163,"jp":"現状","kana":"げんじょう","romaji":"genjou","en":"present condition","example_ja":"現状を分析する。","example_en":"Analyze the current situation."}
 {"id":164,"jp":"原則","kana":"げんそく","romaji":"gensoku","en":"principle; general rule","example_ja":"原則として、参加は自由です。","example_en":"As a general rule, participation is free."}
 {"id":165,"jp":"巧妙","kana":"こうみょう","romaji":"koumyou","en":"ingenious; skillful","example_ja":"巧妙な手口で金をだまし取った。","example_en":"He swindled money with an ingenious trick."}
 {"id":166,"jp":"効率","kana":"こうりつ","romaji":"kouritsu","en":"efficiency","example_ja":"仕事の効率を上げる。","example_en":"Increase work efficiency."}

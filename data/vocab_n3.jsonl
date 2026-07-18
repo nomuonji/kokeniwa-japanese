@@ -22,12 +22,9 @@
 {"id":22,"jp":"割合","kana":"わりあい","romaji":"wariai","en":"ratio; rate","example_ja":"女性の割合が高い。","example_en":"The ratio of women is high."}
 {"id":23,"jp":"費用","kana":"ひよう","romaji":"hiyou","en":"cost; expense","example_ja":"費用がかかる。","example_en":"It costs money."}
 {"id":24,"jp":"効果","kana":"こうか","romaji":"kouka","en":"effect; effectiveness","example_ja":"この薬は効果がある。","example_en":"This medicine is effective."}
-{"id":25,"jp":"結果","kana":"けっか","romaji":"kekka","en":"result","example_ja":"結果を発表する。","example_en":"Announce the results."}
-{"id":26,"jp":"原因","kana":"げんいん","romaji":"genin","en":"cause","example_ja":"原因を調べる。","example_en":"Investigate the cause."}
 {"id":27,"jp":"方法","kana":"ほうほう","romaji":"houhou","en":"method","example_ja":"方法を考える。","example_en":"Consider a method."}
 {"id":28,"jp":"解決","kana":"かいけつ","romaji":"kaiketsu","en":"solution","example_ja":"問題を解決する。","example_en":"Solve the problem."}
 {"id":29,"jp":"状況","kana":"じょうきょう","romaji":"joukyou","en":"situation","example_ja":"状況を説明する。","example_en":"Explain the situation."}
-{"id":30,"jp":"理由","kana":"りゆう","romaji":"riyuu","en":"reason","example_ja":"理由を述べる。","example_en":"State the reason."}
 {"id":31,"jp":"例","kana":"れい","romaji":"rei","en":"example","example_ja":"例を挙げる。","example_en":"Give an example."}
 {"id":32,"jp":"賛成","kana":"さんせい","romaji":"sansei","en":"agreement; approval","example_ja":"提案に賛成する。","example_en":"Approve the proposal."}
 {"id":33,"jp":"反対","kana":"はんたい","romaji":"hantai","en":"opposition","example_ja":"計画に反対する。","example_en":"Oppose the plan."}
@@ -37,7 +34,6 @@
 {"id":37,"jp":"管理","kana":"かんり","romaji":"kanri","en":"management","example_ja":"時間を管理する。","example_en":"Manage time."}
 {"id":38,"jp":"記録","kana":"きろく","romaji":"kiroku","en":"record","example_ja":"記録を残す。","example_en":"Keep records."}
 {"id":39,"jp":"知識","kana":"ちしき","romaji":"chishiki","en":"knowledge","example_ja":"知識を身につける。","example_en":"Acquire knowledge."}
-{"id":40,"jp":"経験","kana":"けいけん","romaji":"keiken","en":"experience","example_ja":"経験が不足している。","example_en":"I lack experience."}
 {"id":41,"jp":"影響","kana":"えいきょう","romaji":"eikyou","en":"influence; impact","example_ja":"彼の発言は大きな影響を与えた。","example_en":"His remarks had a big impact."}
 {"id":42,"jp":"比較","kana":"ひかく","romaji":"hikaku","en":"comparison","example_ja":"A社とB社を比較する。","example_en":"Compare company A and B."}
 {"id":43,"jp":"説得","kana":"せっとく","romaji":"settoku","en":"persuasion","example_ja":"説得に時間がかかった。","example_en":"It took time to persuade them."}
@@ -50,10 +46,6 @@
 {"id":50,"jp":"得意","kana":"とくい","romaji":"tokui","en":"good at","example_ja":"英語が得意だ。","example_en":"I'm good at English."}
 {"id":51,"jp":"苦手","kana":"にがて","romaji":"nigate","en":"poor at","example_ja":"数学は苦手だ。","example_en":"I'm poor at math."}
 {"id":52,"jp":"伝統","kana":"でんとう","romaji":"dentou","en":"tradition","example_ja":"地域の伝統を守る。","example_en":"Preserve local traditions."}
-{"id":53,"jp":"文化","kana":"ぶんか","romaji":"bunka","en":"culture","example_ja":"異文化を理解する。","example_en":"Understand different cultures."}
-{"id":54,"jp":"社会","kana":"しゃかい","romaji":"shakai","en":"society","example_ja":"社会問題について議論する。","example_en":"Discuss social issues."}
-{"id":55,"jp":"経済","kana":"けいざい","romaji":"keizai","en":"economy","example_ja":"経済が回復している。","example_en":"The economy is recovering."}
-{"id":56,"jp":"政治","kana":"せいじ","romaji":"seiji","en":"politics","example_ja":"政治に関心がある。","example_en":"I'm interested in politics."}
 {"id":57,"jp":"環境","kana":"かんきょう","romaji":"kankyou","en":"environment","example_ja":"環境を守る。","example_en":"Protect the environment."}
 {"id":58,"jp":"条件","kana":"じょうけん","romaji":"jouken","en":"condition; terms","example_ja":"条件を確認する。","example_en":"Check the terms."}
 {"id":59,"jp":"制度","kana":"せいど","romaji":"seido","en":"system; institution","example_ja":"新しい制度が始まった。","example_en":"A new system started."}
@@ -87,21 +79,14 @@
 {"id":87,"jp":"決して","kana":"けっして","romaji":"kesshite","en":"never; by no means","example_ja":"決して諦めない。","example_en":"I never give up."}
 {"id":88,"jp":"場合","kana":"ばあい","romaji":"baai","en":"case; situation","example_ja":"緊急の場合は110番。","example_en":"In an emergency, call 110."}
 {"id":89,"jp":"機会","kana":"きかい","romaji":"kikai","en":"opportunity","example_ja":"またの機会に会いましょう。","example_en":"Let's meet another time."}
-{"id":90,"jp":"原因","kana":"げんいん","romaji":"genin","en":"cause","example_ja":"事故の原因を特定する。","example_en":"Identify the cause of the accident."}
-{"id":91,"jp":"結果","kana":"けっか","romaji":"kekka","en":"result","example_ja":"結果を共有する。","example_en":"Share the results."}
 {"id":92,"jp":"目的","kana":"もくてき","romaji":"mokuteki","en":"purpose","example_ja":"目的を明確にする。","example_en":"Clarify the purpose."}
-{"id":93,"jp":"理由","kana":"りゆう","romaji":"riyuu","en":"reason","example_ja":"その理由を説明して。","example_en":"Please explain the reason."}
 {"id":94,"jp":"内容","kana":"ないよう","romaji":"naiyou","en":"content","example_ja":"内容を確認する。","example_en":"Check the content."}
-{"id":95,"jp":"状況","kana":"じょうきょう","romaji":"joukyou","en":"situation","example_ja":"現在の状況を把握する。","example_en":"Grasp the current situation."}
 {"id":96,"jp":"提案","kana":"ていあん","romaji":"teian","en":"proposal","example_ja":"新しい提案を出す。","example_en":"Make a new proposal."}
-{"id":97,"jp":"変更","kana":"へんこう","romaji":"henkou","en":"change","example_ja":"計画を変更した。","example_en":"We changed the plan."}
 {"id":98,"jp":"調査","kana":"ちょうさ","romaji":"chousa","en":"research; survey","example_ja":"調査結果を発表する。","example_en":"Announce the survey results."}
 {"id":99,"jp":"報告","kana":"ほうこく","romaji":"houkoku","en":"report","example_ja":"進捗を報告する。","example_en":"Report the progress."}
 {"id":100,"jp":"承認","kana":"しょうにん","romaji":"shounin","en":"approval","example_ja":"申請が承認された。","example_en":"The application was approved."}
-{"id":101,"jp":"案内","kana":"あんない","romaji":"annai","en":"guidance; information","example_ja":"駅で道を案内してもらった。","example_en":"I had someone guide me at the station."}
 {"id":102,"jp":"安心","kana":"あんしん","romaji":"anshin","en":"relief; peace of mind","example_ja":"無事だと聞いて安心した。","example_en":"I was relieved to hear you are safe."}
 {"id":103,"jp":"安全","kana":"あんぜん","romaji":"anzen","en":"safety","example_ja":"安全な場所へ避難する。","example_en":"Evacuate to a safe place."}
-{"id":104,"jp":"意見","kana":"いけん","romaji":"iken","en":"opinion","example_ja":"彼の意見に賛成だ。","example_en":"I agree with his opinion."}
 {"id":105,"jp":"説明","kana":"せつめい","romaji":"setsumei","en":"explanation","example_ja":"詳しく説明してください。","example_en":"Please explain in detail."}
 {"id":106,"jp":"関係","kana":"かんけい","romaji":"kankei","en":"relationship; connection","example_ja":"二人の関係は良好だ。","example_en":"Their relationship is good."}
 {"id":107,"jp":"興味","kana":"きょうみ","romaji":"kyoumi","en":"interest","example_ja":"日本の文化に興味がある。","example_en":"I am interested in Japanese culture."}
@@ -115,23 +100,18 @@
 {"id":115,"jp":"世界","kana":"せかい","romaji":"sekai","en":"world","example_ja":"世界中を旅したい。","example_en":"I want to travel all over the world."}
 {"id":116,"jp":"卒業","kana":"そつぎょう","romaji":"sotsugyou","en":"graduation","example_ja":"大学を卒業した。","example_en":"I graduated from university."}
 {"id":117,"jp":"退院","kana":"たいいん","romaji":"taiin","en":"leaving hospital","example_ja":"来週、退院する予定だ。","example_en":"I'm scheduled to leave the hospital next week."}
-{"id":118,"jp":"注意","kana":"ちゅうい","romaji":"chuui","en":"caution; attention","example_ja":"足元に注意してください。","example_en":"Please watch your step."}
 {"id":119,"jp":"特別","kana":"とくべつ","romaji":"tokubetsu","en":"special","example_ja":"今日は特別な日だ。","example_en":"Today is a special day."}
 {"id":120,"jp":"努力","kana":"どりょく","romaji":"doryoku","en":"effort","example_ja":"努力は報われる。","example_en":"Effort pays off."}
-{"id":121,"jp":"法律","kana":"ほうりつ","romaji":"houritsu","en":"law","example_ja":"法律を守る。","example_en":"Obey the law."}
 {"id":122,"jp":"放送","kana":"ほうそう","romaji":"housou","en":"broadcast","example_ja":"ニュースが放送される。","example_en":"The news is broadcast."}
 {"id":123,"jp":"翻訳","kana":"ほんやく","romaji":"honyaku","en":"translation","example_ja":"この本を翻訳した。","example_en":"I translated this book."}
 {"id":124,"jp":"漫画","kana":"まんが","romaji":"manga","en":"manga; comic","example_ja":"漫画を読むのが好きだ。","example_en":"I like reading manga."}
-{"id":125,"jp":"約束","kana":"やくそく","romaji":"yakusoku","en":"promise","example_ja":"約束を守る。","example_en":"Keep a promise."}
 {"id":126,"jp":"優しい","kana":"やさしい","romaji":"yasashii","en":"kind; gentle","example_ja":"彼はとても優しい人だ。","example_en":"He is a very kind person."}
 {"id":127,"jp":"有名","kana":"ゆうめい","romaji":"yuumei","en":"famous","example_ja":"彼は有名な歌手だ。","example_en":"He is a famous singer."}
 {"id":128,"jp":"夢","kana":"ゆめ","romaji":"yume","en":"dream","example_ja":"昨夜、面白い夢を見た。","example_en":"I had an interesting dream last night."}
 {"id":129,"jp":"用事","kana":"ようじ","romaji":"youji","en":"errand; business to take care of","example_ja":"今日は用事がある。","example_en":"I have something to do today."}
-{"id":130,"jp":"理由","kana":"りゆう","romaji":"riyuu","en":"reason","example_ja":"遅刻した理由を話す。","example_en":"Explain the reason for being late."}
 {"id":131,"jp":"利用","kana":"りよう","romaji":"riyou","en":"use; utilization","example_ja":"図書館を利用する。","example_en":"Use the library."}
 {"id":132,"jp":"両親","kana":"りょうしん","romaji":"ryoushin","en":"parents","example_ja":"両親に感謝している。","example_en":"I am grateful to my parents."}
 {"id":133,"jp":"歴史","kana":"れきし","romaji":"rekishi","en":"history","example_ja":"日本の歴史を勉強している。","example_en":"I am studying Japanese history."}
-{"id":134,"jp":"連絡","kana":"れんらく","romaji":"renraku","en":"contact; communication","example_ja":"後で連絡します。","example_en":"I will contact you later."}
 {"id":135,"jp":"若い","kana":"わかい","romaji":"wakai","en":"young","example_ja":"彼はまだ若い。","example_en":"He is still young."}
 {"id":136,"jp":"忘れる","kana":"わすれる","romaji":"wasureru","en":"to forget","example_ja":"宿題を忘れた。","example_en":"I forgot my homework."}
 {"id":137,"jp":"笑う","kana":"わらう","romaji":"warau","en":"to laugh; to smile","example_ja":"彼の冗談で笑った。","example_en":"I laughed at his joke."}
@@ -146,7 +126,6 @@
 {"id":146,"jp":"自然","kana":"しぜん","romaji":"shizen","en":"nature","example_ja":"自然の中で過ごす。","example_en":"Spend time in nature."}
 {"id":147,"jp":"失敗","kana":"しっぱい","romaji":"shippai","en":"failure","example_ja":"実験は失敗に終わった。","example_en":"The experiment ended in failure."}
 {"id":148,"jp":"招待","kana":"しょうたい","romaji":"shoutai","en":"invitation","example_ja":"パーティーに招待された。","example_en":"I was invited to a party."}
-{"id":149,"jp":"将来","kana":"しょうらい","romaji":"shourai","en":"future","example_ja":"将来の夢は医者になることだ。","example_en":"My future dream is to become a doctor."}
 {"id":150,"jp":"食事","kana":"しょくじ","romaji":"shokuji","en":"meal","example_ja":"一緒に食事をしましょう。","example_en":"Let's have a meal together."}
 {"id":151,"jp":"新聞社","kana":"しんぶんしゃ","romaji":"shinbunsha","en":"newspaper company","example_ja":"新聞社で働いている。","example_en":"I work for a newspaper company."}
 {"id":152,"jp":"水泳","kana":"すいえい","romaji":"suiei","en":"swimming","example_ja":"趣味は水泳です。","example_en":"My hobby is swimming."}
@@ -154,7 +133,6 @@
 {"id":154,"jp":"専門","kana":"せんもん","romaji":"senmon","en":"specialty; major","example_ja":"私の専門は経済学です。","example_en":"My major is economics."}
 {"id":155,"jp":"戦争","kana":"せんそう","romaji":"sensou","en":"war","example_ja":"戦争は悲劇だ。","example_en":"War is a tragedy."}
 {"id":156,"jp":"卒業式","kana":"そつぎょうしき","romaji":"sotsugyoushiki","en":"graduation ceremony","example_ja":"明日は卒業式だ。","example_en":"Tomorrow is the graduation ceremony."}
-{"id":157,"jp":"相談","kana":"そうだん","romaji":"soudan","en":"consultation","example_ja":"先生に相談する。","example_en":"Consult with the teacher."}
 {"id":158,"jp":"体育","kana":"たいいく","romaji":"taiiku","en":"physical education","example_ja":"体育の授業は楽しい。","example_en":"Physical education class is fun."}
 {"id":159,"jp":"台風","kana":"たいふう","romaji":"taifuu","en":"typhoon","example_ja":"台風が近づいている。","example_en":"A typhoon is approaching."}
 {"id":160,"jp":"駐車場","kana":"ちゅうしゃじょう","romaji":"chuushajou","en":"parking lot","example_ja":"駐車場は満車だ。","example_en":"The parking lot is full."}
@@ -167,15 +145,12 @@
 {"id":167,"jp":"届ける","kana":"とどける","romaji":"todokeru","en":"to deliver","example_ja":"荷物を届ける。","example_en":"Deliver a package."}
 {"id":168,"jp":"熱心","kana":"ねっしん","romaji":"nesshin","en":"enthusiastic; eager","example_ja":"彼は勉強に熱心だ。","example_en":"He is enthusiastic about his studies."}
 {"id":169,"jp":"複雑","kana":"ふくざつ","romaji":"fukuzatsu","en":"complicated","example_ja":"話が複雑になってきた。","example_en":"The story has become complicated."}
-{"id":170,"jp":"復習","kana":"ふくしゅう","romaji":"fukushuu","en":"review (of lessons)","example_ja":"毎日、復習を欠かさない。","example_en":"I review my lessons every day without fail."}
 {"id":171,"jp":"文化祭","kana":"ぶんかさい","romaji":"bunkasai","en":"cultural festival","example_ja":"文化祭の準備で忙しい。","example_en":"I'm busy preparing for the cultural festival."}
 {"id":172,"jp":"平和","kana":"へいわ","romaji":"heiwa","en":"peace","example_ja":"世界の平和を願う。","example_en":"I wish for world peace."}
-{"id":173,"jp":"法律","kana":"ほうりつ","romaji":"houritsu","en":"law","example_ja":"新しい法律ができた。","example_en":"A new law has been made."}
 {"id":174,"jp":"放送局","kana":"ほうそうきょく","romaji":"housoukyoku","en":"broadcasting station","example_ja":"放送局を見学した。","example_en":"I toured the broadcasting station."}
 {"id":175,"jp":"毎年","kana":"まいとし","romaji":"maitoshi","en":"every year","example_ja":"毎年、海外旅行に行く。","example_en":"I travel abroad every year."}
 {"id":176,"jp":"見学","kana":"けんがく","romaji":"kengaku","en":"field trip; observation","example_ja":"工場を見学する。","example_en":"Tour a factory."}
 {"id":177,"jp":"見物","kana":"けんぶつ","romaji":"kenbutsu","en":"sightseeing","example_ja":"京都を見物した。","example_en":"I went sightseeing in Kyoto."}
-{"id":178,"jp":"予習","kana":"よしゅう","romaji":"yoshuu","en":"preparation for a lesson","example_ja":"明日の授業の予習をする。","example_en":"I'll prepare for tomorrow's class."}
 {"id":179,"jp":"輸出","kana":"ゆしゅつ","romaji":"yushutsu","en":"export","example_ja":"車を輸出する。","example_en":"Export cars."}
 {"id":180,"jp":"輸入","kana":"ゆにゅう","romaji":"yunyuu","en":"import","example_ja":"ワインを輸入する。","example_en":"Import wine."}
 {"id":181,"jp":"指輪","kana":"ゆびわ","romaji":"yubiwa","en":"ring","example_ja":"結婚指輪を買った。","example_en":"I bought a wedding ring."}
@@ -183,7 +158,6 @@
 {"id":183,"jp":"旅行社","kana":"りょこうしゃ","romaji":"ryokousha","en":"travel agency","example_ja":"旅行社でチケットを予約した。","example_en":"I booked a ticket at a travel agency."}
 {"id":184,"jp":"留守","kana":"るす","romaji":"rusu","en":"absence; being away from home","example_ja":"彼はずっと留守にしている。","example_en":"He has been away for a long time."}
 {"id":185,"jp":"冷房","kana":"れいぼう","romaji":"reibou","en":"air conditioning (cooling)","example_ja":"冷房をつける。","example_en":"Turn on the air conditioning."}
-{"id":186,"jp":"割合","kana":"わりあい","romaji":"wariai","en":"rate; ratio; percentage","example_ja":"成功の割合は低い。","example_en":"The success rate is low."}
 {"id":187,"jp":"割引","kana":"わりびき","romaji":"waribiki","en":"discount","example_ja":"学割で割引になる。","example_en":"I get a discount with a student ID."}
 {"id":188,"jp":"反対側","kana":"はんたいがわ","romaji":"hantaigawa","en":"opposite side","example_ja":"道の反対側に渡る。","example_en":"Cross to the opposite side of the road."}
 {"id":189,"jp":"番組","kana":"ばんぐみ","romaji":"bangumi","en":"program (e.g. TV)","example_ja":"好きなテレビ番組を見る。","example_en":"Watch my favorite TV program."}
@@ -194,7 +168,4 @@
 {"id":194,"jp":"文学","kana":"ぶんがく","romaji":"bungaku","en":"literature","example_ja":"大学で文学を専攻している。","example_en":"I major in literature at university."}
 {"id":195,"jp":"返事","kana":"へんじ","romaji":"henji","en":"reply; answer","example_ja":"手紙の返事を書く。","example_en":"Write a reply to the letter."}
 {"id":196,"jp":"貿易","kana":"ぼうえき","romaji":"boueki","en":"trade (foreign)","example_ja":"貿易会社で働いている。","example_en":"I work at a trading company."}
-{"id":197,"jp":"放送","kana":"ほうそう","romaji":"housou","en":"broadcast","example_ja":"そのニュースは全国に放送された。","example_en":"That news was broadcast nationwide."}
-{"id":198,"jp":"法律","kana":"ほうりつ","romaji":"houritsu","en":"law","example_ja":"彼は法律に詳しい。","example_en":"He is knowledgeable about the law."}
 {"id":199,"jp":"僕","kana":"ぼく","romaji":"boku","en":"I (used by males)","example_ja":"僕の名前は健太です。","example_en":"My name is Kenta."}
-{"id":200,"jp":"未来","kana":"みらい","romaji":"mirai","en":"future","example_ja":"明るい未来を信じている。","example_en":"I believe in a bright future."}

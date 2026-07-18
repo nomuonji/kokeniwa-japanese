@@ -58,3 +58,35 @@ VOCAB_SETS = {
 # Sets shown in nav / on the home page (mature excluded).
 PUBLIC_SETS = [k for k, v in VOCAB_SETS.items() if not v.get("mature")]
 LEVEL_SETS = [k for k, v in VOCAB_SETS.items() if v.get("level")]
+THEMED_SETS = [k for k, v in VOCAB_SETS.items() if v.get("group") == "themed"]
+
+# Closed vocabulary for the optional `pos` field on vocab rows.
+POS_VALUES = [
+    "noun", "verb", "i-adj", "na-adj", "adverb", "particle",
+    "expression", "counter", "onomatopoeia", "other",
+]
+
+# Grammar-quiz categories: slug -> display name. Order = display order.
+QUIZ_CATEGORIES = {
+    "particles": "Particles",
+    "verb-forms": "Verb Forms",
+    "te-form": "Te-form Usage",
+    "conditionals": "Conditionals",
+    "passive-causative": "Passive & Causative",
+    "keigo": "Keigo & Politeness",
+    "giving-receiving": "Giving & Receiving",
+    "counters": "Counters",
+    "word-choice": "Word Choice",
+    "comparisons": "Comparisons",
+    "conjunctions": "Conjunctions",
+    "reading-comprehension": "Reading Comprehension",
+}
+
+# JLPT levels for quiz pages: key -> label/description. Order = display order.
+QUIZ_LEVELS = {
+    "n5": {"label": "N5", "description": "Beginner — basic particles, verb forms and everyday sentences."},
+    "n4": {"label": "N4", "description": "Elementary — te-form, plain form and simple compound sentences."},
+    "n3": {"label": "N3", "description": "Intermediate — conditionals, giving/receiving and natural word choice."},
+    "n2": {"label": "N2", "description": "Upper-intermediate — nuanced grammar for news and workplace Japanese."},
+    "n1": {"label": "N1", "description": "Advanced — formal, literary and subtle grammar distinctions."},
+}
