@@ -1,0 +1,4020 @@
+#separator:comma
+#html:false
+#deck:JLPT N5 Vocabulary
+#notetype:Basic
+#tags column:3
+赤,"red
+あか · aka
+
+赤が好きです。
+I like red.",n5
+青,"blue
+あお · ao
+
+青い空。
+A blue sky.",n5
+白,"white
+しろ · shiro
+
+白いシャツを着る。
+I wear a white shirt.",n5
+黒,"black
+くろ · kuro
+
+黒が似合う。
+Black suits you.",n5
+色,"color
+いろ · iro
+
+好きな色は何ですか。
+What is your favorite color?",n5
+大きい,"big
+おおきい · ookii
+
+大きい家。
+A big house.",n5
+小さい,"small
+ちいさい · chiisai
+
+小さい猫。
+A small cat.",n5
+長い,"long
+ながい · nagai
+
+長い髪。
+Long hair.",n5
+短い,"short
+みじかい · mijikai
+
+短い手紙。
+A short letter.",n5
+新しい,"new
+あたらしい · atarashii
+
+新しい本を買う。
+I buy a new book.",n5
+古い,"old (thing)
+ふるい · furui
+
+古い時計。
+An old clock.",n5
+高い,"tall; expensive
+たかい · takai
+
+値段が高い。
+The price is high.",n5
+安い,"cheap
+やすい · yasui
+
+安い店。
+A cheap shop.",n5
+早い,"early; fast
+はやい · hayai
+
+早く起きる。
+I get up early.",n5
+遅い,"late; slow
+おそい · osoi
+
+電車が遅い。
+The train is late.",n5
+いい,"good
+いい · ii
+
+今日はいい天気だ。
+The weather is nice today.",n5
+悪い,"bad
+わるい · warui
+
+気分が悪い。
+I feel bad.",n5
+暑い,"hot (weather)
+あつい · atsui
+
+今日は暑い。
+It's hot today.",n5
+寒い,"cold (weather)
+さむい · samui
+
+冬は寒い。
+It is cold in winter.",n5
+涼しい,"cool (weather)
+すずしい · suzushii
+
+朝は涼しい。
+It's cool in the morning.",n5
+暖かい,"warm
+あたたかい · atatakai
+
+春は暖かい。
+Spring is warm.",n5
+強い,"strong
+つよい · tsuyoi
+
+風が強い。
+The wind is strong.",n5
+弱い,"weak
+よわい · yowai
+
+日差しが弱い。
+The sunlight is weak.",n5
+近い,"near; close
+ちかい · chikai
+
+駅は近い。
+The station is close.",n5
+遠い,"far
+とおい · tooi
+
+駅は遠い。
+The station is far.",n5
+上,"up; above
+うえ · ue
+
+棚の上にある。
+It's on the shelf.",n5
+下,"down; below
+した · shita
+
+机の下にある。
+It's under the desk.",n5
+中,"inside; middle
+なか · naka
+
+箱の中に入っている。
+It's inside the box.",n5
+外,"outside
+そと · soto
+
+外で遊ぶ。
+Play outside.",n5
+前,"front; before
+まえ · mae
+
+駅の前で会う。
+Meet in front of the station.",n5
+後ろ,"back; behind
+うしろ · ushiro
+
+後ろを向く。
+Look back.",n5
+右,"right (direction)
+みぎ · migi
+
+右に曲がる。
+Turn right.",n5
+左,"left (direction)
+ひだり · hidari
+
+左に曲がる。
+Turn left.",n5
+人,"person
+ひと · hito
+
+優しい人。
+A kind person.",n5
+子供,"child
+こども · kodomo
+
+元気な子供。
+A lively child.",n5
+友達,"friend
+ともだち · tomodachi
+
+友達と遊ぶ。
+Play with a friend.",n5
+家族,"family
+かぞく · kazoku
+
+家族と旅行する。
+Travel with family.",n5
+父,"(my) father
+ちち · chichi
+
+父は医者です。
+My father is a doctor.",n5
+母,"(my) mother
+はは · haha
+
+母は優しい。
+My mother is kind.",n5
+兄,"older brother
+あに · ani
+
+兄は背が高い。
+My older brother is tall.",n5
+姉,"older sister
+あね · ane
+
+姉は学生です。
+My older sister is a student.",n5
+弟,"younger brother
+おとうと · otouto
+
+弟は小学生です。
+My younger brother is an elementary student.",n5
+妹,"younger sister
+いもうと · imouto
+
+妹は元気だ。
+My younger sister is energetic.",n5
+先生,"teacher
+せんせい · sensei
+
+先生に聞く。
+Ask the teacher.",n5
+学生,"student
+がくせい · gakusei
+
+私は学生です。
+I am a student.",n5
+学校,"school
+がっこう · gakkou
+
+学校へ行く。
+Go to school.",n5
+会社,"company
+かいしゃ · kaisha
+
+大きな会社。
+A big company.",n5
+会社員,"company employee
+かいしゃいん · kaishain
+
+父は会社員です。
+My father is a company employee.",n5
+銀行,"bank
+ぎんこう · ginkou
+
+銀行に行く。
+Go to the bank.",n5
+病院,"hospital
+びょういん · byouin
+
+病院へ行く。
+Go to the hospital.",n5
+駅,"station
+えき · eki
+
+駅で待つ。
+Wait at the station.",n5
+空港,"airport
+くうこう · kuukou
+
+空港に着く。
+Arrive at the airport.",n5
+バス,"bus
+ばす · basu
+
+バスに乗る。
+Get on a bus.",n5
+電車,"train
+でんしゃ · densha
+
+電車で行く。
+Go by train.",n5
+自転車,"bicycle
+じてんしゃ · jitensha
+
+自転車に乗る。
+Ride a bicycle.",n5
+車,"car
+くるま · kuruma
+
+車を買う。
+Buy a car.",n5
+道,"road; way
+みち · michi
+
+道に迷う。
+Get lost on the way.",n5
+交差点,"intersection
+こうさてん · kousaten
+
+交差点を右に曲がる。
+Turn right at the intersection.",n5
+信号,"traffic light
+しんごう · shingou
+
+信号を待つ。
+Wait at the traffic light.",n5
+橋,"bridge
+はし · hashi
+
+橋を渡る。
+Cross the bridge.",n5
+家,"house; home
+いえ · ie
+
+家に帰る。
+Go home.",n5
+部屋,"room
+へや · heya
+
+部屋を掃除する。
+Clean the room.",n5
+台所,"kitchen
+だいどころ · daidokoro
+
+台所で料理する。
+Cook in the kitchen.",n5
+風呂,"bath
+ふろ · furo
+
+風呂に入る。
+Take a bath.",n5
+トイレ,"toilet
+といれ · toire
+
+トイレはどこですか。
+Where is the restroom?",n5
+窓,"window
+まど · mado
+
+窓を開ける。
+Open the window.",n5
+ドア,"door
+どあ · doa
+
+ドアを閉める。
+Close the door.",n5
+机,"desk
+つくえ · tsukue
+
+机に座る。
+Sit at the desk.",n5
+椅子,"chair
+いす · isu
+
+椅子に座る。
+Sit on a chair.",n5
+ベッド,"bed
+べっど · beddo
+
+ベッドで寝る。
+Sleep in the bed.",n5
+本,"book
+ほん · hon
+
+本を読む。
+Read a book.",n5
+新聞,"newspaper
+しんぶん · shinbun
+
+新聞を読む。
+Read a newspaper.",n5
+雑誌,"magazine
+ざっし · zasshi
+
+雑誌を買う。
+Buy a magazine.",n5
+手紙,"letter
+てがみ · tegami
+
+手紙を書く。
+Write a letter.",n5
+写真,"photo
+しゃしん · shashin
+
+写真を撮る。
+Take a photo.",n5
+時計,"clock; watch
+とけい · tokei
+
+時計を見る。
+Look at the clock.",n5
+携帯電話,"mobile phone
+けいたいでんわ · keitai denwa
+
+携帯電話をなくした。
+I lost my mobile phone.",n5
+パソコン,"computer
+ぱそこん · pasokon
+
+パソコンを使う。
+Use a computer.",n5
+食べる,"to eat
+たべる · taberu
+
+朝ご飯を食べる。
+I eat breakfast.",n5
+飲む,"to drink
+のむ · nomu
+
+水を飲む。
+I drink water.",n5
+見る,"to see; to watch
+みる · miru
+
+映画を見る。
+I watch a movie.",n5
+聞く,"to listen; to ask
+きく · kiku
+
+音楽を聞く。
+I listen to music.",n5
+話す,"to speak
+はなす · hanasu
+
+日本語を話す。
+I speak Japanese.",n5
+読む,"to read
+よむ · yomu
+
+本を読む。
+I read a book.",n5
+書く,"to write
+かく · kaku
+
+名前を書く。
+Write your name.",n5
+行く,"to go
+いく · iku
+
+学校へ行く。
+Go to school.",n5
+来る,"to come
+くる · kuru
+
+友達が来る。
+A friend comes.",n5
+帰る,"to return; to go home
+かえる · kaeru
+
+家に帰る。
+I go home.",n5
+起きる,"to get up
+おきる · okiru
+
+6時に起きる。
+I get up at six.",n5
+寝る,"to sleep
+ねる · neru
+
+早く寝る。
+I sleep early.",n5
+する,"to do
+する · suru
+
+宿題をする。
+I do homework.",n5
+ある,"to exist (inanimate)
+ある · aru
+
+机の上に本がある。
+There is a book on the desk.",n5
+いる,"to exist (animate)
+いる · iru
+
+犬がいる。
+There is a dog.",n5
+使う,"to use
+つかう · tsukau
+
+スマホを使う。
+I use a smartphone.",n5
+作る,"to make; to create
+つくる · tsukuru
+
+ケーキを作る。
+I make a cake.",n5
+買う,"to buy
+かう · kau
+
+野菜を買う。
+I buy vegetables.",n5
+売る,"to sell
+うる · uru
+
+服を売る。
+I sell clothes.",n5
+会う,"to meet
+あう · au
+
+友達に会う。
+I meet a friend.",n5
+住む,"to live; to reside
+すむ · sumu
+
+東京に住む。
+I live in Tokyo.",n5
+分かる,"to understand
+わかる · wakaru
+
+意味が分かる。
+I understand the meaning.",n5
+今日,"today
+きょう · kyou
+
+今日はいい天気です。
+The weather is nice today.",n5
+明日,"tomorrow
+あした · ashita
+
+また明日会いましょう。
+Let's meet again tomorrow.",n5
+昨日,"yesterday
+きのう · kinou
+
+昨日は雨でした。
+It was rainy yesterday.",n5
+今,"now
+いま · ima
+
+今、何時ですか？
+What time is it now?",n5
+朝,"morning
+あさ · asa
+
+朝ご飯を食べます。
+I eat breakfast.",n5
+昼,"daytime; noon
+ひる · hiru
+
+昼休みは1時間です。
+The lunch break is one hour.",n5
+晩,"evening; night
+ばん · ban
+
+今晩、何をしますか？
+What are you doing tonight?",n5
+時,"time; when
+とき · toki
+
+子供の時、よく外で遊びました。
+When I was a child, I often played outside.",n5
+分,"minute
+ふん · fun
+
+あと5分で着きます。
+I will arrive in 5 minutes.",n5
+半,"half
+はん · han
+
+今、9時半です。
+It's half past nine now.",n5
+一つ,"one (thing)
+ひとつ · hitotsu
+
+りんごを一つください。
+One apple, please.",n5
+二つ,"two (things)
+ふたつ · futatsu
+
+椅子が二つあります。
+There are two chairs.",n5
+三つ,"three (things)
+みっつ · mittsu
+
+質問が三つあります。
+I have three questions.",n5
+四つ,"four (things)
+よっつ · yottsu
+
+箱を四つ運びました。
+I carried four boxes.",n5
+五つ,"five (things)
+いつつ · itsutsu
+
+星が五つ見えます。
+I can see five stars.",n5
+六つ,"six (things)
+むっつ · muttsu
+
+卵を六つ買いました。
+I bought six eggs.",n5
+七つ,"seven (things)
+ななつ · nanatsu
+
+七つの言葉を覚えました。
+I memorized seven words.",n5
+八つ,"eight (things)
+やっつ · yattsu
+
+お皿が八つあります。
+There are eight plates.",n5
+九つ,"nine (things)
+ここのつ · kokonotsu
+
+九つの町を旅しました。
+I traveled through nine towns.",n5
+十,"ten (things)
+とお · too
+
+みかんが十あります。
+There are ten mandarins.",n5
+百,"hundred
+ひゃく · hyaku
+
+百円のお菓子を買いました。
+I bought a 100-yen snack.",n5
+千,"thousand
+せん · sen
+
+千円札を出しました。
+I handed over a 1,000-yen bill.",n5
+万,"ten thousand
+まん · man
+
+一万円を銀行に入れました。
+I put 10,000 yen in the bank.",n5
+円,"yen
+えん · en
+
+このパンは二百円です。
+This bread is 200 yen.",n5
+歳,"years old (counter)
+さい · sai
+
+弟は十歳です。
+My little brother is ten years old.",n5
+番,"number (in a series)
+ばん · ban
+
+三番の窓口へ行ってください。
+Please go to window number three.",n5
+回,"times (occurrences)
+かい · kai
+
+週に二回ジムに行きます。
+I go to the gym twice a week.",n5
+階,"floor (of a building)
+かい · kai
+
+本屋は三階にあります。
+The bookstore is on the third floor.",n5
+個,"piece (small object counter)
+こ · ko
+
+ケーキを二個食べました。
+I ate two pieces of cake.",n5
+枚,"sheet (flat object counter)
+まい · mai
+
+紙を三枚ください。
+Please give me three sheets of paper.",n5
+冊,"volume (book counter)
+さつ · satsu
+
+本を二冊借りました。
+I borrowed two books.",n5
+台,"machine/vehicle counter
+だい · dai
+
+車が二台あります。
+We have two cars.",n5
+匹,"small animal counter
+ひき · hiki
+
+猫を二匹飼っています。
+I have two cats.",n5
+杯,"cup/glass counter
+はい · hai
+
+コーヒーを一杯飲みました。
+I drank a cup of coffee.",n5
+月曜日,"Monday
+げつようび · getsuyoubi
+
+月曜日に会議があります。
+There is a meeting on Monday.",n5
+火曜日,"Tuesday
+かようび · kayoubi
+
+火曜日は忙しいです。
+I am busy on Tuesdays.",n5
+水曜日,"Wednesday
+すいようび · suiyoubi
+
+水曜日に映画を見ます。
+I watch a movie on Wednesday.",n5
+木曜日,"Thursday
+もくようび · mokuyoubi
+
+木曜日にテストがあります。
+There is a test on Thursday.",n5
+金曜日,"Friday
+きんようび · kinyoubi
+
+金曜日の夜は楽しいです。
+Friday nights are fun.",n5
+土曜日,"Saturday
+どようび · doyoubi
+
+土曜日に買い物をします。
+I go shopping on Saturday.",n5
+日曜日,"Sunday
+にちようび · nichiyoubi
+
+日曜日は家で休みます。
+I rest at home on Sunday.",n5
+週,"week
+しゅう · shuu
+
+今週は雨が多いです。
+It has rained a lot this week.",n5
+先週,"last week
+せんしゅう · senshuu
+
+先週、京都へ行きました。
+I went to Kyoto last week.",n5
+来週,"next week
+らいしゅう · raishuu
+
+来週、友達が来ます。
+My friend is coming next week.",n5
+毎日,"every day
+まいにち · mainichi
+
+毎日、日本語を勉強します。
+I study Japanese every day.",n5
+毎週,"every week
+まいしゅう · maishuu
+
+毎週、プールで泳ぎます。
+I swim at the pool every week.",n5
+毎朝,"every morning
+まいあさ · maiasa
+
+毎朝、コーヒーを飲みます。
+I drink coffee every morning.",n5
+毎晩,"every night
+まいばん · maiban
+
+毎晩、本を読みます。
+I read a book every night.",n5
+午前,"a.m.; morning
+ごぜん · gozen
+
+午前九時に始まります。
+It starts at 9 a.m.",n5
+午後,"p.m.; afternoon
+ごご · gogo
+
+午後から雨が降ります。
+It will rain from the afternoon.",n5
+夜,"night
+よる · yoru
+
+夜は静かです。
+It is quiet at night.",n5
+夕方,"evening
+ゆうがた · yuugata
+
+夕方に散歩します。
+I take a walk in the evening.",n5
+今年,"this year
+ことし · kotoshi
+
+今年、日本へ行きます。
+I am going to Japan this year.",n5
+去年,"last year
+きょねん · kyonen
+
+去年、結婚しました。
+I got married last year.",n5
+来年,"next year
+らいねん · rainen
+
+来年、大学に入ります。
+I will enter university next year.",n5
+今月,"this month
+こんげつ · kongetsu
+
+今月は忙しいです。
+I am busy this month.",n5
+先月,"last month
+せんげつ · sengetsu
+
+先月、引っ越しました。
+I moved last month.",n5
+来月,"next month
+らいげつ · raigetsu
+
+来月、試験があります。
+There is an exam next month.",n5
+誕生日,"birthday
+たんじょうび · tanjoubi
+
+明日は母の誕生日です。
+Tomorrow is my mother's birthday.",n5
+休み,"holiday; day off
+やすみ · yasumi
+
+日曜日は休みです。
+Sunday is my day off.",n5
+ご飯,"rice; meal
+ごはん · gohan
+
+朝ご飯を食べましたか。
+Did you eat breakfast?",n5
+パン,"bread
+パン · pan
+
+毎朝パンを食べます。
+I eat bread every morning.",n5
+肉,"meat
+にく · niku
+
+肉と野菜を買いました。
+I bought meat and vegetables.",n5
+魚,"fish
+さかな · sakana
+
+日本の魚はおいしいです。
+Japanese fish is delicious.",n5
+卵,"egg
+たまご · tamago
+
+卵を三つ使います。
+I use three eggs.",n5
+野菜,"vegetable
+やさい · yasai
+
+野菜をたくさん食べてください。
+Please eat lots of vegetables.",n5
+果物,"fruit
+くだもの · kudamono
+
+果物の中でりんごが一番好きです。
+Among fruits, I like apples best.",n5
+水,"water
+みず · mizu
+
+水を一杯ください。
+A glass of water, please.",n5
+お茶,"tea; green tea
+おちゃ · ocha
+
+お茶を飲みませんか。
+Would you like some tea?",n5
+コーヒー,"coffee
+コーヒー · koohii
+
+コーヒーに砂糖を入れますか。
+Do you put sugar in your coffee?",n5
+牛乳,"milk
+ぎゅうにゅう · gyuunyuu
+
+毎日牛乳を飲みます。
+I drink milk every day.",n5
+お酒,"alcohol; sake
+おさけ · osake
+
+お酒はあまり飲みません。
+I don't drink alcohol very often.",n5
+料理,"cooking; dish
+りょうり · ryouri
+
+母の料理が大好きです。
+I love my mother's cooking.",n5
+朝ご飯,"breakfast
+あさごはん · asagohan
+
+朝ご飯は七時に食べます。
+I eat breakfast at seven.",n5
+昼ご飯,"lunch
+ひるごはん · hirugohan
+
+昼ご飯は何にしますか。
+What will you have for lunch?",n5
+晩ご飯,"dinner
+ばんごはん · bangohan
+
+晩ご飯を一緒に食べましょう。
+Let's have dinner together.",n5
+お弁当,"boxed lunch
+おべんとう · obentou
+
+駅でお弁当を買いました。
+I bought a boxed lunch at the station.",n5
+塩,"salt
+しお · shio
+
+塩を少し入れてください。
+Please add a little salt.",n5
+砂糖,"sugar
+さとう · satou
+
+砂糖は要りません。
+I don't need sugar.",n5
+醤油,"soy sauce
+しょうゆ · shouyu
+
+醤油を取ってください。
+Please pass the soy sauce.",n5
+りんご,"apple
+りんご · ringo
+
+赤いりんごを買いました。
+I bought a red apple.",n5
+みかん,"mandarin orange
+みかん · mikan
+
+冬はみかんをよく食べます。
+I often eat mandarins in winter.",n5
+バナナ,"banana
+バナナ · banana
+
+朝はバナナを食べます。
+I eat a banana in the morning.",n5
+お菓子,"sweets; snacks
+おかし · okashi
+
+子供にお菓子をあげました。
+I gave the child some sweets.",n5
+ケーキ,"cake
+ケーキ · keeki
+
+誕生日にケーキを作ります。
+I make a cake for birthdays.",n5
+アイスクリーム,"ice cream
+アイスクリーム · aisukuriimu
+
+夏はアイスクリームが食べたいです。
+In summer I want to eat ice cream.",n5
+ジュース,"juice
+ジュース · juusu
+
+オレンジジュースをください。
+Orange juice, please.",n5
+ビール,"beer
+ビール · biiru
+
+父はビールが好きです。
+My father likes beer.",n5
+ワイン,"wine
+ワイン · wain
+
+赤ワインを一本買いました。
+I bought a bottle of red wine.",n5
+レストラン,"restaurant
+レストラン · resutoran
+
+駅前のレストランで食べました。
+We ate at the restaurant in front of the station.",n5
+喫茶店,"coffee shop; café
+きっさてん · kissaten
+
+喫茶店で友達と話しました。
+I talked with a friend at a café.",n5
+食堂,"cafeteria; dining hall
+しょくどう · shokudou
+
+大学の食堂は安いです。
+The university cafeteria is cheap.",n5
+メニュー,"menu
+メニュー · menyuu
+
+メニューを見せてください。
+Please show me the menu.",n5
+箸,"chopsticks
+はし · hashi
+
+箸で魚を食べます。
+I eat fish with chopsticks.",n5
+皿,"plate; dish
+さら · sara
+
+皿を洗ってください。
+Please wash the dishes.",n5
+コップ,"glass; cup
+コップ · koppu
+
+コップに水を入れました。
+I poured water into the glass.",n5
+茶碗,"rice bowl; teacup
+ちゃわん · chawan
+
+茶碗にご飯をよそいます。
+I serve rice into the bowl.",n5
+味,"taste; flavor
+あじ · aji
+
+このスープは味が薄いです。
+This soup has a mild flavor.",n5
+甘い,"sweet
+あまい · amai
+
+このケーキはとても甘いです。
+This cake is very sweet.",n5
+辛い,"spicy; hot
+からい · karai
+
+辛いカレーが好きです。
+I like spicy curry.",n5
+おいしい,"delicious
+おいしい · oishii
+
+この店のラーメンはおいしいです。
+The ramen at this shop is delicious.",n5
+まずい,"bad-tasting
+まずい · mazui
+
+この薬は少しまずいです。
+This medicine tastes a little bad.",n5
+熱い,"hot (to the touch)
+あつい · atsui
+
+お茶が熱いので気をつけて。
+The tea is hot, so be careful.",n5
+冷たい,"cold (to the touch)
+つめたい · tsumetai
+
+冷たい水が飲みたいです。
+I want to drink cold water.",n5
+レモン,"lemon
+レモン · remon
+
+紅茶にレモンを入れます。
+I put lemon in my tea.",n5
+カレー,"curry
+カレー · karee
+
+今晩はカレーを作ります。
+I'm making curry tonight.",n5
+ラーメン,"ramen
+ラーメン · raamen
+
+寒い日はラーメンが一番です。
+On cold days, ramen is the best.",n5
+寿司,"sushi
+すし · sushi
+
+週末に寿司を食べに行きます。
+I'm going out for sushi this weekend.",n5
+食べ物,"food
+たべもの · tabemono
+
+好きな食べ物は何ですか。
+What is your favorite food?",n5
+飲み物,"drink; beverage
+のみもの · nomimono
+
+飲み物は何にしますか。
+What would you like to drink?",n5
+頭,"head
+あたま · atama
+
+頭が痛いです。
+I have a headache.",n5
+顔,"face
+かお · kao
+
+朝、顔を洗います。
+I wash my face in the morning.",n5
+目,"eye
+め · me
+
+彼女は目が大きいです。
+She has big eyes.",n5
+耳,"ear
+みみ · mimi
+
+うさぎは耳が長いです。
+Rabbits have long ears.",n5
+鼻,"nose
+はな · hana
+
+象は鼻が長いです。
+Elephants have long trunks.",n5
+口,"mouth
+くち · kuchi
+
+口を大きく開けてください。
+Please open your mouth wide.",n5
+歯,"tooth
+は · ha
+
+毎晩、歯を磨きます。
+I brush my teeth every night.",n5
+手,"hand
+て · te
+
+食事の前に手を洗います。
+I wash my hands before meals.",n5
+足,"foot; leg
+あし · ashi
+
+たくさん歩いて足が疲れました。
+My legs are tired from walking a lot.",n5
+体,"body
+からだ · karada
+
+体に気をつけてください。
+Please take care of yourself.",n5
+お腹,"stomach; belly
+おなか · onaka
+
+お腹が空きました。
+I'm hungry.",n5
+背,"height; back
+せ · se
+
+兄は背が高いです。
+My older brother is tall.",n5
+声,"voice
+こえ · koe
+
+大きい声で話してください。
+Please speak in a loud voice.",n5
+髪,"hair
+かみ · kami
+
+髪を短く切りました。
+I cut my hair short.",n5
+病気,"illness; sickness
+びょうき · byouki
+
+病気で学校を休みました。
+I missed school because I was sick.",n5
+薬,"medicine
+くすり · kusuri
+
+食後に薬を飲んでください。
+Please take the medicine after meals.",n5
+元気,"healthy; energetic
+げんき · genki
+
+おばあさんはとても元気です。
+My grandmother is very energetic.",n5
+痛い,"painful
+いたい · itai
+
+歯が痛いです。
+My tooth hurts.",n5
+風邪,"a cold
+かぜ · kaze
+
+風邪をひきました。
+I caught a cold.",n5
+熱,"fever
+ねつ · netsu
+
+熱が三十八度あります。
+I have a fever of 38 degrees.",n5
+医者,"doctor
+いしゃ · isha
+
+医者に行った方がいいですよ。
+You should go see a doctor.",n5
+私,"I; me
+わたし · watashi
+
+私は日本語を勉強しています。
+I am studying Japanese.",n5
+あなた,"you
+あなた · anata
+
+あなたの名前は何ですか。
+What is your name?",n5
+彼,"he; boyfriend
+かれ · kare
+
+彼は医者です。
+He is a doctor.",n5
+彼女,"she; girlfriend
+かのじょ · kanojo
+
+彼女は歌が上手です。
+She is good at singing.",n5
+男,"man; male
+おとこ · otoko
+
+あの男の人は誰ですか。
+Who is that man?",n5
+女,"woman; female
+おんな · onna
+
+女の人が三人います。
+There are three women.",n5
+男の子,"boy
+おとこのこ · otokonoko
+
+公園で男の子が遊んでいます。
+A boy is playing in the park.",n5
+女の子,"girl
+おんなのこ · onnanoko
+
+女の子が絵を描いています。
+A girl is drawing a picture.",n5
+大人,"adult
+おとな · otona
+
+大人は千円、子供は五百円です。
+Adults are 1,000 yen, children 500 yen.",n5
+名前,"name
+なまえ · namae
+
+ここに名前を書いてください。
+Please write your name here.",n5
+みんな,"everyone
+みんな · minna
+
+みんなで歌いましょう。
+Let's all sing together.",n5
+誰,"who
+だれ · dare
+
+あの人は誰ですか。
+Who is that person?",n5
+何,"what
+なに · nani
+
+これは何ですか。
+What is this?",n5
+どこ,"where
+どこ · doko
+
+トイレはどこですか。
+Where is the bathroom?",n5
+いつ,"when
+いつ · itsu
+
+いつ日本に来ましたか。
+When did you come to Japan?",n5
+どうして,"why
+どうして · doushite
+
+どうして遅れましたか。
+Why were you late?",n5
+祖父,"grandfather
+そふ · sofu
+
+祖父は九十歳です。
+My grandfather is ninety years old.",n5
+祖母,"grandmother
+そぼ · sobo
+
+祖母と電話で話しました。
+I talked with my grandmother on the phone.",n5
+兄弟,"siblings
+きょうだい · kyoudai
+
+兄弟が三人います。
+I have three siblings.",n5
+おじさん,"uncle; middle-aged man
+おじさん · ojisan
+
+おじさんは大阪に住んでいます。
+My uncle lives in Osaka.",n5
+おばさん,"aunt; middle-aged woman
+おばさん · obasan
+
+おばさんがお菓子をくれました。
+My aunt gave me some sweets.",n5
+赤ちゃん,"baby
+あかちゃん · akachan
+
+赤ちゃんが寝ています。
+The baby is sleeping.",n5
+皆さん,"everyone (polite)
+みなさん · minasan
+
+皆さん、おはようございます。
+Good morning, everyone.",n5
+一人,"one person; alone
+ひとり · hitori
+
+一人で旅行しました。
+I traveled alone.",n5
+二人,"two people
+ふたり · futari
+
+二人で映画を見ました。
+The two of us watched a movie.",n5
+友人,"friend (formal)
+ゆうじん · yuujin
+
+大学の友人に会いました。
+I met a friend from university.",n5
+隣,"next to; neighbor
+となり · tonari
+
+隣の人はとても親切です。
+The person next door is very kind.",n5
+自分,"oneself
+じぶん · jibun
+
+自分で料理を作ります。
+I cook for myself.",n5
+泳ぐ,"to swim
+およぐ · oyogu
+
+夏は海で泳ぎます。
+In summer I swim in the sea.",n5
+遊ぶ,"to play
+あそぶ · asobu
+
+子供たちが公園で遊んでいます。
+The children are playing in the park.",n5
+歩く,"to walk
+あるく · aruku
+
+駅まで歩いて十分です。
+It's a ten-minute walk to the station.",n5
+走る,"to run
+はしる · hashiru
+
+毎朝、公園を走ります。
+I run in the park every morning.",n5
+飛ぶ,"to fly
+とぶ · tobu
+
+鳥が空を飛んでいます。
+A bird is flying in the sky.",n5
+休む,"to rest; to take a day off
+やすむ · yasumu
+
+疲れたので少し休みましょう。
+I'm tired, so let's rest a little.",n5
+働く,"to work
+はたらく · hataraku
+
+父は銀行で働いています。
+My father works at a bank.",n5
+待つ,"to wait
+まつ · matsu
+
+駅で友達を待ちます。
+I'll wait for my friend at the station.",n5
+立つ,"to stand
+たつ · tatsu
+
+皆さん、立ってください。
+Everyone, please stand up.",n5
+座る,"to sit
+すわる · suwaru
+
+どうぞ、こちらに座ってください。
+Please, have a seat here.",n5
+入る,"to enter
+はいる · hairu
+
+部屋に入ってもいいですか。
+May I enter the room?",n5
+出る,"to go out; to leave
+でる · deru
+
+八時に家を出ます。
+I leave home at eight.",n5
+乗る,"to ride; to get on
+のる · noru
+
+バスに乗って学校へ行きます。
+I take the bus to school.",n5
+降りる,"to get off
+おりる · oriru
+
+次の駅で降ります。
+I get off at the next station.",n5
+歌う,"to sing
+うたう · utau
+
+カラオケで歌いました。
+I sang at karaoke.",n5
+洗う,"to wash
+あらう · arau
+
+車を洗いました。
+I washed the car.",n5
+教える,"to teach; to tell
+おしえる · oshieru
+
+道を教えてください。
+Please tell me the way.",n5
+習う,"to learn (from someone)
+ならう · narau
+
+ピアノを習っています。
+I am taking piano lessons.",n5
+覚える,"to memorize; to remember
+おぼえる · oboeru
+
+漢字を覚えるのは大変です。
+Memorizing kanji is hard.",n5
+貸す,"to lend
+かす · kasu
+
+ペンを貸してください。
+Please lend me a pen.",n5
+借りる,"to borrow
+かりる · kariru
+
+図書館で本を借りました。
+I borrowed a book from the library.",n5
+返す,"to return (something)
+かえす · kaesu
+
+明日、本を返します。
+I will return the book tomorrow.",n5
+送る,"to send
+おくる · okuru
+
+母に手紙を送りました。
+I sent a letter to my mother.",n5
+もらう,"to receive
+もらう · morau
+
+友達にプレゼントをもらいました。
+I received a present from my friend.",n5
+あげる,"to give
+あげる · ageru
+
+妹に花をあげました。
+I gave my little sister flowers.",n5
+着る,"to wear (upper body)
+きる · kiru
+
+今日は新しいシャツを着ています。
+I'm wearing a new shirt today.",n5
+脱ぐ,"to take off (clothes)
+ぬぐ · nugu
+
+ここで靴を脱いでください。
+Please take off your shoes here.",n5
+履く,"to wear (lower body)
+はく · haku
+
+新しい靴を履きました。
+I wore new shoes.",n5
+開ける,"to open
+あける · akeru
+
+窓を開けてください。
+Please open the window.",n5
+閉める,"to close
+しめる · shimeru
+
+ドアを閉めてください。
+Please close the door.",n5
+つける,"to turn on
+つける · tsukeru
+
+電気をつけてください。
+Please turn on the light.",n5
+消す,"to turn off; to erase
+けす · kesu
+
+テレビを消しました。
+I turned off the TV.",n5
+始まる,"to begin (intransitive)
+はじまる · hajimaru
+
+授業は九時に始まります。
+Class begins at nine.",n5
+終わる,"to end
+おわる · owaru
+
+仕事は六時に終わります。
+Work ends at six.",n5
+死ぬ,"to die
+しぬ · shinu
+
+金魚が死んでしまいました。
+The goldfish died.",n5
+生まれる,"to be born
+うまれる · umareru
+
+私は東京で生まれました。
+I was born in Tokyo.",n5
+疲れる,"to get tired
+つかれる · tsukareru
+
+今日はとても疲れました。
+I got very tired today.",n5
+急ぐ,"to hurry
+いそぐ · isogu
+
+時間がないので急ぎましょう。
+We don't have time, so let's hurry.",n5
+止まる,"to stop (intransitive)
+とまる · tomaru
+
+電車が急に止まりました。
+The train stopped suddenly.",n5
+曲がる,"to turn (a corner)
+まがる · magaru
+
+次の角を右に曲がってください。
+Please turn right at the next corner.",n5
+渡る,"to cross
+わたる · wataru
+
+橋を渡って左に行きます。
+Cross the bridge and go left.",n5
+登る,"to climb
+のぼる · noboru
+
+夏に富士山に登りたいです。
+I want to climb Mt. Fuji in summer.",n5
+入れる,"to put in
+いれる · ireru
+
+かばんに本を入れました。
+I put the book in my bag.",n5
+出す,"to take out; to submit
+だす · dasu
+
+宿題を出してください。
+Please hand in your homework.",n5
+取る,"to take
+とる · toru
+
+塩を取ってください。
+Please pass me the salt.",n5
+撮る,"to take (a photo)
+とる · toru
+
+ここで写真を撮りましょう。
+Let's take a photo here.",n5
+持つ,"to hold; to have
+もつ · motsu
+
+重いかばんを持っています。
+I'm carrying a heavy bag.",n5
+置く,"to put; to place
+おく · oku
+
+机の上に本を置きました。
+I put the book on the desk.",n5
+探す,"to look for
+さがす · sagasu
+
+鍵を探しています。
+I'm looking for my keys.",n5
+呼ぶ,"to call; to invite
+よぶ · yobu
+
+タクシーを呼んでください。
+Please call a taxi.",n5
+多い,"many; much
+おおい · ooi
+
+東京は人が多いです。
+There are many people in Tokyo.",n5
+少ない,"few; little
+すくない · sukunai
+
+この町は店が少ないです。
+This town has few shops.",n5
+広い,"wide; spacious
+ひろい · hiroi
+
+この公園はとても広いです。
+This park is very spacious.",n5
+狭い,"narrow; small (space)
+せまい · semai
+
+私の部屋は狭いです。
+My room is small.",n5
+重い,"heavy
+おもい · omoi
+
+この荷物は重いです。
+This luggage is heavy.",n5
+軽い,"light (weight)
+かるい · karui
+
+このパソコンは軽いです。
+This laptop is light.",n5
+太い,"thick; fat
+ふとい · futoi
+
+太いペンで書いてください。
+Please write with a thick pen.",n5
+細い,"thin; slender
+ほそい · hosoi
+
+この道は細いです。
+This road is narrow.",n5
+明るい,"bright; cheerful
+あかるい · akarui
+
+この部屋は明るいですね。
+This room is bright, isn't it?",n5
+暗い,"dark
+くらい · kurai
+
+外はもう暗いです。
+It's already dark outside.",n5
+忙しい,"busy
+いそがしい · isogashii
+
+今週はとても忙しいです。
+I am very busy this week.",n5
+楽しい,"fun; enjoyable
+たのしい · tanoshii
+
+パーティーは楽しかったです。
+The party was fun.",n5
+面白い,"interesting; funny
+おもしろい · omoshiroi
+
+この映画はとても面白いです。
+This movie is very interesting.",n5
+つまらない,"boring
+つまらない · tsumaranai
+
+その番組はつまらなかったです。
+That TV show was boring.",n5
+難しい,"difficult
+むずかしい · muzukashii
+
+漢字は難しいですが、面白いです。
+Kanji is difficult but interesting.",n5
+易しい,"easy; simple
+やさしい · yasashii
+
+このテストは易しかったです。
+This test was easy.",n5
+楽しみ,"looking forward to; pleasure
+たのしみ · tanoshimi
+
+旅行が楽しみです。
+I'm looking forward to the trip.",n5
+きれい,"beautiful; clean
+きれい · kirei
+
+この花はきれいですね。
+This flower is beautiful, isn't it?",n5
+静か,"quiet
+しずか · shizuka
+
+図書館は静かです。
+The library is quiet.",n5
+賑やか,"lively; bustling
+にぎやか · nigiyaka
+
+この通りは夜も賑やかです。
+This street is lively even at night.",n5
+便利,"convenient
+べんり · benri
+
+駅の近くは便利です。
+It's convenient near the station.",n5
+好き,"to like
+すき · suki
+
+日本の音楽が好きです。
+I like Japanese music.",n5
+嫌い,"to dislike
+きらい · kirai
+
+野菜が嫌いな子供が多いです。
+Many children dislike vegetables.",n5
+上手,"skillful; good at
+じょうず · jouzu
+
+彼は料理が上手です。
+He is good at cooking.",n5
+下手,"unskillful; bad at
+へた · heta
+
+私は歌が下手です。
+I am bad at singing.",n5
+大切,"important; precious
+たいせつ · taisetsu
+
+家族は大切です。
+Family is important.",n5
+大変,"tough; terrible; very
+たいへん · taihen
+
+仕事が大変です。
+Work is tough.",n5
+大丈夫,"okay; all right
+だいじょうぶ · daijoubu
+
+大丈夫ですか。
+Are you okay?",n5
+簡単,"easy; simple
+かんたん · kantan
+
+この問題は簡単です。
+This problem is easy.",n5
+丈夫,"sturdy; durable
+じょうぶ · joubu
+
+このかばんは丈夫です。
+This bag is sturdy.",n5
+暇,"free (time)
+ひま · hima
+
+明日は暇ですか。
+Are you free tomorrow?",n5
+丸い,"round
+まるい · marui
+
+月は丸いです。
+The moon is round.",n5
+速い,"fast
+はやい · hayai
+
+新幹線はとても速いです。
+The Shinkansen is very fast.",n5
+若者,"young person
+わかもの · wakamono
+
+若者に人気の店です。
+It's a shop popular with young people.",n5
+低い,"low; short (height)
+ひくい · hikui
+
+このテーブルは低いです。
+This table is low.",n5
+厚い,"thick (object)
+あつい · atsui
+
+厚い本を読んでいます。
+I'm reading a thick book.",n5
+薄い,"thin; weak (taste)
+うすい · usui
+
+薄いコートを着ています。
+I'm wearing a thin coat.",n5
+汚い,"dirty
+きたない · kitanai
+
+靴が汚くなりました。
+My shoes got dirty.",n5
+危ない,"dangerous
+あぶない · abunai
+
+ここで泳ぐのは危ないです。
+Swimming here is dangerous.",n5
+眠い,"sleepy
+ねむい · nemui
+
+昨日寝ていないので眠いです。
+I'm sleepy because I didn't sleep last night.",n5
+うるさい,"noisy
+うるさい · urusai
+
+隣の部屋がうるさいです。
+The room next door is noisy.",n5
+かわいい,"cute
+かわいい · kawaii
+
+この猫はとてもかわいいです。
+This cat is very cute.",n5
+欲しい,"to want (something)
+ほしい · hoshii
+
+新しい自転車が欲しいです。
+I want a new bicycle.",n5
+同じ,"same
+おなじ · onaji
+
+私たちは同じ学校です。
+We go to the same school.",n5
+色々,"various
+いろいろ · iroiro
+
+色々な国へ行きたいです。
+I want to go to various countries.",n5
+本当,"true; real
+ほんとう · hontou
+
+それは本当ですか。
+Is that true?",n5
+立派,"splendid; fine
+りっぱ · rippa
+
+立派な家ですね。
+What a splendid house!",n5
+有名人,"celebrity
+ゆうめいじん · yuumeijin
+
+駅で有名人を見ました。
+I saw a celebrity at the station.",n5
+新鮮,"fresh
+しんせん · shinsen
+
+この魚は新鮮です。
+This fish is fresh.",n5
+山,"mountain
+やま · yama
+
+週末に山へ行きます。
+I'm going to the mountains this weekend.",n5
+川,"river
+かわ · kawa
+
+川で魚を釣りました。
+I caught fish in the river.",n5
+海,"sea; ocean
+うみ · umi
+
+夏休みに海へ行きたいです。
+I want to go to the sea during summer vacation.",n5
+空,"sky
+そら · sora
+
+今日は空が青いです。
+The sky is blue today.",n5
+木,"tree; wood
+き · ki
+
+庭に大きい木があります。
+There is a big tree in the garden.",n5
+花,"flower
+はな · hana
+
+春はたくさんの花が咲きます。
+Many flowers bloom in spring.",n5
+雨,"rain
+あめ · ame
+
+明日は雨が降るでしょう。
+It will probably rain tomorrow.",n5
+雪,"snow
+ゆき · yuki
+
+北海道は雪が多いです。
+Hokkaido gets a lot of snow.",n5
+風,"wind
+かぜ · kaze
+
+今日は風が強いです。
+The wind is strong today.",n5
+天気,"weather
+てんき · tenki
+
+今日はいい天気ですね。
+Nice weather today, isn't it?",n5
+晴れ,"sunny weather
+はれ · hare
+
+明日は晴れです。
+It will be sunny tomorrow.",n5
+曇り,"cloudy weather
+くもり · kumori
+
+今日は朝から曇りです。
+It's been cloudy since morning.",n5
+春,"spring
+はる · haru
+
+春に桜が咲きます。
+Cherry blossoms bloom in spring.",n5
+夏,"summer
+なつ · natsu
+
+日本の夏は暑いです。
+Japanese summers are hot.",n5
+秋,"autumn; fall
+あき · aki
+
+秋は涼しくて好きです。
+I like autumn because it's cool.",n5
+冬,"winter
+ふゆ · fuyu
+
+冬はスキーをします。
+I ski in winter.",n5
+月,"moon; month
+つき · tsuki
+
+今夜は月がきれいです。
+The moon is beautiful tonight.",n5
+星,"star
+ほし · hoshi
+
+田舎では星がよく見えます。
+You can see the stars well in the countryside.",n5
+太陽,"sun
+たいよう · taiyou
+
+太陽が出て暖かくなりました。
+The sun came out and it got warm.",n5
+公園,"park
+こうえん · kouen
+
+公園でお弁当を食べました。
+We ate lunch in the park.",n5
+店,"shop; store
+みせ · mise
+
+あの店は何でも安いです。
+Everything is cheap at that store.",n5
+図書館,"library
+としょかん · toshokan
+
+図書館で勉強します。
+I study at the library.",n5
+映画館,"movie theater
+えいがかん · eigakan
+
+映画館で新しい映画を見ました。
+I saw a new movie at the theater.",n5
+郵便局,"post office
+ゆうびんきょく · yuubinkyoku
+
+郵便局で切手を買いました。
+I bought stamps at the post office.",n5
+大学,"university
+だいがく · daigaku
+
+兄は大学で経済を勉強しています。
+My brother studies economics at university.",n5
+高校,"high school
+こうこう · koukou
+
+高校の友達に会いました。
+I met a friend from high school.",n5
+中学校,"junior high school
+ちゅうがっこう · chuugakkou
+
+妹は中学校に通っています。
+My sister goes to junior high school.",n5
+小学校,"elementary school
+しょうがっこう · shougakkou
+
+小学校の前に公園があります。
+There is a park in front of the elementary school.",n5
+町,"town
+まち · machi
+
+この町は静かで住みやすいです。
+This town is quiet and easy to live in.",n5
+村,"village
+むら · mura
+
+山の中に小さい村があります。
+There is a small village in the mountains.",n5
+国,"country
+くに · kuni
+
+どこの国から来ましたか。
+Which country are you from?",n5
+外国,"foreign country
+がいこく · gaikoku
+
+外国に住みたいです。
+I want to live in a foreign country.",n5
+外国人,"foreigner
+がいこくじん · gaikokujin
+
+この町には外国人が多いです。
+There are many foreigners in this town.",n5
+庭,"garden; yard
+にわ · niwa
+
+庭で花を育てています。
+I grow flowers in the garden.",n5
+建物,"building
+たてもの · tatemono
+
+あの高い建物は何ですか。
+What is that tall building?",n5
+場所,"place; location
+ばしょ · basho
+
+静かな場所で話しましょう。
+Let's talk in a quiet place.",n5
+地下鉄,"subway
+ちかてつ · chikatetsu
+
+地下鉄で会社へ行きます。
+I go to work by subway.",n5
+飛行機,"airplane
+ひこうき · hikouki
+
+飛行機で北海道へ行きました。
+I went to Hokkaido by plane.",n5
+船,"ship; boat
+ふね · fune
+
+船で島へ渡りました。
+I crossed to the island by boat.",n5
+タクシー,"taxi
+タクシー · takushii
+
+駅からタクシーに乗りました。
+I took a taxi from the station.",n5
+動物,"animal
+どうぶつ · doubutsu
+
+どんな動物が好きですか。
+What animals do you like?",n5
+犬,"dog
+いぬ · inu
+
+毎朝、犬と散歩します。
+I walk my dog every morning.",n5
+猫,"cat
+ねこ · neko
+
+猫が窓の近くで寝ています。
+The cat is sleeping near the window.",n5
+鳥,"bird
+とり · tori
+
+朝、鳥の声が聞こえます。
+I hear birds singing in the morning.",n5
+馬,"horse
+うま · uma
+
+北海道で馬に乗りました。
+I rode a horse in Hokkaido.",n5
+池,"pond
+いけ · ike
+
+池に魚がたくさんいます。
+There are many fish in the pond.",n5
+森,"forest
+もり · mori
+
+森の中を歩きました。
+I walked through the forest.",n5
+島,"island
+しま · shima
+
+日本にはたくさんの島があります。
+Japan has many islands.",n5
+石,"stone
+いし · ishi
+
+きれいな石を拾いました。
+I picked up a pretty stone.",n5
+桜,"cherry blossom
+さくら · sakura
+
+公園の桜が満開です。
+The cherry blossoms in the park are in full bloom.",n5
+傘,"umbrella
+かさ · kasa
+
+雨なので傘を持って行きます。
+It's raining, so I'll take an umbrella.",n5
+鞄,"bag
+かばん · kaban
+
+新しい鞄を買いました。
+I bought a new bag.",n5
+靴,"shoes
+くつ · kutsu
+
+玄関で靴を脱ぎます。
+We take off our shoes at the entrance.",n5
+靴下,"socks
+くつした · kutsushita
+
+白い靴下を履いています。
+I'm wearing white socks.",n5
+服,"clothes
+ふく · fuku
+
+どんな服が好きですか。
+What kind of clothes do you like?",n5
+帽子,"hat; cap
+ぼうし · boushi
+
+夏は帽子をかぶります。
+I wear a hat in summer.",n5
+眼鏡,"glasses
+めがね · megane
+
+父は眼鏡をかけています。
+My father wears glasses.",n5
+財布,"wallet
+さいふ · saifu
+
+財布をなくしました。
+I lost my wallet.",n5
+鍵,"key
+かぎ · kagi
+
+家の鍵を忘れました。
+I forgot my house key.",n5
+箱,"box
+はこ · hako
+
+箱の中に何がありますか。
+What's in the box?",n5
+紙,"paper
+かみ · kami
+
+紙に名前を書きました。
+I wrote my name on the paper.",n5
+ペン,"pen
+ペン · pen
+
+黒いペンで書いてください。
+Please write with a black pen.",n5
+鉛筆,"pencil
+えんぴつ · enpitsu
+
+鉛筆で絵を描きます。
+I draw pictures with a pencil.",n5
+消しゴム,"eraser
+けしゴム · keshigomu
+
+消しゴムを貸してください。
+Please lend me an eraser.",n5
+辞書,"dictionary
+じしょ · jisho
+
+辞書で言葉を調べます。
+I look up words in the dictionary.",n5
+ノート,"notebook
+ノート · nooto
+
+ノートに漢字を書きます。
+I write kanji in my notebook.",n5
+地図,"map
+ちず · chizu
+
+地図を見ながら歩きました。
+I walked while looking at the map.",n5
+切手,"stamp
+きって · kitte
+
+八十円の切手をください。
+An 80-yen stamp, please.",n5
+封筒,"envelope
+ふうとう · fuutou
+
+封筒に手紙を入れました。
+I put the letter in the envelope.",n5
+葉書,"postcard
+はがき · hagaki
+
+旅行先から葉書を送りました。
+I sent a postcard from my trip.",n5
+荷物,"luggage; package
+にもつ · nimotsu
+
+荷物が多くて大変です。
+I have so much luggage, it's tough.",n5
+お金,"money
+おかね · okane
+
+お金が足りません。
+I don't have enough money.",n5
+切符,"ticket
+きっぷ · kippu
+
+切符を二枚買いました。
+I bought two tickets.",n5
+テレビ,"television
+テレビ · terebi
+
+夜はテレビを見ます。
+I watch TV at night.",n5
+ラジオ,"radio
+ラジオ · rajio
+
+ラジオで日本語を聞いています。
+I listen to Japanese on the radio.",n5
+カメラ,"camera
+カメラ · kamera
+
+新しいカメラで写真を撮りました。
+I took photos with my new camera.",n5
+テーブル,"table
+テーブル · teeburu
+
+テーブルの上に花があります。
+There are flowers on the table.",n5
+シャワー,"shower
+シャワー · shawaa
+
+朝シャワーを浴びます。
+I take a shower in the morning.",n5
+ホテル,"hotel
+ホテル · hoteru
+
+駅の近くのホテルに泊まりました。
+I stayed at a hotel near the station.",n5
+デパート,"department store
+デパート · depaato
+
+デパートで服を買いました。
+I bought clothes at the department store.",n5
+スーパー,"supermarket
+スーパー · suupaa
+
+スーパーで野菜を買います。
+I buy vegetables at the supermarket.",n5
+コンビニ,"convenience store
+コンビニ · konbini
+
+コンビニでお弁当を買いました。
+I bought a boxed lunch at the convenience store.",n5
+エレベーター,"elevator
+エレベーター · erebeetaa
+
+エレベーターで五階へ行きます。
+I take the elevator to the fifth floor.",n5
+アパート,"apartment
+アパート · apaato
+
+小さいアパートに住んでいます。
+I live in a small apartment.",n5
+プール,"swimming pool
+プール · puuru
+
+夏はプールで泳ぎます。
+I swim in the pool in summer.",n5
+パーティー,"party
+パーティー · paatii
+
+金曜日にパーティーがあります。
+There is a party on Friday.",n5
+スポーツ,"sports
+スポーツ · supootsu
+
+どんなスポーツをしますか。
+What sports do you play?",n5
+サッカー,"soccer
+サッカー · sakkaa
+
+弟はサッカーが上手です。
+My little brother is good at soccer.",n5
+テニス,"tennis
+テニス · tenisu
+
+日曜日にテニスをします。
+I play tennis on Sundays.",n5
+野球,"baseball
+やきゅう · yakyuu
+
+野球の試合を見に行きました。
+I went to see a baseball game.",n5
+音楽,"music
+おんがく · ongaku
+
+音楽を聞きながら勉強します。
+I study while listening to music.",n5
+映画,"movie
+えいが · eiga
+
+週末に映画を見ました。
+I watched a movie on the weekend.",n5
+歌,"song
+うた · uta
+
+日本の歌を覚えました。
+I learned a Japanese song.",n5
+絵,"picture; painting
+え · e
+
+壁に絵がかかっています。
+A painting hangs on the wall.",n5
+ギター,"guitar
+ギター · gitaa
+
+ギターを弾くのが趣味です。
+Playing the guitar is my hobby.",n5
+ピアノ,"piano
+ピアノ · piano
+
+姉はピアノが弾けます。
+My older sister can play the piano.",n5
+趣味,"hobby
+しゅみ · shumi
+
+趣味は写真を撮ることです。
+My hobby is taking photos.",n5
+シャツ,"shirt
+シャツ · shatsu
+
+青いシャツを着ています。
+I'm wearing a blue shirt.",n5
+ズボン,"trousers; pants
+ズボン · zubon
+
+黒いズボンを買いました。
+I bought black trousers.",n5
+コート,"coat
+コート · kooto
+
+寒いのでコートを着ます。
+It's cold, so I'll wear a coat.",n5
+とても,"very
+とても · totemo
+
+この本はとても面白いです。
+This book is very interesting.",n5
+少し,"a little
+すこし · sukoshi
+
+日本語が少し話せます。
+I can speak a little Japanese.",n5
+たくさん,"a lot; many
+たくさん · takusan
+
+宿題がたくさんあります。
+I have a lot of homework.",n5
+もっと,"more
+もっと · motto
+
+もっとゆっくり話してください。
+Please speak more slowly.",n5
+ちょっと,"a bit; a moment
+ちょっと · chotto
+
+ちょっと待ってください。
+Please wait a moment.",n5
+まだ,"still; not yet
+まだ · mada
+
+宿題はまだ終わっていません。
+I haven't finished my homework yet.",n5
+もう,"already; anymore
+もう · mou
+
+もう晩ご飯を食べました。
+I have already eaten dinner.",n5
+いつも,"always
+いつも · itsumo
+
+いつも七時に起きます。
+I always get up at seven.",n5
+時々,"sometimes
+ときどき · tokidoki
+
+時々、映画を見に行きます。
+I sometimes go to see movies.",n5
+よく,"often; well
+よく · yoku
+
+友達とよくカフェに行きます。
+I often go to cafés with my friends.",n5
+たぶん,"probably
+たぶん · tabun
+
+明日はたぶん晴れるでしょう。
+It will probably be sunny tomorrow.",n5
+全然,"not at all (with negative)
+ぜんぜん · zenzen
+
+お金が全然ありません。
+I have no money at all.",n5
+一緒に,"together
+いっしょに · isshoni
+
+一緒に昼ご飯を食べませんか。
+Shall we have lunch together?",n5
+ゆっくり,"slowly; leisurely
+ゆっくり · yukkuri
+
+ゆっくり休んでください。
+Please rest well.",n5
+すぐ,"immediately; soon
+すぐ · sugu
+
+すぐ行きます。
+I'll be right there.",n5
+まっすぐ,"straight
+まっすぐ · massugu
+
+この道をまっすぐ行ってください。
+Please go straight down this road.",n5
+また,"again
+また · mata
+
+また明日会いましょう。
+Let's meet again tomorrow.",n5
+初めて,"for the first time
+はじめて · hajimete
+
+初めて日本に来ました。
+I came to Japan for the first time.",n5
+一番,"the most; number one
+いちばん · ichiban
+
+寿司が一番好きです。
+I like sushi the best.",n5
+あまり,"not very (with negative)
+あまり · amari
+
+テレビはあまり見ません。
+I don't watch TV very much.",n5
+だんだん,"gradually
+だんだん · dandan
+
+だんだん暖かくなってきました。
+It has gradually gotten warmer.",n5
+勉強,"study
+べんきょう · benkyou
+
+毎日二時間勉強します。
+I study for two hours every day.",n5
+練習,"practice
+れんしゅう · renshuu
+
+ピアノの練習をしています。
+I am practicing the piano.",n5
+掃除,"cleaning
+そうじ · souji
+
+週末に部屋の掃除をします。
+I clean my room on weekends.",n5
+洗濯,"laundry
+せんたく · sentaku
+
+今日は洗濯をしました。
+I did the laundry today.",n5
+散歩,"a walk; stroll
+さんぽ · sanpo
+
+朝、犬と散歩をします。
+I take a walk with my dog in the morning.",n5
+結婚,"marriage
+けっこん · kekkon
+
+二人は去年結婚しました。
+The two got married last year.",n5
+質問,"question
+しつもん · shitsumon
+
+質問があります。
+I have a question.",n5
+電話,"telephone; phone call
+でんわ · denwa
+
+後で電話します。
+I'll call you later.",n5
+買い物,"shopping
+かいもの · kaimono
+
+母と買い物に行きました。
+I went shopping with my mother.",n5
+仕事,"work; job
+しごと · shigoto
+
+仕事は九時から五時までです。
+Work is from nine to five.",n5
+授業,"class; lesson
+じゅぎょう · jugyou
+
+日本語の授業は楽しいです。
+Japanese class is fun.",n5
+宿題,"homework
+しゅくだい · shukudai
+
+宿題を忘れました。
+I forgot my homework.",n5
+試験,"exam; test
+しけん · shiken
+
+来週、試験があります。
+There is an exam next week.",n5
+言葉,"word; language
+ことば · kotoba
+
+新しい言葉を三つ覚えました。
+I learned three new words.",n5
+漢字,"kanji; Chinese character
+かんじ · kanji
+
+漢字を書くのが好きです。
+I like writing kanji.",n5
+平仮名,"hiragana
+ひらがな · hiragana
+
+平仮名はもう読めます。
+I can already read hiragana.",n5
+片仮名,"katakana
+カタカナ · katakana
+
+片仮名で名前を書いてください。
+Please write your name in katakana.",n5
+英語,"English (language)
+えいご · eigo
+
+英語と日本語を話します。
+I speak English and Japanese.",n5
+日本語,"Japanese (language)
+にほんご · nihongo
+
+日本語の勉強は楽しいです。
+Studying Japanese is fun.",n5
+意味,"meaning
+いみ · imi
+
+この言葉の意味が分かりません。
+I don't understand the meaning of this word.",n5
+問題,"problem; question
+もんだい · mondai
+
+この問題は難しいです。
+This problem is difficult.",n5
+答え,"answer
+こたえ · kotae
+
+答えが分かりますか。
+Do you know the answer?",n5
+話,"talk; story
+はなし · hanashi
+
+面白い話を聞きました。
+I heard an interesting story.",n5
+字,"character; handwriting
+じ · ji
+
+彼女は字がきれいです。
+Her handwriting is beautiful.",n5
+作文,"essay; composition
+さくぶん · sakubun
+
+日本語で作文を書きました。
+I wrote an essay in Japanese.",n5
+教室,"classroom
+きょうしつ · kyoushitsu
+
+教室に学生が二十人います。
+There are twenty students in the classroom.",n5
+黒板,"blackboard
+こくばん · kokuban
+
+先生が黒板に字を書きました。
+The teacher wrote on the blackboard.",n5
+クラス,"class (group)
+クラス · kurasu
+
+クラスに留学生が三人います。
+There are three international students in my class.",n5
+留学生,"international student
+りゅうがくせい · ryuugakusei
+
+彼はアメリカからの留学生です。
+He is an international student from America.",n5
+東,"east
+ひがし · higashi
+
+太陽は東から昇ります。
+The sun rises in the east.",n5
+西,"west
+にし · nishi
+
+駅の西口で会いましょう。
+Let's meet at the station's west exit.",n5
+南,"south
+みなみ · minami
+
+南の島へ旅行に行きたいです。
+I want to travel to a southern island.",n5
+北,"north
+きた · kita
+
+北海道は日本の北にあります。
+Hokkaido is in the north of Japan.",n5
+側,"near; beside
+そば · soba
+
+駅の側に住んでいます。
+I live near the station.",n5
+間,"between; during
+あいだ · aida
+
+銀行と郵便局の間にあります。
+It's between the bank and the post office.",n5
+角,"corner
+かど · kado
+
+あの角を左に曲がってください。
+Please turn left at that corner.",n5
+入口,"entrance
+いりぐち · iriguchi
+
+入口はあちらです。
+The entrance is over there.",n5
+出口,"exit
+でぐち · deguchi
+
+出口が分かりません。
+I can't find the exit.",n5
+受け取る,"to receive; to pick up
+うけとる · uketoru
+
+荷物を受け取りました。
+I received the package.",n5
+地下,"basement; underground
+ちか · chika
+
+食品売り場は地下にあります。
+The food section is in the basement.",n5
+屋上,"rooftop
+おくじょう · okujou
+
+屋上から町が見えます。
+You can see the town from the rooftop.",n5
+事務所,"office
+じむしょ · jimusho
+
+事務所は二階にあります。
+The office is on the second floor.",n5
+交番,"police box
+こうばん · kouban
+
+交番で道を聞きました。
+I asked for directions at the police box.",n5
+警察,"police
+けいさつ · keisatsu
+
+警察に電話しました。
+I called the police.",n5
+美容院,"hair salon
+びよういん · biyouin
+
+美容院で髪を切りました。
+I got my hair cut at the salon.",n5
+本屋,"bookstore
+ほんや · honya
+
+本屋で雑誌を買いました。
+I bought a magazine at the bookstore.",n5
+花屋,"flower shop
+はなや · hanaya
+
+花屋でバラを買いました。
+I bought roses at the flower shop.",n5
+パン屋,"bakery
+パンや · panya
+
+このパン屋は朝七時に開きます。
+This bakery opens at seven in the morning.",n5
+肉屋,"butcher shop
+にくや · nikuya
+
+肉屋で鶏肉を買いました。
+I bought chicken at the butcher shop.",n5
+八百屋,"vegetable shop; greengrocer
+やおや · yaoya
+
+八百屋でトマトを買いました。
+I bought tomatoes at the greengrocer.",n5
+薬局,"pharmacy
+やっきょく · yakkyoku
+
+薬局で風邪薬を買いました。
+I bought cold medicine at the pharmacy.",n5
+銭湯,"public bath
+せんとう · sentou
+
+近所の銭湯に行きました。
+I went to the local public bath.",n5
+神社,"Shinto shrine
+じんじゃ · jinja
+
+お正月に神社へ行きます。
+I visit a shrine at New Year's.",n5
+お寺,"Buddhist temple
+おてら · otera
+
+京都で古いお寺を見ました。
+I saw old temples in Kyoto.",n5
+お土産,"souvenir
+おみやげ · omiyage
+
+京都のお土産を買いました。
+I bought souvenirs from Kyoto.",n5
+旅行,"travel; trip
+りょこう · ryokou
+
+来月、家族と旅行します。
+I'm traveling with my family next month.",n5
+写真屋,"photo shop
+しゃしんや · shashinya
+
+写真屋で写真を印刷しました。
+I printed photos at the photo shop.",n5
+門,"gate
+もん · mon
+
+学校の門の前で待っています。
+I'm waiting in front of the school gate.",n5
+壁,"wall
+かべ · kabe
+
+壁に地図を貼りました。
+I put a map on the wall.",n5
+床,"floor
+ゆか · yuka
+
+床を掃除しました。
+I cleaned the floor.",n5
+天井,"ceiling
+てんじょう · tenjou
+
+この部屋は天井が高いです。
+This room has a high ceiling.",n5
+階段,"stairs
+かいだん · kaidan
+
+階段で三階まで上がりました。
+I went up to the third floor by the stairs.",n5
+廊下,"hallway; corridor
+ろうか · rouka
+
+廊下を走らないでください。
+Please don't run in the hallway.",n5
+玄関,"entrance (of a house)
+げんかん · genkan
+
+玄関で靴を脱ぎました。
+I took off my shoes at the entrance.",n5
+押入れ,"closet (Japanese-style)
+おしいれ · oshiire
+
+布団を押入れにしまいました。
+I put the futon away in the closet.",n5
+本棚,"bookshelf
+ほんだな · hondana
+
+本棚に本がたくさんあります。
+There are many books on the bookshelf.",n5
+冷蔵庫,"refrigerator
+れいぞうこ · reizouko
+
+冷蔵庫に牛乳があります。
+There is milk in the refrigerator.",n5
+電気,"electricity; light
+でんき · denki
+
+電気を消してください。
+Please turn off the light.",n5
+エアコン,"air conditioner
+エアコン · eakon
+
+暑いのでエアコンをつけました。
+It was hot, so I turned on the air conditioner.",n5
+ストーブ,"heater; stove
+ストーブ · sutoobu
+
+冬はストーブを使います。
+We use a heater in winter.",n5
+洗濯機,"washing machine
+せんたくき · sentakuki
+
+新しい洗濯機を買いました。
+I bought a new washing machine.",n5
+布団,"futon; bedding
+ふとん · futon
+
+布団で寝るのが好きです。
+I like sleeping on a futon.",n5
+畳,"tatami mat
+たたみ · tatami
+
+畳の部屋でお茶を飲みました。
+We drank tea in a tatami room.",n5
+石鹸,"soap
+せっけん · sekken
+
+石鹸で手を洗ってください。
+Please wash your hands with soap.",n5
+タオル,"towel
+タオル · taoru
+
+タオルで顔を拭きました。
+I wiped my face with a towel.",n5
+歯ブラシ,"toothbrush
+はブラシ · haburashi
+
+新しい歯ブラシを買いました。
+I bought a new toothbrush.",n5
+鏡,"mirror
+かがみ · kagami
+
+鏡を見ながら髪をとかしました。
+I combed my hair while looking in the mirror.",n5
+ごみ,"garbage; trash
+ごみ · gomi
+
+ごみは月曜日に出します。
+We take out the garbage on Mondays.",n5
+ポスト,"mailbox
+ポスト · posuto
+
+手紙をポストに入れました。
+I put the letter in the mailbox.",n5
+言う,"to say
+いう · iu
+
+先生が「明日は休みです」と言いました。
+The teacher said, ""Tomorrow is a day off.""",n5
+思う,"to think
+おもう · omou
+
+日本語は面白いと思います。
+I think Japanese is interesting.",n5
+知る,"to know
+しる · shiru
+
+その店を知っていますか。
+Do you know that shop?",n5
+考える,"to think; to consider
+かんがえる · kangaeru
+
+答えをよく考えてください。
+Please think carefully about the answer.",n5
+見せる,"to show
+みせる · miseru
+
+写真を見せてください。
+Please show me the photo.",n5
+聞こえる,"to be audible
+きこえる · kikoeru
+
+音楽が聞こえます。
+I can hear music.",n5
+見える,"to be visible
+みえる · mieru
+
+窓から山が見えます。
+You can see mountains from the window.",n5
+出かける,"to go out
+でかける · dekakeru
+
+午後から買い物に出かけます。
+I'm going out shopping in the afternoon.",n5
+始める,"to begin (transitive)
+はじめる · hajimeru
+
+来月から日本語を始めます。
+I will start Japanese next month.",n5
+終える,"to finish (transitive)
+おえる · oeru
+
+仕事を終えて家に帰りました。
+I finished work and went home.",n5
+忘れ物,"forgotten item
+わすれもの · wasuremono
+
+電車に忘れ物をしました。
+I left something on the train.",n5
+落とす,"to drop; to lose
+おとす · otosu
+
+財布を落としました。
+I dropped my wallet.",n5
+拾う,"to pick up
+ひろう · hirou
+
+道で百円を拾いました。
+I picked up 100 yen on the street.",n5
+押す,"to push; to press
+おす · osu
+
+このボタンを押してください。
+Please press this button.",n5
+引く,"to pull
+ひく · hiku
+
+ドアを引いて開けてください。
+Please pull the door to open it.",n5
+切る,"to cut
+きる · kiru
+
+野菜を小さく切ります。
+I cut the vegetables into small pieces.",n5
+貼る,"to stick; to paste
+はる · haru
+
+封筒に切手を貼りました。
+I put a stamp on the envelope.",n5
+渡す,"to hand over
+わたす · watasu
+
+先生にレポートを渡しました。
+I handed the report to the teacher.",n5
+届く,"to arrive (mail); to reach
+とどく · todoku
+
+荷物が今日届きました。
+The package arrived today.",n5
+磨く,"to brush; to polish
+みがく · migaku
+
+寝る前に歯を磨きます。
+I brush my teeth before bed.",n5
+座席,"seat
+ざせき · zaseki
+
+座席は窓側がいいです。
+I prefer a window seat.",n5
+飲み会,"drinking party
+のみかい · nomikai
+
+金曜日に会社の飲み会があります。
+There's a company drinking party on Friday.",n5
+歌手,"singer
+かしゅ · kashu
+
+好きな歌手は誰ですか。
+Who is your favorite singer?",n5
+料理人,"cook; chef
+りょうりにん · ryourinin
+
+彼は有名な料理人です。
+He is a famous chef.",n5
+運転手,"driver
+うんてんしゅ · untenshu
+
+タクシーの運転手に道を聞きました。
+I asked the taxi driver for directions.",n5
+店員,"shop clerk
+てんいん · tenin
+
+店員さんが親切でした。
+The shop clerk was kind.",n5
+看護師,"nurse
+かんごし · kangoshi
+
+姉は看護師です。
+My older sister is a nurse.",n5
+警察官,"police officer
+けいさつかん · keisatsukan
+
+警察官に道を聞きました。
+I asked a police officer for directions.",n5
+銀行員,"bank employee
+ぎんこういん · ginkouin
+
+父は銀行員です。
+My father is a bank employee.",n5
+公務員,"civil servant
+こうむいん · koumuin
+
+兄は公務員になりました。
+My brother became a civil servant.",n5
+生活する,"to live (daily life)
+せいかつする · seikatsu suru
+
+東京で一人で生活しています。
+I live alone in Tokyo.",n5
+住所,"address
+じゅうしょ · juusho
+
+ここに住所を書いてください。
+Please write your address here.",n5
+電話番号,"phone number
+でんわばんごう · denwabangou
+
+電話番号を教えてください。
+Please tell me your phone number.",n5
+番号,"number
+ばんごう · bangou
+
+部屋の番号は三〇二です。
+The room number is 302.",n5
+生年月日,"date of birth
+せいねんがっぴ · seinengappi
+
+生年月日を書いてください。
+Please write your date of birth.",n5
+吹く,"to blow (wind)
+ふく · fuku
+
+今日は冷たい風が吹いています。
+A cold wind is blowing today.",n5
+時間,"time; hour
+じかん · jikan
+
+時間がありません。
+There is no time.",n5
+止める,"to stop (transitive); to park
+とめる · tomeru
+
+ここに車を止めてもいいですか。
+May I park the car here?",n5
+半分,"half
+はんぶん · hanbun
+
+ケーキを半分ください。
+Please give me half of the cake.",n5
+全部,"all; everything
+ぜんぶ · zenbu
+
+宿題を全部終わらせました。
+I finished all my homework.",n5
+答える,"to answer
+こたえる · kotaeru
+
+先生の質問に答えました。
+I answered the teacher's question.",n5
+今晩,"tonight
+こんばん · konban
+
+今晩、電話してもいいですか。
+May I call you tonight?",n5
+今朝,"this morning
+けさ · kesa
+
+今朝は六時に起きました。
+I got up at six this morning.",n5
+昨夜,"last night
+ゆうべ · yuube
+
+昨夜は早く寝ました。
+I went to bed early last night.",n5
+明後日,"the day after tomorrow
+あさって · asatte
+
+明後日、試験があります。
+There's an exam the day after tomorrow.",n5
+一昨日,"the day before yesterday
+おととい · ototoi
+
+一昨日、映画を見ました。
+I watched a movie the day before yesterday.",n5
+週末,"weekend
+しゅうまつ · shuumatsu
+
+週末は何をしますか。
+What do you do on weekends?",n5
+平日,"weekday
+へいじつ · heijitsu
+
+平日は仕事があります。
+I work on weekdays.",n5
+最初に,"first of all
+さいしょに · saisho ni
+
+最初に名前を書いてください。
+First, please write your name.",n5
+後で,"later
+あとで · atode
+
+後で電話します。
+I'll call you later.",n5
+これ,"this (thing)
+これ · kore
+
+これは何ですか。
+What is this?",n5
+それ,"that (thing)
+それ · sore
+
+それは私の傘です。
+That is my umbrella.",n5
+あれ,"that (thing over there)
+あれ · are
+
+あれは学校です。
+That over there is a school.",n5
+ここ,"here
+ここ · koko
+
+ここに座ってください。
+Please sit here.",n5
+そこ,"there
+そこ · soko
+
+そこに置いてください。
+Please put it there.",n5
+あそこ,"over there
+あそこ · asoko
+
+トイレはあそこです。
+The bathroom is over there.",n5
+こちら,"this way; this person (polite)
+こちら · kochira
+
+こちらへどうぞ。
+This way, please.",n5
+どちら,"which; where (polite)
+どちら · dochira
+
+お国はどちらですか。
+Where are you from?",n5
+どれ,"which one
+どれ · dore
+
+あなたのかばんはどれですか。
+Which one is your bag?",n5
+どう,"how
+どう · dou
+
+日本の生活はどうですか。
+How is life in Japan?",n5
+いくら,"how much
+いくら · ikura
+
+これはいくらですか。
+How much is this?",n5
+いくつ,"how many; how old
+いくつ · ikutsu
+
+りんごはいくつありますか。
+How many apples are there?",n5
+何時,"what time
+なんじ · nanji
+
+今、何時ですか。
+What time is it now?",n5
+何人,"how many people
+なんにん · nannin
+
+家族は何人ですか。
+How many people are in your family?",n5
+嬉しい,"happy; glad
+うれしい · ureshii
+
+合格して嬉しいです。
+I'm happy I passed.",n5
+悲しい,"sad
+かなしい · kanashii
+
+悲しい映画を見て泣きました。
+I cried watching a sad movie.",n5
+寂しい,"lonely
+さびしい · sabishii
+
+一人暮らしは時々寂しいです。
+Living alone is sometimes lonely.",n5
+怖い,"scary; afraid
+こわい · kowai
+
+怖い夢を見ました。
+I had a scary dream.",n5
+恥ずかしい,"embarrassed; shy
+はずかしい · hazukashii
+
+人前で話すのは恥ずかしいです。
+Speaking in public is embarrassing.",n5
+気分,"feeling; mood
+きぶん · kibun
+
+今日は気分がいいです。
+I feel good today.",n5
+気持ち,"feeling
+きもち · kimochi
+
+温泉は気持ちがいいです。
+Hot springs feel great.",n5
+泣く,"to cry
+なく · naku
+
+赤ちゃんが泣いています。
+The baby is crying.",n5
+怒る,"to get angry
+おこる · okoru
+
+母は遅刻に怒りました。
+My mother got angry about my being late.",n5
+笑顔,"smile
+えがお · egao
+
+彼女はいつも笑顔です。
+She is always smiling.",n5
+心,"heart; mind
+こころ · kokoro
+
+心から感謝します。
+I thank you from my heart.",n5
+お願い,"request; favor
+おねがい · onegai
+
+お願いがあります。
+I have a favor to ask.",n5
+ありがとう,"thank you
+ありがとう · arigatou
+
+手伝ってくれてありがとう。
+Thank you for helping me.",n5
+すみません,"excuse me; sorry
+すみません · sumimasen
+
+すみません、駅はどこですか。
+Excuse me, where is the station?",n5
+おはよう,"good morning
+おはよう · ohayou
+
+おはよう。今日もいい天気だね。
+Good morning. Nice weather again today.",n5
+こんにちは,"hello; good afternoon
+こんにちは · konnichiwa
+
+こんにちは、お元気ですか。
+Hello, how are you?",n5
+こんばんは,"good evening
+こんばんは · konbanwa
+
+こんばんは、寒いですね。
+Good evening. It's cold, isn't it?",n5
+さようなら,"goodbye
+さようなら · sayounara
+
+さようなら、また明日。
+Goodbye, see you tomorrow.",n5
+おやすみなさい,"good night
+おやすみなさい · oyasuminasai
+
+もう寝ます。おやすみなさい。
+I'm going to bed now. Good night.",n5
+いただきます,"expression before eating
+いただきます · itadakimasu
+
+おいしそう!いただきます。
+Looks delicious! Let's eat.",n5
+ごちそうさま,"expression after eating
+ごちそうさま · gochisousama
+
+ごちそうさま。おいしかったです。
+Thanks for the meal. It was delicious.",n5
+はい,"yes
+はい · hai
+
+はい、分かりました。
+Yes, I understand.",n5
+いいえ,"no
+いいえ · iie
+
+いいえ、違います。
+No, that's not right.",n5
+どうぞ,"please; here you are
+どうぞ · douzo
+
+どうぞ、お入りください。
+Please, come in.",n5
+どうも,"thanks; very much
+どうも · doumo
+
+どうもありがとうございます。
+Thank you very much.",n5
+お疲れ様,"thank you for your work
+おつかれさま · otsukaresama
+
+お疲れ様でした。また明日。
+Good work today. See you tomorrow.",n5
+大好き,"to love; really like
+だいすき · daisuki
+
+チョコレートが大好きです。
+I love chocolate.",n5
+にっこり,"with a smile
+にっこり · nikkori
+
+彼女はにっこり笑いました。
+She smiled brightly.",n5
+びっくり,"surprised
+びっくり · bikkuri
+
+急な音にびっくりしました。
+I was surprised by the sudden noise.",n5
+楽,"easy; comfortable
+らく · raku
+
+この椅子は座り心地が楽です。
+This chair is comfortable to sit in.",n5
+親切,"kind
+しんせつ · shinsetsu
+
+駅員さんはとても親切でした。
+The station attendant was very kind.",n5
+真面目,"serious; diligent
+まじめ · majime
+
+彼は真面目な学生です。
+He is a diligent student.",n5
+素敵,"lovely; wonderful
+すてき · suteki
+
+素敵なドレスですね。
+What a lovely dress!",n5
+駄目,"no good; not allowed
+だめ · dame
+
+ここで写真を撮っては駄目です。
+You must not take photos here.",n5
+急行,"express train
+きゅうこう · kyuukou
+
+急行に乗れば早く着きます。
+If you take the express, you'll arrive sooner.",n5
+特急,"limited express
+とっきゅう · tokkyuu
+
+特急で京都へ行きました。
+I went to Kyoto by limited express.",n5
+新幹線,"bullet train
+しんかんせん · shinkansen
+
+新幹線は速くて便利です。
+The bullet train is fast and convenient.",n5
+駅前,"in front of the station
+えきまえ · ekimae
+
+駅前で待ち合わせしましょう。
+Let's meet in front of the station.",n5
+改札,"ticket gate
+かいさつ · kaisatsu
+
+改札の前で会いましょう。
+Let's meet in front of the ticket gate.",n5
+ホーム,"train platform
+ホーム · hoomu
+
+三番ホームから出発します。
+It departs from platform three.",n5
+乗り換える,"to transfer (trains)
+のりかえる · norikaeru
+
+新宿で乗り換えてください。
+Please transfer at Shinjuku.",n5
+停留所,"bus stop
+ていりゅうじょ · teiryuujo
+
+次の停留所で降ります。
+I'll get off at the next bus stop.",n5
+運転,"driving
+うんてん · unten
+
+父は運転が上手です。
+My father is good at driving.",n5
+自動車,"automobile
+じどうしゃ · jidousha
+
+日本の自動車は人気があります。
+Japanese cars are popular.",n5
+オートバイ,"motorcycle
+オートバイ · ootobai
+
+兄はオートバイに乗ります。
+My brother rides a motorcycle.",n5
+空気,"air
+くうき · kuuki
+
+山の空気はきれいです。
+The mountain air is clean.",n5
+景色,"scenery
+けしき · keshiki
+
+ここからの景色は最高です。
+The view from here is the best.",n5
+温泉,"hot spring
+おんせん · onsen
+
+週末に温泉に行きます。
+I'm going to a hot spring this weekend.",n5
+祭り,"festival
+まつり · matsuri
+
+夏祭りで花火を見ました。
+I watched fireworks at the summer festival.",n5
+花火,"fireworks
+はなび · hanabi
+
+川で花火大会があります。
+There's a fireworks show by the river.",n5
+着物,"kimono
+きもの · kimono
+
+お祭りで着物を着ました。
+I wore a kimono at the festival.",n5
+写真集,"photo book
+しゃしんしゅう · shashinshuu
+
+京都の写真集を買いました。
+I bought a photo book of Kyoto.",n5
+泊まる,"to stay (overnight)
+とまる · tomaru
+
+友達の家に泊まりました。
+I stayed at my friend's house.",n5
+帰り,"return; way home
+かえり · kaeri
+
+帰りにスーパーに寄ります。
+I'll stop by the supermarket on the way home.",n5
+行き方,"how to get to
+いきかた · ikikata
+
+駅への行き方を教えてください。
+Please tell me how to get to the station.",n5
+予定表,"schedule
+よていひょう · yoteihyou
+
+来週の予定表を見せてください。
+Please show me next week's schedule.",n5
+休日,"holiday; day off
+きゅうじつ · kyuujitsu
+
+休日は家でゆっくりします。
+On my days off I relax at home.",n5
+夏休み,"summer vacation
+なつやすみ · natsuyasumi
+
+夏休みに海へ行きます。
+I'm going to the sea during summer vacation.",n5
+冬休み,"winter vacation
+ふゆやすみ · fuyuyasumi
+
+冬休みは国へ帰ります。
+I'm going back to my country for winter vacation.",n5
+春休み,"spring vacation
+はるやすみ · haruyasumi
+
+春休みに引っ越します。
+I'm moving during spring break.",n5
+お正月,"New Year
+おしょうがつ · oshougatsu
+
+お正月は家族と過ごします。
+I spend New Year's with my family.",n5
+誕生日会,"birthday party
+たんじょうびかい · tanjoubikai
+
+友達の誕生日会に行きました。
+I went to my friend's birthday party.",n5
+プレゼント,"present; gift
+プレゼント · purezento
+
+母にプレゼントをあげました。
+I gave my mother a present.",n5
+カード,"card
+カード · kaado
+
+誕生日カードを書きました。
+I wrote a birthday card.",n5
+クリスマス,"Christmas
+クリスマス · kurisumasu
+
+クリスマスにケーキを食べます。
+We eat cake at Christmas.",n5
+始発,"first train
+しはつ · shihatsu
+
+始発の電車で帰りました。
+I went home on the first train.",n5
+終電,"last train
+しゅうでん · shuuden
+
+終電に間に合いませんでした。
+I missed the last train.",n5
+間に合う,"to be in time
+まにあう · maniau
+
+急げば間に合いますよ。
+If you hurry, you'll make it.",n5
+遅れる,"to be late
+おくれる · okureru
+
+すみません、十分遅れます。
+Sorry, I'll be ten minutes late.",n5
+着く,"to arrive
+つく · tsuku
+
+駅に八時に着きました。
+I arrived at the station at eight.",n5
+出発する,"to depart
+しゅっぱつする · shuppatsu suru
+
+バスは九時に出発します。
+The bus departs at nine.",n5
+歩き回る,"to walk around
+あるきまわる · arukimawaru
+
+一日中、町を歩き回りました。
+I walked around town all day.",n5
+通う,"to commute; to attend
+かよう · kayou
+
+電車で学校に通っています。
+I commute to school by train.",n5
+引っ越し,"moving (house)
+ひっこし · hikkoshi
+
+来月、引っ越しをします。
+I'm moving next month.",n5
+生活費,"living expenses
+せいかつひ · seikatsuhi
+
+東京は生活費が高いです。
+Living expenses in Tokyo are high.",n5
+家賃,"rent
+やちん · yachin
+
+家賃は月に七万円です。
+The rent is 70,000 yen a month.",n5
+払う,"to pay
+はらう · harau
+
+レジでお金を払いました。
+I paid at the register.",n5
+レジ,"cash register; checkout
+レジ · reji
+
+レジに並んでください。
+Please line up at the register.",n5
+お釣り,"change (money)
+おつり · otsuri
+
+お釣りは三百円です。
+Your change is 300 yen.",n5
+値引き,"discount
+ねびき · nebiki
+
+この店は今、値引き中です。
+This store is having a sale now.",n5
+無料,"free of charge
+むりょう · muryou
+
+入場は無料です。
+Admission is free.",n5
+セール,"sale
+セール · seeru
+
+デパートでセールをしています。
+The department store is having a sale.",n5
+袋,"bag; sack
+ふくろ · fukuro
+
+袋に入れてください。
+Please put it in a bag.",n5
+牛,"cow
+うし · ushi
+
+牧場に牛がたくさんいます。
+There are many cows on the farm.",n5
+豚,"pig
+ぶた · buta
+
+豚肉で料理を作りました。
+I made a dish with pork.",n5
+鶏,"chicken
+にわとり · niwatori
+
+祖父は鶏を飼っています。
+My grandfather keeps chickens.",n5
+象,"elephant
+ぞう · zou
+
+動物園で象を見ました。
+I saw an elephant at the zoo.",n5
+ライオン,"lion
+ライオン · raion
+
+ライオンは動物の王です。
+The lion is the king of animals.",n5
+パンダ,"panda
+パンダ · panda
+
+上野動物園のパンダは人気です。
+The pandas at Ueno Zoo are popular.",n5
+うさぎ,"rabbit
+うさぎ · usagi
+
+娘はうさぎを飼いたがっています。
+My daughter wants to keep a rabbit.",n5
+虫,"insect; bug
+むし · mushi
+
+夏は虫が多いです。
+There are many insects in summer.",n5
+飼う,"to keep (a pet)
+かう · kau
+
+犬を二匹飼っています。
+I keep two dogs.",n5
+野菜炒め,"stir-fried vegetables
+やさいいため · yasai itame
+
+晩ご飯に野菜炒めを作りました。
+I made stir-fried vegetables for dinner.",n5
+焼く,"to grill; to bake
+やく · yaku
+
+パンを焼くのが好きです。
+I like baking bread.",n5
+煮る,"to boil; to simmer
+にる · niru
+
+野菜を柔らかく煮ます。
+I simmer the vegetables until soft.",n5
+混ぜる,"to mix
+まぜる · mazeru
+
+卵と牛乳を混ぜてください。
+Please mix the eggs and milk.",n5
+注文,"order (at a restaurant)
+ちゅうもん · chuumon
+
+注文をお願いします。
+I'd like to order, please.",n5
+お代わり,"second helping; refill
+おかわり · okawari
+
+ご飯のお代わりをください。
+May I have another bowl of rice?",n5
+食欲,"appetite
+しょくよく · shokuyoku
+
+今日は食欲がありません。
+I have no appetite today.",n5
+喉,"throat
+のど · nodo
+
+喉が渇きました。
+I'm thirsty.",n5
+お腹が空く,"to get hungry
+おなかがすく · onaka ga suku
+
+朝からお腹が空いています。
+I've been hungry since morning.",n5
+顔色,"complexion
+かおいろ · kaoiro
+
+顔色が悪いですよ。大丈夫ですか。
+You look pale. Are you okay?",n5
+背中,"back (body)
+せなか · senaka
+
+背中が痛いです。
+My back hurts.",n5
+指,"finger
+ゆび · yubi
+
+指を切ってしまいました。
+I cut my finger.",n5
+首,"neck
+くび · kubi
+
+首が少し痛いです。
+My neck hurts a little.",n5
+肩,"shoulder
+かた · kata
+
+肩が凝っています。
+My shoulders are stiff.",n5
+腕,"arm
+うで · ude
+
+腕を上げてください。
+Please raise your arm.",n5
+膝,"knee
+ひざ · hiza
+
+走って膝が痛くなりました。
+My knees started hurting from running.",n5
+血,"blood
+ち · chi
+
+指から血が出ています。
+My finger is bleeding.",n5
+入院,"hospitalization
+にゅういん · nyuuin
+
+祖母が一週間入院しました。
+My grandmother was in the hospital for a week.",n5
+お見舞い,"visiting a sick person
+おみまい · omimai
+
+友達のお見舞いに行きました。
+I went to visit my sick friend.",n5
+けが,"injury
+けが · kega
+
+サッカーでけがをしました。
+I got injured playing soccer.",n5
+歯医者,"dentist
+はいしゃ · haisha
+
+明日、歯医者に行きます。
+I'm going to the dentist tomorrow.",n5
+体温,"body temperature
+たいおん · taion
+
+体温を測ってください。
+Please take your temperature.",n5
+健康,"health
+けんこう · kenkou
+
+健康のために毎日歩きます。
+I walk every day for my health.",n5
+運動,"exercise
+うんどう · undou
+
+週に三回運動しています。
+I exercise three times a week.",n5
+太る,"to gain weight
+ふとる · futoru
+
+最近少し太りました。
+I've gained a little weight recently.",n5
+痩せる,"to lose weight
+やせる · yaseru
+
+三キロ痩せたいです。
+I want to lose three kilograms.",n5
+休憩する,"to take a break
+きゅうけいする · kyuukei suru
+
+少し休憩しましょう。
+Let's take a short break.",n5
+眠る,"to sleep
+ねむる · nemuru
+
+赤ちゃんがよく眠っています。
+The baby is sleeping soundly.",n5
+起こす,"to wake (someone) up
+おこす · okosu
+
+明日六時に起こしてください。
+Please wake me up at six tomorrow.",n5
+ですから,"therefore; so
+ですから · desukara
+
+明日は試験です。ですから今日は勉強します。
+There's an exam tomorrow, so I'll study today.",n5
+でも,"but; however
+でも · demo
+
+高いです。でも買います。
+It's expensive, but I'll buy it.",n5
+そして,"and; and then
+そして · soshite
+
+朝ご飯を食べました。そして学校へ行きました。
+I ate breakfast, and then went to school.",n5
+それから,"after that
+それから · sorekara
+
+買い物をして、それから映画を見ました。
+I went shopping, and after that watched a movie.",n5
+しかし,"however
+しかし · shikashi
+
+走りました。しかし間に合いませんでした。
+I ran. However, I didn't make it in time.",n5
+じゃあ,"well then
+じゃあ · jaa
+
+じゃあ、また明日。
+Well then, see you tomorrow.",n5
+例えば,"for example
+たとえば · tatoeba
+
+果物、例えばりんごが好きです。
+I like fruit, for example apples.",n5
+きっと,"surely; certainly
+きっと · kitto
+
+彼はきっと来ますよ。
+He will surely come.",n5
+本当に,"really; truly
+ほんとうに · hontouni
+
+本当にありがとうございました。
+Thank you very much, truly.",n5
+もちろん,"of course
+もちろん · mochiron
+
+もちろん、手伝いますよ。
+Of course I'll help you.",n5
+ぜひ,"by all means; definitely
+ぜひ · zehi
+
+ぜひ家に遊びに来てください。
+Please do come visit my home.",n5
+黄色,"yellow
+きいろ · kiiro
+
+黄色い花が咲いています。
+Yellow flowers are blooming.",n5
+茶色,"brown
+ちゃいろ · chairo
+
+茶色の靴を買いました。
+I bought brown shoes.",n5
+緑,"green
+みどり · midori
+
+この町は緑が多いです。
+This town has a lot of greenery.",n5
+ピンク,"pink
+ピンク · pinku
+
+ピンクの桜がきれいです。
+The pink cherry blossoms are beautiful.",n5
+オレンジ,"orange (color/fruit)
+オレンジ · orenji
+
+オレンジのシャツを着ています。
+I'm wearing an orange shirt.",n5
+灰色,"gray
+はいいろ · haiiro
+
+空が灰色になりました。
+The sky turned gray.",n5
+紫,"purple
+むらさき · murasaki
+
+紫の花が好きです。
+I like purple flowers.",n5
+金色,"gold (color)
+きんいろ · kiniro
+
+金色の時計を見つけました。
+I found a gold-colored watch.",n5
+形,"shape; form
+かたち · katachi
+
+星の形のクッキーを作りました。
+I made star-shaped cookies.",n5
+丸,"circle
+まる · maru
+
+正しい答えに丸をつけてください。
+Please circle the correct answer.",n5
+線,"line
+せん · sen
+
+白い線の内側で待ってください。
+Please wait behind the white line.",n5
+音,"sound
+おと · oto
+
+変な音が聞こえます。
+I hear a strange sound.",n5
+匂い,"smell
+におい · nioi
+
+いい匂いがしますね。
+Something smells good, doesn't it?",n5
+光,"light
+ひかり · hikari
+
+朝の光で目が覚めました。
+I woke up with the morning light.",n5
+火,"fire
+ひ · hi
+
+火に気をつけてください。
+Please be careful with fire.",n5
+お湯,"hot water
+おゆ · oyu
+
+お湯を沸かしてお茶を入れます。
+I boil water and make tea.",n5
+氷,"ice
+こおり · koori
+
+ジュースに氷を入れました。
+I put ice in the juice.",n5
+曜日,"day of the week
+ようび · youbi
+
+今日は何曜日ですか。
+What day of the week is it today?",n5
+世界中,"all over the world
+せかいじゅう · sekaijuu
+
+世界中を旅行したいです。
+I want to travel all over the world.",n5
+人気,"popularity
+にんき · ninki
+
+この店は若い人に人気があります。
+This shop is popular with young people.",n5
+有料,"paid; charged
+ゆうりょう · yuuryou
+
+駐車場は有料です。
+The parking lot is not free.",n5
+大人気,"very popular
+だいにんき · daininki
+
+このアニメは大人気です。
+This anime is very popular.",n5
+別々,"separately
+べつべつ · betsubetsu
+
+お会計は別々でお願いします。
+Separate checks, please.",n5
+一人で,"by oneself
+ひとりで · hitoride
+
+一人で映画を見に行きました。
+I went to see a movie by myself.",n5
+みんなで,"all together
+みんなで · minnade
+
+みんなで写真を撮りましょう。
+Let's take a photo all together.",n5
+始め,"beginning
+はじめ · hajime
+
+月の始めに家賃を払います。
+I pay rent at the beginning of the month.",n5
+終わり,"end
+おわり · owari
+
+夏の終わりは少し寂しいです。
+The end of summer is a little sad.",n5
+次,"next
+つぎ · tsugi
+
+次の駅で降りましょう。
+Let's get off at the next station.",n5
+手袋,"gloves
+てぶくろ · tebukuro
+
+冬は手袋をします。
+I wear gloves in winter.",n5
+最後に,"lastly; finally
+さいごに · saigoni
+
+最後にもう一度確認します。
+Lastly, I'll check one more time.",n5
+今度,"next time; this time
+こんど · kondo
+
+今度、一緒に食事しましょう。
+Let's have a meal together next time.",n5
+この間,"the other day
+このあいだ · konoaida
+
+この間はありがとうございました。
+Thank you for the other day.",n5
+昔,"long ago; old times
+むかし · mukashi
+
+昔、ここは海でした。
+Long ago, this place was the sea.",n5
+生まれ,"birth; born in
+うまれ · umare
+
+私は大阪生まれです。
+I was born in Osaka.",n5
+お祝い,"celebration
+おいわい · oiwai
+
+合格のお祝いをしました。
+We celebrated passing the exam.",n5
+約束する,"to promise
+やくそくする · yakusoku suru
+
+友達と会う約束をしました。
+I made plans to meet my friend.",n5
+手伝う,"to help
+てつだう · tetsudau
+
+母の料理を手伝いました。
+I helped my mother with the cooking.",n5
+頑張る,"to do one's best
+がんばる · ganbaru
+
+試験、頑張ってください。
+Good luck on the exam.",n5
+違う,"to be different; to be wrong
+ちがう · chigau
+
+答えが違いますよ。
+That answer is wrong.",n5
+できる,"to be able to; to be completed
+できる · dekiru
+
+日本語で話すことができます。
+I can speak in Japanese.",n5
+要る,"to need
+いる · iru
+
+袋は要りません。
+I don't need a bag.",n5
+なる,"to become
+なる · naru
+
+医者になりたいです。
+I want to become a doctor.",n5
+開く,"to open (intransitive)
+あく · aku
+
+店は十時に開きます。
+The store opens at ten.",n5
+閉まる,"to close (intransitive)
+しまる · shimaru
+
+銀行は三時に閉まります。
+The bank closes at three.",n5
+かかる,"to take (time/money)
+かかる · kakaru
+
+駅まで二十分かかります。
+It takes twenty minutes to the station.",n5
+住まい,"residence; home
+すまい · sumai
+
+お住まいはどちらですか。
+Where do you live?",n5
+暮らす,"to live; to get along
+くらす · kurasu
+
+家族と楽しく暮らしています。
+I live happily with my family.",n5
+セーター,"sweater
+セーター · seetaa
+
+暖かいセーターを着ています。
+I'm wearing a warm sweater.",n5
+作り方,"how to make
+つくりかた · tsukurikata
+
+カレーの作り方を教えてください。
+Please teach me how to make curry.",n5

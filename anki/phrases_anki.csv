@@ -1,0 +1,405 @@
+#separator:comma
+#html:false
+#deck:Survival Phrases
+#notetype:Basic
+#tags column:3
+こんにちは,"hello
+こんにちは · konnichiwa
+
+こんにちは。
+Hello.",phrases
+おはようございます,"good morning
+おはようございます · ohayou gozaimasu
+
+おはようございます。
+Good morning.",phrases
+こんばんは,"good evening
+こんばんは · konbanwa
+
+こんばんは。
+Good evening.",phrases
+ありがとう,"thank you
+ありがとう · arigatou
+
+ありがとう。
+Thank you.",phrases
+ありがとうございます,"thank you very much
+ありがとうございます · arigatou gozaimasu
+
+本当にありがとうございます。
+Thank you very much.",phrases
+すみません,"excuse me / I'm sorry
+すみません · sumimasen
+
+すみません、道に迷いました。
+Excuse me, I'm lost.",phrases
+ごめんなさい,"I'm sorry
+ごめんなさい · gomen nasai
+
+ごめんなさい。
+I'm sorry.",phrases
+お願いします,"please
+おねがいします · onegai shimasu
+
+水をお願いします。
+Water, please.",phrases
+はい,"yes
+はい · hai
+
+はい、大丈夫です。
+Yes, it's okay.",phrases
+いいえ,"no
+いいえ · iie
+
+いいえ、分かりません。
+No, I don't understand.",phrases
+英語を話せますか？,"Can you speak English?
+えいごをはなせますか · eigo o hanasemasu ka
+
+英語を話せますか？
+Can you speak English?",phrases
+日本語は少し話せます,"I can speak a little Japanese
+にほんごはすこしはなせます · nihongo wa sukoshi hanasemasu
+
+日本語は少し話せます。
+I can speak a little Japanese.",phrases
+もう一度お願いします,"One more time, please
+もういちどおねがいします · mou ichido onegai shimasu
+
+もう一度お願いします。
+One more time, please.",phrases
+ゆっくり話してください,"Please speak slowly
+ゆっくりはなしてください · yukkuri hanashite kudasai
+
+ゆっくり話してください。
+Please speak slowly.",phrases
+トイレはどこですか？,"Where is the restroom?
+といれはどこですか · toire wa doko desu ka
+
+トイレはどこですか？
+Where is the restroom?",phrases
+いくらですか？,"How much is it?
+いくらですか · ikura desu ka
+
+これはいくらですか？
+How much is this?",phrases
+これは何ですか？,"What is this?
+これはなんですか · kore wa nan desu ka
+
+これは何ですか？
+What is this?",phrases
+駅はどこですか？,"Where is the station?
+えきはどこですか · eki wa doko desu ka
+
+駅はどこですか？
+Where is the station?",phrases
+助けてください,"Please help me
+たすけてください · tasukete kudasai
+
+助けてください！
+Please help me!",phrases
+大丈夫です,"I'm okay
+だいじょうぶです · daijoubu desu
+
+大丈夫です。
+I'm okay.",phrases
+いただきます,"Let's eat (before meals)
+いただきます · itadakimasu
+
+いただきます。
+Let's eat.",phrases
+ごちそうさまでした,"Thank you for the meal
+ごちそうさまでした · gochisousama deshita
+
+ごちそうさまでした。
+Thank you for the meal.",phrases
+初めまして,"Nice to meet you
+はじめまして · hajimemashite
+
+初めまして。
+Nice to meet you.",phrases
+よろしくお願いします,"Please treat me well
+よろしくおねがいします · yoroshiku onegai shimasu
+
+よろしくお願いします。
+Nice to meet you (lit. please treat me well).",phrases
+お名前は何ですか？,"What is your name?
+おなまえはなんですか · onamae wa nan desu ka
+
+お名前は何ですか？
+What is your name?",phrases
+分かりません,"I don't understand
+わかりません · wakarimasen
+
+すみません、分かりません。
+Sorry, I don't understand.",phrases
+分かりました,"I understand
+わかりました · wakarimashita
+
+分かりました。
+I understand.",phrases
+ちょっと待ってください,"Please wait a moment
+ちょっとまってください · chotto matte kudasai
+
+ちょっと待ってください。
+Please wait a moment.",phrases
+大使館はどこですか？,"Where is the embassy?
+たいしかんはどこですか · taishikan wa doko desu ka
+
+大使館はどこですか？
+Where is the embassy?",phrases
+病院はどこですか？,"Where is the hospital?
+びょういんはどこですか · byouin wa doko desu ka
+
+病院はどこですか？
+Where is the hospital?",phrases
+お会計お願いします,"Check, please.
+おかいけいおねがいします · okaikei onegai shimasu
+
+お会計お願いします。
+Check, please.",phrases
+お水をもう一杯ください,"Another glass of water, please.
+おみずをもういっぱいください · omizu o mou ippai kudasai
+
+お水をもう一杯ください。
+Another glass of water, please.",phrases
+英語のメニューはありますか？,"Do you have an English menu?
+えいごのめにゅーはありますか · eigo no menyuu wa arimasu ka
+
+英語のメニューはありますか？
+Do you have an English menu?",phrases
+これは何といいますか？,"What do you call this?
+これはなんといいますか · kore wa nan to iimasu ka
+
+これは何といいますか？
+What do you call this?",phrases
+切符はどこで買えますか？,"Where can I buy a ticket?
+きっぷはどこでかえますか · kippu wa doko de kaemasu ka
+
+切符はどこで買えますか？
+Where can I buy a ticket?",phrases
+カードは使えますか？,"Do you take credit cards?
+かーどはつかえますか · kaado wa tsukaemasu ka
+
+カードは使えますか？
+Do you take credit cards?",phrases
+現金で払います,"I'll pay in cash.
+げんきんではらいます · genkin de haraimasu
+
+現金で払います。
+I'll pay in cash.",phrases
+領収書をください,"Receipt, please.
+りょうしゅうしょをください · ryoushuusho o kudasai
+
+領収書をください。
+Receipt, please.",phrases
+写真を撮ってもいいですか？,"May I take photos?
+しゃしんをとってもいいですか · shashin o totte mo ii desu ka
+
+写真を撮ってもいいですか？
+May I take photos?",phrases
+写真を撮ってもらえますか？,"Could you take a photo (of me)?
+しゃしんをとってもらえますか · shashin o totte moraemasu ka
+
+写真を撮ってもらえますか？
+Could you take a photo (of me)?",phrases
+道に迷いました,"I'm lost.
+みちにまよいました · michi ni mayoimashita
+
+道に迷いました。
+I'm lost.",phrases
+地図を見せてください,"Please show me a map.
+ちずをみせてください · chizu o misete kudasai
+
+地図を見せてください。
+Please show me a map.",phrases
+Wi‑Fiはありますか？,"Do you have Wi‑Fi?
+わいふぁいはありますか · waifai wa arimasu ka
+
+Wi‑Fiはありますか？
+Do you have Wi‑Fi?",phrases
+パスワードは何ですか？,"What's the password?
+ぱすわーどはなんですか · pasuwaado wa nan desu ka
+
+パスワードは何ですか？
+What's the password?",phrases
+大丈夫ですか？,"Are you okay?
+だいじょうぶですか · daijoubu desu ka
+
+大丈夫ですか？
+Are you okay?",phrases
+医者を呼んでください,"Please call a doctor.
+いしゃをよんでください · isha o yonde kudasai
+
+医者を呼んでください。
+Please call a doctor.",phrases
+薬はどこで買えますか？,"Where can I buy medicine?
+くすりはどこでかえますか · kusuri wa doko de kaemasu ka
+
+薬はどこで買えますか？
+Where can I buy medicine?",phrases
+おすすめは何ですか？,"What do you recommend?
+おすすめはなんですか · osusume wa nan desu ka
+
+おすすめは何ですか？
+What do you recommend?",phrases
+浅草に行きたいです,"I want to go to Asakusa.
+あさくさにいきたいです · asakusa ni ikitai desu
+
+浅草に行きたいです。
+I want to go to Asakusa.",phrases
+写真を送ってください,"Please send me the photo.
+しゃしんをおくってください · shashin o okutte kudasai
+
+写真を送ってください。
+Please send me the photo.",phrases
+おすすめの店はありますか？,"Do you have a recommended place?
+おすすめのみせはありますか · osusume no mise wa arimasu ka
+
+この辺でおすすめの店はありますか？
+Do you have a recommended place around here?",phrases
+辛くないものはありますか？,"Do you have something not spicy?
+からくないものはありますか · karakunai mono wa arimasu ka
+
+辛くないものはありますか？
+Do you have something not spicy?",phrases
+ベジタリアンです,"I'm vegetarian.
+べじたりあんです · bejitarian desu
+
+私はベジタリアンです。
+I'm vegetarian.",phrases
+アレルギーがあります,"I have an allergy.
+あれるぎーがあります · arerugii ga arimasu
+
+ナッツにアレルギーがあります。
+I'm allergic to nuts.",phrases
+サイズ違いはありますか？,"Do you have different sizes?
+さいずちがいはありますか · saizu chigai wa arimasu ka
+
+Mサイズの他にサイズ違いはありますか？
+Do you have other sizes besides M?",phrases
+試着してもいいですか？,"May I try it on?
+しちゃくしてもいいですか · shichaku shite mo ii desu ka
+
+これ、試着してもいいですか？
+May I try this on?",phrases
+値引きできますか？,"Can you give me a discount?
+ねびきできますか · nebiki dekimasu ka
+
+少し値引きできますか？
+Can you give me a small discount?",phrases
+道を教えてください,"Please tell me the way.
+みちをおしえてください · michi o oshiete kudasai
+
+駅までの道を教えてください。
+Please tell me the way to the station.",phrases
+この電車は渋谷に行きますか？,"Does this train go to Shibuya?
+このでんしゃはしぶやにいきますか · kono densha wa shibuya ni ikimasu ka
+
+この電車は渋谷に行きますか？
+Does this train go to Shibuya?",phrases
+乗り換えはどこですか？,"Where do I transfer?
+のりかえはどこですか · norikae wa doko desu ka
+
+乗り換えはどこですか？
+Where do I transfer?",phrases
+道に迷っていません,"I'm not lost.
+みちにまよっていません · michi ni mayotte imasen
+
+大丈夫、道に迷っていません。
+I'm fine, I'm not lost.",phrases
+ここで降ります,"I get off here.
+ここでおります · koko de orimasu
+
+すみません、ここで降ります。
+Excuse me, I get off here.",phrases
+ここは観光名所ですか？,"Is this a tourist spot?
+ここはかんこうめいしょですか · koko wa kankou meisho desu ka
+
+ここは観光名所ですか？
+Is this a tourist attraction?",phrases
+チェックインをお願いします,"Check-in, please.
+ちぇっくいんをおねがいします · chekkuin o onegai shimasu
+
+チェックインをお願いします。
+I'd like to check in.",phrases
+チェックアウトは何時ですか？,"What time is check-out?
+ちぇっくあうとはなんじですか · chekkuauto wa nanji desu ka
+
+チェックアウトは何時ですか？
+What time is check-out?",phrases
+荷物を預けられますか？,"Can I leave my luggage?
+にもつをあずけられますか · nimotsu o azukeraremasu ka
+
+荷物を預けられますか？
+Can I leave my luggage here?",phrases
+領収書の名前は…,"Name on the receipt is…
+りょうしゅうしょのなまえは · ryoushuusho no namae wa
+
+領収書の名前はABCでお願いします。
+Please make the receipt out to ABC.",phrases
+電源はどこですか？,"Where is a power outlet?
+でんげんはどこですか · dengen wa doko desu ka
+
+電源はどこですか？
+Where is a power outlet?",phrases
+充電させてもらえますか？,"May I charge my device?
+じゅうでんさせてもらえますか · juuden sasete moraemasu ka
+
+ここで充電させてもらえますか？
+May I charge my device here?",phrases
+英語で説明してもらえますか？,"Could you explain in English?
+えいごでせつめいしてもらえますか · eigo de setsumei shite moraemasu ka
+
+英語で説明してもらえますか？
+Could you explain in English?",phrases
+お元気ですか？,"How are you?
+おげんきですか · ogenki desu ka
+
+お久しぶりです。お元気ですか？
+Long time no see. How are you?",phrases
+元気です,"I'm fine.
+げんきです · genki desu
+
+はい、元気です。あなたは？
+Yes, I'm fine. And you?",phrases
+お疲れ様です,"Good work / Cheers (after work)
+おつかれさまです · otsukaresama desu
+
+お疲れ様です。先に失礼します。
+Good work. I'll be leaving now.",phrases
+いってきます,"I'm leaving (and coming back)
+いってきます · ittekimasu
+
+じゃあ、いってきます。
+Well, I'm off.",phrases
+いってらっしゃい,"Have a good day (to someone leaving)
+いってらっしゃい · itterasshai
+
+はい、いってらっしゃい。
+Okay, have a good day.",phrases
+ただいま,"I'm home
+ただいま · tadaima
+
+ただいま戻りました。
+I'm back now.",phrases
+おかえりなさい,"Welcome back
+おかえりなさい · okaerinasai
+
+おかえりなさい。早かったですね。
+Welcome back. You're early.",phrases
+お腹が空きました,"I'm hungry.
+おなかがすきました · onaka ga sukimashita
+
+お腹が空きました。何か食べたいです。
+I'm hungry. I want to eat something.",phrases
+喉が渇きました,"I'm thirsty.
+のどがかわきました · nodo ga kawakimashita
+
+喉が渇きました。水が飲みたいです。
+I'm thirsty. I want to drink water.",phrases
+また会いましょう,"Let's meet again.
+またあいましょう · mata aimashou
+
+楽しかったです。また会いましょう。
+It was fun. Let's meet again.",phrases

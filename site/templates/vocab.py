@@ -21,20 +21,25 @@ def set_url(set_key):
 
 
 def build_json(set_key, words):
-    """Light JSON for the grid: id / jp / kana / romaji / en."""
+    """Light JSON for the grid: id / jp / kana / romaji / en (+ example)."""
     vset = config.VOCAB_SETS[set_key]
-    items = [{
-        "id": w["id"], "j": w["jp"], "k": w["kana"],
-        "r": w["romaji"], "e": w["en"],
-    } for w in words]
+    items = []
+    for w in words:
+        item = {
+            "id": w["id"], "j": w["jp"], "k": w["kana"],
+            "r": w["romaji"], "e": w["en"],
+        }
+        if w.get("example_ja"):
+            item["x"] = w["example_ja"]
+        if w.get("example_en"):
+            item["xe"] = w["example_en"]
+        items.append(item)
     return {"title": vset["title"], "set": set_key, "slug": vset["slug"], "words": items}
 
 
-def render_vocab_home(cfg, counts):
-    """/vocab/ — index of the public sets (indexable)."""
-    total = sum(counts[k] for k in config.PUBLIC_SETS)
+def _set_cards(counts, set_keys):
     cards = []
-    for set_key in config.PUBLIC_SETS:
+    for set_key in set_keys:
         vset = config.VOCAB_SETS[set_key]
         n = counts[set_key]
         cards.append(
@@ -42,12 +47,31 @@ def render_vocab_home(cfg, counts):
             f'<span class="card-icon">{vset["icon"]}</span>'
             f'<h2>{esc(vset["title"])}</h2><p>{esc(vset["description"])}</p>'
             f'<div class="card-meta">{n} cards · tap to flip</div></a>')
+    return f'<div class="card-grid">{"".join(cards)}</div>'
+
+
+def render_vocab_home(cfg, counts):
+    """/vocab/ — index of the public sets (indexable)."""
+    total = sum(counts[k] for k in config.PUBLIC_SETS)
+    level_keys = [k for k in config.PUBLIC_SETS if k in config.LEVEL_SETS]
+    themed_keys = [k for k in config.PUBLIC_SETS if k in config.THEMED_SETS]
+    other_keys = [k for k in config.PUBLIC_SETS
+                  if k not in config.LEVEL_SETS and k not in config.THEMED_SETS]
+    themed_html = ""
+    if themed_keys:
+        themed_html = f"<h2>By theme</h2>{_set_cards(counts, themed_keys)}"
+    other_html = ""
+    if other_keys:
+        other_html = f"<h2>Phrases</h2>{_set_cards(counts, other_keys)}"
     content = f"""
 <h1>Japanese Vocabulary Flashcards</h1>
-<p class="lead">Learn Japanese words from JLPT N5 to N1, plus survival phrases —
-{total} cards in total. Tap a card to flip between the Japanese word and its
-English meaning and reading. Free, no sign-up.</p>
-<div class="card-grid">{"".join(cards)}</div>
+<p class="lead">Learn Japanese words from JLPT N5 to N1, plus themed sets and
+survival phrases — {total} cards in total. Tap a card to flip between the
+Japanese word and its English meaning and reading. Free, no sign-up.</p>
+<h2>By JLPT level</h2>
+{_set_cards(counts, level_keys)}
+{themed_html}
+{other_html}
 """
     return layout.page(
         cfg, title="Japanese Vocabulary Flashcards (JLPT N5–N1)",
@@ -67,11 +91,17 @@ def render_trainer(cfg, set_key, words):
         warning = ('<div class="note-box">🔞 <strong>Adult content (18+).</strong> '
                    'This set contains mature vocabulary intended for adult learners. '
                    'It is not linked from the rest of the site.</div>')
+    anki_link = ""
+    if not mature:
+        anki_link = (f'<p class="fc-bar-note">Prefer spaced repetition? '
+                     f'<a href="/downloads/{vset["slug"]}_anki.csv" download>'
+                     f'Download this set as an Anki deck (CSV)</a>.</p>')
     content = f"""
 <h1>{esc(vset["title"])}</h1>
 <p class="lead">All {total} cards. Tap a card to reveal its English meaning and reading.
 Flip only the ones you want to test yourself on.</p>
 {warning}
+{anki_link}
 <div id="vocab-app"
      data-src="/static/data/{vset["slug"]}.json"
      data-set="{esc(set_key)}"
@@ -85,4 +115,5 @@ Flip only the ones you want to test yourself on.</p>
         description=f"{vset['description']}",
         path=path, content=content, noindex=True,
         breadcrumbs=[("/vocab/", "Vocabulary"), (path, vset["short"])],
-        active_nav=path if not mature else None, extra_scripts=GRID_SCRIPT)
+        active_nav=(path if set_key == "phrases" else "/vocab/") if not mature else None,
+        extra_scripts=GRID_SCRIPT)

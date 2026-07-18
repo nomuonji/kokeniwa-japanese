@@ -4,12 +4,10 @@ import json
 from lib.render import esc
 
 NAV_ITEMS = [
-    ("/vocab/n5/", "N5"),
-    ("/vocab/n4/", "N4"),
-    ("/vocab/n3/", "N3"),
-    ("/vocab/n2/", "N2"),
-    ("/vocab/n1/", "N1"),
+    ("/vocab/", "Vocabulary"),
     ("/vocab/phrases/", "Phrases"),
+    ("/quiz/", "Quiz"),
+    ("/blog/", "Journal"),
     ("/about/", "About"),
 ]
 

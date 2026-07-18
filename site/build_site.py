@@ -17,6 +17,7 @@ from lib import config, data_loader, md
 from lib.render import write_page
 from templates import blog as blog_tpl
 from templates import pages as pages_tpl
+from templates import quiz as quiz_tpl
 from templates import vocab as vocab_tpl
 
 
@@ -37,6 +38,8 @@ def load_articles():
             "title": meta["title"],
             "date": meta["date"],
             "description": meta.get("description", ""),
+            "category": meta.get("category", ""),
+            "vocab": meta.get("vocab", ""),
             "html": html,
         })
     articles.sort(key=lambda a: a["date"], reverse=True)
@@ -81,11 +84,33 @@ def build(cfg):
                        ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8")
 
+    # --- grammar quiz (indexable; one page per problem) ---
+    problems = data_loader.load_quiz_problems()
+    if problems:
+        emit("/quiz/", quiz_tpl.render_index(cfg, problems))
+        for level_key in config.QUIZ_LEVELS:
+            if any(p["level"] == level_key for p in problems):
+                emit(f"/quiz/level/{level_key}/",
+                     quiz_tpl.render_level(cfg, problems, level_key))
+        for slug in config.QUIZ_CATEGORIES:
+            if any(p["category"] == slug for p in problems):
+                emit(f"/quiz/category/{slug}/",
+                     quiz_tpl.render_category(cfg, problems, slug))
+        for i in range(len(problems)):
+            emit(quiz_tpl.problem_url(problems[i]),
+                 quiz_tpl.render_problem(cfg, problems, i))
+
     # --- blog (optional) ---
     if articles:
         emit("/blog/", blog_tpl.render_index(cfg, articles))
         for a in articles:
             emit(blog_tpl.article_url(a), blog_tpl.render_article(cfg, a))
+        cats = {}
+        for a in articles:
+            if a.get("category"):
+                cats.setdefault(a["category"], []).append(a)
+        for cat, arts in sorted(cats.items()):
+            emit(blog_tpl.category_url(cat), blog_tpl.render_category(cfg, cat, arts))
 
     # --- static pages ---
     emit("/", pages_tpl.render_home(cfg, counts=counts, articles=articles))
@@ -95,6 +120,14 @@ def build(cfg):
     # --- static assets ---
     static_src = config.SITE_DIR / "static"
     shutil.copytree(static_src, config.DIST_DIR / "static", dirs_exist_ok=True)
+
+    # --- Anki decks (built by scripts/build_anki.py) ---
+    anki_dir = config.ROOT / "anki"
+    if anki_dir.is_dir():
+        downloads = config.DIST_DIR / "downloads"
+        downloads.mkdir(parents=True, exist_ok=True)
+        for f in anki_dir.glob("*.csv"):
+            shutil.copy2(f, downloads / f.name)
 
     # --- sitemap (noindex excluded) / robots / _headers ---
     urls = "\n".join(
@@ -113,6 +146,10 @@ def build(cfg):
 
 /static/*
   Cache-Control: public, max-age=86400
+
+/downloads/*
+  Cache-Control: public, max-age=86400
+  Content-Disposition: attachment
 """)
 
     return pages

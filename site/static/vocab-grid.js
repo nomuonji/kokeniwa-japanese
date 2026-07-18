@@ -65,6 +65,12 @@
       back.appendChild(el("span", "fc-cell-meaning", w.e));
       var reading = w.k + (w.r ? "  ·  " + w.r : "");
       back.appendChild(el("span", "fc-cell-reading", reading));
+      if (w.x) {
+        var ex = el("span", "fc-cell-example", w.x);
+        ex.lang = "ja";
+        if (w.xe) ex.title = w.xe;
+        back.appendChild(ex);
+      }
 
       inner.appendChild(front);
       inner.appendChild(back);
