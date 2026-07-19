@@ -180,3 +180,561 @@
 {"id":198,"jp":"差","kana":"さ","romaji":"sa","en":"difference","example_ja":"両者には大きな差がある。","example_en":"There is a big difference between them."}
 {"id":199,"jp":"最高","kana":"さいこう","romaji":"saikou","en":"the best; supreme","example_ja":"今日の天気は最高だ。","example_en":"The weather today is the best."}
 {"id":200,"jp":"財産","kana":"ざいさん","romaji":"zaisan","en":"property; fortune","example_ja":"彼は多くの財産を持っている。","example_en":"He has a lot of property."}
+{"id": 201, "jp": "該当する", "kana": "がいとうする", "romaji": "gaitou suru", "en": "to correspond; to apply", "pos": "verb", "example_ja": "条件に該当する人を探す。", "example_en": "We look for people who meet the conditions."}
+{"id": 202, "jp": "回避", "kana": "かいひ", "romaji": "kaihi", "en": "avoidance; evasion", "pos": "noun", "example_ja": "最悪の事態を回避した。", "example_en": "We avoided the worst outcome."}
+{"id": 203, "jp": "該博", "kana": "がいはく", "romaji": "gaihaku", "en": "extensive (knowledge)", "pos": "na-adj", "example_ja": "該博な知識を持つ学者だ。", "example_en": "He is a scholar with extensive knowledge."}
+{"id": 204, "jp": "格差", "kana": "かくさ", "romaji": "kakusa", "en": "disparity; gap", "pos": "noun", "example_ja": "所得格差が広がっている。", "example_en": "The income gap is widening."}
+{"id": 205, "jp": "確立", "kana": "かくりつ", "romaji": "kakuritsu", "en": "establishment", "pos": "noun", "example_ja": "自分の方法を確立した。", "example_en": "I established my own method."}
+{"id": 206, "jp": "隠す", "kana": "かくす", "romaji": "kakusu", "en": "to hide; to conceal", "pos": "verb", "example_ja": "事実を隠してはいけない。", "example_en": "You must not hide the truth."}
+{"id": 207, "jp": "拡張", "kana": "かくちょう", "romaji": "kakuchou", "en": "expansion; extension", "pos": "noun", "example_ja": "事業を拡張する計画だ。", "example_en": "We plan to expand the business."}
+{"id": 208, "jp": "獲得する", "kana": "かくとくする", "romaji": "kakutoku suru", "en": "to acquire; to win", "pos": "verb", "example_ja": "新規顧客を獲得した。", "example_en": "We acquired new customers."}
+{"id": 209, "jp": "駆けつける", "kana": "かけつける", "romaji": "kaketsukeru", "en": "to rush to", "pos": "verb", "example_ja": "現場に駆けつけた。", "example_en": "I rushed to the scene."}
+{"id": 210, "jp": "賭ける", "kana": "かける", "romaji": "kakeru", "en": "to bet; to wager", "pos": "verb", "example_ja": "人生を仕事に賭ける。", "example_en": "I stake my life on my work."}
+{"id": 211, "jp": "箇所", "kana": "かしょ", "romaji": "kasho", "en": "place; part; spot", "pos": "noun", "example_ja": "間違った箇所を直す。", "example_en": "I fix the incorrect part."}
+{"id": 212, "jp": "過剰", "kana": "かじょう", "romaji": "kajou", "en": "excess; surplus", "pos": "na-adj", "example_ja": "過剰な期待は禁物だ。", "example_en": "Excessive expectations are unwise."}
+{"id": 213, "jp": "仮定", "kana": "かてい", "romaji": "katei", "en": "assumption; hypothesis", "pos": "noun", "example_ja": "最悪の場合を仮定する。", "example_en": "I assume the worst case."}
+{"id": 214, "jp": "過程", "kana": "かてい", "romaji": "katei", "en": "process", "pos": "noun", "example_ja": "成長の過程を記録する。", "example_en": "I record the process of growth."}
+{"id": 215, "jp": "稼働率", "kana": "かどうりつ", "romaji": "kadouritsu", "en": "operating rate; utilization", "pos": "noun", "example_ja": "設備の稼働率が上がった。", "example_en": "The equipment utilization rate rose."}
+{"id": 216, "jp": "兼ねる", "kana": "かねる", "romaji": "kaneru", "en": "to combine; to serve two purposes", "pos": "verb", "example_ja": "社長は会長を兼ねている。", "example_en": "The president also serves as chairman."}
+{"id": 217, "jp": "過半数", "kana": "かはんすう", "romaji": "kahansuu", "en": "majority", "pos": "noun", "example_ja": "過半数の賛成を得た。", "example_en": "We gained a majority of approval."}
+{"id": 218, "jp": "貨幣", "kana": "かへい", "romaji": "kahei", "en": "currency; money", "pos": "noun", "example_ja": "古い貨幣を収集している。", "example_en": "I collect old coins."}
+{"id": 219, "jp": "構える", "kana": "かまえる", "romaji": "kamaeru", "en": "to set up; to take a stance", "pos": "verb", "example_ja": "郊外に店を構えた。", "example_en": "I set up a shop in the suburbs."}
+{"id": 220, "jp": "過密", "kana": "かみつ", "romaji": "kamitsu", "en": "overcrowded; congested", "pos": "na-adj", "example_ja": "過密なスケジュールだ。", "example_en": "It's a packed schedule."}
+{"id": 221, "jp": "仮に", "kana": "かりに", "romaji": "kari ni", "en": "supposing; temporarily", "pos": "adverb", "example_ja": "仮に失敗しても構わない。", "example_en": "Even if I fail, it's fine."}
+{"id": 222, "jp": "変わり者", "kana": "かわりもの", "romaji": "kawarimono", "en": "eccentric person", "pos": "noun", "example_ja": "彼は少し変わり者だ。", "example_en": "He is a bit of an eccentric."}
+{"id": 223, "jp": "為替", "kana": "かわせ", "romaji": "kawase", "en": "exchange (currency)", "pos": "noun", "example_ja": "為替の変動が激しい。", "example_en": "The exchange rate is fluctuating wildly."}
+{"id": 224, "jp": "感染", "kana": "かんせん", "romaji": "kansen", "en": "infection", "pos": "noun", "example_ja": "感染の拡大を防ぐ。", "example_en": "We prevent the spread of infection."}
+{"id": 225, "jp": "幹部", "kana": "かんぶ", "romaji": "kanbu", "en": "executive; management", "pos": "noun", "example_ja": "幹部が方針を決める。", "example_en": "The executives decide the policy."}
+{"id": 226, "jp": "議案", "kana": "ぎあん", "romaji": "gian", "en": "bill; agenda item", "pos": "noun", "example_ja": "議案が可決された。", "example_en": "The bill was passed."}
+{"id": 227, "jp": "危機", "kana": "きき", "romaji": "kiki", "en": "crisis", "pos": "noun", "example_ja": "経営の危機を乗り越えた。", "example_en": "We overcame the management crisis."}
+{"id": 228, "jp": "企業", "kana": "きぎょう", "romaji": "kigyou", "en": "enterprise; corporation", "pos": "noun", "example_ja": "大企業に就職した。", "example_en": "I got a job at a large corporation."}
+{"id": 229, "jp": "効き目", "kana": "ききめ", "romaji": "kikime", "en": "effect; efficacy", "pos": "noun", "example_ja": "この薬は効き目が早い。", "example_en": "This medicine works quickly."}
+{"id": 230, "jp": "逆境", "kana": "ぎゃっきょう", "romaji": "gyakkyou", "en": "adversity; hardship", "pos": "noun", "example_ja": "逆境を乗り越えて成長した。", "example_en": "I grew by overcoming adversity."}
+{"id": 231, "jp": "規制", "kana": "きせい", "romaji": "kisei", "en": "regulation; control", "pos": "noun", "example_ja": "交通規制が行われた。", "example_en": "Traffic restrictions were put in place."}
+{"id": 232, "jp": "犠牲", "kana": "ぎせい", "romaji": "gisei", "en": "sacrifice; victim", "pos": "noun", "example_ja": "多くの犠牲を払った。", "example_en": "We made many sacrifices."}
+{"id": 233, "jp": "貴社", "kana": "きしゃ", "romaji": "kisha", "en": "your company (honorific)", "pos": "noun", "example_ja": "貴社の発展をお祈りします。", "example_en": "I wish your company continued growth."}
+{"id": 234, "jp": "起訴", "kana": "きそ", "romaji": "kiso", "en": "prosecution; indictment", "pos": "noun", "example_ja": "容疑者が起訴された。", "example_en": "The suspect was indicted."}
+{"id": 235, "jp": "貴重品", "kana": "きちょうひん", "romaji": "kichouhin", "en": "valuables", "pos": "noun", "example_ja": "貴重品は金庫に入れる。", "example_en": "I put valuables in the safe."}
+{"id": 236, "jp": "喫緊", "kana": "きっきん", "romaji": "kikkin", "en": "urgent; pressing", "pos": "na-adj", "example_ja": "喫緊の課題に取り組む。", "example_en": "We tackle the pressing issues."}
+{"id": 237, "jp": "機能する", "kana": "きのうする", "romaji": "kinou suru", "en": "to function; to work", "pos": "verb", "example_ja": "制度が正常に機能する。", "example_en": "The system functions properly."}
+{"id": 238, "jp": "厳密", "kana": "げんみつ", "romaji": "genmitsu", "en": "strict; precise", "pos": "na-adj", "example_ja": "厳密に言えば違う。", "example_en": "Strictly speaking, it's different."}
+{"id": 239, "jp": "却下", "kana": "きゃっか", "romaji": "kyakka", "en": "rejection; dismissal", "pos": "noun", "example_ja": "申請が却下された。", "example_en": "The application was rejected."}
+{"id": 240, "jp": "客観的", "kana": "きゃっかんてき", "romaji": "kyakkanteki", "en": "objective", "pos": "na-adj", "example_ja": "客観的に判断する。", "example_en": "I judge objectively."}
+{"id": 241, "jp": "究明", "kana": "きゅうめい", "romaji": "kyuumei", "en": "investigation; clarification", "pos": "noun", "example_ja": "原因の究明を進める。", "example_en": "We proceed with investigating the cause."}
+{"id": 242, "jp": "供給する", "kana": "きょうきゅうする", "romaji": "kyoukyuu suru", "en": "to supply", "pos": "verb", "example_ja": "電力を安定して供給する。", "example_en": "We supply electricity stably."}
+{"id": 243, "jp": "脅威", "kana": "きょうい", "romaji": "kyoui", "en": "threat; menace", "pos": "noun", "example_ja": "環境破壊は大きな脅威だ。", "example_en": "Environmental destruction is a major threat."}
+{"id": 244, "jp": "共有", "kana": "きょうゆう", "romaji": "kyouyuu", "en": "sharing; joint ownership", "pos": "noun", "example_ja": "情報を全員で共有する。", "example_en": "We share the information with everyone."}
+{"id": 245, "jp": "業績", "kana": "ぎょうせき", "romaji": "gyouseki", "en": "business performance; achievement", "pos": "noun", "example_ja": "会社の業績が回復した。", "example_en": "The company's performance recovered."}
+{"id": 246, "jp": "強制", "kana": "きょうせい", "romaji": "kyousei", "en": "compulsion; coercion", "pos": "noun", "example_ja": "参加を強制はしない。", "example_en": "Participation is not compulsory."}
+{"id": 247, "jp": "行政", "kana": "ぎょうせい", "romaji": "gyousei", "en": "administration; government", "pos": "noun", "example_ja": "行政の対応が遅い。", "example_en": "The government response is slow."}
+{"id": 248, "jp": "業務", "kana": "ぎょうむ", "romaji": "gyoumu", "en": "business operations; duties", "pos": "noun", "example_ja": "日常の業務をこなす。", "example_en": "I handle the daily operations."}
+{"id": 249, "jp": "許容", "kana": "きょよう", "romaji": "kyoyou", "en": "permission; tolerance", "pos": "noun", "example_ja": "誤差の許容範囲を超えた。", "example_en": "It exceeded the allowable margin of error."}
+{"id": 250, "jp": "寄与", "kana": "きよ", "romaji": "kiyo", "en": "contribution", "pos": "noun", "example_ja": "経済成長に寄与する。", "example_en": "It contributes to economic growth."}
+{"id": 251, "jp": "緊急", "kana": "きんきゅう", "romaji": "kinkyuu", "en": "emergency; urgent", "pos": "na-adj", "example_ja": "緊急の会議が開かれた。", "example_en": "An emergency meeting was held."}
+{"id": 252, "jp": "均等", "kana": "きんとう", "romaji": "kintou", "en": "equal; even", "pos": "na-adj", "example_ja": "利益を均等に分ける。", "example_en": "We divide the profits equally."}
+{"id": 253, "jp": "勤勉", "kana": "きんべん", "romaji": "kinben", "en": "diligent; industrious", "pos": "na-adj", "example_ja": "彼は勤勉な社員だ。", "example_en": "He is a diligent employee."}
+{"id": 254, "jp": "食い違う", "kana": "くいちがう", "romaji": "kuichigau", "en": "to differ; to conflict", "pos": "verb", "example_ja": "証言が食い違っている。", "example_en": "The testimonies conflict."}
+{"id": 255, "jp": "苦境", "kana": "くきょう", "romaji": "kukyou", "en": "difficult situation; predicament", "pos": "noun", "example_ja": "会社が苦境に立たされた。", "example_en": "The company was put in a predicament."}
+{"id": 256, "jp": "駆使する", "kana": "くしする", "romaji": "kushi suru", "en": "to make full use of", "pos": "verb", "example_ja": "技術を駆使して作る。", "example_en": "I make it using all my skills."}
+{"id": 257, "jp": "崩壊", "kana": "ほうかい", "romaji": "houkai", "en": "collapse; breakdown", "pos": "noun", "example_ja": "古い建物が崩壊した。", "example_en": "The old building collapsed."}
+{"id": 258, "jp": "愚か", "kana": "おろか", "romaji": "oroka", "en": "foolish; stupid", "pos": "na-adj", "example_ja": "愚かな判断を後悔する。", "example_en": "I regret my foolish decision."}
+{"id": 259, "jp": "工夫", "kana": "くふう", "romaji": "kufuu", "en": "ingenuity; device", "pos": "noun", "example_ja": "作業を工夫して早めた。", "example_en": "I sped up the work with some ingenuity."}
+{"id": 260, "jp": "区分", "kana": "くぶん", "romaji": "kubun", "en": "division; classification", "pos": "noun", "example_ja": "用途によって区分する。", "example_en": "We divide them by purpose."}
+{"id": 261, "jp": "組み合わせる", "kana": "くみあわせる", "romaji": "kumiawaseru", "en": "to combine", "pos": "verb", "example_ja": "色を組み合わせてデザインする。", "example_en": "I combine colors to design."}
+{"id": 262, "jp": "悔やむ", "kana": "くやむ", "romaji": "kuyamu", "en": "to regret; to mourn", "pos": "verb", "example_ja": "過去を悔やんでも仕方ない。", "example_en": "There's no use regretting the past."}
+{"id": 263, "jp": "位置づける", "kana": "いちづける", "romaji": "ichizukeru", "en": "to position; to rank", "pos": "verb", "example_ja": "主力商品と位置づける。", "example_en": "We position it as our main product."}
+{"id": 264, "jp": "経過", "kana": "けいか", "romaji": "keika", "en": "progress; passage (of time)", "pos": "noun", "example_ja": "手術後の経過は順調だ。", "example_en": "The recovery after surgery is going well."}
+{"id": 265, "jp": "軽減", "kana": "けいげん", "romaji": "keigen", "en": "reduction; alleviation", "pos": "noun", "example_ja": "負担を軽減する。", "example_en": "We reduce the burden."}
+{"id": 266, "jp": "傾斜", "kana": "けいしゃ", "romaji": "keisha", "en": "slope; inclination", "pos": "noun", "example_ja": "急な傾斜の坂を登る。", "example_en": "I climb a steeply sloped hill."}
+{"id": 267, "jp": "継承する", "kana": "けいしょうする", "romaji": "keishou suru", "en": "to inherit; to succeed to", "pos": "verb", "example_ja": "伝統を継承していく。", "example_en": "We carry on the tradition."}
+{"id": 268, "jp": "契約する", "kana": "けいやくする", "romaji": "keiyaku suru", "en": "to sign a contract", "pos": "verb", "example_ja": "新居を契約した。", "example_en": "I signed a contract for a new home."}
+{"id": 269, "jp": "経理部", "kana": "けいりぶ", "romaji": "keiribu", "en": "accounting department", "pos": "noun", "example_ja": "経理部に書類を提出する。", "example_en": "I submit documents to the accounting department."}
+{"id": 270, "jp": "劇的", "kana": "げきてき", "romaji": "gekiteki", "en": "dramatic", "pos": "na-adj", "example_ja": "劇的な変化が起きた。", "example_en": "A dramatic change occurred."}
+{"id": 271, "jp": "下旬", "kana": "げじゅん", "romaji": "gejun", "en": "late (part of a month)", "pos": "noun", "example_ja": "今月の下旬に出張する。", "example_en": "I'll go on a business trip late this month."}
+{"id": 272, "jp": "下車", "kana": "げしゃ", "romaji": "gesha", "en": "getting off (a vehicle)", "pos": "noun", "example_ja": "次の駅で下車する。", "example_en": "I get off at the next station."}
+{"id": 273, "jp": "結束", "kana": "けっそく", "romaji": "kessoku", "en": "unity; solidarity", "pos": "noun", "example_ja": "チームの結束が強まった。", "example_en": "The team's unity strengthened."}
+{"id": 274, "jp": "欠如", "kana": "けつじょ", "romaji": "ketsujo", "en": "lack; deficiency", "pos": "noun", "example_ja": "責任感の欠如が問題だ。", "example_en": "A lack of responsibility is the problem."}
+{"id": 275, "jp": "決断", "kana": "けつだん", "romaji": "ketsudan", "en": "decision; resolution", "pos": "noun", "example_ja": "難しい決断を迫られた。", "example_en": "I was forced to make a hard decision."}
+{"id": 276, "jp": "懸念する", "kana": "けねんする", "romaji": "kenen suru", "en": "to be concerned about", "pos": "verb", "example_ja": "景気の悪化を懸念する。", "example_en": "I am concerned about the economic downturn."}
+{"id": 277, "jp": "検証する", "kana": "けんしょうする", "romaji": "kenshou suru", "en": "to verify; to examine", "pos": "verb", "example_ja": "仮説を検証する。", "example_en": "I verify the hypothesis."}
+{"id": 278, "jp": "献身", "kana": "けんしん", "romaji": "kenshin", "en": "devotion; dedication", "pos": "noun", "example_ja": "献身的に看病した。", "example_en": "I nursed them devotedly."}
+{"id": 279, "jp": "謙虚", "kana": "けんきょ", "romaji": "kenkyo", "en": "modest; humble", "pos": "na-adj", "example_ja": "謙虚な態度を保つ。", "example_en": "I keep a humble attitude."}
+{"id": 280, "jp": "賢明", "kana": "けんめい", "romaji": "kenmei", "en": "wise; sensible", "pos": "na-adj", "example_ja": "賢明な判断だった。", "example_en": "It was a wise decision."}
+{"id": 281, "jp": "合意する", "kana": "ごういする", "romaji": "goui suru", "en": "to reach agreement", "pos": "verb", "example_ja": "両者が条件に合意した。", "example_en": "Both parties agreed to the terms."}
+{"id": 282, "jp": "高価", "kana": "こうか", "romaji": "kouka", "en": "expensive; high-priced", "pos": "na-adj", "example_ja": "高価な時計を買った。", "example_en": "I bought an expensive watch."}
+{"id": 283, "jp": "抗議", "kana": "こうぎ", "romaji": "kougi", "en": "protest; objection", "pos": "noun", "example_ja": "判定に抗議した。", "example_en": "I protested the decision."}
+{"id": 284, "jp": "高級", "kana": "こうきゅう", "romaji": "koukyuu", "en": "high-class; luxury", "pos": "na-adj", "example_ja": "高級なホテルに泊まった。", "example_en": "I stayed at a luxury hotel."}
+{"id": 285, "jp": "貢献する", "kana": "こうけんする", "romaji": "kouken suru", "en": "to contribute", "pos": "verb", "example_ja": "地域社会に貢献する。", "example_en": "I contribute to the local community."}
+{"id": 286, "jp": "考察", "kana": "こうさつ", "romaji": "kousatsu", "en": "consideration; study", "pos": "noun", "example_ja": "結果について考察する。", "example_en": "I examine the results."}
+{"id": 287, "jp": "交渉", "kana": "こうしょう", "romaji": "koushou", "en": "negotiation", "pos": "noun", "example_ja": "価格の交渉を進める。", "example_en": "We proceed with price negotiations."}
+{"id": 288, "jp": "控除", "kana": "こうじょ", "romaji": "koujo", "en": "deduction; exemption", "pos": "noun", "example_ja": "税金が控除される。", "example_en": "Taxes are deducted."}
+{"id": 289, "jp": "更新する", "kana": "こうしんする", "romaji": "koushin suru", "en": "to renew; to update", "pos": "verb", "example_ja": "契約を更新した。", "example_en": "I renewed the contract."}
+{"id": 290, "jp": "構想", "kana": "こうそう", "romaji": "kousou", "en": "plan; conception", "pos": "noun", "example_ja": "新しい事業の構想を練る。", "example_en": "I develop a plan for a new business."}
+{"id": 291, "jp": "拘束", "kana": "こうそく", "romaji": "kousoku", "en": "restraint; binding", "pos": "noun", "example_ja": "長時間の拘束は避けたい。", "example_en": "I want to avoid being tied up for long hours."}
+{"id": 292, "jp": "肯定", "kana": "こうてい", "romaji": "koutei", "en": "affirmation", "pos": "noun", "example_ja": "彼は事実を肯定した。", "example_en": "He affirmed the fact."}
+{"id": 293, "jp": "高騰", "kana": "こうとう", "romaji": "koutou", "en": "sharp rise (in price)", "pos": "noun", "example_ja": "原油価格が高騰した。", "example_en": "Crude oil prices soared."}
+{"id": 294, "jp": "購入する", "kana": "こうにゅうする", "romaji": "kounyuu suru", "en": "to purchase", "pos": "verb", "example_ja": "新しい機材を購入した。", "example_en": "I purchased new equipment."}
+{"id": 295, "jp": "公表", "kana": "こうひょう", "romaji": "kouhyou", "en": "official announcement", "pos": "noun", "example_ja": "結果を公表する。", "example_en": "We announce the results publicly."}
+{"id": 296, "jp": "興奮", "kana": "こうふん", "romaji": "koufun", "en": "excitement", "pos": "noun", "example_ja": "試合の興奮が冷めない。", "example_en": "The excitement of the game won't fade."}
+{"id": 297, "jp": "公募", "kana": "こうぼ", "romaji": "koubo", "en": "public offering; open recruitment", "pos": "noun", "example_ja": "デザインを公募する。", "example_en": "We open recruitment for designs."}
+{"id": 298, "jp": "効力", "kana": "こうりょく", "romaji": "kouryoku", "en": "effect; validity", "pos": "noun", "example_ja": "契約は今日から効力を持つ。", "example_en": "The contract takes effect today."}
+{"id": 299, "jp": "考慮に入れる", "kana": "こうりょにいれる", "romaji": "kouryo ni ireru", "en": "to take into consideration", "pos": "expression", "example_ja": "費用も考慮に入れる。", "example_en": "I take the cost into consideration too."}
+{"id": 300, "jp": "護衛", "kana": "ごえい", "romaji": "goei", "en": "guard; escort", "pos": "noun", "example_ja": "要人を護衛する。", "example_en": "They guard the VIP."}
+{"id": 301, "jp": "顧客満足", "kana": "こきゃくまんぞく", "romaji": "kokyaku manzoku", "en": "customer satisfaction", "pos": "noun", "example_ja": "顧客満足を最優先する。", "example_en": "We prioritize customer satisfaction."}
+{"id": 302, "jp": "克明", "kana": "こくめい", "romaji": "kokumei", "en": "detailed; meticulous", "pos": "na-adj", "example_ja": "克明に記録を残す。", "example_en": "I keep meticulous records."}
+{"id": 303, "jp": "焦がす", "kana": "こがす", "romaji": "kogasu", "en": "to burn; to scorch", "pos": "verb", "example_ja": "鍋を焦がしてしまった。", "example_en": "I scorched the pot."}
+{"id": 304, "jp": "孤独", "kana": "こどく", "romaji": "kodoku", "en": "solitude; loneliness", "pos": "na-adj", "example_ja": "都会で孤独を感じる。", "example_en": "I feel lonely in the city."}
+{"id": 305, "jp": "言葉尻", "kana": "ことばじり", "romaji": "kotobajiri", "en": "slip of the tongue; wording", "pos": "noun", "example_ja": "言葉尻を捉えるな。", "example_en": "Don't nitpick my wording."}
+{"id": 306, "jp": "拒む", "kana": "こばむ", "romaji": "kobamu", "en": "to refuse; to reject", "pos": "verb", "example_ja": "面会を拒まれた。", "example_en": "I was refused a meeting."}
+{"id": 307, "jp": "顧問", "kana": "こもん", "romaji": "komon", "en": "advisor; consultant", "pos": "noun", "example_ja": "法律の顧問を雇う。", "example_en": "We hire a legal advisor."}
+{"id": 308, "jp": "雇用", "kana": "こよう", "romaji": "koyou", "en": "employment", "pos": "noun", "example_ja": "雇用を確保する。", "example_en": "We secure employment."}
+{"id": 309, "jp": "孤立する", "kana": "こりつする", "romaji": "koritsu suru", "en": "to be isolated", "pos": "verb", "example_ja": "意見が対立し孤立した。", "example_en": "My opinion clashed and I became isolated."}
+{"id": 310, "jp": "根底", "kana": "こんてい", "romaji": "kontei", "en": "root; foundation", "pos": "noun", "example_ja": "問題の根底を探る。", "example_en": "I explore the root of the problem."}
+{"id": 311, "jp": "混乱する", "kana": "こんらんする", "romaji": "konran suru", "en": "to be confused; to be in chaos", "pos": "verb", "example_ja": "急な変更で現場が混乱した。", "example_en": "The sudden change caused chaos on site."}
+{"id": 312, "jp": "再建", "kana": "さいけん", "romaji": "saiken", "en": "reconstruction; rebuilding", "pos": "noun", "example_ja": "会社の再建を目指す。", "example_en": "We aim to rebuild the company."}
+{"id": 313, "jp": "催促", "kana": "さいそく", "romaji": "saisoku", "en": "demand; urging", "pos": "noun", "example_ja": "支払いを催促された。", "example_en": "I was pressed to pay."}
+{"id": 314, "jp": "採択", "kana": "さいたく", "romaji": "saitaku", "en": "adoption; selection", "pos": "noun", "example_ja": "提案が採択された。", "example_en": "The proposal was adopted."}
+{"id": 315, "jp": "栽培", "kana": "さいばい", "romaji": "saibai", "en": "cultivation; growing", "pos": "noun", "example_ja": "野菜を栽培している。", "example_en": "I am growing vegetables."}
+{"id": 316, "jp": "裁判", "kana": "さいばん", "romaji": "saiban", "en": "trial; judgment", "pos": "noun", "example_ja": "裁判で争うことになった。", "example_en": "We ended up disputing it in court."}
+{"id": 317, "jp": "財務", "kana": "ざいむ", "romaji": "zaimu", "en": "financial affairs", "pos": "noun", "example_ja": "財務の状況を分析する。", "example_en": "I analyze the financial situation."}
+{"id": 318, "jp": "遮る", "kana": "さえぎる", "romaji": "saegiru", "en": "to interrupt; to block", "pos": "verb", "example_ja": "話を遮ってはいけない。", "example_en": "You must not interrupt."}
+{"id": 319, "jp": "逆さま", "kana": "さかさま", "romaji": "sakasama", "en": "upside down; reversed", "pos": "na-adj", "example_ja": "絵が逆さまに掛かっている。", "example_en": "The picture is hung upside down."}
+{"id": 320, "jp": "盛ん", "kana": "さかん", "romaji": "sakan", "en": "prosperous; popular", "pos": "na-adj", "example_ja": "この町は漁業が盛んだ。", "example_en": "Fishing is thriving in this town."}
+{"id": 321, "jp": "詐欺", "kana": "さぎ", "romaji": "sagi", "en": "fraud; scam", "pos": "noun", "example_ja": "詐欺の被害に遭った。", "example_en": "I was a victim of fraud."}
+{"id": 322, "jp": "錯覚", "kana": "さっかく", "romaji": "sakkaku", "en": "illusion; misconception", "pos": "noun", "example_ja": "目の錯覚だった。", "example_en": "It was an optical illusion."}
+{"id": 323, "jp": "察知", "kana": "さっち", "romaji": "satchi", "en": "perception; sensing", "pos": "noun", "example_ja": "危険を察知して逃げた。", "example_en": "I sensed danger and fled."}
+{"id": 324, "jp": "妨げる", "kana": "さまたげる", "romaji": "samatageru", "en": "to hinder; to obstruct", "pos": "verb", "example_ja": "睡眠を妨げる音がする。", "example_en": "There is a noise that disturbs sleep."}
+{"id": 325, "jp": "作用", "kana": "さよう", "romaji": "sayou", "en": "action; effect", "pos": "noun", "example_ja": "薬の作用で眠くなる。", "example_en": "I get sleepy from the medicine's effect."}
+{"id": 326, "jp": "参照", "kana": "さんしょう", "romaji": "sanshou", "en": "reference; consultation", "pos": "noun", "example_ja": "詳細は資料を参照してください。", "example_en": "For details, please refer to the materials."}
+{"id": 327, "jp": "賛同", "kana": "さんどう", "romaji": "sandou", "en": "approval; support", "pos": "noun", "example_ja": "多くの人が賛同した。", "example_en": "Many people expressed support."}
+{"id": 328, "jp": "産物", "kana": "さんぶつ", "romaji": "sanbutsu", "en": "product; result", "pos": "noun", "example_ja": "努力の産物だ。", "example_en": "It's the fruit of my efforts."}
+{"id": 329, "jp": "仕入れる", "kana": "しいれる", "romaji": "shiireru", "en": "to stock; to purchase (goods)", "pos": "verb", "example_ja": "新鮮な野菜を仕入れる。", "example_en": "I stock fresh vegetables."}
+{"id": 330, "jp": "支援", "kana": "しえん", "romaji": "shien", "en": "support; assistance", "pos": "noun", "example_ja": "被災地を支援する。", "example_en": "We support the disaster area."}
+{"id": 331, "jp": "資格", "kana": "しかく", "romaji": "shikaku", "en": "qualification; credentials", "pos": "noun", "example_ja": "新しい資格を取得した。", "example_en": "I obtained a new qualification."}
+{"id": 332, "jp": "仕組み", "kana": "しくみ", "romaji": "shikumi", "en": "structure; mechanism", "pos": "noun", "example_ja": "経済の仕組みを学ぶ。", "example_en": "I learn how the economy works."}
+{"id": 333, "jp": "刺激的", "kana": "しげきてき", "romaji": "shigekiteki", "en": "stimulating; exciting", "pos": "na-adj", "example_ja": "刺激的な毎日を送る。", "example_en": "I lead an exciting daily life."}
+{"id": 334, "jp": "志向", "kana": "しこう", "romaji": "shikou", "en": "orientation; inclination", "pos": "noun", "example_ja": "健康志向の人が増えた。", "example_en": "Health-conscious people have increased."}
+{"id": 335, "jp": "資産", "kana": "しさん", "romaji": "shisan", "en": "assets; property", "pos": "noun", "example_ja": "資産を運用する。", "example_en": "I manage my assets."}
+{"id": 336, "jp": "支持する", "kana": "しじする", "romaji": "shiji suru", "en": "to support (a person/idea)", "pos": "verb", "example_ja": "その候補を支持する。", "example_en": "I support that candidate."}
+{"id": 337, "jp": "沈黙", "kana": "ちんもく", "romaji": "chinmoku", "en": "silence", "pos": "noun", "example_ja": "重い沈黙が続いた。", "example_en": "A heavy silence continued."}
+{"id": 338, "jp": "施設", "kana": "しせつ", "romaji": "shisetsu", "en": "facility; institution", "pos": "noun", "example_ja": "福祉施設を見学した。", "example_en": "I toured a welfare facility."}
+{"id": 339, "jp": "事態", "kana": "じたい", "romaji": "jitai", "en": "situation; state of affairs", "pos": "noun", "example_ja": "事態が悪化している。", "example_en": "The situation is worsening."}
+{"id": 340, "jp": "辞退", "kana": "じたい", "romaji": "jitai", "en": "declining; withdrawal", "pos": "noun", "example_ja": "受賞を辞退した。", "example_en": "I declined the award."}
+{"id": 341, "jp": "下調べ", "kana": "したしらべ", "romaji": "shitashirabe", "en": "preliminary research", "pos": "noun", "example_ja": "旅行前に下調べをする。", "example_en": "I do preliminary research before a trip."}
+{"id": 342, "jp": "実施する", "kana": "じっしする", "romaji": "jisshi suru", "en": "to carry out; to implement", "pos": "verb", "example_ja": "調査を実施する。", "example_en": "We carry out the survey."}
+{"id": 343, "jp": "実質", "kana": "じっしつ", "romaji": "jisshitsu", "en": "substance; essence", "pos": "noun", "example_ja": "実質的な議論をした。", "example_en": "We had a substantive discussion."}
+{"id": 344, "jp": "実践", "kana": "じっせん", "romaji": "jissen", "en": "practice; implementation", "pos": "noun", "example_ja": "学んだ理論を実践する。", "example_en": "I put the theory I learned into practice."}
+{"id": 345, "jp": "実態", "kana": "じったい", "romaji": "jittai", "en": "actual condition; reality", "pos": "noun", "example_ja": "労働の実態を調査する。", "example_en": "We investigate the actual working conditions."}
+{"id": 346, "jp": "指定", "kana": "してい", "romaji": "shitei", "en": "designation; specification", "pos": "noun", "example_ja": "指定の場所に集合する。", "example_en": "We gather at the designated place."}
+{"id": 347, "jp": "指摘する", "kana": "してきする", "romaji": "shiteki suru", "en": "to point out", "pos": "verb", "example_ja": "誤りを指摘された。", "example_en": "My mistake was pointed out."}
+{"id": 348, "jp": "視点", "kana": "してん", "romaji": "shiten", "en": "viewpoint; perspective", "pos": "noun", "example_ja": "別の視点で考える。", "example_en": "I think from a different perspective."}
+{"id": 349, "jp": "自動的", "kana": "じどうてき", "romaji": "jidouteki", "en": "automatic", "pos": "na-adj", "example_ja": "ドアが自動的に開く。", "example_en": "The door opens automatically."}
+{"id": 350, "jp": "老舗", "kana": "しにせ", "romaji": "shinise", "en": "long-established store", "pos": "noun", "example_ja": "老舗の和菓子屋を訪れた。", "example_en": "I visited a long-established sweets shop."}
+{"id": 351, "jp": "支配する", "kana": "しはいする", "romaji": "shihai suru", "en": "to control; to dominate", "pos": "verb", "example_ja": "市場を支配する。", "example_en": "They dominate the market."}
+{"id": 352, "jp": "渋る", "kana": "しぶる", "romaji": "shiburu", "en": "to be reluctant; to hesitate", "pos": "verb", "example_ja": "彼は返事を渋った。", "example_en": "He was reluctant to answer."}
+{"id": 353, "jp": "志望", "kana": "しぼう", "romaji": "shibou", "en": "aspiration; preference", "pos": "noun", "example_ja": "第一志望の大学に受かった。", "example_en": "I got into my first-choice university."}
+{"id": 354, "jp": "締結", "kana": "ていけつ", "romaji": "teiketsu", "en": "conclusion (of a treaty)", "pos": "noun", "example_ja": "協定を締結した。", "example_en": "We concluded the agreement."}
+{"id": 355, "jp": "諮問", "kana": "しもん", "romaji": "shimon", "en": "consultation; inquiry", "pos": "noun", "example_ja": "委員会に諮問する。", "example_en": "We consult the committee."}
+{"id": 356, "jp": "社会的", "kana": "しゃかいてき", "romaji": "shakaiteki", "en": "social", "pos": "na-adj", "example_ja": "社会的な責任を果たす。", "example_en": "We fulfill our social responsibility."}
+{"id": 357, "jp": "謝罪", "kana": "しゃざい", "romaji": "shazai", "en": "apology", "pos": "noun", "example_ja": "会社が公式に謝罪した。", "example_en": "The company apologized officially."}
+{"id": 358, "jp": "若干名", "kana": "じゃっかんめい", "romaji": "jakkanmei", "en": "a few (people)", "pos": "noun", "example_ja": "若干名を追加募集する。", "example_en": "We recruit a few more people."}
+{"id": 359, "jp": "従来", "kana": "じゅうらい", "romaji": "juurai", "en": "conventional; up to now", "pos": "noun", "example_ja": "従来の方法を見直す。", "example_en": "We review the conventional method."}
+{"id": 360, "jp": "重視する", "kana": "じゅうしする", "romaji": "juushi suru", "en": "to place importance on", "pos": "verb", "example_ja": "効率を重視する。", "example_en": "I place importance on efficiency."}
+{"id": 361, "jp": "就任", "kana": "しゅうにん", "romaji": "shuunin", "en": "assumption of office", "pos": "noun", "example_ja": "社長に就任した。", "example_en": "He assumed the position of president."}
+{"id": 362, "jp": "収容", "kana": "しゅうよう", "romaji": "shuuyou", "en": "accommodation; capacity", "pos": "noun", "example_ja": "会場は千人を収容できる。", "example_en": "The venue can hold a thousand people."}
+{"id": 363, "jp": "主導権", "kana": "しゅどうけん", "romaji": "shudouken", "en": "initiative; leadership", "pos": "noun", "example_ja": "交渉の主導権を握る。", "example_en": "I take the initiative in negotiations."}
+{"id": 364, "jp": "取得", "kana": "しゅとく", "romaji": "shutoku", "en": "acquisition; obtaining", "pos": "noun", "example_ja": "免許を取得した。", "example_en": "I obtained a license."}
+{"id": 365, "jp": "守備", "kana": "しゅび", "romaji": "shubi", "en": "defense (in sports)", "pos": "noun", "example_ja": "守備を固める。", "example_en": "We tighten our defense."}
+{"id": 366, "jp": "樹立", "kana": "じゅりつ", "romaji": "juritsu", "en": "establishment (of a record)", "pos": "noun", "example_ja": "新記録を樹立した。", "example_en": "He set a new record."}
+{"id": 367, "jp": "循環", "kana": "じゅんかん", "romaji": "junkan", "en": "circulation; cycle", "pos": "noun", "example_ja": "血液の循環をよくする。", "example_en": "It improves blood circulation."}
+{"id": 368, "jp": "遵守する", "kana": "じゅんしゅする", "romaji": "junshu suru", "en": "to comply with; to observe", "pos": "verb", "example_ja": "規則を遵守する。", "example_en": "We comply with the rules."}
+{"id": 369, "jp": "仕様", "kana": "しよう", "romaji": "shiyou", "en": "specification", "pos": "noun", "example_ja": "製品の仕様を確認する。", "example_en": "I check the product specifications."}
+{"id": 370, "jp": "照合", "kana": "しょうごう", "romaji": "shougou", "en": "verification; collation", "pos": "noun", "example_ja": "名簿と照合する。", "example_en": "I cross-check with the list."}
+{"id": 371, "jp": "詳述", "kana": "しょうじゅつ", "romaji": "shoujutsu", "en": "detailed explanation", "pos": "noun", "example_ja": "後ほど詳述します。", "example_en": "I will explain in detail later."}
+{"id": 372, "jp": "上昇する", "kana": "じょうしょうする", "romaji": "joushou suru", "en": "to rise; to climb", "pos": "verb", "example_ja": "気温が上昇する。", "example_en": "The temperature rises."}
+{"id": 373, "jp": "生じる", "kana": "しょうじる", "romaji": "shoujiru", "en": "to occur; to arise", "pos": "verb", "example_ja": "問題が生じる恐れがある。", "example_en": "There is a risk that problems may arise."}
+{"id": 374, "jp": "消耗", "kana": "しょうもう", "romaji": "shoumou", "en": "consumption; exhaustion", "pos": "noun", "example_ja": "体力を消耗した。", "example_en": "I used up my energy."}
+{"id": 375, "jp": "奨励", "kana": "しょうれい", "romaji": "shourei", "en": "encouragement; promotion", "pos": "noun", "example_ja": "読書を奨励する。", "example_en": "We encourage reading."}
+{"id": 376, "jp": "職務", "kana": "しょくむ", "romaji": "shokumu", "en": "job duties", "pos": "noun", "example_ja": "職務を忠実に果たす。", "example_en": "I faithfully fulfill my duties."}
+{"id": 377, "jp": "所属", "kana": "しょぞく", "romaji": "shozoku", "en": "belonging to; affiliation", "pos": "noun", "example_ja": "営業部に所属している。", "example_en": "I belong to the sales department."}
+{"id": 378, "jp": "処置", "kana": "しょち", "romaji": "shochi", "en": "treatment; measure", "pos": "noun", "example_ja": "応急処置を施した。", "example_en": "I administered first aid."}
+{"id": 379, "jp": "署名する", "kana": "しょめいする", "romaji": "shomei suru", "en": "to sign", "pos": "verb", "example_ja": "書類に署名する。", "example_en": "I sign the document."}
+{"id": 380, "jp": "自立", "kana": "じりつ", "romaji": "jiritsu", "en": "independence; self-reliance", "pos": "noun", "example_ja": "経済的に自立する。", "example_en": "I become financially independent."}
+{"id": 381, "jp": "審査する", "kana": "しんさする", "romaji": "shinsa suru", "en": "to examine; to screen", "pos": "verb", "example_ja": "応募作品を審査する。", "example_en": "We judge the submitted works."}
+{"id": 382, "jp": "進出", "kana": "しんしゅつ", "romaji": "shinshutsu", "en": "advance; expansion", "pos": "noun", "example_ja": "海外市場に進出する。", "example_en": "We expand into overseas markets."}
+{"id": 383, "jp": "信念", "kana": "しんねん", "romaji": "shinnen", "en": "belief; conviction", "pos": "noun", "example_ja": "信念を貫いた。", "example_en": "I stuck to my beliefs."}
+{"id": 384, "jp": "進展", "kana": "しんてん", "romaji": "shinten", "en": "progress; development", "pos": "noun", "example_ja": "交渉に進展があった。", "example_en": "There was progress in the negotiations."}
+{"id": 385, "jp": "浸透", "kana": "しんとう", "romaji": "shintou", "en": "permeation; penetration", "pos": "noun", "example_ja": "新しい価値観が浸透する。", "example_en": "New values are taking hold."}
+{"id": 386, "jp": "信憑性", "kana": "しんぴょうせい", "romaji": "shinpyousei", "en": "credibility; reliability", "pos": "noun", "example_ja": "情報の信憑性を疑う。", "example_en": "I doubt the credibility of the information."}
+{"id": 387, "jp": "審判", "kana": "しんぱん", "romaji": "shinpan", "en": "referee; judgment", "pos": "noun", "example_ja": "審判が試合を止めた。", "example_en": "The referee stopped the game."}
+{"id": 388, "jp": "侵略", "kana": "しんりゃく", "romaji": "shinryaku", "en": "invasion; aggression", "pos": "noun", "example_ja": "隣国の侵略を受けた。", "example_en": "The country was invaded by its neighbor."}
+{"id": 389, "jp": "衰退", "kana": "すいたい", "romaji": "suitai", "en": "decline; decay", "pos": "noun", "example_ja": "産業が衰退した。", "example_en": "The industry declined."}
+{"id": 390, "jp": "推進", "kana": "すいしん", "romaji": "suishin", "en": "promotion; propulsion", "pos": "noun", "example_ja": "改革を推進する。", "example_en": "We promote reform."}
+{"id": 391, "jp": "推測", "kana": "すいそく", "romaji": "suisoku", "en": "guess; conjecture", "pos": "noun", "example_ja": "結果を推測する。", "example_en": "I guess the outcome."}
+{"id": 392, "jp": "推定", "kana": "すいてい", "romaji": "suitei", "en": "estimation; presumption", "pos": "noun", "example_ja": "被害額を推定する。", "example_en": "We estimate the amount of damage."}
+{"id": 393, "jp": "遂行", "kana": "すいこう", "romaji": "suikou", "en": "execution; accomplishment", "pos": "noun", "example_ja": "任務を遂行する。", "example_en": "I carry out the mission."}
+{"id": 394, "jp": "崇拝", "kana": "すうはい", "romaji": "suuhai", "en": "worship; adoration", "pos": "noun", "example_ja": "英雄を崇拝する。", "example_en": "They worship the hero."}
+{"id": 395, "jp": "据える", "kana": "すえる", "romaji": "sueru", "en": "to set in place; to install", "pos": "verb", "example_ja": "部屋に机を据えた。", "example_en": "I set a desk in the room."}
+{"id": 396, "jp": "廃れる", "kana": "すたれる", "romaji": "sutareru", "en": "to go out of use; to decline", "pos": "verb", "example_ja": "古い習慣が廃れた。", "example_en": "The old custom has died out."}
+{"id": 397, "jp": "素早い", "kana": "すばやい", "romaji": "subayai", "en": "quick; nimble", "pos": "i-adj", "example_ja": "素早い対応が求められる。", "example_en": "A quick response is required."}
+{"id": 398, "jp": "寸法", "kana": "すんぽう", "romaji": "sunpou", "en": "measurements; dimensions", "pos": "noun", "example_ja": "部屋の寸法を測る。", "example_en": "I measure the dimensions of the room."}
+{"id": 399, "jp": "制裁", "kana": "せいさい", "romaji": "seisai", "en": "sanction; punishment", "pos": "noun", "example_ja": "経済制裁を科す。", "example_en": "They impose economic sanctions."}
+{"id": 400, "jp": "制定", "kana": "せいてい", "romaji": "seitei", "en": "enactment; establishment", "pos": "noun", "example_ja": "新しい法律を制定する。", "example_en": "They enact a new law."}
+{"id": 401, "jp": "整備する", "kana": "せいびする", "romaji": "seibi suru", "en": "to maintain; to develop", "pos": "verb", "example_ja": "道路を整備する。", "example_en": "They maintain the roads."}
+{"id": 402, "jp": "勢力", "kana": "せいりょく", "romaji": "seiryoku", "en": "influence; power", "pos": "noun", "example_ja": "台風の勢力が強まる。", "example_en": "The typhoon is gaining strength."}
+{"id": 403, "jp": "接触", "kana": "せっしょく", "romaji": "sesshoku", "en": "contact", "pos": "noun", "example_ja": "相手と接触を図る。", "example_en": "I try to make contact with them."}
+{"id": 404, "jp": "設立", "kana": "せつりつ", "romaji": "setsuritsu", "en": "establishment; founding", "pos": "noun", "example_ja": "会社を設立した。", "example_en": "I founded a company."}
+{"id": 405, "jp": "是非とも", "kana": "ぜひとも", "romaji": "zehitomo", "en": "by all means; certainly", "pos": "adverb", "example_ja": "是非とも参加したい。", "example_en": "I definitely want to participate."}
+{"id": 406, "jp": "迫力", "kana": "はくりょく", "romaji": "hakuryoku", "en": "force; impact; punch", "pos": "noun", "example_ja": "迫力のある演技だった。", "example_en": "It was a powerful performance."}
+{"id": 407, "jp": "先方", "kana": "せんぽう", "romaji": "senpou", "en": "the other party", "pos": "noun", "example_ja": "先方の都合を確認する。", "example_en": "I check the other party's availability."}
+{"id": 408, "jp": "専念する", "kana": "せんねんする", "romaji": "sennen suru", "en": "to concentrate on; to devote oneself", "pos": "verb", "example_ja": "研究に専念する。", "example_en": "I devote myself to research."}
+{"id": 409, "jp": "占領する", "kana": "せんりょうする", "romaji": "senryou suru", "en": "to occupy (territory)", "pos": "verb", "example_ja": "敵が都市を占領した。", "example_en": "The enemy occupied the city."}
+{"id": 410, "jp": "戦略的", "kana": "せんりゃくてき", "romaji": "senryakuteki", "en": "strategic", "pos": "na-adj", "example_ja": "戦略的に判断する。", "example_en": "I judge strategically."}
+{"id": 411, "jp": "相応", "kana": "そうおう", "romaji": "souou", "en": "suitable; appropriate", "pos": "na-adj", "example_ja": "実力相応の評価だ。", "example_en": "It's an evaluation befitting his ability."}
+{"id": 412, "jp": "総合", "kana": "そうごう", "romaji": "sougou", "en": "synthesis; comprehensive", "pos": "noun", "example_ja": "総合的に判断する。", "example_en": "I judge comprehensively."}
+{"id": 413, "jp": "喪失", "kana": "そうしつ", "romaji": "soushitsu", "en": "loss", "pos": "noun", "example_ja": "自信を喪失した。", "example_en": "I lost my confidence."}
+{"id": 414, "jp": "装置", "kana": "そうち", "romaji": "souchi", "en": "device; apparatus", "pos": "noun", "example_ja": "安全装置を確認する。", "example_en": "I check the safety device."}
+{"id": 415, "jp": "贈答", "kana": "ぞうとう", "romaji": "zoutou", "en": "exchange of gifts", "pos": "noun", "example_ja": "お中元の贈答が盛んだ。", "example_en": "Summer gift-giving is common."}
+{"id": 416, "jp": "促進する", "kana": "そくしんする", "romaji": "sokushin suru", "en": "to promote; to facilitate", "pos": "verb", "example_ja": "販売を促進する。", "example_en": "We promote sales."}
+{"id": 417, "jp": "束縛", "kana": "そくばく", "romaji": "sokubaku", "en": "restraint; restriction", "pos": "noun", "example_ja": "自由を束縛される。", "example_en": "My freedom is restricted."}
+{"id": 418, "jp": "素材", "kana": "そざい", "romaji": "sozai", "en": "material; ingredient", "pos": "noun", "example_ja": "天然の素材を使う。", "example_en": "We use natural materials."}
+{"id": 419, "jp": "阻止する", "kana": "そしする", "romaji": "soshi suru", "en": "to prevent; to block", "pos": "verb", "example_ja": "計画を阻止する。", "example_en": "They block the plan."}
+{"id": 420, "jp": "訴訟", "kana": "そしょう", "romaji": "soshou", "en": "lawsuit; litigation", "pos": "noun", "example_ja": "訴訟を起こす。", "example_en": "They file a lawsuit."}
+{"id": 421, "jp": "備え付ける", "kana": "そなえつける", "romaji": "sonaetsukeru", "en": "to install; to equip", "pos": "verb", "example_ja": "消火器を備え付ける。", "example_en": "We install fire extinguishers."}
+{"id": 422, "jp": "損害", "kana": "そんがい", "romaji": "songai", "en": "damage; loss", "pos": "noun", "example_ja": "多大な損害を受けた。", "example_en": "We suffered enormous losses."}
+{"id": 423, "jp": "損失", "kana": "そんしつ", "romaji": "sonshitsu", "en": "loss", "pos": "noun", "example_ja": "大きな損失を出した。", "example_en": "We incurred a large loss."}
+{"id": 424, "jp": "対処する", "kana": "たいしょする", "romaji": "taisho suru", "en": "to deal with; to cope", "pos": "verb", "example_ja": "問題に迅速に対処する。", "example_en": "I deal with the problem quickly."}
+{"id": 425, "jp": "退治", "kana": "たいじ", "romaji": "taiji", "en": "extermination; getting rid of", "pos": "noun", "example_ja": "害虫を退治する。", "example_en": "We exterminate the pests."}
+{"id": 426, "jp": "対等", "kana": "たいとう", "romaji": "taitou", "en": "equal; on par", "pos": "na-adj", "example_ja": "対等な立場で話す。", "example_en": "We talk on equal terms."}
+{"id": 427, "jp": "滞納", "kana": "たいのう", "romaji": "tainou", "en": "delinquency; arrears", "pos": "noun", "example_ja": "家賃を滞納する。", "example_en": "He falls behind on rent."}
+{"id": 428, "jp": "逮捕", "kana": "たいほ", "romaji": "taiho", "en": "arrest", "pos": "noun", "example_ja": "容疑者が逮捕された。", "example_en": "The suspect was arrested."}
+{"id": 429, "jp": "打開", "kana": "だかい", "romaji": "dakai", "en": "breakthrough; resolution", "pos": "noun", "example_ja": "事態の打開を図る。", "example_en": "We seek a breakthrough in the situation."}
+{"id": 430, "jp": "妥協", "kana": "だきょう", "romaji": "dakyou", "en": "compromise", "pos": "noun", "example_ja": "両者が妥協した。", "example_en": "Both sides compromised."}
+{"id": 431, "jp": "打撃", "kana": "だげき", "romaji": "dageki", "en": "blow; damage", "pos": "noun", "example_ja": "経済に大きな打撃を与えた。", "example_en": "It dealt a big blow to the economy."}
+{"id": 432, "jp": "妥当", "kana": "だとう", "romaji": "datou", "en": "valid; reasonable", "pos": "na-adj", "example_ja": "妥当な価格だと思う。", "example_en": "I think it's a reasonable price."}
+{"id": 433, "jp": "多様", "kana": "たよう", "romaji": "tayou", "en": "diverse; varied", "pos": "na-adj", "example_ja": "多様な意見を尊重する。", "example_en": "We respect diverse opinions."}
+{"id": 434, "jp": "弾力", "kana": "だんりょく", "romaji": "danryoku", "en": "elasticity; flexibility", "pos": "noun", "example_ja": "弾力のある対応をする。", "example_en": "We respond flexibly."}
+{"id": 435, "jp": "断念", "kana": "だんねん", "romaji": "dannen", "en": "giving up; abandonment", "pos": "noun", "example_ja": "進学を断念した。", "example_en": "I gave up on going to university."}
+{"id": 436, "jp": "蓄積する", "kana": "ちくせきする", "romaji": "chikuseki suru", "en": "to accumulate", "pos": "verb", "example_ja": "知識を蓄積する。", "example_en": "I accumulate knowledge."}
+{"id": 437, "jp": "秩序", "kana": "ちつじょ", "romaji": "chitsujo", "en": "order; discipline", "pos": "noun", "example_ja": "社会の秩序を守る。", "example_en": "We maintain social order."}
+{"id": 438, "jp": "着手する", "kana": "ちゃくしゅする", "romaji": "chakushu suru", "en": "to start; to embark on", "pos": "verb", "example_ja": "新規事業に着手する。", "example_en": "We embark on a new business."}
+{"id": 439, "jp": "着目", "kana": "ちゃくもく", "romaji": "chakumoku", "en": "attention; focus", "pos": "noun", "example_ja": "新しい技術に着目する。", "example_en": "We focus on the new technology."}
+{"id": 440, "jp": "中断", "kana": "ちゅうだん", "romaji": "chuudan", "en": "interruption; suspension", "pos": "noun", "example_ja": "雨で作業を中断した。", "example_en": "We suspended work due to rain."}
+{"id": 441, "jp": "仲介", "kana": "ちゅうかい", "romaji": "chuukai", "en": "mediation; agency", "pos": "noun", "example_ja": "取引を仲介する。", "example_en": "They mediate the transaction."}
+{"id": 442, "jp": "抽選", "kana": "ちゅうせん", "romaji": "chuusen", "en": "lottery; drawing", "pos": "noun", "example_ja": "抽選で商品が当たる。", "example_en": "You can win a prize by lottery."}
+{"id": 443, "jp": "忠告", "kana": "ちゅうこく", "romaji": "chuukoku", "en": "advice; warning", "pos": "noun", "example_ja": "先輩の忠告に従う。", "example_en": "I follow my senior's advice."}
+{"id": 444, "jp": "駐在", "kana": "ちゅうざい", "romaji": "chuuzai", "en": "residence (for work); stationing", "pos": "noun", "example_ja": "海外に駐在している。", "example_en": "I am stationed overseas."}
+{"id": 445, "jp": "調印", "kana": "ちょういん", "romaji": "chouin", "en": "signing (of a treaty)", "pos": "noun", "example_ja": "条約に調印した。", "example_en": "They signed the treaty."}
+{"id": 446, "jp": "徴収", "kana": "ちょうしゅう", "romaji": "choushuu", "en": "collection (of fees)", "pos": "noun", "example_ja": "会費を徴収する。", "example_en": "We collect membership fees."}
+{"id": 447, "jp": "挑戦する", "kana": "ちょうせんする", "romaji": "chousen suru", "en": "to challenge; to attempt", "pos": "verb", "example_ja": "世界記録に挑戦する。", "example_en": "I challenge the world record."}
+{"id": 448, "jp": "重複", "kana": "ちょうふく", "romaji": "choufuku", "en": "duplication; overlap", "pos": "noun", "example_ja": "内容が重複している。", "example_en": "The content is duplicated."}
+{"id": 449, "jp": "著名", "kana": "ちょめい", "romaji": "chomei", "en": "famous; renowned", "pos": "na-adj", "example_ja": "著名な学者を招く。", "example_en": "We invite a renowned scholar."}
+{"id": 450, "jp": "沈黙する", "kana": "ちんもくする", "romaji": "chinmoku suru", "en": "to stay silent", "pos": "verb", "example_ja": "彼はしばらく沈黙した。", "example_en": "He stayed silent for a while."}
+{"id": 451, "jp": "陳列", "kana": "ちんれつ", "romaji": "chinretsu", "en": "display; exhibition", "pos": "noun", "example_ja": "商品を棚に陳列する。", "example_en": "We display the products on the shelf."}
+{"id": 452, "jp": "追跡する", "kana": "ついせきする", "romaji": "tsuiseki suru", "en": "to track; to pursue", "pos": "verb", "example_ja": "荷物の配送を追跡する。", "example_en": "I track the package delivery."}
+{"id": 453, "jp": "通常", "kana": "つうじょう", "romaji": "tsuujou", "en": "normally; usual", "pos": "noun", "example_ja": "通常は九時に開店する。", "example_en": "We usually open at nine."}
+{"id": 454, "jp": "痛感", "kana": "つうかん", "romaji": "tsuukan", "en": "keen awareness", "pos": "noun", "example_ja": "準備不足を痛感した。", "example_en": "I keenly felt my lack of preparation."}
+{"id": 455, "jp": "費やす", "kana": "ついやす", "romaji": "tsuiyasu", "en": "to spend; to consume", "pos": "verb", "example_ja": "多くの時間を費やした。", "example_en": "I spent a lot of time."}
+{"id": 456, "jp": "償う", "kana": "つぐなう", "romaji": "tsugunau", "en": "to compensate; to atone", "pos": "verb", "example_ja": "罪を償う。", "example_en": "I atone for my crime."}
+{"id": 457, "jp": "努めて", "kana": "つとめて", "romaji": "tsutomete", "en": "as much as possible; diligently", "pos": "adverb", "example_ja": "努めて冷静に話した。", "example_en": "I spoke as calmly as I could."}
+{"id": 458, "jp": "提携", "kana": "ていけい", "romaji": "teikei", "en": "partnership; alliance", "pos": "noun", "example_ja": "他社と提携する。", "example_en": "We partner with another company."}
+{"id": 459, "jp": "体裁", "kana": "ていさい", "romaji": "teisai", "en": "appearance; form", "pos": "noun", "example_ja": "報告書の体裁を整える。", "example_en": "I put the report into proper form."}
+{"id": 460, "jp": "呈する", "kana": "ていする", "romaji": "teisuru", "en": "to present; to show", "pos": "verb", "example_ja": "活気を呈している。", "example_en": "It shows signs of vitality."}
+{"id": 461, "jp": "停滞", "kana": "ていたい", "romaji": "teitai", "en": "stagnation; standstill", "pos": "noun", "example_ja": "景気が停滞している。", "example_en": "The economy is stagnating."}
+{"id": 462, "jp": "訂正", "kana": "ていせい", "romaji": "teisei", "en": "correction", "pos": "noun", "example_ja": "記事を訂正する。", "example_en": "They correct the article."}
+{"id": 463, "jp": "手配", "kana": "てはい", "romaji": "tehai", "en": "arrangement; preparation", "pos": "noun", "example_ja": "ホテルを手配した。", "example_en": "I arranged a hotel."}
+{"id": 464, "jp": "撤退", "kana": "てったい", "romaji": "tettai", "en": "withdrawal; retreat", "pos": "noun", "example_ja": "市場から撤退する。", "example_en": "They withdraw from the market."}
+{"id": 465, "jp": "手本", "kana": "てほん", "romaji": "tehon", "en": "model; example", "pos": "noun", "example_ja": "先輩を手本にする。", "example_en": "I use my senior as a model."}
+{"id": 466, "jp": "転換", "kana": "てんかん", "romaji": "tenkan", "en": "conversion; switch", "pos": "noun", "example_ja": "方針を転換する。", "example_en": "We change our policy."}
+{"id": 467, "jp": "点検", "kana": "てんけん", "romaji": "tenken", "en": "inspection; check", "pos": "noun", "example_ja": "機械を定期的に点検する。", "example_en": "We inspect the machine regularly."}
+{"id": 468, "jp": "添付する", "kana": "てんぷする", "romaji": "tenpu suru", "en": "to attach (a file)", "pos": "verb", "example_ja": "資料をメールに添付する。", "example_en": "I attach the file to the email."}
+{"id": 469, "jp": "統計", "kana": "とうけい", "romaji": "toukei", "en": "statistics", "pos": "noun", "example_ja": "統計を取って分析する。", "example_en": "I collect statistics and analyze them."}
+{"id": 470, "jp": "同時に", "kana": "どうじに", "romaji": "douji ni", "en": "simultaneously", "pos": "adverb", "example_ja": "二つの作業を同時に行う。", "example_en": "I do two tasks at the same time."}
+{"id": 471, "jp": "投資", "kana": "とうし", "romaji": "toushi", "en": "investment", "pos": "noun", "example_ja": "株に投資する。", "example_en": "I invest in stocks."}
+{"id": 472, "jp": "当初", "kana": "とうしょ", "romaji": "tousho", "en": "at first; initially", "pos": "noun", "example_ja": "当初の予定を変更した。", "example_en": "I changed the initial plan."}
+{"id": 473, "jp": "導入する", "kana": "どうにゅうする", "romaji": "dounyuu suru", "en": "to introduce; to implement", "pos": "verb", "example_ja": "新システムを導入する。", "example_en": "We introduce a new system."}
+{"id": 474, "jp": "逃亡", "kana": "とうぼう", "romaji": "toubou", "en": "escape; flight", "pos": "noun", "example_ja": "犯人が逃亡した。", "example_en": "The criminal fled."}
+{"id": 475, "jp": "透明", "kana": "とうめい", "romaji": "toumei", "en": "transparent; clear", "pos": "na-adj", "example_ja": "透明なガラスを使う。", "example_en": "We use transparent glass."}
+{"id": 476, "jp": "独占", "kana": "どくせん", "romaji": "dokusen", "en": "monopoly; exclusive", "pos": "noun", "example_ja": "市場を独占する。", "example_en": "They monopolize the market."}
+{"id": 477, "jp": "特徴", "kana": "とくちょう", "romaji": "tokuchou", "en": "characteristic; feature", "pos": "noun", "example_ja": "製品の特徴を説明する。", "example_en": "I explain the product's features."}
+{"id": 478, "jp": "匿名", "kana": "とくめい", "romaji": "tokumei", "en": "anonymity", "pos": "noun", "example_ja": "匿名で投稿する。", "example_en": "I post anonymously."}
+{"id": 479, "jp": "突破", "kana": "とっぱ", "romaji": "toppa", "en": "breakthrough; overcoming", "pos": "noun", "example_ja": "目標を突破した。", "example_en": "We broke through the target."}
+{"id": 480, "jp": "届け", "kana": "とどけ", "romaji": "todoke", "en": "notification; report", "pos": "noun", "example_ja": "欠席の届けを出す。", "example_en": "I submit a notice of absence."}
+{"id": 481, "jp": "滞る", "kana": "とどこおる", "romaji": "todokooru", "en": "to be delayed; to stagnate", "pos": "verb", "example_ja": "作業が滞っている。", "example_en": "The work is behind schedule."}
+{"id": 482, "jp": "伴う", "kana": "ともなう", "romaji": "tomonau", "en": "to accompany; to involve", "pos": "verb", "example_ja": "危険を伴う作業だ。", "example_en": "It's work that involves danger."}
+{"id": 483, "jp": "取り扱う", "kana": "とりあつかう", "romaji": "toriatsukau", "en": "to handle; to deal in", "pos": "verb", "example_ja": "高級品を取り扱う店だ。", "example_en": "It's a store dealing in luxury goods."}
+{"id": 484, "jp": "取り締まる", "kana": "とりしまる", "romaji": "torishimaru", "en": "to crack down; to control", "pos": "verb", "example_ja": "違反を取り締まる。", "example_en": "They crack down on violations."}
+{"id": 485, "jp": "取り除く", "kana": "とりのぞく", "romaji": "torinozoku", "en": "to remove; to eliminate", "pos": "verb", "example_ja": "不安を取り除く。", "example_en": "I remove the anxiety."}
+{"id": 486, "jp": "取引する", "kana": "とりひきする", "romaji": "torihiki suru", "en": "to trade; to do business", "pos": "verb", "example_ja": "海外と取引する。", "example_en": "We do business overseas."}
+{"id": 487, "jp": "内訳", "kana": "うちわけ", "romaji": "uchiwake", "en": "breakdown; itemization", "pos": "noun", "example_ja": "費用の内訳を示す。", "example_en": "I show the breakdown of costs."}
+{"id": 488, "jp": "納入", "kana": "のうにゅう", "romaji": "nounyuu", "en": "delivery; payment", "pos": "noun", "example_ja": "部品を納入する。", "example_en": "We deliver the parts."}
+{"id": 489, "jp": "軒並み", "kana": "のきなみ", "romaji": "nokinami", "en": "across the board; every one", "pos": "adverb", "example_ja": "株価が軒並み下がった。", "example_en": "Stock prices fell across the board."}
+{"id": 490, "jp": "廃止", "kana": "はいし", "romaji": "haishi", "en": "abolition; repeal", "pos": "noun", "example_ja": "古い制度を廃止する。", "example_en": "They abolish the old system."}
+{"id": 491, "jp": "配布", "kana": "はいふ", "romaji": "haifu", "en": "distribution", "pos": "noun", "example_ja": "資料を配布する。", "example_en": "We distribute the materials."}
+{"id": 492, "jp": "配慮する", "kana": "はいりょする", "romaji": "hairyo suru", "en": "to consider; to be considerate", "pos": "verb", "example_ja": "環境に配慮する。", "example_en": "We consider the environment."}
+{"id": 493, "jp": "破棄する", "kana": "はきする", "romaji": "haki suru", "en": "to cancel; to destroy", "pos": "verb", "example_ja": "契約を破棄する。", "example_en": "They cancel the contract."}
+{"id": 494, "jp": "迫害", "kana": "はくがい", "romaji": "hakugai", "en": "persecution", "pos": "noun", "example_ja": "少数派が迫害された。", "example_en": "The minority was persecuted."}
+{"id": 495, "jp": "暴露", "kana": "ばくろ", "romaji": "bakuro", "en": "exposure; disclosure", "pos": "noun", "example_ja": "不正を暴露する。", "example_en": "They expose the wrongdoing."}
+{"id": 496, "jp": "派遣", "kana": "はけん", "romaji": "haken", "en": "dispatch; temp work", "pos": "noun", "example_ja": "社員を海外に派遣する。", "example_en": "We dispatch staff overseas."}
+{"id": 497, "jp": "弾む", "kana": "はずむ", "romaji": "hazumu", "en": "to bounce; to be lively", "pos": "verb", "example_ja": "会話が弾んだ。", "example_en": "The conversation was lively."}
+{"id": 498, "jp": "破損", "kana": "はそん", "romaji": "hason", "en": "damage; breakage", "pos": "noun", "example_ja": "荷物が破損していた。", "example_en": "The package was damaged."}
+{"id": 499, "jp": "果たして", "kana": "はたして", "romaji": "hatashite", "en": "really; as expected", "pos": "adverb", "example_ja": "果たして成功するだろうか。", "example_en": "Will it really succeed, I wonder."}
+{"id": 500, "jp": "発足", "kana": "ほっそく", "romaji": "hossoku", "en": "inauguration; launch", "pos": "noun", "example_ja": "新組織が発足した。", "example_en": "The new organization was launched."}
+{"id": 501, "jp": "抜群", "kana": "ばつぐん", "romaji": "batsugun", "en": "outstanding; exceptional", "pos": "na-adj", "example_ja": "彼の成績は抜群だ。", "example_en": "His grades are outstanding."}
+{"id": 502, "jp": "発掘", "kana": "はっくつ", "romaji": "hakkutsu", "en": "excavation; discovery", "pos": "noun", "example_ja": "新人を発掘する。", "example_en": "We discover new talent."}
+{"id": 503, "jp": "発散", "kana": "はっさん", "romaji": "hassan", "en": "release; venting", "pos": "noun", "example_ja": "ストレスを発散する。", "example_en": "I let off stress."}
+{"id": 504, "jp": "発想", "kana": "はっそう", "romaji": "hassou", "en": "idea; way of thinking", "pos": "noun", "example_ja": "柔軟な発想が必要だ。", "example_en": "Flexible thinking is needed."}
+{"id": 505, "jp": "罰する", "kana": "ばっする", "romaji": "bassuru", "en": "to punish", "pos": "verb", "example_ja": "違反者を罰する。", "example_en": "They punish violators."}
+{"id": 506, "jp": "発病", "kana": "はつびょう", "romaji": "hatsubyou", "en": "onset of illness", "pos": "noun", "example_ja": "発病してから半年が経つ。", "example_en": "Half a year has passed since I got sick."}
+{"id": 507, "jp": "甚だしい", "kana": "はなはだしい", "romaji": "hanahadashii", "en": "extreme; excessive", "pos": "i-adj", "example_ja": "甚だしい誤解だ。", "example_en": "It's a gross misunderstanding."}
+{"id": 508, "jp": "阻む", "kana": "はばむ", "romaji": "habamu", "en": "to obstruct; to impede", "pos": "verb", "example_ja": "進行を阻む障害がある。", "example_en": "There is an obstacle impeding progress."}
+{"id": 509, "jp": "波紋", "kana": "はもん", "romaji": "hamon", "en": "ripple; repercussion", "pos": "noun", "example_ja": "発言が波紋を呼んだ。", "example_en": "The remark caused a stir."}
+{"id": 510, "jp": "腹立たしい", "kana": "はらだたしい", "romaji": "haradatashii", "en": "infuriating; annoying", "pos": "i-adj", "example_ja": "彼の態度は腹立たしい。", "example_en": "His attitude is infuriating."}
+{"id": 511, "jp": "反発", "kana": "はんぱつ", "romaji": "hanpatsu", "en": "repulsion; backlash", "pos": "noun", "example_ja": "住民の反発を招いた。", "example_en": "It provoked a backlash from residents."}
+{"id": 512, "jp": "反論", "kana": "はんろん", "romaji": "hanron", "en": "counterargument; rebuttal", "pos": "noun", "example_ja": "相手の主張に反論する。", "example_en": "I refute the other side's claim."}
+{"id": 513, "jp": "控え目", "kana": "ひかえめ", "romaji": "hikaeme", "en": "moderate; reserved", "pos": "na-adj", "example_ja": "控え目な性格だ。", "example_en": "She has a reserved personality."}
+{"id": 514, "jp": "匹敵する", "kana": "ひってきする", "romaji": "hitteki suru", "en": "to be a match for; to rival", "pos": "verb", "example_ja": "プロに匹敵する腕前だ。", "example_en": "His skill rivals a professional's."}
+{"id": 515, "jp": "必需品", "kana": "ひつじゅひん", "romaji": "hitsujuhin", "en": "necessity; essential item", "pos": "noun", "example_ja": "生活必需品を買いだめする。", "example_en": "I stock up on daily necessities."}
+{"id": 516, "jp": "否認", "kana": "ひにん", "romaji": "hinin", "en": "denial", "pos": "noun", "example_ja": "容疑を否認する。", "example_en": "He denies the charges."}
+{"id": 517, "jp": "批評", "kana": "ひひょう", "romaji": "hihyou", "en": "criticism; review", "pos": "noun", "example_ja": "作品を批評する。", "example_en": "They review the work."}
+{"id": 518, "jp": "日々", "kana": "ひび", "romaji": "hibi", "en": "days; daily", "pos": "noun", "example_ja": "日々努力を重ねる。", "example_en": "I make efforts day after day."}
+{"id": 519, "jp": "微妙", "kana": "びみょう", "romaji": "bimyou", "en": "delicate; subtle", "pos": "na-adj", "example_ja": "微妙な違いがある。", "example_en": "There is a subtle difference."}
+{"id": 520, "jp": "標準", "kana": "ひょうじゅん", "romaji": "hyoujun", "en": "standard; norm", "pos": "noun", "example_ja": "標準に合わせる。", "example_en": "I match it to the standard."}
+{"id": 521, "jp": "漂う", "kana": "ただよう", "romaji": "tadayou", "en": "to drift; to waft", "pos": "verb", "example_ja": "いい香りが漂う。", "example_en": "A nice fragrance wafts through the air."}
+{"id": 522, "jp": "披露", "kana": "ひろう", "romaji": "hirou", "en": "unveiling; showing", "pos": "noun", "example_ja": "新曲を披露する。", "example_en": "They perform a new song."}
+{"id": 523, "jp": "疲労", "kana": "ひろう", "romaji": "hirou", "en": "fatigue", "pos": "noun", "example_ja": "疲労がたまっている。", "example_en": "Fatigue is building up."}
+{"id": 524, "jp": "敏感", "kana": "びんかん", "romaji": "binkan", "en": "sensitive", "pos": "na-adj", "example_ja": "肌が敏感だ。", "example_en": "My skin is sensitive."}
+{"id": 525, "jp": "頻繁", "kana": "ひんぱん", "romaji": "hinpan", "en": "frequent", "pos": "na-adj", "example_ja": "頻繁に連絡を取る。", "example_en": "We keep in touch frequently."}
+{"id": 526, "jp": "不可欠", "kana": "ふかけつ", "romaji": "fukaketsu", "en": "indispensable; essential", "pos": "na-adj", "example_ja": "水は生活に不可欠だ。", "example_en": "Water is essential for life."}
+{"id": 527, "jp": "普及", "kana": "ふきゅう", "romaji": "fukyuu", "en": "diffusion; spread", "pos": "noun", "example_ja": "スマホが普及した。", "example_en": "Smartphones have become widespread."}
+{"id": 528, "jp": "複合", "kana": "ふくごう", "romaji": "fukugou", "en": "composite; complex", "pos": "noun", "example_ja": "複合的な原因がある。", "example_en": "There are multiple combined causes."}
+{"id": 529, "jp": "覆う", "kana": "おおう", "romaji": "oou", "en": "to cover", "pos": "verb", "example_ja": "雪が地面を覆う。", "example_en": "Snow covers the ground."}
+{"id": 530, "jp": "含蓄", "kana": "がんちく", "romaji": "ganchiku", "en": "implication; depth", "pos": "noun", "example_ja": "含蓄のある言葉だ。", "example_en": "They are words full of meaning."}
+{"id": 531, "jp": "不況", "kana": "ふきょう", "romaji": "fukyou", "en": "recession; slump", "pos": "noun", "example_ja": "不況で売り上げが落ちた。", "example_en": "Sales dropped due to the recession."}
+{"id": 532, "jp": "負債", "kana": "ふさい", "romaji": "fusai", "en": "debt; liabilities", "pos": "noun", "example_ja": "負債を抱える。", "example_en": "They are burdened with debt."}
+{"id": 533, "jp": "符号", "kana": "ふごう", "romaji": "fugou", "en": "sign; symbol", "pos": "noun", "example_ja": "符号を使って記録する。", "example_en": "I record using symbols."}
+{"id": 534, "jp": "負担する", "kana": "ふたんする", "romaji": "futan suru", "en": "to bear (a cost)", "pos": "verb", "example_ja": "費用を会社が負担する。", "example_en": "The company covers the cost."}
+{"id": 535, "jp": "復旧", "kana": "ふっきゅう", "romaji": "fukkyuu", "en": "restoration; recovery", "pos": "noun", "example_ja": "電気が復旧した。", "example_en": "The power was restored."}
+{"id": 536, "jp": "復興", "kana": "ふっこう", "romaji": "fukkou", "en": "reconstruction; revival", "pos": "noun", "example_ja": "被災地の復興を支援する。", "example_en": "We support the recovery of the disaster area."}
+{"id": 537, "jp": "物資", "kana": "ぶっし", "romaji": "busshi", "en": "supplies; goods", "pos": "noun", "example_ja": "救援物資を届ける。", "example_en": "We deliver relief supplies."}
+{"id": 538, "jp": "赴任", "kana": "ふにん", "romaji": "funin", "en": "taking up a new post", "pos": "noun", "example_ja": "大阪に赴任する。", "example_en": "I take up a post in Osaka."}
+{"id": 539, "jp": "赴く", "kana": "おもむく", "romaji": "omomuku", "en": "to head for; to proceed to", "pos": "verb", "example_ja": "現地に赴いて調査する。", "example_en": "I go to the site to investigate."}
+{"id": 540, "jp": "腐敗", "kana": "ふはい", "romaji": "fuhai", "en": "corruption; decay", "pos": "noun", "example_ja": "政治の腐敗が問題だ。", "example_en": "Political corruption is a problem."}
+{"id": 541, "jp": "扶養", "kana": "ふよう", "romaji": "fuyou", "en": "support (of dependents)", "pos": "noun", "example_ja": "家族を扶養する。", "example_en": "I support my family."}
+{"id": 542, "jp": "付与", "kana": "ふよ", "romaji": "fuyo", "en": "grant; allocation", "pos": "noun", "example_ja": "ポイントを付与する。", "example_en": "We grant points."}
+{"id": 543, "jp": "振り返る", "kana": "ふりかえる", "romaji": "furikaeru", "en": "to look back; to reflect", "pos": "verb", "example_ja": "一年を振り返る。", "example_en": "I look back on the year."}
+{"id": 544, "jp": "分散", "kana": "ぶんさん", "romaji": "bunsan", "en": "dispersion; distribution", "pos": "noun", "example_ja": "リスクを分散する。", "example_en": "We spread out the risk."}
+{"id": 545, "jp": "分担", "kana": "ぶんたん", "romaji": "buntan", "en": "sharing (of work)", "pos": "noun", "example_ja": "作業を分担する。", "example_en": "We divide up the work."}
+{"id": 546, "jp": "紛争", "kana": "ふんそう", "romaji": "funsou", "en": "conflict; dispute", "pos": "noun", "example_ja": "地域の紛争が続く。", "example_en": "The regional conflict continues."}
+{"id": 547, "jp": "分布", "kana": "ぶんぷ", "romaji": "bunpu", "en": "distribution", "pos": "noun", "example_ja": "人口の分布を調べる。", "example_en": "I study the population distribution."}
+{"id": 548, "jp": "噴出", "kana": "ふんしゅつ", "romaji": "funshutsu", "en": "eruption; gushing out", "pos": "noun", "example_ja": "不満が噴出した。", "example_en": "Discontent erupted."}
+{"id": 549, "jp": "閉鎖", "kana": "へいさ", "romaji": "heisa", "en": "closure; closing down", "pos": "noun", "example_ja": "工場が閉鎖された。", "example_en": "The factory was shut down."}
+{"id": 550, "jp": "並行", "kana": "へいこう", "romaji": "heikou", "en": "parallel; concurrent", "pos": "noun", "example_ja": "二つの計画を並行して進める。", "example_en": "We advance two plans in parallel."}
+{"id": 551, "jp": "弁解", "kana": "べんかい", "romaji": "benkai", "en": "excuse; explanation", "pos": "noun", "example_ja": "弁解の余地はない。", "example_en": "There is no room for excuses."}
+{"id": 552, "jp": "変遷", "kana": "へんせん", "romaji": "hensen", "en": "transition; changes over time", "pos": "noun", "example_ja": "言葉の変遷を調べる。", "example_en": "I study the changes in language over time."}
+{"id": 553, "jp": "返済", "kana": "へんさい", "romaji": "hensai", "en": "repayment", "pos": "noun", "example_ja": "借金を返済する。", "example_en": "I repay the loan."}
+{"id": 554, "jp": "弁償", "kana": "べんしょう", "romaji": "benshou", "en": "compensation; reimbursement", "pos": "noun", "example_ja": "損害を弁償する。", "example_en": "I compensate for the damage."}
+{"id": 555, "jp": "偏見", "kana": "へんけん", "romaji": "henken", "en": "prejudice; bias", "pos": "noun", "example_ja": "偏見を持たずに接する。", "example_en": "I interact without prejudice."}
+{"id": 556, "jp": "崩壊する", "kana": "ほうかいする", "romaji": "houkai suru", "en": "to collapse; to break down", "pos": "verb", "example_ja": "制度が崩壊する。", "example_en": "The system collapses."}
+{"id": 557, "jp": "豊作", "kana": "ほうさく", "romaji": "housaku", "en": "good harvest", "pos": "noun", "example_ja": "今年は米が豊作だ。", "example_en": "There is a good rice harvest this year."}
+{"id": 558, "jp": "報酬", "kana": "ほうしゅう", "romaji": "houshuu", "en": "reward; remuneration", "pos": "noun", "example_ja": "高い報酬を得る。", "example_en": "I receive a high reward."}
+{"id": 559, "jp": "放置", "kana": "ほうち", "romaji": "houchi", "en": "neglect; leaving alone", "pos": "noun", "example_ja": "問題を放置してはいけない。", "example_en": "You must not leave the problem unaddressed."}
+{"id": 560, "jp": "膨大", "kana": "ぼうだい", "romaji": "boudai", "en": "enormous; vast", "pos": "na-adj", "example_ja": "膨大なデータを処理する。", "example_en": "We process an enormous amount of data."}
+{"id": 561, "jp": "報道", "kana": "ほうどう", "romaji": "houdou", "en": "news report; coverage", "pos": "noun", "example_ja": "事件が大きく報道された。", "example_en": "The incident was widely reported."}
+{"id": 562, "jp": "暴力", "kana": "ぼうりょく", "romaji": "bouryoku", "en": "violence", "pos": "noun", "example_ja": "暴力に反対する。", "example_en": "I am against violence."}
+{"id": 563, "jp": "補強", "kana": "ほきょう", "romaji": "hokyou", "en": "reinforcement", "pos": "noun", "example_ja": "チームを補強する。", "example_en": "We strengthen the team."}
+{"id": 564, "jp": "補償", "kana": "ほしょう", "romaji": "hoshou", "en": "compensation", "pos": "noun", "example_ja": "被害を補償する。", "example_en": "They compensate for the damage."}
+{"id": 565, "jp": "保障", "kana": "ほしょう", "romaji": "hoshou", "en": "guarantee; security", "pos": "noun", "example_ja": "生活を保障する制度だ。", "example_en": "It's a system that guarantees livelihood."}
+{"id": 566, "jp": "補足", "kana": "ほそく", "romaji": "hosoku", "en": "supplement; addition", "pos": "noun", "example_ja": "説明を補足する。", "example_en": "I add to the explanation."}
+{"id": 567, "jp": "発端", "kana": "ほったん", "romaji": "hottan", "en": "origin; beginning", "pos": "noun", "example_ja": "事件の発端を調べる。", "example_en": "They investigate the origin of the incident."}
+{"id": 568, "jp": "没頭する", "kana": "ぼっとうする", "romaji": "bottou suru", "en": "to be absorbed in", "pos": "verb", "example_ja": "研究に没頭する。", "example_en": "I immerse myself in research."}
+{"id": 569, "jp": "施す", "kana": "ほどこす", "romaji": "hodokosu", "en": "to give; to apply", "pos": "verb", "example_ja": "応急手当を施す。", "example_en": "I administer first aid."}
+{"id": 570, "jp": "翻弄", "kana": "ほんろう", "romaji": "honrou", "en": "being at the mercy of", "pos": "noun", "example_ja": "運命に翻弄される。", "example_en": "I am tossed about by fate."}
+{"id": 571, "jp": "埋没", "kana": "まいぼつ", "romaji": "maibotsu", "en": "burial; obscurity", "pos": "noun", "example_ja": "才能が埋没している。", "example_en": "His talent is going unnoticed."}
+{"id": 572, "jp": "賄う", "kana": "まかなう", "romaji": "makanau", "en": "to cover (costs); to provide", "pos": "verb", "example_ja": "費用を寄付で賄う。", "example_en": "We cover the costs with donations."}
+{"id": 573, "jp": "待ち望む", "kana": "まちのぞむ", "romaji": "machinozomu", "en": "to look forward to; to await", "pos": "verb", "example_ja": "再会を待ち望む。", "example_en": "I look forward to meeting again."}
+{"id": 574, "jp": "末端", "kana": "まったん", "romaji": "mattan", "en": "end; extremity", "pos": "noun", "example_ja": "組織の末端まで伝える。", "example_en": "We convey it to the lowest ranks."}
+{"id": 575, "jp": "免れる", "kana": "まぬがれる", "romaji": "manugareru", "en": "to escape; to avoid", "pos": "verb", "example_ja": "責任を免れる。", "example_en": "He escapes responsibility."}
+{"id": 576, "jp": "満喫する", "kana": "まんきつする", "romaji": "mankitsu suru", "en": "to fully enjoy", "pos": "verb", "example_ja": "休暇を満喫した。", "example_en": "I fully enjoyed my vacation."}
+{"id": 577, "jp": "満場一致", "kana": "まんじょういっち", "romaji": "manjou icchi", "en": "unanimous", "pos": "noun", "example_ja": "満場一致で可決された。", "example_en": "It passed unanimously."}
+{"id": 578, "jp": "見合わせる", "kana": "みあわせる", "romaji": "miawaseru", "en": "to postpone; to suspend", "pos": "verb", "example_ja": "運転を見合わせる。", "example_en": "They suspend service."}
+{"id": 579, "jp": "見込む", "kana": "みこむ", "romaji": "mikomu", "en": "to expect; to anticipate", "pos": "verb", "example_ja": "黒字を見込んでいる。", "example_en": "We anticipate a profit."}
+{"id": 580, "jp": "未熟", "kana": "みじゅく", "romaji": "mijuku", "en": "immature; inexperienced", "pos": "na-adj", "example_ja": "まだ技術が未熟だ。", "example_en": "My skills are still immature."}
+{"id": 581, "jp": "密接", "kana": "みっせつ", "romaji": "missetsu", "en": "close; intimate", "pos": "na-adj", "example_ja": "両者は密接に関係する。", "example_en": "The two are closely related."}
+{"id": 582, "jp": "見積もる", "kana": "みつもる", "romaji": "mitsumoru", "en": "to estimate", "pos": "verb", "example_ja": "費用を見積もる。", "example_en": "I estimate the cost."}
+{"id": 583, "jp": "見なす", "kana": "みなす", "romaji": "minasu", "en": "to regard as; to deem", "pos": "verb", "example_ja": "欠席とみなす。", "example_en": "It is regarded as an absence."}
+{"id": 584, "jp": "身元", "kana": "みもと", "romaji": "mimoto", "en": "identity; background", "pos": "noun", "example_ja": "身元を確認する。", "example_en": "They verify the identity."}
+{"id": 585, "jp": "魅了する", "kana": "みりょうする", "romaji": "miryou suru", "en": "to fascinate; to captivate", "pos": "verb", "example_ja": "観客を魅了した。", "example_en": "It captivated the audience."}
+{"id": 586, "jp": "民主", "kana": "みんしゅ", "romaji": "minshu", "en": "democracy; democratic", "pos": "noun", "example_ja": "民主的に決める。", "example_en": "We decide democratically."}
+{"id": 587, "jp": "矛盾", "kana": "むじゅん", "romaji": "mujun", "en": "contradiction", "pos": "noun", "example_ja": "話に矛盾がある。", "example_en": "There is a contradiction in the story."}
+{"id": 588, "jp": "無条件", "kana": "むじょうけん", "romaji": "mujouken", "en": "unconditional", "pos": "noun", "example_ja": "無条件で受け入れる。", "example_en": "I accept it unconditionally."}
+{"id": 589, "jp": "無数", "kana": "むすう", "romaji": "musuu", "en": "countless; innumerable", "pos": "na-adj", "example_ja": "空に無数の星が輝く。", "example_en": "Countless stars shine in the sky."}
+{"id": 590, "jp": "無断", "kana": "むだん", "romaji": "mudan", "en": "without permission", "pos": "noun", "example_ja": "無断で欠勤した。", "example_en": "He was absent without notice."}
+{"id": 591, "jp": "無茶", "kana": "むちゃ", "romaji": "mucha", "en": "unreasonable; reckless", "pos": "na-adj", "example_ja": "無茶な要求をされた。", "example_en": "I was given an unreasonable demand."}
+{"id": 592, "jp": "明確", "kana": "めいかく", "romaji": "meikaku", "en": "clear; definite", "pos": "na-adj", "example_ja": "目標を明確にする。", "example_en": "I clarify the goal."}
+{"id": 593, "jp": "名称", "kana": "めいしょう", "romaji": "meishou", "en": "name; title", "pos": "noun", "example_ja": "商品の名称を決める。", "example_en": "We decide the product name."}
+{"id": 594, "jp": "命ずる", "kana": "めいずる", "romaji": "meizuru", "en": "to order; to command", "pos": "verb", "example_ja": "部長が調査を命じた。", "example_en": "The manager ordered an investigation."}
+{"id": 595, "jp": "猛烈", "kana": "もうれつ", "romaji": "mouretsu", "en": "fierce; intense", "pos": "na-adj", "example_ja": "猛烈な勢いで働く。", "example_en": "I work with fierce energy."}
+{"id": 596, "jp": "目撃", "kana": "もくげき", "romaji": "mokugeki", "en": "witnessing", "pos": "noun", "example_ja": "事故を目撃した。", "example_en": "I witnessed the accident."}
+{"id": 597, "jp": "模索する", "kana": "もさくする", "romaji": "mosaku suru", "en": "to grope for; to seek", "pos": "verb", "example_ja": "解決策を模索する。", "example_en": "I grope for a solution."}
+{"id": 598, "jp": "持ち込む", "kana": "もちこむ", "romaji": "mochikomu", "en": "to bring in", "pos": "verb", "example_ja": "飲食物の持ち込みは禁止だ。", "example_en": "Bringing in food and drink is prohibited."}
+{"id": 599, "jp": "専ら", "kana": "もっぱら", "romaji": "moppara", "en": "exclusively; mainly", "pos": "adverb", "example_ja": "休日は専ら家で過ごす。", "example_en": "I spend my days off mainly at home."}
+{"id": 600, "jp": "基", "kana": "もと", "romaji": "moto", "en": "basis; origin", "pos": "noun", "example_ja": "データを基に判断する。", "example_en": "I judge based on the data."}
+{"id": 601, "jp": "催し", "kana": "もよおし", "romaji": "moyooshi", "en": "event; function", "pos": "noun", "example_ja": "地域の催しに参加する。", "example_en": "I take part in a local event."}
+{"id": 602, "jp": "漏らす", "kana": "もらす", "romaji": "morasu", "en": "to let leak; to reveal", "pos": "verb", "example_ja": "秘密を漏らしてはいけない。", "example_en": "You must not leak the secret."}
+{"id": 603, "jp": "やむを得ない", "kana": "やむをえない", "romaji": "yamu o enai", "en": "unavoidable; inevitable", "pos": "expression", "example_ja": "やむを得ない事情で欠席する。", "example_en": "I am absent due to unavoidable circumstances."}
+{"id": 604, "jp": "軟弱", "kana": "なんじゃく", "romaji": "nanjaku", "en": "weak; feeble", "pos": "na-adj", "example_ja": "軟弱な地盤を補強する。", "example_en": "We reinforce the weak ground."}
+{"id": 605, "jp": "優位", "kana": "ゆうい", "romaji": "yuui", "en": "superiority; advantage", "pos": "noun", "example_ja": "競争で優位に立つ。", "example_en": "We gain the upper hand in competition."}
+{"id": 606, "jp": "融資", "kana": "ゆうし", "romaji": "yuushi", "en": "financing; loan", "pos": "noun", "example_ja": "銀行から融資を受ける。", "example_en": "We receive a loan from the bank."}
+{"id": 607, "jp": "有数", "kana": "ゆうすう", "romaji": "yuusuu", "en": "leading; prominent", "pos": "noun", "example_ja": "国内有数の企業だ。", "example_en": "It's one of the nation's leading companies."}
+{"id": 608, "jp": "融通", "kana": "ゆうずう", "romaji": "yuuzuu", "en": "flexibility; accommodation", "pos": "noun", "example_ja": "融通を利かせる。", "example_en": "I show some flexibility."}
+{"id": 609, "jp": "優遇", "kana": "ゆうぐう", "romaji": "yuuguu", "en": "preferential treatment", "pos": "noun", "example_ja": "会員を優遇する。", "example_en": "We give members preferential treatment."}
+{"id": 610, "jp": "誘導", "kana": "ゆうどう", "romaji": "yuudou", "en": "guidance; leading", "pos": "noun", "example_ja": "客を出口へ誘導する。", "example_en": "We guide customers to the exit."}
+{"id": 611, "jp": "有望", "kana": "ゆうぼう", "romaji": "yuubou", "en": "promising", "pos": "na-adj", "example_ja": "将来有望な選手だ。", "example_en": "He is a promising player."}
+{"id": 612, "jp": "猶予", "kana": "ゆうよ", "romaji": "yuuyo", "en": "grace period; postponement", "pos": "noun", "example_ja": "支払いの猶予を求める。", "example_en": "I ask for a grace period on payment."}
+{"id": 613, "jp": "ゆとり", "kana": "ゆとり", "romaji": "yutori", "en": "room; leeway; margin", "pos": "noun", "example_ja": "心にゆとりを持つ。", "example_en": "I keep some peace of mind."}
+{"id": 614, "jp": "揺さぶる", "kana": "ゆさぶる", "romaji": "yusaburu", "en": "to shake; to jolt", "pos": "verb", "example_ja": "心を揺さぶる話だ。", "example_en": "It's a story that shakes the heart."}
+{"id": 615, "jp": "歪む", "kana": "ゆがむ", "romaji": "yugamu", "en": "to warp; to distort", "pos": "verb", "example_ja": "事実が歪んで伝わる。", "example_en": "The facts are conveyed in a distorted way."}
+{"id": 616, "jp": "要請", "kana": "ようせい", "romaji": "yousei", "en": "request; demand", "pos": "noun", "example_ja": "協力を要請する。", "example_en": "We request cooperation."}
+{"id": 617, "jp": "擁護", "kana": "ようご", "romaji": "yougo", "en": "protection; advocacy", "pos": "noun", "example_ja": "人権を擁護する。", "example_en": "They advocate for human rights."}
+{"id": 618, "jp": "要旨", "kana": "ようし", "romaji": "youshi", "en": "gist; summary", "pos": "noun", "example_ja": "論文の要旨をまとめる。", "example_en": "I summarize the gist of the paper."}
+{"id": 619, "jp": "養成", "kana": "ようせい", "romaji": "yousei", "en": "training; cultivation", "pos": "noun", "example_ja": "人材を養成する。", "example_en": "We train human resources."}
+{"id": 620, "jp": "用途", "kana": "ようと", "romaji": "youto", "en": "use; purpose", "pos": "noun", "example_ja": "用途に合わせて選ぶ。", "example_en": "I choose according to the purpose."}
+{"id": 621, "jp": "抑制する", "kana": "よくせいする", "romaji": "yokusei suru", "en": "to suppress; to restrain", "pos": "verb", "example_ja": "感情を抑制する。", "example_en": "I restrain my emotions."}
+{"id": 622, "jp": "余地", "kana": "よち", "romaji": "yochi", "en": "room; margin", "pos": "noun", "example_ja": "改善の余地がある。", "example_en": "There is room for improvement."}
+{"id": 623, "jp": "予知", "kana": "よち", "romaji": "yochi", "en": "prediction; foreknowledge", "pos": "noun", "example_ja": "地震を予知するのは難しい。", "example_en": "It is hard to predict earthquakes."}
+{"id": 624, "jp": "呼び止める", "kana": "よびとめる", "romaji": "yobitomeru", "en": "to call out and stop", "pos": "verb", "example_ja": "警官に呼び止められた。", "example_en": "I was stopped by a police officer."}
+{"id": 625, "jp": "世論", "kana": "よろん", "romaji": "yoron", "en": "public opinion", "pos": "noun", "example_ja": "世論が政治を動かす。", "example_en": "Public opinion moves politics."}
+{"id": 626, "jp": "来場", "kana": "らいじょう", "romaji": "raijou", "en": "attendance; visit", "pos": "noun", "example_ja": "多くの来場者があった。", "example_en": "There were many visitors."}
+{"id": 627, "jp": "濫用", "kana": "らんよう", "romaji": "ran'you", "en": "abuse; misuse", "pos": "noun", "example_ja": "権力を濫用する。", "example_en": "They abuse their power."}
+{"id": 628, "jp": "利害", "kana": "りがい", "romaji": "rigai", "en": "interests; stakes", "pos": "noun", "example_ja": "利害が対立する。", "example_en": "The interests conflict."}
+{"id": 629, "jp": "履行", "kana": "りこう", "romaji": "rikou", "en": "performance; fulfillment", "pos": "noun", "example_ja": "契約を履行する。", "example_en": "They fulfill the contract."}
+{"id": 630, "jp": "利潤", "kana": "りじゅん", "romaji": "rijun", "en": "profit", "pos": "noun", "example_ja": "利潤を追求する。", "example_en": "They pursue profit."}
+{"id": 631, "jp": "理性", "kana": "りせい", "romaji": "risei", "en": "reason; sanity", "pos": "noun", "example_ja": "理性を保って行動する。", "example_en": "I act while keeping my reason."}
+{"id": 632, "jp": "立候補", "kana": "りっこうほ", "romaji": "rikkouho", "en": "candidacy; running for office", "pos": "noun", "example_ja": "選挙に立候補する。", "example_en": "He runs in the election."}
+{"id": 633, "jp": "略歴", "kana": "りゃくれき", "romaji": "ryakureki", "en": "brief history; profile", "pos": "noun", "example_ja": "講師の略歴を紹介する。", "example_en": "I introduce the lecturer's brief profile."}
+{"id": 634, "jp": "流通", "kana": "りゅうつう", "romaji": "ryuutsuu", "en": "distribution; circulation", "pos": "noun", "example_ja": "商品の流通を管理する。", "example_en": "We manage the distribution of goods."}
+{"id": 635, "jp": "了承", "kana": "りょうしょう", "romaji": "ryoushou", "en": "consent; acknowledgment", "pos": "noun", "example_ja": "変更をご了承ください。", "example_en": "Please acknowledge the change."}
+{"id": 636, "jp": "両立", "kana": "りょうりつ", "romaji": "ryouritsu", "en": "balancing; compatibility", "pos": "noun", "example_ja": "仕事と育児を両立する。", "example_en": "I balance work and childcare."}
+{"id": 637, "jp": "倫理", "kana": "りんり", "romaji": "rinri", "en": "ethics", "pos": "noun", "example_ja": "職業倫理を守る。", "example_en": "I uphold professional ethics."}
+{"id": 638, "jp": "類似", "kana": "るいじ", "romaji": "ruiji", "en": "similarity; resemblance", "pos": "noun", "example_ja": "類似した事例がある。", "example_en": "There is a similar case."}
+{"id": 639, "jp": "冷淡", "kana": "れいたん", "romaji": "reitan", "en": "cold; indifferent", "pos": "na-adj", "example_ja": "冷淡な態度を取る。", "example_en": "He takes a cold attitude."}
+{"id": 640, "jp": "劣悪", "kana": "れつあく", "romaji": "retsuaku", "en": "inferior; poor", "pos": "na-adj", "example_ja": "劣悪な労働環境だ。", "example_en": "It's a poor working environment."}
+{"id": 641, "jp": "連携する", "kana": "れんけいする", "romaji": "renkei suru", "en": "to cooperate; to link up", "pos": "verb", "example_ja": "他部署と連携する。", "example_en": "We coordinate with other departments."}
+{"id": 642, "jp": "連鎖", "kana": "れんさ", "romaji": "rensa", "en": "chain; linkage", "pos": "noun", "example_ja": "悪循環の連鎖を断つ。", "example_en": "We break the chain of the vicious cycle."}
+{"id": 643, "jp": "連盟", "kana": "れんめい", "romaji": "renmei", "en": "federation; league", "pos": "noun", "example_ja": "業界の連盟に加わる。", "example_en": "We join the industry federation."}
+{"id": 644, "jp": "露骨", "kana": "ろこつ", "romaji": "rokotsu", "en": "blatant; frank", "pos": "na-adj", "example_ja": "露骨に嫌な顔をした。", "example_en": "He openly made a displeased face."}
+{"id": 645, "jp": "浪費", "kana": "ろうひ", "romaji": "rouhi", "en": "waste; extravagance", "pos": "noun", "example_ja": "時間を浪費するな。", "example_en": "Don't waste time."}
+{"id": 646, "jp": "論争", "kana": "ろんそう", "romaji": "ronsou", "en": "controversy; dispute", "pos": "noun", "example_ja": "激しい論争が起きた。", "example_en": "A heated controversy arose."}
+{"id": 647, "jp": "論点", "kana": "ろんてん", "romaji": "ronten", "en": "point of contention; issue", "pos": "noun", "example_ja": "論点を整理する。", "example_en": "I organize the points at issue."}
+{"id": 648, "jp": "賄賂", "kana": "わいろ", "romaji": "wairo", "en": "bribe", "pos": "noun", "example_ja": "賄賂を受け取る。", "example_en": "He accepts a bribe."}
+{"id": 649, "jp": "枠組み", "kana": "わくぐみ", "romaji": "wakugumi", "en": "framework", "pos": "noun", "example_ja": "新しい枠組みを作る。", "example_en": "We create a new framework."}
+{"id": 650, "jp": "煩わしい", "kana": "わずらわしい", "romaji": "wazurawashii", "en": "troublesome; annoying", "pos": "i-adj", "example_ja": "手続きが煩わしい。", "example_en": "The procedures are troublesome."}
+{"id": 651, "jp": "僅差", "kana": "きんさ", "romaji": "kinsa", "en": "narrow margin", "pos": "noun", "example_ja": "僅差で勝利した。", "example_en": "We won by a narrow margin."}
+{"id": 652, "jp": "和解", "kana": "わかい", "romaji": "wakai", "en": "reconciliation; settlement", "pos": "noun", "example_ja": "両者が和解した。", "example_en": "The two parties reconciled."}
+{"id": 653, "jp": "割り当てる", "kana": "わりあてる", "romaji": "wariateru", "en": "to allocate; to assign", "pos": "verb", "example_ja": "仕事を各自に割り当てる。", "example_en": "I assign work to each person."}
+{"id": 654, "jp": "惑わす", "kana": "まどわす", "romaji": "madowasu", "en": "to mislead; to deceive", "pos": "verb", "example_ja": "うわさに惑わされる。", "example_en": "I get misled by rumors."}
+{"id": 655, "jp": "哀れ", "kana": "あわれ", "romaji": "aware", "en": "pitiful; sorrowful", "pos": "na-adj", "example_ja": "哀れな姿に涙した。", "example_en": "I cried at the pitiful sight."}
+{"id": 656, "jp": "圧倒", "kana": "あっとう", "romaji": "attou", "en": "overwhelming", "pos": "noun", "example_ja": "相手を圧倒した。", "example_en": "We overwhelmed the opponent."}
+{"id": 657, "jp": "扱い方", "kana": "あつかいかた", "romaji": "atsukaikata", "en": "way of handling", "pos": "noun", "example_ja": "機械の扱い方を教わる。", "example_en": "I learn how to handle the machine."}
+{"id": 658, "jp": "操る", "kana": "あやつる", "romaji": "ayatsuru", "en": "to manipulate; to operate", "pos": "verb", "example_ja": "三か国語を操る。", "example_en": "He commands three languages."}
+{"id": 659, "jp": "歩む", "kana": "あゆむ", "romaji": "ayumu", "en": "to walk; to follow (a path)", "pos": "verb", "example_ja": "厳しい道を歩む。", "example_en": "I walk a hard road."}
+{"id": 660, "jp": "荒らす", "kana": "あらす", "romaji": "arasu", "en": "to devastate; to lay waste", "pos": "verb", "example_ja": "畑を動物に荒らされた。", "example_en": "The field was ruined by animals."}
+{"id": 661, "jp": "あらかじめ", "kana": "あらかじめ", "romaji": "arakajime", "en": "beforehand; in advance", "pos": "adverb", "example_ja": "あらかじめ予約しておく。", "example_en": "I make a reservation in advance."}
+{"id": 662, "jp": "著す", "kana": "あらわす", "romaji": "arawasu", "en": "to write; to publish", "pos": "verb", "example_ja": "彼は多くの本を著した。", "example_en": "He authored many books."}
+{"id": 663, "jp": "案じる", "kana": "あんじる", "romaji": "anjiru", "en": "to worry about", "pos": "verb", "example_ja": "子の将来を案じる。", "example_en": "I worry about my child's future."}
+{"id": 664, "jp": "言い張る", "kana": "いいはる", "romaji": "iiharu", "en": "to insist; to persist", "pos": "verb", "example_ja": "無実だと言い張る。", "example_en": "He insists he is innocent."}
+{"id": 665, "jp": "依存", "kana": "いぞん", "romaji": "izon", "en": "dependence; reliance", "pos": "noun", "example_ja": "輸入に依存している。", "example_en": "We depend on imports."}
+{"id": 666, "jp": "委託する", "kana": "いたくする", "romaji": "itaku suru", "en": "to entrust; to outsource", "pos": "verb", "example_ja": "業務を外部に委託する。", "example_en": "We outsource the work externally."}
+{"id": 667, "jp": "一括", "kana": "いっかつ", "romaji": "ikkatsu", "en": "lump sum; all at once", "pos": "noun", "example_ja": "代金を一括で支払う。", "example_en": "I pay the full amount at once."}
+{"id": 668, "jp": "逸材", "kana": "いつざい", "romaji": "itsuzai", "en": "person of exceptional talent", "pos": "noun", "example_ja": "業界の逸材だ。", "example_en": "He is a rare talent in the industry."}
+{"id": 669, "jp": "著しく", "kana": "いちじるしく", "romaji": "ichijirushiku", "en": "remarkably; markedly", "pos": "adverb", "example_ja": "売上が著しく伸びた。", "example_en": "Sales grew markedly."}
+{"id": 670, "jp": "一環", "kana": "いっかん", "romaji": "ikkan", "en": "part (of a whole)", "pos": "noun", "example_ja": "活動の一環として行う。", "example_en": "We do it as part of the activities."}
+{"id": 671, "jp": "逸話", "kana": "いつわ", "romaji": "itsuwa", "en": "anecdote", "pos": "noun", "example_ja": "面白い逸話が残る。", "example_en": "An interesting anecdote remains."}
+{"id": 672, "jp": "偽る", "kana": "いつわる", "romaji": "itsuwaru", "en": "to lie; to falsify", "pos": "verb", "example_ja": "経歴を偽る。", "example_en": "He falsifies his background."}
+{"id": 673, "jp": "意図", "kana": "いと", "romaji": "ito", "en": "intention; aim", "pos": "noun", "example_ja": "発言の意図を確認する。", "example_en": "I confirm the intent of the remark."}
+{"id": 674, "jp": "営利", "kana": "えいり", "romaji": "eiri", "en": "profit-making; commercial", "pos": "noun", "example_ja": "営利を目的としない団体だ。", "example_en": "It's a non-profit organization."}
+{"id": 675, "jp": "閲覧する", "kana": "えつらんする", "romaji": "etsuran suru", "en": "to browse; to view", "pos": "verb", "example_ja": "資料を閲覧する。", "example_en": "I view the materials."}
+{"id": 676, "jp": "沿革", "kana": "えんかく", "romaji": "enkaku", "en": "history; background", "pos": "noun", "example_ja": "会社の沿革を紹介する。", "example_en": "I introduce the company's history."}
+{"id": 677, "jp": "演出", "kana": "えんしゅつ", "romaji": "enshutsu", "en": "production; direction", "pos": "noun", "example_ja": "舞台の演出を担当する。", "example_en": "I handle the stage direction."}
+{"id": 678, "jp": "援助", "kana": "えんじょ", "romaji": "enjo", "en": "aid; assistance", "pos": "noun", "example_ja": "経済的な援助を受ける。", "example_en": "I receive financial aid."}
+{"id": 679, "jp": "延滞", "kana": "えんたい", "romaji": "entai", "en": "delay; being overdue", "pos": "noun", "example_ja": "返却が延滞している。", "example_en": "The return is overdue."}
+{"id": 680, "jp": "応急", "kana": "おうきゅう", "romaji": "oukyuu", "en": "emergency; first-aid", "pos": "noun", "example_ja": "応急の措置を取る。", "example_en": "We take emergency measures."}
+{"id": 681, "jp": "横領", "kana": "おうりょう", "romaji": "ouryou", "en": "embezzlement", "pos": "noun", "example_ja": "公金を横領する。", "example_en": "He embezzles public funds."}
+{"id": 682, "jp": "大まか", "kana": "おおまか", "romaji": "oomaka", "en": "rough; broad", "pos": "na-adj", "example_ja": "大まかな流れを説明する。", "example_en": "I explain the rough outline."}
+{"id": 683, "jp": "陥る", "kana": "おちいる", "romaji": "ochiiru", "en": "to fall into; to lapse", "pos": "verb", "example_ja": "パニックに陥る。", "example_en": "I fall into a panic."}
+{"id": 684, "jp": "衰退する", "kana": "すいたいする", "romaji": "suitai suru", "en": "to decline; to wane", "pos": "verb", "example_ja": "地方の産業が衰退する。", "example_en": "Rural industries decline."}
+{"id": 685, "jp": "及ぶ", "kana": "およぶ", "romaji": "oyobu", "en": "to reach; to extend to", "pos": "verb", "example_ja": "影響は全国に及ぶ。", "example_en": "The impact extends nationwide."}
+{"id": 686, "jp": "折衝", "kana": "せっしょう", "romaji": "sesshou", "en": "negotiation", "pos": "noun", "example_ja": "相手と折衝を重ねる。", "example_en": "I hold repeated negotiations with them."}
+{"id": 687, "jp": "卸売り", "kana": "おろしうり", "romaji": "oroshiuri", "en": "wholesale", "pos": "noun", "example_ja": "卸売り業を営む。", "example_en": "I run a wholesale business."}
+{"id": 688, "jp": "温存", "kana": "おんぞん", "romaji": "onzon", "en": "preservation; keeping in reserve", "pos": "noun", "example_ja": "戦力を温存する。", "example_en": "They keep their forces in reserve."}
+{"id": 689, "jp": "介護する", "kana": "かいごする", "romaji": "kaigo suru", "en": "to care for (the elderly/sick)", "pos": "verb", "example_ja": "祖母を介護する。", "example_en": "I care for my grandmother."}
+{"id": 690, "jp": "開催する", "kana": "かいさいする", "romaji": "kaisai suru", "en": "to hold (an event)", "pos": "verb", "example_ja": "展示会を開催する。", "example_en": "We hold an exhibition."}
+{"id": 691, "jp": "解散", "kana": "かいさん", "romaji": "kaisan", "en": "dissolution; breakup", "pos": "noun", "example_ja": "会議は正午に解散した。", "example_en": "The meeting broke up at noon."}
+{"id": 692, "jp": "回収する", "kana": "かいしゅうする", "romaji": "kaishuu suru", "en": "to collect; to recall", "pos": "verb", "example_ja": "アンケートを回収する。", "example_en": "We collect the questionnaires."}
+{"id": 693, "jp": "解釈", "kana": "かいしゃく", "romaji": "kaishaku", "en": "interpretation", "pos": "noun", "example_ja": "条文の解釈が分かれる。", "example_en": "Interpretations of the clause differ."}
+{"id": 694, "jp": "介入する", "kana": "かいにゅうする", "romaji": "kainyuu suru", "en": "to intervene", "pos": "verb", "example_ja": "紛争に介入する。", "example_en": "They intervene in the conflict."}
+{"id": 695, "jp": "概略", "kana": "がいりゃく", "romaji": "gairyaku", "en": "outline; summary", "pos": "noun", "example_ja": "計画の概略を述べる。", "example_en": "I state the outline of the plan."}
+{"id": 696, "jp": "抱え込む", "kana": "かかえこむ", "romaji": "kakaekomu", "en": "to take on too much", "pos": "verb", "example_ja": "仕事を一人で抱え込む。", "example_en": "I take on all the work alone."}
+{"id": 697, "jp": "掲げる", "kana": "かかげる", "romaji": "kakageru", "en": "to raise; to put forth", "pos": "verb", "example_ja": "目標を高く掲げる。", "example_en": "I set a high goal."}
+{"id": 698, "jp": "格段", "kana": "かくだん", "romaji": "kakudan", "en": "remarkable; substantial", "pos": "na-adj", "example_ja": "性能が格段に向上した。", "example_en": "The performance improved substantially."}
+{"id": 699, "jp": "確保する", "kana": "かくほする", "romaji": "kakuho suru", "en": "to secure; to ensure", "pos": "verb", "example_ja": "席を確保する。", "example_en": "I secure a seat."}
+{"id": 700, "jp": "駆け引き", "kana": "かけひき", "romaji": "kakehiki", "en": "bargaining; tactics", "pos": "noun", "example_ja": "交渉で駆け引きをする。", "example_en": "I use tactics in the negotiation."}
+{"id": 701, "jp": "箇条書き", "kana": "かじょうがき", "romaji": "kajougaki", "en": "itemization; bullet points", "pos": "noun", "example_ja": "要点を箇条書きにする。", "example_en": "I list the key points in bullets."}
+{"id": 702, "jp": "化石", "kana": "かせき", "romaji": "kaseki", "en": "fossil", "pos": "noun", "example_ja": "恐竜の化石を発見した。", "example_en": "They discovered a dinosaur fossil."}
+{"id": 703, "jp": "課税", "kana": "かぜい", "romaji": "kazei", "en": "taxation", "pos": "noun", "example_ja": "輸入品に課税する。", "example_en": "They tax imported goods."}
+{"id": 704, "jp": "傍ら", "kana": "かたわら", "romaji": "katawara", "en": "beside; while", "pos": "noun", "example_ja": "仕事の傍ら勉強する。", "example_en": "I study alongside my work."}
+{"id": 705, "jp": "割賦", "kana": "かっぷ", "romaji": "kappu", "en": "installment payment", "pos": "noun", "example_ja": "車を割賦で買う。", "example_en": "I buy a car in installments."}
+{"id": 706, "jp": "合致する", "kana": "がっちする", "romaji": "gacchi suru", "en": "to agree; to match", "pos": "verb", "example_ja": "条件に合致する。", "example_en": "It matches the conditions."}
+{"id": 707, "jp": "稼働する", "kana": "かどうする", "romaji": "kadou suru", "en": "to operate; to run", "pos": "verb", "example_ja": "新工場が稼働する。", "example_en": "The new factory starts operating."}
+{"id": 708, "jp": "寡黙", "kana": "かもく", "romaji": "kamoku", "en": "reticent; taciturn", "pos": "na-adj", "example_ja": "彼は寡黙な人だ。", "example_en": "He is a man of few words."}
+{"id": 709, "jp": "川沿い", "kana": "かわぞい", "romaji": "kawazoi", "en": "along the river", "pos": "noun", "example_ja": "川沿いの道を歩く。", "example_en": "I walk along the riverside road."}
+{"id": 710, "jp": "還付", "kana": "かんぷ", "romaji": "kanpu", "en": "refund; return", "pos": "noun", "example_ja": "税金が還付される。", "example_en": "The tax is refunded."}
+{"id": 711, "jp": "感銘", "kana": "かんめい", "romaji": "kanmei", "en": "deep impression", "pos": "noun", "example_ja": "彼の話に感銘を受けた。", "example_en": "I was deeply impressed by his talk."}
+{"id": 712, "jp": "元来", "kana": "がんらい", "romaji": "ganrai", "en": "originally; by nature", "pos": "adverb", "example_ja": "元来、体が丈夫だ。", "example_en": "I am naturally healthy."}
+{"id": 713, "jp": "緩慢", "kana": "かんまん", "romaji": "kanman", "en": "slow; sluggish", "pos": "na-adj", "example_ja": "動きが緩慢だ。", "example_en": "The movement is sluggish."}
+{"id": 714, "jp": "起因する", "kana": "きいんする", "romaji": "kiin suru", "en": "to originate from; to be caused by", "pos": "verb", "example_ja": "事故は不注意に起因する。", "example_en": "The accident stemmed from carelessness."}
+{"id": 715, "jp": "議会", "kana": "ぎかい", "romaji": "gikai", "en": "assembly; parliament", "pos": "noun", "example_ja": "市議会で議論される。", "example_en": "It is debated in the city assembly."}
+{"id": 716, "jp": "棄却", "kana": "ききゃく", "romaji": "kikyaku", "en": "dismissal; rejection", "pos": "noun", "example_ja": "訴えが棄却された。", "example_en": "The suit was dismissed."}
+{"id": 717, "jp": "帰属", "kana": "きぞく", "romaji": "kizoku", "en": "belonging; attribution", "pos": "noun", "example_ja": "利益の帰属を明確にする。", "example_en": "We clarify to whom the profit belongs."}
+{"id": 718, "jp": "技能", "kana": "ぎのう", "romaji": "ginou", "en": "skill; technique", "pos": "noun", "example_ja": "高い技能を持つ職人だ。", "example_en": "He is a craftsman with high skills."}
+{"id": 719, "jp": "欺く", "kana": "あざむく", "romaji": "azamuku", "en": "to deceive; to trick", "pos": "verb", "example_ja": "言葉巧みに欺く。", "example_en": "He deceives with clever words."}
+{"id": 720, "jp": "却って", "kana": "かえって", "romaji": "kaette", "en": "on the contrary; rather", "pos": "adverb", "example_ja": "急いで却って遅れた。", "example_en": "I hurried and instead ended up late."}
+{"id": 721, "jp": "逆説", "kana": "ぎゃくせつ", "romaji": "gyakusetsu", "en": "paradox", "pos": "noun", "example_ja": "それは一種の逆説だ。", "example_en": "That is a kind of paradox."}
+{"id": 722, "jp": "客層", "kana": "きゃくそう", "romaji": "kyakusou", "en": "customer base", "pos": "noun", "example_ja": "若い客層を狙う。", "example_en": "We target a young customer base."}
+{"id": 723, "jp": "救済", "kana": "きゅうさい", "romaji": "kyuusai", "en": "relief; aid", "pos": "noun", "example_ja": "被害者を救済する。", "example_en": "They provide relief to the victims."}
+{"id": 724, "jp": "急遽", "kana": "きゅうきょ", "romaji": "kyuukyo", "en": "hurriedly; on short notice", "pos": "adverb", "example_ja": "急遽予定を変更した。", "example_en": "I changed plans on short notice."}
+{"id": 725, "jp": "糾明", "kana": "きゅうめい", "romaji": "kyuumei", "en": "investigation; inquiry", "pos": "noun", "example_ja": "責任を糾明する。", "example_en": "They investigate the responsibility."}
+{"id": 726, "jp": "境界", "kana": "きょうかい", "romaji": "kyoukai", "en": "boundary; border", "pos": "noun", "example_ja": "土地の境界を確認する。", "example_en": "We check the boundary of the land."}
+{"id": 727, "jp": "驚嘆", "kana": "きょうたん", "romaji": "kyoutan", "en": "astonishment; admiration", "pos": "noun", "example_ja": "その技術に驚嘆する。", "example_en": "I marvel at the technique."}
+{"id": 728, "jp": "共鳴", "kana": "きょうめい", "romaji": "kyoumei", "en": "resonance; sympathy", "pos": "noun", "example_ja": "彼の考えに共鳴した。", "example_en": "I resonated with his ideas."}
+{"id": 729, "jp": "郷里", "kana": "きょうり", "romaji": "kyouri", "en": "hometown; birthplace", "pos": "noun", "example_ja": "郷里を離れて働く。", "example_en": "I work away from my hometown."}
+{"id": 730, "jp": "局面", "kana": "きょくめん", "romaji": "kyokumen", "en": "phase; situation", "pos": "noun", "example_ja": "難しい局面を迎えた。", "example_en": "We reached a difficult phase."}
+{"id": 731, "jp": "拒絶する", "kana": "きょぜつする", "romaji": "kyozetsu suru", "en": "to reject; to refuse", "pos": "verb", "example_ja": "提案を拒絶する。", "example_en": "They reject the proposal."}
+{"id": 732, "jp": "漁業", "kana": "ぎょぎょう", "romaji": "gyogyou", "en": "fishing industry", "pos": "noun", "example_ja": "この町は漁業で栄えた。", "example_en": "This town prospered on fishing."}
+{"id": 733, "jp": "極端に", "kana": "きょくたんに", "romaji": "kyokutan ni", "en": "extremely", "pos": "adverb", "example_ja": "極端に量が少ない。", "example_en": "The amount is extremely small."}
+{"id": 734, "jp": "寄贈", "kana": "きぞう", "romaji": "kizou", "en": "donation; presentation", "pos": "noun", "example_ja": "図書館に本を寄贈する。", "example_en": "I donate books to the library."}
+{"id": 735, "jp": "起伏", "kana": "きふく", "romaji": "kifuku", "en": "undulation; ups and downs", "pos": "noun", "example_ja": "感情の起伏が激しい。", "example_en": "His emotions have big ups and downs."}
+{"id": 736, "jp": "疑惑", "kana": "ぎわく", "romaji": "giwaku", "en": "suspicion; doubt", "pos": "noun", "example_ja": "不正の疑惑が浮上した。", "example_en": "Suspicion of fraud emerged."}
+{"id": 737, "jp": "緊迫", "kana": "きんぱく", "romaji": "kinpaku", "en": "tension; strain", "pos": "noun", "example_ja": "緊迫した空気が流れる。", "example_en": "A tense atmosphere prevails."}
+{"id": 738, "jp": "勤続", "kana": "きんぞく", "romaji": "kinzoku", "en": "continuous service", "pos": "noun", "example_ja": "勤続二十年を迎える。", "example_en": "I reach twenty years of service."}
+{"id": 739, "jp": "食い止める", "kana": "くいとめる", "romaji": "kuitomeru", "en": "to check; to hold back", "pos": "verb", "example_ja": "被害を最小限に食い止める。", "example_en": "We keep the damage to a minimum."}
+{"id": 740, "jp": "空前", "kana": "くうぜん", "romaji": "kuuzen", "en": "unprecedented", "pos": "noun", "example_ja": "空前の大ヒットとなった。", "example_en": "It became an unprecedented hit."}
+{"id": 741, "jp": "苦言", "kana": "くげん", "romaji": "kugen", "en": "candid advice; frank criticism", "pos": "noun", "example_ja": "上司に苦言を呈する。", "example_en": "I offer frank criticism to my boss."}
+{"id": 742, "jp": "覆す", "kana": "くつがえす", "romaji": "kutsugaesu", "en": "to overturn; to reverse", "pos": "verb", "example_ja": "判決を覆す。", "example_en": "They overturn the verdict."}
+{"id": 743, "jp": "屈折", "kana": "くっせつ", "romaji": "kussetsu", "en": "refraction; distortion", "pos": "noun", "example_ja": "光が屈折する。", "example_en": "Light refracts."}
+{"id": 744, "jp": "工面", "kana": "くめん", "romaji": "kumen", "en": "managing to raise (money)", "pos": "noun", "example_ja": "資金を工面する。", "example_en": "I manage to raise the funds."}
+{"id": 745, "jp": "位", "kana": "くらい", "romaji": "kurai", "en": "rank; grade", "pos": "noun", "example_ja": "高い位に就く。", "example_en": "He takes a high rank."}
+{"id": 746, "jp": "暮れる", "kana": "くれる", "romaji": "kureru", "en": "to get dark; to end (of a year)", "pos": "verb", "example_ja": "日が暮れる前に帰る。", "example_en": "I go home before it gets dark."}
+{"id": 747, "jp": "経費削減", "kana": "けいひさくげん", "romaji": "keihi sakugen", "en": "cost reduction", "pos": "noun", "example_ja": "経費削減に取り組む。", "example_en": "We work on cost reduction."}
+{"id": 748, "jp": "軽率", "kana": "けいそつ", "romaji": "keisotsu", "en": "careless; hasty", "pos": "na-adj", "example_ja": "軽率な発言を謝る。", "example_en": "I apologize for my careless remark."}
+{"id": 749, "jp": "啓発", "kana": "けいはつ", "romaji": "keihatsu", "en": "enlightenment; awareness-raising", "pos": "noun", "example_ja": "消費者の啓発に努める。", "example_en": "We work to raise consumer awareness."}
+{"id": 750, "jp": "経歴詐称", "kana": "けいれきさしょう", "romaji": "keireki sashou", "en": "falsifying one's record", "pos": "noun", "example_ja": "経歴詐称が発覚した。", "example_en": "The falsification of his record came to light."}
+{"id": 751, "jp": "激励", "kana": "げきれい", "romaji": "gekirei", "en": "encouragement", "pos": "noun", "example_ja": "選手を激励する。", "example_en": "We encourage the players."}
+{"id": 752, "jp": "下落", "kana": "げらく", "romaji": "geraku", "en": "decline; fall (in price)", "pos": "noun", "example_ja": "株価が下落した。", "example_en": "Stock prices fell."}
+{"id": 753, "jp": "検挙", "kana": "けんきょ", "romaji": "kenkyo", "en": "arrest; roundup", "pos": "noun", "example_ja": "容疑者を検挙する。", "example_en": "They arrest the suspect."}
+{"id": 754, "jp": "顕在", "kana": "けんざい", "romaji": "kenzai", "en": "actualized; apparent", "pos": "noun", "example_ja": "問題が顕在化した。", "example_en": "The problem became apparent."}
+{"id": 755, "jp": "謙遜", "kana": "けんそん", "romaji": "kenson", "en": "modesty; humility", "pos": "noun", "example_ja": "謙遜せずに受け取る。", "example_en": "I accept it without false modesty."}
+{"id": 756, "jp": "倦怠", "kana": "けんたい", "romaji": "kentai", "en": "languor; weariness", "pos": "noun", "example_ja": "倦怠感が続く。", "example_en": "A feeling of fatigue continues."}
+{"id": 757, "jp": "見地", "kana": "けんち", "romaji": "kenchi", "en": "viewpoint; standpoint", "pos": "noun", "example_ja": "教育的な見地から論じる。", "example_en": "I discuss it from an educational standpoint."}
+{"id": 758, "jp": "倹しい", "kana": "つましい", "romaji": "tsumashii", "en": "frugal; modest", "pos": "i-adj", "example_ja": "倹しい暮らしを続ける。", "example_en": "I keep living frugally."}

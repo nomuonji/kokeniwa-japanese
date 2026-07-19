@@ -1,0 +1,915 @@
+#separator:comma
+#html:false
+#deck:JLPT N2 Vocabulary
+#notetype:Basic
+#tags column:3
+一般,"general; common
+いっぱん · ippan
+
+これは一般的な方法だ。
+This is a common method.",n2
+応募,"application (for a job, etc.)
+おうぼ · oubo
+
+求人に応募する。
+Apply for the job.",n2
+改善,"improvement
+かいぜん · kaizen
+
+品質を改善する。
+Improve quality.",n2
+作曲,"composition (music)
+さっきょく · sakkyoku
+
+映画音楽を作曲する。
+Compose film music.",n2
+指導,"guidance; coaching
+しどう · shidou
+
+新人を指導する。
+Coach the new employees.",n2
+許可,"permission
+きょか · kyoka
+
+撮影には許可が必要だ。
+Permission is required for photography.",n2
+対策,"countermeasure
+たいさく · taisaku
+
+事故防止の対策を講じる。
+Take measures to prevent accidents.",n2
+検討,"consideration; review
+けんとう · kentou
+
+新しい案を検討する。
+Consider a new proposal.",n2
+実施,"implementation
+じっし · jisshi
+
+調査を実施する。
+Conduct a survey.",n2
+企画,"planning; project
+きかく · kikaku
+
+イベントを企画する。
+Plan an event.",n2
+導入,"introduction; adoption
+どうにゅう · dounyuu
+
+新システムを導入する。
+Introduce a new system.",n2
+改良,"improvement
+かいりょう · kairyou
+
+製品を改良する。
+Improve the product.",n2
+改訂,"revision
+かいてい · kaitei
+
+マニュアルを改訂する。
+Revise the manual.",n2
+収益,"revenue; earnings
+しゅうえき · shuueki
+
+収益を最大化する。
+Maximize revenue.",n2
+指摘,"pointing out
+してき · shiteki
+
+問題点を指摘された。
+The issues were pointed out.",n2
+運営,"operation; management
+うんえい · unei
+
+施設を運営する。
+Operate the facility.",n2
+拡大,"expansion
+かくだい · kakudai
+
+事業を拡大する。
+Expand the business.",n2
+縮小,"reduction; downsizing
+しゅくしょう · shukushou
+
+規模を縮小する。
+Downsize the scale.",n2
+移行,"migration; transition
+いこう · ikou
+
+新システムへの移行。
+Migration to the new system.",n2
+合意,"agreement; consensus
+ごうい · goui
+
+双方が合意に達した。
+Both sides reached an agreement.",n2
+発表,"announcement; presentation
+はっぴょう · happyou
+
+結果を発表する。
+Announce the results.",n2
+算出,"calculation; estimation
+さんしゅつ · sanshutsu
+
+コストを算出する。
+Calculate the cost.",n2
+指示,"instruction; direction
+しじ · shiji
+
+上司の指示に従う。
+Follow the boss's instructions.",n2
+把握,"grasp; understanding
+はあく · haaku
+
+現状を把握する。
+Grasp the current situation.",n2
+改善策,"improvement measures
+かいぜんさく · kaizensaku
+
+改善策を講じる。
+Take improvement measures.",n2
+検証,"verification; validation
+けんしょう · kenshou
+
+仮説を検証する。
+Verify the hypothesis.",n2
+分析,"analysis
+ぶんせき · bunseki
+
+データを分析する。
+Analyze the data.",n2
+達成,"achievement
+たっせい · tassei
+
+目標を達成する。
+Achieve a goal.",n2
+強化,"strengthening
+きょうか · kyouka
+
+セキュリティを強化する。
+Strengthen security.",n2
+維持,"maintenance; retention
+いじ · iji
+
+品質を維持する。
+Maintain quality.",n2
+確保,"secure; ensure
+かくほ · kakuho
+
+人員を確保する。
+Secure personnel.",n2
+適用,"application (apply a rule)
+てきよう · tekiyou
+
+規約を適用する。
+Apply the rules.",n2
+見直し,"review; reconsideration
+みなおし · minaoshi
+
+運用を見直す。
+Review the operations.",n2
+見込み,"prospect; forecast
+みこみ · mikomi
+
+来期の売上見込み。
+Sales forecast for next term.",n2
+実現,"realization
+じつげん · jitsugen
+
+計画を実現する。
+Realize the plan.",n2
+連携,"collaboration; linkage
+れんけい · renkei
+
+他社と連携する。
+Collaborate with other companies.",n2
+促進,"promotion; acceleration
+そくしん · sokushin
+
+普及を促進する。
+Promote adoption.",n2
+低下,"decline; decrease
+ていか · teika
+
+品質が低下した。
+Quality declined.",n2
+上昇,"rise; increase
+じょうしょう · joushou
+
+物価が上昇している。
+Prices are rising.",n2
+変動,"fluctuation
+へんどう · hendou
+
+為替が変動する。
+Exchange rates fluctuate.",n2
+安定,"stability
+あんてい · antei
+
+供給が安定した。
+Supply stabilized.",n2
+競合,"competition; competitor
+きょうごう · kyougou
+
+競合と差別化する。
+Differentiate from competitors.",n2
+協調,"coordination; cooperation
+きょうちょう · kyouchou
+
+協調して課題に取り組む。
+Work together on the issue.",n2
+需要予測,"demand forecast
+じゅようよそく · juyou yosoku
+
+需要予測を見直す。
+Review the demand forecast.",n2
+成長,"growth
+せいちょう · seichou
+
+市場が成長している。
+The market is growing.",n2
+予測,"prediction; forecast
+よそく · yosoku
+
+売上を予測する。
+Forecast sales.",n2
+調達,"procurement
+ちょうたつ · choutatsu
+
+部品を調達する。
+Procure parts.",n2
+物流,"logistics
+ぶつりゅう · butsuryuu
+
+物流コストを削減する。
+Reduce logistics costs.",n2
+供給網,"supply chain
+きょうきゅうもう · kyoukyuu mou
+
+供給網を強化する。
+Strengthen the supply chain.",n2
+対応,"response; handling
+たいおう · taiou
+
+迅速に対応する。
+Respond quickly.",n2
+事例,"case; example
+じれい · jirei
+
+事例を共有する。
+Share case studies.",n2
+傾向,"trend; tendency
+けいこう · keikou
+
+消費の傾向が変わる。
+Consumption trends change.",n2
+要因,"factor
+よういん · youin
+
+成功の要因を分析する。
+Analyze the factors of success.",n2
+課題,"issue; challenge
+かだい · kadai
+
+課題を明確にする。
+Clarify the issues.",n2
+施策,"measure; policy
+しさく · shisaku
+
+施策を打ち出す。
+Announce measures.",n2
+方針,"policy; direction
+ほうしん · houshin
+
+方針を決定する。
+Decide the policy.",n2
+戦略,"strategy
+せんりゃく · senryaku
+
+新たな戦略を策定する。
+Formulate a new strategy.",n2
+目標,"goal; target
+もくひょう · mokuhyou
+
+目標を設定する。
+Set a goal.",n2
+指標,"index; indicator
+しひょう · shihyou
+
+重要指標を監視する。
+Monitor key indicators.",n2
+進捗,"progress
+しんちょく · shinchoku
+
+進捗を報告する。
+Report progress.",n2
+前倒し,"move up (schedule)
+まえだおし · mae daoshi
+
+納期を前倒しする。
+Move up the delivery date.",n2
+後倒し,"postpone (schedule)
+あとだおし · ato daoshi
+
+会議を後倒しする。
+Postpone the meeting.",n2
+日程,"schedule
+にってい · nittei
+
+日程を調整する。
+Adjust the schedule.",n2
+配置,"placement
+はいち · haichi
+
+人員を適切に配置する。
+Place personnel appropriately.",n2
+配属,"assignment (to a unit)
+はいぞく · haizoku
+
+新入社員を配属する。
+Assign the new employees.",n2
+異動,"transfer (personnel)
+いどう · idou
+
+来月異動になる。
+I'll be transferred next month.",n2
+兼務,"concurrent post
+けんむ · kenmu
+
+営業を兼務する。
+Hold sales concurrently.",n2
+勤務,"work; duty
+きんむ · kinmu
+
+夜間勤務がある。
+There is night duty.",n2
+休暇,"vacation; leave
+きゅうか · kyuuka
+
+有給休暇を取る。
+Take paid leave.",n2
+出勤,"going to work
+しゅっきん · shukkin
+
+8時に出勤する。
+Go to work at 8.",n2
+退勤,"leaving work
+たいきん · taikin
+
+定時に退勤する。
+Leave work on time.",n2
+勤怠,"attendance (work)
+きんたい · kintai
+
+勤怠を管理する。
+Manage attendance.",n2
+募集,"recruitment
+ぼしゅう · boshuu
+
+新卒を募集する。
+Recruit new graduates.",n2
+採用,"hiring
+さいよう · saiyou
+
+3名を採用した。
+We hired three people.",n2
+研修,"training
+けんしゅう · kenshuu
+
+新入社員研修を行う。
+Hold training for new employees.",n2
+昇進,"promotion
+しょうしん · shoushin
+
+課長に昇進する。
+Be promoted to section chief.",n2
+人事,"personnel (HR)
+じんじ · jinji
+
+人事異動があった。
+There was a personnel transfer.",n2
+総務,"general affairs
+そうむ · soumu
+
+総務部に相談する。
+Consult the general affairs department.",n2
+経理,"accounting
+けいり · keiri
+
+経理に確認する。
+Check with accounting.",n2
+予算案,"budget proposal
+よさんあん · yosan an
+
+予算案を提出する。
+Submit a budget proposal.",n2
+決算,"settlement of accounts
+けっさん · kessan
+
+年度末の決算。
+Year-end settlement of accounts.",n2
+監査,"audit
+かんさ · kansa
+
+内部監査を実施する。
+Conduct an internal audit.",n2
+取引,"transaction; business
+とりひき · torihiki
+
+海外企業と取引する。
+Do business with a foreign company.",n2
+取引先,"client; business partner
+とりひきさき · torihikisaki
+
+取引先を訪問する。
+Visit a client.",n2
+見積,"estimate; quotation
+みつもり · mitsumori
+
+見積を依頼する。
+Request a quotation.",n2
+請求,"billing; claim
+せいきゅう · seikyuu
+
+代金を請求する。
+Bill for the fee.",n2
+支払い,"payment
+しはらい · shiharai
+
+支払い方法を選ぶ。
+Choose a payment method.",n2
+返金,"refund
+へんきん · henkin
+
+返金を受ける。
+Receive a refund.",n2
+承諾,"consent; acceptance
+しょうだく · shoudaku
+
+条件を承諾する。
+Accept the conditions.",n2
+曖昧,"vague; ambiguous
+あいまい · aimai
+
+彼の返事は曖昧だった。
+His reply was ambiguous.",n2
+扱う,"to handle; to deal with
+あつかう · atsukau
+
+この商品は丁寧な扱いが必要だ。
+This product requires careful handling.",n2
+嵐,"storm
+あらし · arashi
+
+嵐でフライトが欠航になった。
+The flight was canceled due to the storm.",n2
+一体,"(what) the heck; ...in the world
+いったい · ittai
+
+一体何があったんだ？
+What in the world happened?",n2
+移動,"movement; transfer
+いどう · idou
+
+次の会議室へ移動してください。
+Please move to the next conference room.",n2
+従う,"to obey; to follow
+したがう · shitagau
+
+規則には従うべきだ。
+You should obey the rules.",n2
+印象,"impression
+いんしょう · inshou
+
+彼の第一印象は良かった。
+My first impression of him was good.",n2
+浮く,"to float
+うく · uku
+
+木は水に浮く。
+Wood floats on water.",n2
+裏,"reverse side; back
+うら · ura
+
+紙の裏に名前を書いた。
+I wrote my name on the back of the paper.",n2
+売上,"sales; amount sold
+うりあげ · uriage
+
+今月の売上は好調だ。
+Sales this month are strong.",n2
+営業,"business; sales
+えいぎょう · eigyou
+
+営業時間は9時から5時までです。
+Business hours are from 9 to 5.",n2
+栄養,"nutrition
+えいよう · eiyou
+
+栄養のバランスが大切だ。
+A balanced diet is important.",n2
+追いかける,"to chase
+おいかける · oikakeru
+
+警察が犯人を追いかけている。
+The police are chasing the criminal.",n2
+王,"king
+おう · ou
+
+彼はその国の王だ。
+He is the king of that country.",n2
+応援,"cheering; support
+おうえん · ouen
+
+チームを応援する。
+I support the team.",n2
+奥,"interior; inner part
+おく · oku
+
+家の奥に部屋がある。
+There is a room in the back of the house.",n2
+贈る,"to give (a present)
+おくる · okuru
+
+誕生日にプレゼントを贈った。
+I gave a present for her birthday.",n2
+恐れる,"to fear; to be afraid of
+おそれる · osoreru
+
+失敗を恐れてはいけない。
+You must not be afraid of failure.",n2
+お互い,"each other
+おたがい · otagai
+
+お互いに助け合う。
+We help each other.",n2
+穏やか,"calm; gentle
+おだやか · odayaka
+
+今日は海が穏やかだ。
+The sea is calm today.",n2
+折る,"to break; to fold
+おる · oru
+
+紙を半分に折る。
+Fold the paper in half.",n2
+海外,"overseas
+かいがい · kaigai
+
+海外旅行に行きたい。
+I want to travel overseas.",n2
+会計,"accounting; bill
+かいけい · kaikei
+
+会計をお願いします。
+Check, please.",n2
+外交,"diplomacy
+がいこう · gaikou
+
+外交官として働いている。
+I work as a diplomat.",n2
+開始,"start; commencement
+かいし · kaishi
+
+会議を開始します。
+Let's start the meeting.",n2
+学者,"scholar
+がくしゃ · gakusha
+
+彼は有名な歴史学者だ。
+He is a famous historian.",n2
+学習,"learning; study
+がくしゅう · gakushuu
+
+毎日の学習が重要だ。
+Daily study is important.",n2
+確率,"probability
+かくりつ · kakuritsu
+
+成功する確率は低い。
+The probability of success is low.",n2
+活躍,"activity; being active
+かつやく · katsuyaku
+
+彼の活躍を期待している。
+I'm expecting him to play an active role.",n2
+悲しむ,"to be sad; to grieve
+かなしむ · kanashimu
+
+友人の死を悲しんだ。
+I grieved my friend's death.",n2
+必ずしも,"not always; not necessarily
+かならずしも · kanarazushimo
+
+金持ちが必ずしも幸福とは限らない。
+The rich are not always happy.",n2
+可能,"possible
+かのう · kanou
+
+それは実現可能だ。
+That is achievable.",n2
+基本,"basics; foundation
+きほん · kihon
+
+基本から勉強し直す。
+I'll study again from the basics.",n2
+貴重,"precious; valuable
+きちょう · kichou
+
+貴重な時間をありがとう。
+Thank you for your valuable time.",n2
+議長,"chairman; chairperson
+ぎちょう · gichou
+
+議長が会議を進めた。
+The chairperson proceeded with the meeting.",n2
+記事,"article; news story
+きじ · kiji
+
+新聞でその記事を読んだ。
+I read that article in the newspaper.",n2
+基準,"standard; basis
+きじゅん · kijun
+
+安全基準を満たしている。
+It meets the safety standards.",n2
+期待,"expectation
+きたい · kitai
+
+良い結果を期待している。
+I'm hoping for a good result.",n2
+機能,"function
+きのう · kinou
+
+このアプリには便利な機能が多い。
+This app has many useful functions.",n2
+寄付,"donation; contribution
+きふ · kifu
+
+慈善団体に寄付した。
+I donated to a charity.",n2
+希望,"hope; wish
+きぼう · kibou
+
+私の希望は平和な世界だ。
+My hope is a peaceful world.",n2
+義務,"duty; obligation
+ぎむ · gimu
+
+納税は国民の義務だ。
+Paying taxes is a citizen's duty.",n2
+休憩,"rest; break
+きゅうけい · kyuukei
+
+10分間休憩しましょう。
+Let's take a 10-minute break.",n2
+吸収,"absorption
+きゅうしゅう · kyuushuu
+
+植物は根から水分を吸収する。
+Plants absorb water from their roots.",n2
+急速,"rapid
+きゅうそく · kyuusoku
+
+経済は急速に成長した。
+The economy grew rapidly.",n2
+共通,"common
+きょうつう · kyoutsuu
+
+私たちには共通の趣味がある。
+We have a common hobby.",n2
+強調,"emphasis; stress
+きょうちょう · kyouchou
+
+彼はその点を強調した。
+He emphasized that point.",n2
+協力,"cooperation
+きょうりょく · kyouryoku
+
+ご協力ありがとうございます。
+Thank you for your cooperation.",n2
+強力,"powerful; strong
+きょうりょく · kyouryoku
+
+彼は強力なリーダーだ。
+He is a powerful leader.",n2
+巨大,"huge; gigantic
+きょだい · kyodai
+
+巨大なビルが建設中だ。
+A huge building is under construction.",n2
+嫌う,"to hate; to dislike
+きらう · kirau
+
+彼は人混みを嫌う。
+He dislikes crowds.",n2
+議論,"argument; discussion
+ぎろん · giron
+
+その問題について議論した。
+We discussed that issue.",n2
+金額,"amount of money
+きんがく · kingaku
+
+合計金額を教えてください。
+Please tell me the total amount.",n2
+空想,"daydream; fantasy
+くうそう · kuusou
+
+彼はよく空想にふける。
+He often daydreams.",n2
+偶然,"by chance; coincidence
+ぐうぜん · guuzen
+
+駅で偶然、友人に会った。
+I met a friend by chance at the station.",n2
+訓練,"training; drill
+くんれん · kunren
+
+厳しい訓練を受けた。
+I received tough training.",n2
+経営,"management; administration
+けいえい · keiei
+
+彼は会社を経営している。
+He manages a company.",n2
+景気,"business climate; the economy
+けいき · keiki
+
+景気が少しずつ回復している。
+The economy is recovering little by little.",n2
+警告,"warning
+けいこく · keikoku
+
+医者から警告された。
+I was warned by the doctor.",n2
+芸術,"art
+げいじゅつ · geijutsu
+
+芸術に興味があります。
+I am interested in art.",n2
+経由,"via; by way of
+けいゆ · keiyu
+
+大阪経由で福岡へ行った。
+I went to Fukuoka via Osaka.",n2
+結論,"conclusion
+けつろん · ketsuron
+
+議論の末、結論が出た。
+We reached a conclusion after the discussion.",n2
+現象,"phenomenon
+げんしょう · genshou
+
+それは珍しい自然現象だ。
+That is a rare natural phenomenon.",n2
+現状,"present condition; status quo
+げんじょう · genjou
+
+現状を維持する。
+Maintain the status quo.",n2
+建設,"construction
+けんせつ · kensetsu
+
+新しい橋が建設されている。
+A new bridge is being constructed.",n2
+現代,"modern times; nowadays
+げんだい · gendai
+
+現代社会は複雑だ。
+Modern society is complex.",n2
+建築,"architecture
+けんちく · kenchiku
+
+彼は建築家だ。
+He is an architect.",n2
+権利,"right; privilege
+けんり · kenri
+
+私たちには知る権利がある。
+We have the right to know.",n2
+恋,"love; tender passion
+こい · koi
+
+彼は彼女に恋をしている。
+He is in love with her.",n2
+広告,"advertisement
+こうこく · koukoku
+
+テレビで新しい広告を見た。
+I saw a new advertisement on TV.",n2
+交際,"association; company
+こうさい · kousai
+
+彼らは交際して3年になる。
+They have been dating for three years.",n2
+構成,"organization; composition
+こうせい · kousei
+
+この本の構成は素晴らしい。
+The structure of this book is wonderful.",n2
+構造,"structure
+こうぞう · kouzou
+
+建物の構造を調べる。
+Examine the structure of the building.",n2
+行動,"action; behavior
+こうどう · koudou
+
+彼の行動は理解できない。
+I can't understand his behavior.",n2
+幸福,"happiness
+こうふく · koufuku
+
+皆様の幸福を祈っています。
+I wish you all happiness.",n2
+公平,"fairness; impartiality
+こうへい · kouhei
+
+公平な判断が求められる。
+A fair judgment is required.",n2
+候補,"candidate
+こうほ · kouho
+
+彼は市長候補の一人だ。
+He is one of the candidates for mayor.",n2
+考慮,"consideration
+こうりょ · kouryo
+
+あらゆる可能性を考慮する。
+Consider all possibilities.",n2
+超える,"to exceed; to cross over
+こえる · koeru
+
+川を越える。
+Cross the river.",n2
+国籍,"nationality
+こくせき · kokuseki
+
+彼の国籍はフランスだ。
+His nationality is French.",n2
+国民,"nation; people of a country
+こくみん · kokumin
+
+国民の意見を聞く。
+Listen to the opinions of the people.",n2
+克服,"overcoming
+こくふく · kokufuku
+
+弱点を克服する。
+Overcome a weakness.",n2
+腰,"waist; lower back
+こし · koshi
+
+腰が痛い。
+My back hurts.",n2
+個人,"individual
+こじん · kojin
+
+個人の意見を尊重する。
+Respect individual opinions.",n2
+好み,"liking; taste
+このみ · konomi
+
+それは私の好みではない。
+That's not to my taste.",n2
+頃,"around ...; about the time...
+ころ · koro
+
+子供の頃、よくここで遊んだ。
+I often played here when I was a child.",n2
+殺す,"to kill
+ころす · korosu
+
+彼は虫も殺せないような優しい人だ。
+He is such a gentle person he couldn't even kill an insect.",n2
+今回,"this time
+こんかい · konkai
+
+今回は成功させたい。
+I want to succeed this time.",n2
+今後,"from now on; in the future
+こんご · kongo
+
+今後の計画を立てる。
+Make plans for the future.",n2
+混乱,"confusion; disorder
+こんらん · konran
+
+情報が混乱している。
+The information is confusing.",n2
+差,"difference
+さ · sa
+
+両者には大きな差がある。
+There is a big difference between them.",n2
+最高,"the best; supreme
+さいこう · saikou
+
+今日の天気は最高だ。
+The weather today is the best.",n2
+財産,"property; fortune
+ざいさん · zaisan
+
+彼は多くの財産を持っている。
+He has a lot of property.",n2

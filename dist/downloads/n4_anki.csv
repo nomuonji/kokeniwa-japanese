@@ -1,0 +1,3005 @@
+#separator:comma
+#html:false
+#deck:JLPT N4 Vocabulary
+#notetype:Basic
+#tags column:3
+案内,"guidance; information
+あんない · annai
+
+駅で案内してもらう。
+I get directions at the station.",n4
+受付,"reception; information desk
+うけつけ · uketsuke
+
+受付で名前を書く。
+I write my name at the reception.",n4
+先輩,"senior (at school/work)
+せんぱい · senpai
+
+先輩に相談する。
+I consult a senior colleague.",n4
+後輩,"junior (at school/work)
+こうはい · kouhai
+
+後輩を指導する。
+I coach a junior member.",n4
+社長,"company president
+しゃちょう · shachou
+
+社長に報告する。
+I report to the president.",n4
+部長,"department manager
+ぶちょう · buchou
+
+部長の指示を聞く。
+I follow the manager's instructions.",n4
+課長,"section chief
+かちょう · kachou
+
+課長と打ち合わせする。
+I have a meeting with the section chief.",n4
+約束,"promise; appointment
+やくそく · yakusoku
+
+約束を守る。
+I keep a promise.",n4
+残業,"overtime work
+ざんぎょう · zangyou
+
+最近残業が多い。
+I have a lot of overtime recently.",n4
+出張,"business trip
+しゅっちょう · shucchou
+
+大阪へ出張する。
+I go to Osaka on business.",n4
+引っ越す,"to move (house)
+ひっこす · hikkosu
+
+来月引っ越す。
+I will move next month.",n4
+規則,"rule; regulation
+きそく · kisoku
+
+規則を守る。
+I obey the rules.",n4
+禁止,"prohibition
+きんし · kinshi
+
+ここは喫煙禁止だ。
+Smoking is prohibited here.",n4
+注意,"caution; attention
+ちゅうい · chuui
+
+走らないように注意する。
+Be careful not to run.",n4
+支度,"preparation; getting ready
+したく · shitaku
+
+出かける支度をする。
+I get ready to go out.",n4
+並ぶ,"to line up
+ならぶ · narabu
+
+人が並ぶ。
+People line up.",n4
+並べる,"to arrange; to line up
+ならべる · naraberu
+
+机を並べる。
+I line up the desks.",n4
+済む,"to be finished; to be settled
+すむ · sumu
+
+手続きが済む。
+The procedure is completed.",n4
+済ませる,"to finish; to get done
+すませる · sumaseru
+
+宿題を済ませる。
+I finish my homework.",n4
+コピー,"copy
+こぴー · kopii
+
+書類をコピーする。
+I make copies of the documents.",n4
+伝える,"to convey; to tell
+つたえる · tsutaeru
+
+予定を伝える。
+I tell the schedule.",n4
+伝わる,"to be conveyed
+つたわる · tsutawaru
+
+気持ちが伝わる。
+My feelings are conveyed.",n4
+遅刻,"tardiness; being late
+ちこく · chikoku
+
+会議に遅刻した。
+I was late for the meeting.",n4
+早退,"leaving early
+そうたい · soutai
+
+今日は早退した。
+I left early today.",n4
+欠席,"absence
+けっせき · kesseki
+
+授業を欠席する。
+I am absent from class.",n4
+出席,"attendance
+しゅっせき · shusseki
+
+会議に出席する。
+I attend the meeting.",n4
+引き出し,"drawer
+ひきだし · hikidashi
+
+引き出しを開ける。
+I open the drawer.",n4
+決める,"to decide
+きめる · kimeru
+
+予定を決める。
+I decide the schedule.",n4
+決まる,"to be decided
+きまる · kimaru
+
+日程が決まる。
+The date is decided.",n4
+相談する,"to consult
+そうだんする · soudan suru
+
+友達に相談する。
+I consult a friend.",n4
+予算,"budget
+よさん · yosan
+
+来年度の予算を決める。
+Decide next year's budget.",n4
+申請,"application (to apply)
+しんせい · shinsei
+
+パスポートを申請する。
+Apply for a passport.",n4
+配達,"delivery
+はいたつ · haitatsu
+
+荷物を配達してもらう。
+Have my package delivered.",n4
+到着,"arrival
+とうちゃく · touchaku
+
+飛行機は10時に到着する。
+The plane arrives at 10.",n4
+出発,"departure
+しゅっぱつ · shuppatsu
+
+東京を出発する。
+Depart from Tokyo.",n4
+変更,"change; modification
+へんこう · henkou
+
+予定を変更する。
+Change the schedule.",n4
+連絡先,"contact information
+れんらくさき · renrakusaki
+
+連絡先を教えてください。
+Please tell me your contact information.",n4
+署名,"signature
+しょめい · shomei
+
+書類に署名する。
+Sign the document.",n4
+印鑑,"seal; stamp
+いんかん · inkan
+
+印鑑が必要です。
+A personal seal is required.",n4
+両替,"currency exchange
+りょうがえ · ryougae
+
+空港で両替する。
+Exchange money at the airport.",n4
+保証,"guarantee; warranty
+ほしょう · hoshou
+
+保証期間は一年です。
+The warranty period is one year.",n4
+修理,"repair
+しゅうり · shuuri
+
+スマホを修理に出す。
+Send my phone for repair.",n4
+返品,"return (goods)
+へんぴん · henpin
+
+不良品を返品する。
+Return a defective product.",n4
+交換,"exchange
+こうかん · koukan
+
+サイズを交換する。
+Exchange for a different size.",n4
+予約席,"reserved seat
+よやくせき · yoyakuseki
+
+予約席に座る。
+Sit in a reserved seat.",n4
+自由席,"non-reserved seat
+じゆうせき · jiyuuseki
+
+自由席を利用する。
+Use a non-reserved seat.",n4
+乗車券,"boarding ticket
+じょうしゃけん · joushaken
+
+乗車券を買う。
+Buy a boarding ticket.",n4
+精算,"adjustment; settlement
+せいさん · seisan
+
+運賃を精算する。
+Settle the fare difference.",n4
+遅延,"delay
+ちえん · chien
+
+電車が遅延している。
+The train is delayed.",n4
+振替,"substitution; alternative service
+ふりかえ · furikae
+
+振替輸送を利用する。
+Use alternative transportation.",n4
+連休,"consecutive holidays
+れんきゅう · renkyuu
+
+連休に旅行する。
+Travel during the holidays.",n4
+定休日,"regular holiday (shop)
+ていきゅうび · teikyuubi
+
+水曜日は定休日です。
+We are closed on Wednesdays.",n4
+営業中,"open for business
+えいぎょうちゅう · eigyouchuu
+
+今は営業中です。
+We are open now.",n4
+満席,"full; no seats
+まんせき · manseki
+
+本日は満席です。
+We are fully booked today.",n4
+空席,"available seat
+くうせき · kuuseki
+
+空席があります。
+There are available seats.",n4
+受付中,"accepting (applications)
+うけつけちゅう · uketsukechuu
+
+ただいま受付中です。
+We are now accepting applications.",n4
+締切,"deadline
+しめきり · shimekiri
+
+締切は金曜日です。
+The deadline is Friday.",n4
+期間,"period; term
+きかん · kikan
+
+キャンペーン期間中です。
+It's during the campaign period.",n4
+期限,"due date; expiration
+きげん · kigen
+
+有効期限を確認する。
+Check the expiration date.",n4
+延長,"extension
+えんちょう · enchou
+
+滞在を延長する。
+Extend the stay.",n4
+短縮,"shortening; reduction
+たんしゅく · tanshuku
+
+時間を短縮する。
+Shorten the time.",n4
+案内所,"information desk
+あんないじょ · annaijo
+
+案内所で聞く。
+Ask at the information desk.",n4
+窓口,"service counter
+まどぐち · madoguchi
+
+窓口で手続きする。
+Do the procedure at the counter.",n4
+手数料,"handling fee
+てすうりょう · tesuuryou
+
+手数料がかかる。
+A handling fee is charged.",n4
+合計,"total
+ごうけい · goukei
+
+合計は5,000円です。
+The total is 5,000 yen.",n4
+小計,"subtotal
+しょうけい · shoukei
+
+小計を確認する。
+Check the subtotal.",n4
+税込,"tax included
+ぜいこみ · zeikomi
+
+税込価格です。
+The price includes tax.",n4
+税別,"tax excluded
+ぜいべつ · zeibetsu
+
+税別価格です。
+The price excludes tax.",n4
+帳票,"form; report
+ちょうひょう · chouhyou
+
+帳票を印刷する。
+Print the form.",n4
+書類,"documents
+しょるい · shorui
+
+書類を提出する。
+Submit the documents.",n4
+届出,"notification; report
+とどけで · todokede
+
+住所変更の届出をする。
+File a change-of-address notice.",n4
+申込書,"application form
+もうしこみしょ · moushikomi sho
+
+申込書を記入する。
+Fill out the application form.",n4
+見積書,"quotation
+みつもりしょ · mitsumori sho
+
+見積書を作成する。
+Prepare a quotation.",n4
+請求書,"invoice
+せいきゅうしょ · seikyuusho
+
+請求書を送る。
+Send the invoice.",n4
+領収書,"receipt
+りょうしゅうしょ · ryoushuusho
+
+領収書をください。
+Please give me a receipt.",n4
+契約書,"contract (document)
+けいやくしょ · keiyakusho
+
+契約書に署名する。
+Sign the contract.",n4
+契約,"contract
+けいやく · keiyaku
+
+契約を更新する。
+Renew the contract.",n4
+解約,"cancellation (contract)
+かいやく · kaiyaku
+
+契約を解約する。
+Cancel the contract.",n4
+更新,"renewal; update
+こうしん · koushin
+
+パスポートを更新する。
+Renew my passport.",n4
+変更届,"change notice
+へんこうとどけ · henkou todoke
+
+変更届を提出する。
+Submit a change notice.",n4
+住所変更,"address change
+じゅうしょへんこう · juusho henkou
+
+住所変更を行う。
+Make an address change.",n4
+氏名変更,"name change
+しめいへんこう · shimei henkou
+
+氏名変更の手続き。
+Name change procedure.",n4
+口座,"bank account
+こうざ · kouza
+
+口座を開設する。
+Open a bank account.",n4
+振込,"bank transfer
+ふりこみ · furikomi
+
+代金を振込する。
+Pay by bank transfer.",n4
+引き落とし,"automatic debit
+ひきおとし · hikiotoshi
+
+料金は引き落としです。
+The fee is paid by automatic debit.",n4
+残高,"balance
+ざんだか · zandaka
+
+残高を確認する。
+Check the balance.",n4
+明細,"statement; details
+めいさい · meisai
+
+明細を発行する。
+Issue a statement.",n4
+暗証番号,"PIN; password
+あんしょうばんごう · anshou bangou
+
+暗証番号を入力する。
+Enter your PIN.",n4
+身分証,"ID card
+みぶんしょう · mibunshou
+
+身分証を提示する。
+Show your ID.",n4
+本人確認,"identity verification
+ほんにんかくにん · honnin kakunin
+
+本人確認が必要です。
+ID verification is required.",n4
+予約番号,"reservation number
+よやくばんごう · yoyaku bangou
+
+予約番号を教える。
+Tell the reservation number.",n4
+問い合わせ,"inquiry
+といあわせ · toiawase
+
+問い合わせに対応する。
+Respond to inquiries.",n4
+折り返し,"call back; return
+おりかえし · orikaeshi
+
+折り返し電話します。
+I'll call you back.",n4
+不在,"absence; not at home
+ふざい · fuzai
+
+不在のため受け取れなかった。
+I couldn't receive it because I was out.",n4
+在庫,"stock; inventory
+ざいこ · zaiko
+
+在庫を確認する。
+Check the stock.",n4
+入荷,"arrival of goods
+にゅうか · nyuuka
+
+新商品が入荷した。
+New products have arrived.",n4
+欠品,"out of stock
+けっぴん · keppin
+
+人気商品が欠品中だ。
+The popular item is out of stock.",n4
+取扱い,"handling
+とりあつかい · toriatsukai
+
+取扱いに注意する。
+Handle with care.",n4
+禁止事項,"prohibited items
+きんしじこう · kinshi jikou
+
+禁止事項を守る。
+Follow the prohibited items list.",n4
+注意事項,"points to note
+ちゅういじこう · chuui jikou
+
+注意事項をよく読む。
+Read the notes carefully.",n4
+意見,"opinion
+いけん · iken
+
+彼の意見に賛成です。
+I agree with his opinion.",n4
+経験,"experience
+けいけん · keiken
+
+海外で働いた経験があります。
+I have experience working abroad.",n4
+文化,"culture
+ぶんか · bunka
+
+日本の文化に興味があります。
+I am interested in Japanese culture.",n4
+社会,"society
+しゃかい · shakai
+
+社会の問題について考えます。
+I think about social problems.",n4
+法律,"law
+ほうりつ · houritsu
+
+法律を守らなければなりません。
+You must obey the law.",n4
+経済,"economy
+けいざい · keizai
+
+日本の経済は安定しています。
+The Japanese economy is stable.",n4
+政治,"politics
+せいじ · seiji
+
+彼は政治家になりたいです。
+He wants to be a politician.",n4
+理由,"reason
+りゆう · riyuu
+
+遅刻した理由を説明してください。
+Please explain the reason for being late.",n4
+原因,"cause
+げんいん · gen'in
+
+事故の原因を調べています。
+They are investigating the cause of the accident.",n4
+結果,"result
+けっか · kekka
+
+テストの結果が心配です。
+I am worried about the test results.",n4
+集める,"to collect; to gather
+あつめる · atsumeru
+
+切手を集めるのが趣味です。
+Collecting stamps is my hobby.",n4
+集まる,"to gather (intransitive)
+あつまる · atsumaru
+
+駅前に人が集まっています。
+People are gathering in front of the station.",n4
+落ちる,"to fall; to fail (exam)
+おちる · ochiru
+
+木から葉が落ちました。
+Leaves fell from the tree.",n4
+壊す,"to break (transitive)
+こわす · kowasu
+
+弟が時計を壊しました。
+My little brother broke the clock.",n4
+壊れる,"to break (intransitive)
+こわれる · kowareru
+
+洗濯機が壊れました。
+The washing machine broke.",n4
+直す,"to fix; to repair
+なおす · naosu
+
+自転車を直してもらいました。
+I had my bicycle fixed.",n4
+直る,"to be fixed
+なおる · naoru
+
+パソコンが直りました。
+The computer has been fixed.",n4
+治る,"to recover (illness)
+なおる · naoru
+
+風邪がやっと治りました。
+My cold finally got better.",n4
+増える,"to increase
+ふえる · fueru
+
+外国人観光客が増えています。
+Foreign tourists are increasing.",n4
+減る,"to decrease
+へる · heru
+
+この町の人口は減っています。
+This town's population is decreasing.",n4
+変わる,"to change (intransitive)
+かわる · kawaru
+
+信号が青に変わりました。
+The light changed to green.",n4
+変える,"to change (transitive)
+かえる · kaeru
+
+予定を変えました。
+I changed my plans.",n4
+続く,"to continue (intransitive)
+つづく · tsuzuku
+
+雨の日が続いています。
+The rainy days continue.",n4
+続ける,"to continue (transitive)
+つづける · tsuzukeru
+
+日本語の勉強を続けます。
+I will continue studying Japanese.",n4
+始まり,"beginning; origin
+はじまり · hajimari
+
+これが物語の始まりです。
+This is the beginning of the story.",n4
+動く,"to move (intransitive)
+うごく · ugoku
+
+エレベーターが動いていません。
+The elevator isn't working.",n4
+動かす,"to move (transitive)
+うごかす · ugokasu
+
+机を窓の近くに動かしました。
+I moved the desk near the window.",n4
+包む,"to wrap
+つつむ · tsutsumu
+
+プレゼントをきれいな紙で包みました。
+I wrapped the present in pretty paper.",n4
+閉じる,"to close (book, eyes)
+とじる · tojiru
+
+本を閉じてください。
+Please close your books.",n4
+投げる,"to throw
+なげる · nageru
+
+ボールを投げてください。
+Please throw the ball.",n4
+打つ,"to hit; to type
+うつ · utsu
+
+メールを打っています。
+I'm typing an email.",n4
+折れる,"to break; to snap
+おれる · oreru
+
+強い風で木の枝が折れました。
+A tree branch snapped in the strong wind.",n4
+割れる,"to break; to crack
+われる · wareru
+
+お皿が割れてしまいました。
+The plate broke.",n4
+汚れる,"to get dirty
+よごれる · yogoreru
+
+白いシャツが汚れました。
+My white shirt got dirty.",n4
+濡れる,"to get wet
+ぬれる · nureru
+
+雨で服が濡れました。
+My clothes got wet in the rain.",n4
+乾く,"to dry
+かわく · kawaku
+
+洗濯物がもう乾きました。
+The laundry has already dried.",n4
+冷える,"to get cold
+ひえる · hieru
+
+夜は体が冷えます。
+Your body gets cold at night.",n4
+温める,"to warm up
+あたためる · atatameru
+
+スープを温めましょうか。
+Shall I warm up the soup?",n4
+沸く,"to boil (intransitive)
+わく · waku
+
+お湯が沸きました。
+The water has boiled.",n4
+焼ける,"to be grilled; to burn
+やける · yakeru
+
+パンがおいしそうに焼けました。
+The bread baked up nicely.",n4
+迎える,"to welcome; to pick up
+むかえる · mukaeru
+
+空港へ友達を迎えに行きます。
+I'm going to the airport to pick up my friend.",n4
+送り迎え,"pick-up and drop-off
+おくりむかえ · okurimukae
+
+毎日子供の送り迎えをしています。
+I drop off and pick up my child every day.",n4
+訪ねる,"to visit
+たずねる · tazuneru
+
+週末に祖父母を訪ねます。
+I'm visiting my grandparents this weekend.",n4
+寄る,"to stop by
+よる · yoru
+
+帰りにコンビニに寄りました。
+I stopped by the convenience store on my way home.",n4
+通る,"to pass through
+とおる · tooru
+
+この道は毎朝バスが通ります。
+A bus passes along this road every morning.",n4
+進む,"to advance; to progress
+すすむ · susumu
+
+工事が順調に進んでいます。
+The construction is progressing smoothly.",n4
+戻る,"to return; to go back
+もどる · modoru
+
+席に戻ってください。
+Please return to your seat.",n4
+戻す,"to put back
+もどす · modosu
+
+本を棚に戻しました。
+I put the book back on the shelf.",n4
+過ぎる,"to pass; to exceed
+すぎる · sugiru
+
+もう十二時を過ぎました。
+It's already past twelve.",n4
+経つ,"to pass (time)
+たつ · tatsu
+
+日本に来て一年が経ちました。
+A year has passed since I came to Japan.",n4
+慣れる,"to get used to
+なれる · nareru
+
+新しい生活に慣れました。
+I've gotten used to my new life.",n4
+覚める,"to wake up
+さめる · sameru
+
+朝五時に目が覚めました。
+I woke up at five in the morning.",n4
+驚く,"to be surprised
+おどろく · odoroku
+
+ニュースを聞いて驚きました。
+I was surprised to hear the news.",n4
+喜ぶ,"to be pleased
+よろこぶ · yorokobu
+
+母はプレゼントをとても喜びました。
+My mother was very pleased with the present.",n4
+困る,"to be troubled
+こまる · komaru
+
+財布をなくして困っています。
+I'm in trouble because I lost my wallet.",n4
+あきらめる,"to give up
+あきらめる · akirameru
+
+夢をあきらめないでください。
+Please don't give up on your dream.",n4
+間違える,"to make a mistake
+まちがえる · machigaeru
+
+電車を間違えました。
+I took the wrong train.",n4
+間違い,"mistake
+まちがい · machigai
+
+作文の間違いを直しました。
+I corrected the mistakes in my essay.",n4
+確かめる,"to confirm; to check
+たしかめる · tashikameru
+
+時間をもう一度確かめてください。
+Please check the time again.",n4
+美しい,"beautiful
+うつくしい · utsukushii
+
+ここからの夕日は美しいです。
+The sunset from here is beautiful.",n4
+珍しい,"rare; unusual
+めずらしい · mezurashii
+
+珍しい鳥を見ました。
+I saw a rare bird.",n4
+触る,"to touch
+さわる · sawaru
+
+作品に触らないでください。
+Please do not touch the artworks.",n4
+厳しい,"strict; severe
+きびしい · kibishii
+
+先生はとても厳しいです。
+The teacher is very strict.",n4
+塗る,"to paint; to spread
+ぬる · nuru
+
+壁を白く塗りました。
+I painted the wall white.",n4
+深い,"deep
+ふかい · fukai
+
+この川は深いので気をつけて。
+This river is deep, so be careful.",n4
+浅い,"shallow
+あさい · asai
+
+子供は浅いプールで遊びます。
+The children play in the shallow pool.",n4
+固い,"hard; firm
+かたい · katai
+
+このパンは固いです。
+This bread is hard.",n4
+柔らかい,"soft
+やわらかい · yawarakai
+
+柔らかいベッドで寝たいです。
+I want to sleep on a soft bed.",n4
+苦い,"bitter
+にがい · nigai
+
+この薬は苦いです。
+This medicine is bitter.",n4
+酸っぱい,"sour
+すっぱい · suppai
+
+このみかんは少し酸っぱいです。
+This mandarin is a little sour.",n4
+眩しい,"dazzling; bright
+まぶしい · mabushii
+
+朝の光が眩しいです。
+The morning light is dazzling.",n4
+空く,"to become vacant
+あく · aku
+
+席が空いたら教えてください。
+Please tell me when a seat opens up.",n4
+細かい,"fine; detailed
+こまかい · komakai
+
+細かい字が読めません。
+I can't read fine print.",n4
+坂,"slope; hill
+さか · saka
+
+この坂を上ると神社があります。
+If you go up this hill, there is a shrine.",n4
+変,"strange; odd
+へん · hen
+
+変な音がしませんか。
+Don't you hear a strange sound?",n4
+無理,"impossible; unreasonable
+むり · muri
+
+一日で終わらせるのは無理です。
+Finishing it in one day is impossible.",n4
+大事,"important
+だいじ · daiji
+
+これは大事な書類です。
+These are important documents.",n4
+必死,"desperate; frantic
+ひっし · hisshi
+
+必死に走って間に合いました。
+I ran desperately and made it in time.",n4
+十分,"enough; sufficient
+じゅうぶん · juubun
+
+時間は十分あります。
+We have plenty of time.",n4
+熱心に,"eagerly; enthusiastically
+ねっしんに · nesshinni
+
+学生たちは熱心に勉強しています。
+The students are studying eagerly.",n4
+丁寧に,"politely; carefully
+ていねいに · teineini
+
+字を丁寧に書いてください。
+Please write your characters carefully.",n4
+港,"harbor; port
+みなと · minato
+
+港から船が出発しました。
+The ship departed from the harbor.",n4
+無くなる,"to run out; to disappear
+なくなる · nakunaru
+
+砂糖が無くなりました。
+We've run out of sugar.",n4
+危険,"danger; dangerous
+きけん · kiken
+
+この道は夜、危険です。
+This road is dangerous at night.",n4
+我慢,"patience; endurance
+がまん · gaman
+
+痛みを我慢しないでください。
+Please don't endure the pain in silence.",n4
+しっかり,"firmly; properly
+しっかり · shikkari
+
+朝ご飯をしっかり食べましょう。
+Let's eat a proper breakfast.",n4
+はっきり,"clearly
+はっきり · hakkiri
+
+意見をはっきり言ってください。
+Please state your opinion clearly.",n4
+やはり,"as expected; after all
+やはり · yahari
+
+やはり彼が一番早かったです。
+As expected, he was the fastest.",n4
+そろそろ,"soon; it's about time
+そろそろ · sorosoro
+
+そろそろ帰りましょう。
+It's about time we went home.",n4
+わざわざ,"to go out of one's way
+わざわざ · wazawaza
+
+わざわざ来てくれてありがとう。
+Thank you for coming all this way.",n4
+なるべく,"as much as possible
+なるべく · narubeku
+
+なるべく早く来てください。
+Please come as early as possible.",n4
+できるだけ,"as much as one can
+できるだけ · dekirudake
+
+できるだけ日本語を使いましょう。
+Let's use Japanese as much as we can.",n4
+たまに,"occasionally
+たまに · tamani
+
+たまに一人で映画を見ます。
+Occasionally I watch movies alone.",n4
+ほぼ,"almost; nearly
+ほぼ · hobo
+
+仕事はほぼ終わりました。
+The work is almost finished.",n4
+すっかり,"completely
+すっかり · sukkari
+
+約束をすっかり忘れていました。
+I had completely forgotten the appointment.",n4
+ずっと,"the whole time; by far
+ずっと · zutto
+
+朝からずっと雨が降っています。
+It has been raining since morning.",n4
+とうとう,"finally; in the end
+とうとう · toutou
+
+とうとう夢が叶いました。
+My dream finally came true.",n4
+もうすぐ,"soon
+もうすぐ · mousugu
+
+もうすぐ春が来ます。
+Spring is coming soon.",n4
+さっき,"a little while ago
+さっき · sakki
+
+さっき田中さんから電話がありました。
+There was a call from Tanaka-san a little while ago.",n4
+これから,"from now on
+これから · korekara
+
+これから買い物に行きます。
+I'm going shopping now.",n4
+そのまま,"as it is
+そのまま · sonomama
+
+そのままお待ちください。
+Please wait as you are.",n4
+順番,"order; turn
+じゅんばん · junban
+
+順番に並んでください。
+Please line up in order.",n4
+割と,"relatively; fairly
+わりと · warito
+
+このテストは割と簡単でした。
+This test was fairly easy.",n4
+随分,"quite; considerably
+ずいぶん · zuibun
+
+随分暖かくなりましたね。
+It's gotten quite warm, hasn't it?",n4
+絶対に,"absolutely; definitely
+ぜったいに · zettaini
+
+明日は絶対に遅れないでください。
+Please absolutely do not be late tomorrow.",n4
+多め,"a little more than usual
+おおめ · oome
+
+ご飯を多めにください。
+Please give me a bit more rice.",n4
+別に,"not particularly
+べつに · betsuni
+
+別に問題はありません。
+There's no particular problem.",n4
+確かに,"certainly; indeed
+たしかに · tashikani
+
+確かに彼の言う通りです。
+He is certainly right.",n4
+実は,"actually; to tell the truth
+じつは · jitsuwa
+
+実は来月、結婚します。
+Actually, I'm getting married next month.",n4
+会議,"meeting; conference
+かいぎ · kaigi
+
+三時から会議があります。
+There's a meeting from three o'clock.",n4
+会話,"conversation
+かいわ · kaiwa
+
+日本語で会話の練習をします。
+I practice conversation in Japanese.",n4
+挨拶,"greeting
+あいさつ · aisatsu
+
+朝の挨拶は大切です。
+Morning greetings are important.",n4
+お礼,"thanks; gratitude
+おれい · orei
+
+お世話になったお礼を言いました。
+I thanked them for their help.",n4
+お詫び,"apology
+おわび · owabi
+
+遅刻のお詫びをしました。
+I apologized for being late.",n4
+説明書,"instruction manual
+せつめいしょ · setsumeisho
+
+説明書をよく読んでください。
+Please read the manual carefully.",n4
+予定日,"scheduled date
+よていび · yoteibi
+
+届く予定日は金曜日です。
+The scheduled delivery date is Friday.",n4
+約,"approximately
+やく · yaku
+
+駅まで約十五分かかります。
+It takes about fifteen minutes to the station.",n4
+場面,"scene; situation
+ばめん · bamen
+
+映画の最後の場面が好きです。
+I like the last scene of the movie.",n4
+世話,"care; looking after
+せわ · sewa
+
+犬の世話は私の仕事です。
+Taking care of the dog is my job.",n4
+手伝い,"help; helper
+てつだい · tetsudai
+
+引っ越しの手伝いを頼まれました。
+I was asked to help with the move.",n4
+準備中,"in preparation
+じゅんびちゅう · junbichuu
+
+店はまだ準備中です。
+The store is still preparing to open.",n4
+用意,"preparation
+ようい · youi
+
+晩ご飯の用意ができました。
+Dinner is ready.",n4
+貯金,"savings
+ちょきん · chokin
+
+旅行のために貯金しています。
+I'm saving money for a trip.",n4
+給料,"salary
+きゅうりょう · kyuuryou
+
+給料は月末にもらいます。
+I get my salary at the end of the month.",n4
+アルバイト,"part-time job
+アルバイト · arubaito
+
+週三回アルバイトをしています。
+I work part-time three times a week.",n4
+就職,"finding employment
+しゅうしょく · shuushoku
+
+来年、東京で就職します。
+I'll start working in Tokyo next year.",n4
+面接,"interview
+めんせつ · mensetsu
+
+明日、会社の面接があります。
+I have a job interview tomorrow.",n4
+履歴書,"resume; CV
+りれきしょ · rirekisho
+
+履歴書を書きました。
+I wrote my resume.",n4
+名刺,"business card
+めいし · meishi
+
+名刺を交換しました。
+We exchanged business cards.",n4
+上司,"boss; superior
+じょうし · joushi
+
+上司に相談してみます。
+I'll consult my boss.",n4
+部下,"subordinate
+ぶか · buka
+
+彼には部下が五人います。
+He has five subordinates.",n4
+同僚,"colleague
+どうりょう · douryou
+
+同僚とランチに行きました。
+I went to lunch with my colleagues.",n4
+客,"customer; guest
+きゃく · kyaku
+
+今日は客が多いです。
+There are many customers today.",n4
+店長,"store manager
+てんちょう · tenchou
+
+店長に聞いてみます。
+I'll ask the store manager.",n4
+工場,"factory
+こうじょう · koujou
+
+父は自動車の工場で働いています。
+My father works at a car factory.",n4
+事務,"office work
+じむ · jimu
+
+姉は事務の仕事をしています。
+My sister does office work.",n4
+営業時間,"business hours
+えいぎょうじかん · eigyoujikan
+
+営業時間は十時から八時までです。
+Business hours are from ten to eight.",n4
+入学,"school admission
+にゅうがく · nyuugaku
+
+四月に大学に入学します。
+I enter university in April.",n4
+卒業生,"graduate
+そつぎょうせい · sotsugyousei
+
+この大学の卒業生です。
+I'm a graduate of this university.",n4
+教育,"education
+きょういく · kyouiku
+
+教育は国の未来を作ります。
+Education builds a country's future.",n4
+科目,"school subject
+かもく · kamoku
+
+好きな科目は歴史です。
+My favorite subject is history.",n4
+点数,"score; points
+てんすう · tensuu
+
+テストの点数が上がりました。
+My test score went up.",n4
+辞める,"to quit (a job)
+やめる · yameru
+
+彼は先月、会社を辞めました。
+He quit the company last month.",n4
+遅刻する,"to be late (for)
+ちこくする · chikoku suru
+
+寝坊して学校に遅刻しました。
+I overslept and was late for school.",n4
+欠席する,"to be absent
+けっせきする · kesseki suru
+
+病気で授業を欠席しました。
+I missed class because I was sick.",n4
+参加,"participation
+さんか · sanka
+
+マラソン大会に参加します。
+I'll participate in the marathon.",n4
+申し込み,"application
+もうしこみ · moushikomi
+
+申し込みは金曜日までです。
+Applications are due by Friday.",n4
+締め切り,"deadline
+しめきり · shimekiri
+
+レポートの締め切りは明日です。
+The report deadline is tomorrow.",n4
+予習する,"to prepare for a lesson
+よしゅうする · yoshuu suru
+
+明日の授業を予習しました。
+I prepared for tomorrow's class.",n4
+発音,"pronunciation
+はつおん · hatsuon
+
+日本語の発音を練習しています。
+I'm practicing Japanese pronunciation.",n4
+文法,"grammar
+ぶんぽう · bunpou
+
+文法の質問があります。
+I have a grammar question.",n4
+単語,"word; vocabulary
+たんご · tango
+
+毎日十個の単語を覚えます。
+I memorize ten words every day.",n4
+辞典,"dictionary
+じてん · jiten
+
+電子辞典を使っています。
+I use an electronic dictionary.",n4
+教科書,"textbook
+きょうかしょ · kyoukasho
+
+教科書の十ページを開いてください。
+Please open your textbook to page ten.",n4
+黒板消し,"blackboard eraser
+こくばんけし · kokubankeshi
+
+黒板消しで字を消しました。
+I erased the writing with the blackboard eraser.",n4
+地球,"the Earth
+ちきゅう · chikyuu
+
+地球は丸いです。
+The Earth is round.",n4
+月見,"moon viewing
+つきみ · tsukimi
+
+秋に月見をします。
+We enjoy moon viewing in autumn.",n4
+星空,"starry sky
+ほしぞら · hoshizora
+
+山の上から星空を見ました。
+I looked at the starry sky from the mountaintop.",n4
+湖,"lake
+みずうみ · mizuumi
+
+湖の周りを散歩しました。
+I took a walk around the lake.",n4
+波,"wave
+なみ · nami
+
+今日は波が高いです。
+The waves are high today.",n4
+砂,"sand
+すな · suna
+
+子供が砂で遊んでいます。
+The children are playing in the sand.",n4
+草,"grass
+くさ · kusa
+
+庭の草を取りました。
+I pulled the weeds in the garden.",n4
+葉,"leaf
+は · ha
+
+秋になると葉が赤くなります。
+In autumn the leaves turn red.",n4
+枝,"branch
+えだ · eda
+
+鳥が枝に止まっています。
+A bird is perched on the branch.",n4
+根,"root
+ね · ne
+
+木の根が道まで伸びています。
+The tree's roots extend to the road.",n4
+梅雨,"rainy season
+つゆ · tsuyu
+
+六月は梅雨の季節です。
+June is the rainy season.",n4
+季節,"season
+きせつ · kisetsu
+
+どの季節が一番好きですか。
+Which season do you like best?",n4
+気温,"temperature (air)
+きおん · kion
+
+今日の気温は三十度です。
+Today's temperature is thirty degrees.",n4
+天気予報,"weather forecast
+てんきよほう · tenkiyohou
+
+天気予報によると明日は雪です。
+According to the forecast, it will snow tomorrow.",n4
+雷,"thunder; lightning
+かみなり · kaminari
+
+昨夜、雷が鳴りました。
+There was thunder last night.",n4
+虹,"rainbow
+にじ · niji
+
+雨の後、虹が出ました。
+A rainbow appeared after the rain.",n4
+霧,"fog
+きり · kiri
+
+朝は霧が濃かったです。
+The fog was thick this morning.",n4
+星占い,"horoscope
+ほしうらない · hoshiuranai
+
+毎朝、星占いを見ます。
+I check my horoscope every morning.",n4
+人口,"population
+じんこう · jinkou
+
+この市の人口は五十万人です。
+This city's population is 500,000.",n4
+都会,"city; urban area
+とかい · tokai
+
+都会の生活は便利ですが忙しいです。
+City life is convenient but busy.",n4
+田舎,"countryside
+いなか · inaka
+
+夏休みに田舎へ帰ります。
+I go back to the countryside for summer vacation.",n4
+郊外,"suburbs
+こうがい · kougai
+
+郊外に家を買いました。
+We bought a house in the suburbs.",n4
+近所,"neighborhood
+きんじょ · kinjo
+
+近所に新しいパン屋ができました。
+A new bakery opened in the neighborhood.",n4
+住民票,"residence certificate
+じゅうみんひょう · juuminhyou
+
+市役所で住民票を取りました。
+I got my residence certificate at city hall.",n4
+市役所,"city hall
+しやくしょ · shiyakusho
+
+市役所は九時に開きます。
+City hall opens at nine.",n4
+大使館,"embassy
+たいしかん · taishikan
+
+ビザのことで大使館へ行きました。
+I went to the embassy about my visa.",n4
+翻訳家,"translator
+ほんやくか · honyakuka
+
+将来は翻訳家になりたいです。
+I want to become a translator in the future.",n4
+ビザ,"visa
+ビザ · biza
+
+学生ビザを更新しました。
+I renewed my student visa.",n4
+パスポート,"passport
+パスポート · pasupooto
+
+パスポートを見せてください。
+Please show me your passport.",n4
+保険,"insurance
+ほけん · hoken
+
+健康保険に入っています。
+I have health insurance.",n4
+税金,"tax
+ぜいきん · zeikin
+
+毎年、税金を払います。
+I pay taxes every year.",n4
+郵便,"mail; postal service
+ゆうびん · yuubin
+
+郵便で書類を送りました。
+I sent the documents by mail.",n4
+宅配便,"home delivery service
+たくはいびん · takuhaibin
+
+宅配便で荷物が届きました。
+A package arrived by courier.",n4
+銀行口座,"bank account
+ぎんこうこうざ · ginkoukouza
+
+銀行口座を開きました。
+I opened a bank account.",n4
+現金,"cash
+げんきん · genkin
+
+現金で払いますか。
+Will you pay in cash?",n4
+クレジットカード,"credit card
+クレジットカード · kurejittokaado
+
+クレジットカードが使えますか。
+Can I use a credit card?",n4
+値上がり,"price increase
+ねあがり · neagari
+
+野菜が値上がりしています。
+Vegetable prices are rising.",n4
+観光,"sightseeing
+かんこう · kankou
+
+京都を観光しました。
+I went sightseeing in Kyoto.",n4
+混む,"to be crowded
+こむ · komu
+
+朝の電車はとても混みます。
+Morning trains are very crowded.",n4
+渋滞,"traffic jam
+じゅうたい · juutai
+
+渋滞で一時間遅れました。
+I was an hour late because of the traffic jam.",n4
+事件,"incident; case
+じけん · jiken
+
+近所で事件がありました。
+There was an incident in the neighborhood.",n4
+火事,"fire (disaster)
+かじ · kaji
+
+昨夜、駅の近くで火事がありました。
+There was a fire near the station last night.",n4
+地震速報,"earthquake alert
+じしんそくほう · jishinsokuhou
+
+地震速報が携帯に届きました。
+An earthquake alert came to my phone.",n4
+消防車,"fire engine
+しょうぼうしゃ · shoubousha
+
+消防車が走って行きました。
+A fire engine went by.",n4
+救急車,"ambulance
+きゅうきゅうしゃ · kyuukyuusha
+
+救急車を呼んでください。
+Please call an ambulance.",n4
+ニュース,"news
+ニュース · nyuusu
+
+毎晩ニュースを見ます。
+I watch the news every night.",n4
+新聞記事,"newspaper article
+しんぶんきじ · shinbunkiji
+
+面白い新聞記事を読みました。
+I read an interesting newspaper article.",n4
+情報,"information
+じょうほう · jouhou
+
+インターネットで情報を集めました。
+I gathered information on the internet.",n4
+食料品,"groceries
+しょくりょうひん · shokuryouhin
+
+スーパーで食料品を買いました。
+I bought groceries at the supermarket.",n4
+米,"uncooked rice
+こめ · kome
+
+米を五キロ買いました。
+I bought five kilos of rice.",n4
+豆腐,"tofu
+とうふ · toufu
+
+味噌汁に豆腐を入れます。
+I put tofu in the miso soup.",n4
+味噌,"miso
+みそ · miso
+
+毎朝、味噌汁を飲みます。
+I have miso soup every morning.",n4
+海苔,"seaweed (nori)
+のり · nori
+
+おにぎりに海苔を巻きます。
+I wrap nori around the rice ball.",n4
+漬物,"pickles
+つけもの · tsukemono
+
+祖母の漬物はおいしいです。
+My grandmother's pickles are delicious.",n4
+丼,"rice bowl dish
+どんぶり · donburi
+
+昼は牛丼を食べました。
+I had a beef bowl for lunch.",n4
+定食,"set meal
+ていしょく · teishoku
+
+魚の定食を注文しました。
+I ordered the fish set meal.",n4
+おかず,"side dish
+おかず · okazu
+
+今日のおかずは何ですか。
+What's today's side dish?",n4
+デザート,"dessert
+デザート · dezaato
+
+デザートにプリンを食べました。
+I had pudding for dessert.",n4
+材料,"ingredients; materials
+ざいりょう · zairyou
+
+ケーキの材料を買いに行きます。
+I'm going to buy ingredients for a cake.",n4
+冷凍食品,"frozen food
+れいとうしょくひん · reitoushokuhin
+
+忙しい日は冷凍食品を使います。
+On busy days I use frozen food.",n4
+沸かす,"to boil (transitive)
+わかす · wakasu
+
+お湯を沸かしてください。
+Please boil some water.",n4
+炊く,"to cook (rice)
+たく · taku
+
+ご飯を炊いておきました。
+I cooked the rice in advance.",n4
+揚げる,"to deep-fry
+あげる · ageru
+
+天ぷらを揚げるのは難しいです。
+Deep-frying tempura is difficult.",n4
+蒸す,"to steam
+むす · musu
+
+野菜を蒸して食べます。
+I steam vegetables to eat.",n4
+冷やす,"to chill
+ひやす · hiyasu
+
+ビールを冷やしておきました。
+I chilled the beer.",n4
+包丁,"kitchen knife
+ほうちょう · houchou
+
+包丁で野菜を切ります。
+I cut vegetables with a kitchen knife.",n4
+鍋,"pot; hot pot
+なべ · nabe
+
+冬は鍋料理が人気です。
+Hot pot dishes are popular in winter.",n4
+フライパン,"frying pan
+フライパン · furaipan
+
+フライパンで卵を焼きました。
+I fried an egg in the frying pan.",n4
+炊飯器,"rice cooker
+すいはんき · suihanki
+
+新しい炊飯器を買いました。
+I bought a new rice cooker.",n4
+電子レンジ,"microwave oven
+でんしレンジ · denshirenji
+
+電子レンジで温めてください。
+Please heat it in the microwave.",n4
+掃除機,"vacuum cleaner
+そうじき · soujiki
+
+週末に掃除機をかけます。
+I vacuum on weekends.",n4
+家具,"furniture
+かぐ · kagu
+
+新しい家具を注文しました。
+I ordered new furniture.",n4
+荷造り,"packing
+にづくり · nizukuri
+
+引っ越しの荷造りが大変です。
+Packing for the move is hard work.",n4
+大家,"landlord
+おおや · ooya
+
+大家さんに鍵をもらいました。
+I got the key from the landlord.",n4
+敷金,"security deposit
+しききん · shikikin
+
+敷金は家賃の二か月分です。
+The deposit is two months' rent.",n4
+間取り,"floor plan
+まどり · madori
+
+この部屋の間取りは使いやすいです。
+This room's layout is easy to use.",n4
+和室,"Japanese-style room
+わしつ · washitsu
+
+和室で昼寝をしました。
+I took a nap in the Japanese-style room.",n4
+洋室,"Western-style room
+ようしつ · youshitsu
+
+寝室は洋室です。
+The bedroom is Western-style.",n4
+着替える,"to change clothes
+きがえる · kigaeru
+
+帰ったらすぐ着替えます。
+I change clothes as soon as I get home.",n4
+下着,"underwear
+したぎ · shitagi
+
+下着を洗濯しました。
+I washed my underwear.",n4
+制服,"uniform
+せいふく · seifuku
+
+この学校の制服はかわいいです。
+This school's uniform is cute.",n4
+スーツ,"suit
+スーツ · suutsu
+
+面接にスーツを着て行きます。
+I'll wear a suit to the interview.",n4
+ネクタイ,"necktie
+ネクタイ · nekutai
+
+父の日にネクタイをあげました。
+I gave my father a tie for Father's Day.",n4
+腕時計,"wristwatch
+うでどけい · udedokei
+
+誕生日に腕時計をもらいました。
+I got a wristwatch for my birthday.",n4
+アクセサリー,"accessories
+アクセサリー · akusesarii
+
+アクセサリーの店を見ました。
+I looked at an accessory shop.",n4
+流行,"fashion; trend
+りゅうこう · ryuukou
+
+今年の流行の色は緑だそうです。
+I hear this year's trendy color is green.",n4
+試着,"trying on clothes
+しちゃく · shichaku
+
+このシャツを試着してもいいですか。
+May I try on this shirt?",n4
+サイズ,"size
+サイズ · saizu
+
+もう少し大きいサイズはありますか。
+Do you have a slightly bigger size?",n4
+釣り,"fishing
+つり · tsuri
+
+週末は父と釣りに行きます。
+I go fishing with my father on weekends.",n4
+登山,"mountain climbing
+とざん · tozan
+
+夏に富士山へ登山に行きます。
+I'm going climbing on Mt. Fuji this summer.",n4
+キャンプ,"camping
+キャンプ · kyanpu
+
+湖の近くでキャンプをしました。
+We camped near the lake.",n4
+ドライブ,"a drive
+ドライブ · doraibu
+
+海までドライブしました。
+We took a drive to the sea.",n4
+ゲーム,"game
+ゲーム · geemu
+
+夜、友達とゲームをします。
+I play games with friends at night.",n4
+カラオケ,"karaoke
+カラオケ · karaoke
+
+カラオケで三時間歌いました。
+We sang for three hours at karaoke.",n4
+ダンス,"dance
+ダンス · dansu
+
+娘はダンスを習っています。
+My daughter takes dance lessons.",n4
+演奏,"musical performance
+えんそう · ensou
+
+ピアノの演奏を聞きました。
+I listened to a piano performance.",n4
+会場,"venue; hall
+かいじょう · kaijou
+
+会場は駅から歩いて五分です。
+The venue is a five-minute walk from the station.",n4
+読書,"reading (books)
+どくしょ · dokusho
+
+趣味は読書です。
+My hobby is reading.",n4
+くれる,"to give (to me)
+くれる · kureru
+
+友達が本をくれました。
+My friend gave me a book.",n4
+いただく,"to receive (humble)
+いただく · itadaku
+
+先生からお手紙をいただきました。
+I received a letter from my teacher.",n4
+差し上げる,"to give (humble)
+さしあげる · sashiageru
+
+お客様にお茶を差し上げました。
+I served tea to the guest.",n4
+いらっしゃる,"to be; to come (honorific)
+いらっしゃる · irassharu
+
+先生は今、教室にいらっしゃいます。
+The teacher is in the classroom now.",n4
+おっしゃる,"to say (honorific)
+おっしゃる · ossharu
+
+社長がおっしゃった通りです。
+It is just as the president said.",n4
+召し上がる,"to eat (honorific)
+めしあがる · meshiagaru
+
+どうぞ召し上がってください。
+Please go ahead and eat.",n4
+参る,"to go; to come (humble)
+まいる · mairu
+
+明日、三時に参ります。
+I will come at three tomorrow.",n4
+申す,"to say (humble)
+もうす · mousu
+
+田中と申します。
+My name is Tanaka.",n4
+拝見する,"to see (humble)
+はいけんする · haiken suru
+
+お手紙を拝見しました。
+I read your letter.",n4
+ご覧になる,"to see (honorific)
+ごらんになる · goran ni naru
+
+こちらの資料をご覧になってください。
+Please take a look at this material.",n4
+伺う,"to visit; to ask (humble)
+うかがう · ukagau
+
+明日、お宅に伺います。
+I will visit your home tomorrow.",n4
+頼む,"to request; to order
+たのむ · tanomu
+
+友達に手伝いを頼みました。
+I asked a friend for help.",n4
+断る,"to refuse
+ことわる · kotowaru
+
+誘いを断りました。
+I declined the invitation.",n4
+誘う,"to invite
+さそう · sasou
+
+友達を映画に誘いました。
+I invited my friend to a movie.",n4
+謝る,"to apologize
+あやまる · ayamaru
+
+遅刻して先生に謝りました。
+I apologized to the teacher for being late.",n4
+褒める,"to praise
+ほめる · homeru
+
+先生が私の作文を褒めてくれました。
+The teacher praised my essay.",n4
+叱る,"to scold
+しかる · shikaru
+
+母に叱られました。
+I was scolded by my mother.",n4
+伝言,"message (verbal)
+でんごん · dengon
+
+田中さんに伝言をお願いします。
+Please give Tanaka-san a message.",n4
+守る,"to protect; to keep
+まもる · mamoru
+
+ルールを守ってください。
+Please follow the rules.",n4
+信じる,"to believe
+しんじる · shinjiru
+
+彼の言葉を信じています。
+I believe his words.",n4
+疑う,"to doubt
+うたがう · utagau
+
+彼を疑ってすみませんでした。
+I'm sorry for doubting him.",n4
+敬語,"honorific language
+けいご · keigo
+
+敬語の使い方を勉強しています。
+I'm studying how to use honorific language.",n4
+冗談,"joke
+じょうだん · joudan
+
+彼の冗談はいつも面白いです。
+His jokes are always funny.",n4
+嘘,"lie
+うそ · uso
+
+嘘をつかないでください。
+Please don't tell lies.",n4
+秘密,"secret
+ひみつ · himitsu
+
+これは二人だけの秘密です。
+This is a secret between the two of us.",n4
+噂,"rumor
+うわさ · uwasa
+
+その噂は本当ではありません。
+That rumor isn't true.",n4
+文句,"complaint
+もんく · monku
+
+彼はいつも文句を言っています。
+He is always complaining.",n4
+喧嘩,"quarrel; fight
+けんか · kenka
+
+兄と喧嘩をしました。
+I had a fight with my brother.",n4
+仲直り,"reconciliation
+なかなおり · nakanaori
+
+友達と仲直りしました。
+I made up with my friend.",n4
+仲,"relationship
+なか · naka
+
+二人はとても仲がいいです。
+Those two get along very well.",n4
+感謝,"gratitude
+かんしゃ · kansha
+
+皆さんに感謝しています。
+I'm grateful to everyone.",n4
+感動,"deep emotion
+かんどう · kandou
+
+映画を見て感動しました。
+I was moved by the movie.",n4
+感想,"impressions; thoughts
+かんそう · kansou
+
+本の感想を聞かせてください。
+Tell me your thoughts on the book.",n4
+気になる,"to be curious about; to bother
+きになる · ki ni naru
+
+試験の結果が気になります。
+I'm anxious about the exam results.",n4
+気をつける,"to be careful
+きをつける · ki o tsukeru
+
+車に気をつけてください。
+Please watch out for cars.",n4
+楽しみにする,"to look forward to
+たのしみにする · tanoshimi ni suru
+
+お会いできるのを楽しみにしています。
+I'm looking forward to meeting you.",n4
+びっくりする,"to be surprised
+びっくりする · bikkuri suru
+
+急な知らせにびっくりしました。
+I was surprised by the sudden news.",n4
+安心する,"to feel relieved
+あんしんする · anshin suru
+
+無事と聞いて安心しました。
+I was relieved to hear you were safe.",n4
+緊張,"nervousness
+きんちょう · kinchou
+
+面接の前は緊張します。
+I get nervous before interviews.",n4
+我慢する,"to endure
+がまんする · gaman suru
+
+眠いのを我慢して勉強しました。
+I fought off sleepiness and studied.",n4
+迷う,"to get lost; to hesitate
+まよう · mayou
+
+道に迷ってしまいました。
+I got lost.",n4
+悩む,"to worry
+なやむ · nayamu
+
+進路について悩んでいます。
+I'm worried about my future path.",n4
+望む,"to wish; to hope
+のぞむ · nozomu
+
+平和を望んでいます。
+We hope for peace.",n4
+祈る,"to pray
+いのる · inoru
+
+成功を祈っています。
+I'm praying for your success.",n4
+喜び,"joy
+よろこび · yorokobi
+
+合格の喜びを家族と分けました。
+I shared the joy of passing with my family.",n4
+悲しみ,"sorrow
+かなしみ · kanashimi
+
+悲しみを乗り越えました。
+I overcame my sorrow.",n4
+怒り,"anger
+いかり · ikari
+
+怒りを抑えるのは難しいです。
+It's hard to control anger.",n4
+驚き,"surprise
+おどろき · odoroki
+
+その知らせは驚きでした。
+That news was a surprise.",n4
+笑い,"laughter
+わらい · warai
+
+教室が笑いでいっぱいになりました。
+The classroom filled with laughter.",n4
+インターネット,"internet
+インターネット · intaanetto
+
+インターネットでニュースを読みます。
+I read the news on the internet.",n4
+メール,"email
+メール · meeru
+
+後でメールを送ります。
+I'll send you an email later.",n4
+サイト,"website
+サイト · saito
+
+このサイトで日本語を勉強しています。
+I study Japanese on this site.",n4
+アプリ,"app
+アプリ · apuri
+
+便利なアプリを見つけました。
+I found a useful app.",n4
+パスワード,"password
+パスワード · pasuwaado
+
+パスワードを忘れてしまいました。
+I forgot my password.",n4
+画面,"screen
+がめん · gamen
+
+画面が急に暗くなりました。
+The screen suddenly went dark.",n4
+動画,"video
+どうが · douga
+
+料理の動画を見ながら作りました。
+I cooked while watching a video.",n4
+充電,"charging (battery)
+じゅうでん · juuden
+
+携帯の充電が切れそうです。
+My phone is about to run out of battery.",n4
+電源,"power (electric)
+でんげん · dengen
+
+パソコンの電源を入れてください。
+Please turn on the computer.",n4
+故障,"breakdown; malfunction
+こしょう · koshou
+
+エレベーターが故障しています。
+The elevator is out of order.",n4
+印刷,"printing
+いんさつ · insatsu
+
+資料を十部印刷しました。
+I printed ten copies of the material.",n4
+番組表,"TV program guide
+ばんぐみひょう · bangumihyou
+
+番組表で映画の時間を調べました。
+I checked the movie time in the TV guide.",n4
+放送する,"to broadcast
+ほうそうする · housou suru
+
+試合は夜八時に放送されます。
+The game will be broadcast at 8 p.m.",n4
+記者,"reporter; journalist
+きしゃ · kisha
+
+記者が事故について質問しました。
+The reporter asked about the accident.",n4
+小説,"novel
+しょうせつ · shousetsu
+
+日本の小説を読んでいます。
+I'm reading a Japanese novel.",n4
+詩,"poem
+し · shi
+
+彼女は詩を書くのが好きです。
+She likes writing poems.",n4
+物語,"story; tale
+ものがたり · monogatari
+
+祖母が昔の物語をしてくれました。
+My grandmother told me an old tale.",n4
+作者,"author
+さくしゃ · sakusha
+
+この本の作者は有名です。
+The author of this book is famous.",n4
+表紙,"book cover
+ひょうし · hyoushi
+
+きれいな表紙の本を選びました。
+I chose a book with a beautiful cover.",n4
+頁,"page
+ページ · peeji
+
+次の頁を見てください。
+Please look at the next page.",n4
+倍,"times; double
+ばい · bai
+
+値段が二倍になりました。
+The price doubled.",n4
+平均点,"average score
+へいきんてん · heikinten
+
+テストの平均点は七十点でした。
+The average test score was seventy.",n4
+数,"number; amount
+かず · kazu
+
+店の数が増えました。
+The number of shops has increased.",n4
+量,"quantity; amount
+りょう · ryou
+
+ご飯の量を減らしています。
+I'm cutting down on the amount of rice.",n4
+深さ,"depth
+ふかさ · fukasa
+
+このプールの深さは二メートルです。
+This pool is two meters deep.",n4
+高さ,"height
+たかさ · takasa
+
+この山の高さはどのくらいですか。
+How tall is this mountain?",n4
+広さ,"area; size
+ひろさ · hirosa
+
+部屋の広さは十畳です。
+The room is ten tatami mats in size.",n4
+重さ,"weight
+おもさ · omosa
+
+荷物の重さを測りました。
+I weighed the luggage.",n4
+長さ,"length
+ながさ · nagasa
+
+この橋の長さは百メートルです。
+This bridge is 100 meters long.",n4
+距離,"distance
+きょり · kyori
+
+駅までの距離は一キロです。
+The distance to the station is one kilometer.",n4
+速度,"speed
+そくど · sokudo
+
+速度を落としてください。
+Please slow down.",n4
+温度,"temperature
+おんど · ondo
+
+部屋の温度を上げました。
+I raised the room temperature.",n4
+湿度,"humidity
+しつど · shitsudo
+
+日本の夏は湿度が高いです。
+Japanese summers are very humid.",n4
+割合に,"comparatively
+わりあいに · wariaini
+
+今日は割合に涼しいです。
+It's comparatively cool today.",n4
+合計する,"to total; to sum up
+ごうけいする · goukei suru
+
+買った物の値段を合計しました。
+I totaled the prices of what I bought.",n4
+合わせる,"to combine; to match
+あわせる · awaseru
+
+時計の時間を合わせました。
+I set the clock to the right time.",n4
+数える,"to count
+かぞえる · kazoeru
+
+お金を数えてください。
+Please count the money.",n4
+測る,"to measure
+はかる · hakaru
+
+身長を測りました。
+I measured my height.",n4
+足りる,"to be enough
+たりる · tariru
+
+千円あれば足ります。
+1,000 yen will be enough.",n4
+残る,"to remain
+のこる · nokoru
+
+料理が少し残りました。
+A little food was left over.",n4
+残す,"to leave behind
+のこす · nokosu
+
+ご飯を残さないで食べましょう。
+Let's eat without leaving any rice.",n4
+増やす,"to increase (transitive)
+ふやす · fuyasu
+
+勉強の時間を増やしました。
+I increased my study time.",n4
+減らす,"to reduce
+へらす · herasu
+
+お菓子を減らそうと思います。
+I'm thinking of cutting down on sweets.",n4
+払い戻し,"refund
+はらいもどし · haraimodoshi
+
+切符の払い戻しをしました。
+I got a refund for the ticket.",n4
+計画,"plan
+けいかく · keikaku
+
+夏休みの計画を立てています。
+I'm making plans for summer vacation.",n4
+間に合わせる,"to make it in time
+まにあわせる · maniawaseru
+
+締め切りに間に合わせました。
+I made the deadline.",n4
+延ばす,"to postpone; to extend
+のばす · nobasu
+
+出発を一日延ばしました。
+I postponed my departure by a day.",n4
+進める,"to advance (transitive)
+すすめる · susumeru
+
+計画を進めましょう。
+Let's move the plan forward.",n4
+やり直す,"to redo
+やりなおす · yarinaosu
+
+最初からやり直してください。
+Please redo it from the beginning.",n4
+具合が悪い,"to feel unwell
+ぐあいがわるい · guai ga warui
+
+朝から具合が悪いです。
+I've been feeling unwell since morning.",n4
+診察,"medical examination
+しんさつ · shinsatsu
+
+十時に診察の予約があります。
+I have a doctor's appointment at ten.",n4
+注射,"injection
+ちゅうしゃ · chuusha
+
+インフルエンザの注射をしました。
+I got a flu shot.",n4
+手術,"surgery
+しゅじゅつ · shujutsu
+
+祖父は先週手術を受けました。
+My grandfather had surgery last week.",n4
+退院する,"to leave the hospital
+たいいんする · taiin suru
+
+母は明日退院します。
+My mother leaves the hospital tomorrow.",n4
+咳,"cough
+せき · seki
+
+咳が止まりません。
+I can't stop coughing.",n4
+くしゃみ,"sneeze
+くしゃみ · kushami
+
+花粉症でくしゃみが出ます。
+I sneeze because of hay fever.",n4
+めまい,"dizziness
+めまい · memai
+
+急に立つとめまいがします。
+I get dizzy when I stand up suddenly.",n4
+花粉症,"hay fever
+かふんしょう · kafunshou
+
+春は花粉症がつらいです。
+Hay fever is rough in spring.",n4
+骨,"bone
+ほね · hone
+
+転んで骨を折りました。
+I fell and broke a bone.",n4
+皮膚,"skin
+ひふ · hifu
+
+冬は皮膚が乾燥します。
+My skin gets dry in winter.",n4
+胃,"stomach (organ)
+い · i
+
+食べ過ぎて胃が痛いです。
+My stomach hurts from eating too much.",n4
+心臓,"heart (organ)
+しんぞう · shinzou
+
+運動すると心臓が速くなります。
+My heart beats faster when I exercise.",n4
+息,"breath
+いき · iki
+
+深く息を吸ってください。
+Please take a deep breath.",n4
+涙,"tears
+なみだ · namida
+
+感動して涙が出ました。
+I was so moved that tears came out.",n4
+汗,"sweat
+あせ · ase
+
+走って汗をかきました。
+I ran and worked up a sweat.",n4
+力,"strength; power
+ちから · chikara
+
+もっと力を入れてください。
+Please put more strength into it.",n4
+疲れ,"fatigue
+つかれ · tsukare
+
+温泉で疲れを取りました。
+I relieved my fatigue at the hot spring.",n4
+睡眠,"sleep
+すいみん · suimin
+
+十分な睡眠を取ってください。
+Please get enough sleep.",n4
+昼寝,"nap
+ひるね · hirune
+
+日曜日は昼寝をします。
+I take a nap on Sundays.",n4
+ダイエット,"diet
+ダイエット · daietto
+
+来月からダイエットを始めます。
+I'm starting a diet next month.",n4
+体重,"body weight
+たいじゅう · taijuu
+
+体重が二キロ減りました。
+I lost two kilograms.",n4
+身長,"height (person)
+しんちょう · shinchou
+
+弟の身長は百八十センチです。
+My brother is 180 centimeters tall.",n4
+髪型,"hairstyle
+かみがた · kamigata
+
+髪型を変えましたね。
+You changed your hairstyle, didn't you?",n4
+化粧,"makeup
+けしょう · keshou
+
+朝、化粧をする時間がありません。
+I have no time to put on makeup in the morning.",n4
+床屋,"barbershop
+とこや · tokoya
+
+床屋で髪を切ってもらいました。
+I got my hair cut at the barbershop.",n4
+整理,"organizing; sorting
+せいり · seiri
+
+机の上を整理しました。
+I organized my desk.",n4
+片付ける,"to tidy up
+かたづける · katazukeru
+
+部屋を片付けてから出かけます。
+I'll tidy my room before going out.",n4
+捨てる,"to throw away
+すてる · suteru
+
+古い雑誌を捨てました。
+I threw away the old magazines.",n4
+リサイクル,"recycling
+リサイクル · risaikuru
+
+瓶はリサイクルに出します。
+I put bottles out for recycling.",n4
+修理する,"to repair
+しゅうりする · shuuri suru
+
+自転車を修理してもらいました。
+I had my bicycle repaired.",n4
+取り替える,"to replace; to exchange
+とりかえる · torikaeru
+
+電球を取り替えました。
+I replaced the light bulb.",n4
+見つける,"to find
+みつける · mitsukeru
+
+いいアパートを見つけました。
+I found a good apartment.",n4
+見つかる,"to be found
+みつかる · mitsukaru
+
+なくした鍵が見つかりました。
+The lost key was found.",n4
+なくす,"to lose (something)
+なくす · nakusu
+
+傘をなくしてしまいました。
+I lost my umbrella.",n4
+落とし物,"lost item
+おとしもの · otoshimono
+
+落とし物を駅員に渡しました。
+I handed the lost item to the station attendant.",n4
+預ける,"to deposit; to entrust
+あずける · azukeru
+
+荷物をホテルに預けました。
+I left my luggage at the hotel.",n4
+預かる,"to look after
+あずかる · azukaru
+
+友達の犬を預かっています。
+I'm looking after my friend's dog.",n4
+包み,"package; parcel
+つつみ · tsutsumi
+
+きれいな包みを開けました。
+I opened the beautifully wrapped package.",n4
+選ぶ,"to choose
+えらぶ · erabu
+
+プレゼントを選ぶのは楽しいです。
+Choosing presents is fun.",n4
+比べる,"to compare
+くらべる · kuraberu
+
+値段を比べてから買います。
+I compare prices before buying.",n4
+決心,"determination; resolution
+けっしん · kesshin
+
+留学する決心をしました。
+I made up my mind to study abroad.",n4
+急用,"urgent business
+きゅうよう · kyuuyou
+
+急用ができて帰りました。
+Something urgent came up, so I went home.",n4
+用,"business; errand
+よう · you
+
+銀行に用があります。
+I have business at the bank.",n4
+予約する,"to make a reservation
+よやくする · yoyaku suru
+
+レストランを予約しました。
+I made a reservation at the restaurant.",n4
+取り消す,"to cancel
+とりけす · torikesu
+
+ホテルの予約を取り消しました。
+I canceled the hotel reservation.",n4
+確認する,"to confirm
+かくにんする · kakunin suru
+
+時間をもう一度確認します。
+I'll confirm the time once more.",n4
+知らせる,"to notify
+しらせる · shiraseru
+
+結果が分かったら知らせてください。
+Please let me know when you know the result.",n4
+知らせ,"notice; news
+しらせ · shirase
+
+嬉しい知らせが届きました。
+Happy news arrived.",n4
+世の中,"the world; society
+よのなか · yononaka
+
+世の中は速く変わっています。
+The world is changing quickly.",n4
+時代,"era; period
+じだい · jidai
+
+学生時代が懐かしいです。
+I miss my school days.",n4
+世紀,"century
+せいき · seiki
+
+二十一世紀は技術の時代です。
+The 21st century is an age of technology.",n4
+戦後,"postwar period
+せんご · sengo
+
+戦後、日本は大きく変わりました。
+Japan changed greatly after the war.",n4
+昔話,"folk tale
+むかしばなし · mukashibanashi
+
+子供に昔話を読んであげました。
+I read a folk tale to my child.",n4
+神様,"god; deity
+かみさま · kamisama
+
+神様にお願いをしました。
+I made a wish to the gods.",n4
+宗教,"religion
+しゅうきょう · shuukyou
+
+世界には色々な宗教があります。
+There are various religions in the world.",n4
+政府,"government
+せいふ · seifu
+
+政府が新しい政策を発表しました。
+The government announced a new policy.",n4
+選挙,"election
+せんきょ · senkyo
+
+日曜日に選挙があります。
+There is an election on Sunday.",n4
+国会,"the Diet; parliament
+こっかい · kokkai
+
+国会で新しい法律が決まりました。
+A new law was passed in the Diet.",n4
+市民,"citizen
+しみん · shimin
+
+市民の意見を聞く会があります。
+There's a meeting to hear citizens' opinions.",n4
+社会人,"working adult
+しゃかいじん · shakaijin
+
+来年から社会人になります。
+I'll become a working adult next year.",n4
+常識,"common sense
+じょうしき · joushiki
+
+それは常識だと思います。
+I think that's common sense.",n4
+マナー,"manners
+マナー · manaa
+
+電車の中のマナーを守りましょう。
+Let's follow good manners on the train.",n4
+礼儀,"courtesy; etiquette
+れいぎ · reigi
+
+日本では礼儀が重視されます。
+Courtesy is valued in Japan.",n4
+国際交流,"international exchange
+こくさいこうりゅう · kokusaikouryuu
+
+国際交流のイベントに参加しました。
+I joined an international exchange event.",n4
+異文化,"different culture
+いぶんか · ibunka
+
+旅行で異文化を体験しました。
+I experienced a different culture while traveling.",n4
+体験,"experience (firsthand)
+たいけん · taiken
+
+着物を着る体験をしました。
+I had the experience of wearing a kimono.",n4
+知り合い,"acquaintance
+しりあい · shiriai
+
+パーティーで知り合いに会いました。
+I met an acquaintance at the party.",n4
+付き合う,"to date; to keep company
+つきあう · tsukiau
+
+二人は三年付き合っています。
+The two have been dating for three years.",n4
+別れる,"to part; to break up
+わかれる · wakareru
+
+駅で友達と別れました。
+I parted with my friend at the station.",n4
+独身,"single; unmarried
+どくしん · dokushin
+
+兄はまだ独身です。
+My brother is still single.",n4
+新婚,"newlywed
+しんこん · shinkon
+
+新婚旅行でハワイへ行きました。
+We went to Hawaii for our honeymoon.",n4
+育てる,"to raise; to grow
+そだてる · sodateru
+
+庭でトマトを育てています。
+I'm growing tomatoes in the garden.",n4
+育つ,"to grow up
+そだつ · sodatsu
+
+私は田舎で育ちました。
+I grew up in the countryside.",n4
+子育て,"child-rearing
+こそだて · kosodate
+
+子育ては大変ですが楽しいです。
+Raising children is hard but fun.",n4
+孫,"grandchild
+まご · mago
+
+祖母は孫の写真をいつも見せます。
+My grandmother always shows photos of her grandchildren.",n4
+親戚,"relatives
+しんせき · shinseki
+
+お正月に親戚が集まります。
+Relatives gather at New Year's.",n4
+夫,"husband
+おっと · otto
+
+夫は料理が得意です。
+My husband is good at cooking.",n4
+妻,"wife
+つま · tsuma
+
+妻と買い物に行きました。
+I went shopping with my wife.",n4
+夫婦,"married couple
+ふうふ · fuufu
+
+あの夫婦はいつも一緒です。
+That couple is always together.",n4
+長男,"eldest son
+ちょうなん · chounan
+
+長男は大学生です。
+My eldest son is a university student.",n4
+長女,"eldest daughter
+ちょうじょ · choujo
+
+長女が生まれた日を覚えています。
+I remember the day my eldest daughter was born.",n4
+お祝いする,"to celebrate
+おいわいする · oiwai suru
+
+みんなで合格をお祝いしました。
+We all celebrated passing the exam.",n4
+成人式,"coming-of-age ceremony
+せいじんしき · seijinshiki
+
+一月に成人式があります。
+The coming-of-age ceremony is in January.",n4
+入学式,"school entrance ceremony
+にゅうがくしき · nyuugakushiki
+
+四月に入学式があります。
+The entrance ceremony is in April.",n4
+葬式,"funeral
+そうしき · soushiki
+
+祖父の葬式に親戚が集まりました。
+Relatives gathered for my grandfather's funeral.",n4
+お墓,"grave
+おはか · ohaka
+
+お盆にお墓参りをします。
+We visit the family grave during Obon.",n4
+命,"life
+いのち · inochi
+
+命はとても大切です。
+Life is very precious.",n4
+一生,"one's whole life
+いっしょう · isshou
+
+この経験は一生忘れません。
+I will never forget this experience as long as I live.",n4
+可能性,"possibility
+かのうせい · kanousei
+
+成功の可能性は高いです。
+The possibility of success is high.",n4
+叶う,"to come true
+かなう · kanau
+
+長年の夢が叶いました。
+My long-held dream came true.",n4
+目的地,"destination
+もくてきち · mokutekichi
+
+目的地まであと十分です。
+Ten more minutes to the destination.",n4
+途中で,"on the way
+とちゅうで · tochuude
+
+途中でコーヒーを買いました。
+I bought coffee on the way.",n4
+偶然に,"by chance
+ぐうぜんに · guuzenni
+
+町で偶然に先生に会いました。
+I ran into my teacher in town by chance.",n4
+久しぶり,"after a long time
+ひさしぶり · hisashiburi
+
+久しぶりに映画を見ました。
+I watched a movie for the first time in a while.",n4
+そのうち,"before long
+そのうち · sonouchi
+
+そのうち慣れますよ。
+You'll get used to it before long.",n4
+いつの間にか,"before one knows it
+いつのまにか · itsunomanika
+
+いつの間にか春になっていました。
+Spring had come before I knew it.",n4
+挨拶回り,"courtesy visits
+あいさつまわり · aisatsumawari
+
+新年の挨拶回りをしました。
+I made New Year's courtesy visits.",n4
+順調,"smooth; going well
+じゅんちょう · junchou
+
+仕事は順調に進んでいます。
+Work is going smoothly.",n4
+思い出す,"to recall; to remember
+おもいだす · omoidasu
+
+子供の頃をよく思い出します。
+I often recall my childhood.",n4
+思い出,"memory (of the past)
+おもいで · omoide
+
+旅行のいい思い出ができました。
+I made good memories on the trip.",n4
+訳す,"to translate
+やくす · yakusu
+
+この文を英語に訳してください。
+Please translate this sentence into English.",n4
+写す,"to copy; to photograph
+うつす · utsusu
+
+黒板の字をノートに写しました。
+I copied the board into my notebook.",n4
+調べる,"to look up; to investigate
+しらべる · shiraberu
+
+分からない言葉を調べました。
+I looked up the words I didn't know.",n4
+まとめる,"to summarize; to put together
+まとめる · matomeru
+
+意見を一つにまとめました。
+We brought the opinions together into one.",n4
+発表する,"to present; to announce
+はっぴょうする · happyou suru
+
+研究の結果を発表しました。
+I presented the research results.",n4
+暗記,"memorization
+あんき · anki
+
+単語を暗記するのが苦手です。
+I'm not good at memorizing vocabulary.",n4
+復習する,"to review (lessons)
+ふくしゅうする · fukushuu suru
+
+習った文法を復習しました。
+I reviewed the grammar I learned.",n4
+受ける,"to take (an exam); to receive
+うける · ukeru
+
+来月、N4の試験を受けます。
+I'll take the N4 exam next month.",n4
+受かる,"to pass (an exam)
+うかる · ukaru
+
+試験に受かりました!
+I passed the exam!",n4
+落第,"failing (a grade/exam)
+らくだい · rakudai
+
+落第しないように頑張ります。
+I'll work hard so I don't fail.",n4
+奨学金,"scholarship
+しょうがくきん · shougakukin
+
+奨学金をもらって留学しました。
+I studied abroad on a scholarship.",n4
+楽器,"musical instrument
+がっき · gakki
+
+何か楽器が弾けますか。
+Can you play any instrument?",n4
+道具,"tool
+どうぐ · dougu
+
+料理の道具をそろえました。
+I got a set of cooking tools.",n4
+機械,"machine
+きかい · kikai
+
+この機械の使い方が分かりません。
+I don't know how to use this machine.",n4
+部品,"parts; components
+ぶひん · buhin
+
+自転車の部品を交換しました。
+I replaced a part on my bicycle.",n4
+ガソリン,"gasoline
+ガソリン · gasorin
+
+ガソリンを入れに行きます。
+I'm going to fill up with gas.",n4
+ガソリンスタンド,"gas station
+ガソリンスタンド · gasorinsutando
+
+近くのガソリンスタンドで洗車しました。
+I washed my car at a nearby gas station.",n4
+駐車する,"to park
+ちゅうしゃする · chuusha suru
+
+ここに駐車してもいいですか。
+May I park here?",n4
+免許,"license
+めんきょ · menkyo
+
+車の免許を取りました。
+I got my driver's license.",n4
+標識,"road sign
+ひょうしき · hyoushiki
+
+あの標識は駐車禁止の意味です。
+That sign means no parking.",n4
+信号無視,"ignoring a traffic light
+しんごうむし · shingoumushi
+
+信号無視は危険です。
+Running a red light is dangerous.",n4
+横断歩道,"pedestrian crossing
+おうだんほどう · oudanhodou
+
+横断歩道を渡ってください。
+Please use the pedestrian crossing.",n4
+歩道,"sidewalk
+ほどう · hodou
+
+歩道を歩きましょう。
+Let's walk on the sidewalk.",n4
+通り,"street; avenue
+とおり · toori
+
+この通りには店が多いです。
+There are many shops on this street.",n4
+看板,"signboard
+かんばん · kanban
+
+赤い看板の店が目印です。
+The shop with the red sign is the landmark.",n4
+広場,"plaza; square
+ひろば · hiroba
+
+駅前の広場で待っています。
+I'm waiting at the plaza in front of the station.",n4
+周り,"surroundings
+まわり · mawari
+
+家の周りに畑があります。
+There are fields around my house.",n4
+向かい,"across from
+むかい · mukai
+
+銀行の向かいに郵便局があります。
+The post office is across from the bank.",n4
+手前,"this side; just before
+てまえ · temae
+
+駅の手前で降ろしてください。
+Please drop me off just before the station.",n4
+奥さん,"(someone's) wife
+おくさん · okusan
+
+田中さんの奥さんに会いました。
+I met Tanaka-san's wife.",n4
+ご主人,"(someone's) husband
+ごしゅじん · goshujin
+
+ご主人はお元気ですか。
+How is your husband?",n4
+お宅,"(someone's) home
+おたく · otaku
+
+先生のお宅に伺いました。
+I visited my teacher's home.",n4
+皆様,"everyone (very polite)
+みなさま · minasama
+
+皆様、ご来場ありがとうございます。
+Thank you all for coming.",n4
+方,"person (polite)
+かた · kata
+
+あちらの方が佐藤さんです。
+That person over there is Sato-san.",n4
+若さ,"youth; youthfulness
+わかさ · wakasa
+
+若さの秘密は何ですか。
+What's the secret to your youthfulness?",n4
+年上,"older (person)
+としうえ · toshiue
+
+妻は私より三歳年上です。
+My wife is three years older than me.",n4
+年下,"younger (person)
+としした · toshishita
+
+彼は私より年下です。
+He is younger than me.",n4
+年寄り,"elderly person
+としより · toshiyori
+
+お年寄りに席を譲りました。
+I gave up my seat to an elderly person.",n4
+乗客,"passenger
+じょうきゃく · joukyaku
+
+乗客が多くて座れませんでした。
+There were so many passengers I couldn't sit.",n4
+譲る,"to yield; to hand over
+ゆずる · yuzuru
+
+道を譲ってあげました。
+I let them pass.",n4
+忘れ物センター,"lost and found
+わすれものセンター · wasuremono sentaa
+
+駅の忘れ物センターに電話しました。
+I called the station's lost and found.",n4
+感心,"admiration
+かんしん · kanshin
+
+彼の努力に感心しました。
+I admired his effort.",n4
+手助け,"assistance
+てだすけ · tedasuke
+
+引っ越しの手助けをしました。
+I helped with the move.",n4
+助ける,"to help; to save
+たすける · tasukeru
+
+困っている人を助けました。
+I helped a person in trouble.",n4
+助かる,"to be saved; to be helpful
+たすかる · tasukaru
+
+手伝ってくれて助かりました。
+Your help was a lifesaver.",n4
+優勝,"championship; victory
+ゆうしょう · yuushou
+
+チームが大会で優勝しました。
+Our team won the tournament.",n4
+試合,"match; game
+しあい · shiai
+
+明日、サッカーの試合があります。
+There's a soccer match tomorrow.",n4
+応援する,"to cheer for
+おうえんする · ouen suru
+
+友達のチームを応援しました。
+I cheered for my friend's team.",n4

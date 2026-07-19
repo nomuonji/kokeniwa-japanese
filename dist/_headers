@@ -5,3 +5,7 @@
 
 /static/*
   Cache-Control: public, max-age=86400
+
+/downloads/*
+  Cache-Control: public, max-age=86400
+  Content-Disposition: attachment

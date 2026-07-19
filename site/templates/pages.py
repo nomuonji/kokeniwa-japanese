@@ -25,7 +25,7 @@ def render_home(cfg, *, counts, articles):
             f'<span class="article-date">{esc(a["date"])}</span></a>'
             for a in articles[:3])
         latest = f"""
-<div class="section-head"><h2>From the blog</h2><a class="more" href="/blog/">See all →</a></div>
+<div class="section-head"><h2>From Honne Japan</h2><a class="more" href="/blog/">See all →</a></div>
 <div class="article-list">{items}</div>"""
 
     content = f"""
@@ -64,29 +64,37 @@ def render_home(cfg, *, counts, articles):
 
 def render_about(cfg):
     content = """
-<h1>About</h1>
-<p class="lead">A free, no-frills place to drill Japanese vocabulary for English speakers.
-Everything is a simple flashcard: tap to flip between the Japanese word and its
-English meaning and reading.</p>
+<h1>About Honne Japan</h1>
+<p class="lead"><em>Honne</em> (本音) means your true feelings — the opposite of <em>tatemae</em>,
+the polite face Japan usually shows visitors. Honne Japan is where I write the honne: honest
+notes on Japanese language and culture, plus free tools to actually learn the language.</p>
 
-<h2>How it works</h2>
-<p>Pick a JLPT level (N5 is the easiest, N1 the hardest) or the phrases set.
-Each page shows every word as a card. Tap a card to reveal the meaning, kana reading
-and romaji. Use “Show all meanings” to flip the whole set at once for a quick review.</p>
+<h2>Who’s writing</h2>
+<p>I’m Japanese. Most English-language content about Japan is the polished, aesthetic version —
+the tatemae. I’m more interested in the real thing underneath: what words like <em>ikigai</em>
+and <em>wabi-sabi</em> actually mean, how the culture actually works, and the small, unglamorous
+details that make it worth understanding.</p>
 
-<h2>What’s inside</h2>
+<h2>What’s here</h2>
 <ul>
-  <li><strong>JLPT N5–N1 vocabulary</strong> — graded by difficulty.</li>
-  <li><strong>Survival phrases</strong> — practical set phrases for daily life.</li>
+  <li><strong>JLPT vocabulary flashcards (N5–N1)</strong> — free, no sign-up. Tap a card to flip
+  between the Japanese word and its English meaning, kana reading and romaji.</li>
+  <li><strong>Survival phrases</strong> — practical set phrases for travel and daily life.</li>
+  <li><strong>Honne Japan</strong> — honest essays on Japanese words and ideas, correcting the
+  myths the internet keeps repeating.</li>
 </ul>
 
+<h2>The newsletter</h2>
+<p>One small, un-aesthetic idea about Japanese living each week — the real thing behind the
+polite face. <a href="https://honnejapan.substack.com">Honne Japan on Substack →</a></p>
+
 <h2>Readings and romaji</h2>
-<p>Every card shows the kana reading and Hepburn romaji, so you can study even before
+<p>Every flashcard shows the kana reading and Hepburn romaji, so you can study even before
 you are fully comfortable with kanji.</p>
 """
     return layout.page(
         cfg, title="About",
-        description="About this free Japanese vocabulary flashcard site for English speakers.",
+        description="About Honne Japan — free Japanese vocabulary flashcards and honest notes on Japanese language and culture for English speakers.",
         path="/about/", content=content,
         breadcrumbs=[("/about/", "About")], active_nav="/about/")
 

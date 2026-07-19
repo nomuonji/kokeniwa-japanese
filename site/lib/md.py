@@ -31,12 +31,24 @@ _BOLD = re.compile(r"\*\*([^*]+)\*\*")
 _ITALIC = re.compile(r"\*([^*]+)\*")
 _IMAGE = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)\)")
 _LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
+# 語彙記法: {{漢字|かな}} → ふりがな付き。{{漢字|かな|gloss}} → ＋ホバーで意味表示。
+_VOCAB = re.compile(r"\{\{([^|{}]+)\|([^|{}]+?)(?:\|([^{}]+))?\}\}")
+
+
+def _vocab_sub(m):
+    word, kana, gloss = m.group(1), m.group(2), m.group(3)
+    ruby = f"<ruby>{word}<rt>{kana}</rt></ruby>"
+    if gloss:
+        return (f'<span class="vb" tabindex="0">{ruby}'
+                f'<span class="vb-gloss" role="tooltip">{gloss.strip()}</span></span>')
+    return ruby
 
 
 def _inline(text):
     """インライン記法をHTMLに変換。先にエスケープし、記法部分だけタグ化する。"""
     text = html.escape(text, quote=False)
     text = _INLINE_CODE.sub(r"<code>\1</code>", text)
+    text = _VOCAB.sub(_vocab_sub, text)
     text = _IMAGE.sub(r'<img src="\2" alt="\1" loading="lazy">', text)
     text = _LINK.sub(r'<a href="\2">\1</a>', text)
     text = _BOLD.sub(r"<strong>\1</strong>", text)

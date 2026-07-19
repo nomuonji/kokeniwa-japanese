@@ -1,68 +1,90 @@
 /* ============================================================
-   English Hub — サイト共通スタイル v2
-   温かみのある紙のような背景 + インクの文字 + 3セクションアクセント。
+   Kokeniwa 苔庭 — サイト共通スタイル v3
+   コンセプト: 苔むす庭。生成りの和紙・墨・苔緑・水・土・石。
+   時間をかけて静かに育つ侘び寂びの世界観。
    CSS変数 + prefers-color-scheme でライト/ダーク自動切替。
    モーション原則: transform/opacityのみ・強めのease-out・200ms前後。
    ============================================================ */
 
 :root {
-  --bg: #faf9f6;
-  --surface: #ffffff;
-  --surface-2: #f1efe9;
-  --text: #1d222c;
-  --text-muted: #6b7280;
-  --border: #e6e2d8;
-  --border-strong: #cfc9ba;
-  --primary: #c8483a;
-  --primary-strong: #a83a2f;
-  --primary-soft: #f6e3df;
-  --on-primary: #ffffff;
-  --accent-reading: #c8483a;
-  --accent-uscpa: #0e8a68;
-  --accent-legal: #b0641a;
-  --accent-reading-soft: #f6e3df;
-  --accent-uscpa-soft: #dff3ec;
-  --accent-legal-soft: #f9eddc;
-  --success: #14824a;
-  --success-soft: #e0f4e8;
-  --danger: #c53a3a;
-  --danger-soft: #fbe8e8;
-  --shadow: 0 1px 2px rgba(29, 34, 44, .05), 0 6px 20px rgba(29, 34, 44, .06);
-  --shadow-lift: 0 4px 10px rgba(29, 34, 44, .07), 0 16px 40px rgba(29, 34, 44, .10);
+  --bg: #f3f1e7;          /* 生成り・和紙 */
+  --surface: #fbfaf3;     /* 浮いた紙 */
+  --surface-2: #e8e5d5;   /* 沈んだ面・石 */
+  --text: #23281f;        /* 墨（緑みの黒） */
+  --text-muted: #67705d;  /* 苔がかったグレー */
+  --border: #dcd8c7;
+  --border-strong: #c3bda4;
+  --primary: #4d6a38;         /* 苔緑 */
+  --primary-strong: #3b5329;
+  --primary-soft: #e4ebd4;
+  --on-primary: #fbfaf3;
+  --accent-reading: #4d6a38;  /* 苔 */
+  --accent-uscpa: #2f7368;    /* 水 */
+  --accent-legal: #96642a;    /* 土 */
+  --accent-reading-soft: #e4ebd4;
+  --accent-uscpa-soft: #daece8;
+  --accent-legal-soft: #f0e6d0;
+  --success: #2f7d4c;
+  --success-soft: #dcefe0;
+  --danger: #b0472f;          /* 紅殻・弁柄 */
+  --danger-soft: #f6e4dd;
+  --shadow: 0 1px 2px rgba(35, 40, 31, .05), 0 6px 20px rgba(35, 40, 31, .07);
+  --shadow-lift: 0 4px 10px rgba(35, 40, 31, .08), 0 16px 40px rgba(35, 40, 31, .12);
   --radius: 12px;
   --radius-lg: 18px;
   /* 強めのカスタムイージング（標準easeでは弱い） */
   --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
   --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
-  --font-serif: Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  --font-serif: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "Shippori Mincho", Georgia, "Times New Roman", serif;
+  /* 庭シルエット（遠山→手前の苔石） */
+  --garden-far: #e7e9d8;
+  --garden-mid: #dae0c6;
+  --garden-near: #c9d2ac;
+  --garden-stone: #cdc8b5;
+  --garden-lantern: #b7b19d;
+  --garden-line: #cfd3bd;
+  --garden-light: #e6b45f;
+  --garden-moss: #8ba656;
+  --garden-moss-2: #9fb96a;
+  --garden-opacity: .7;
   color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #12141a;
-    --surface: #1a1d26;
-    --surface-2: #232733;
-    --text: #e6e8ee;
-    --text-muted: #969eae;
-    --border: #2c3140;
-    --border-strong: #414a5e;
-    --primary: #ec8b7e;
-    --primary-strong: #f2a89d;
-    --primary-soft: #3a2521;
-    --on-primary: #14110f;
-    --accent-reading: #ec8b7e;
-    --accent-uscpa: #43cf9f;
-    --accent-legal: #e5a15e;
-    --accent-reading-soft: #3a2521;
-    --accent-uscpa-soft: #16352b;
-    --accent-legal-soft: #382b1a;
-    --success: #4cc584;
-    --success-soft: #16352b;
-    --danger: #ef8080;
-    --danger-soft: #3b2121;
-    --shadow: 0 1px 2px rgba(0, 0, 0, .5), 0 6px 20px rgba(0, 0, 0, .35);
-    --shadow-lift: 0 4px 10px rgba(0, 0, 0, .5), 0 16px 40px rgba(0, 0, 0, .45);
+    --bg: #14180f;          /* 夜の苔庭 */
+    --surface: #1c2115;
+    --surface-2: #262c1c;
+    --text: #e8e8db;
+    --text-muted: #9aa088;
+    --border: #2f3624;
+    --border-strong: #475138;
+    --primary: #a2c07c;         /* 月あかりの苔 */
+    --primary-strong: #b8d296;
+    --primary-soft: #26311a;
+    --on-primary: #14180f;
+    --accent-reading: #a2c07c;
+    --accent-uscpa: #5cc0af;
+    --accent-legal: #d6a866;
+    --accent-reading-soft: #26311a;
+    --accent-uscpa-soft: #17352f;
+    --accent-legal-soft: #362a19;
+    --success: #5cc584;
+    --success-soft: #183324;
+    --danger: #e58d78;
+    --danger-soft: #3a221c;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .5), 0 6px 20px rgba(0, 0, 0, .38);
+    --shadow-lift: 0 4px 10px rgba(0, 0, 0, .5), 0 16px 40px rgba(0, 0, 0, .48);
+    --garden-far: #1b2113;
+    --garden-mid: #212a17;
+    --garden-near: #29331c;
+    --garden-stone: #2d3221;
+    --garden-lantern: #38402a;
+    --garden-line: #2c341f;
+    --garden-light: #f0c073;
+    --garden-moss: #6f9143;
+    --garden-moss-2: #83a552;
+    --garden-opacity: .85;
     color-scheme: dark;
   }
 }
@@ -83,15 +105,40 @@ body {
 
 .container { max-width: 920px; margin: 0 auto; padding: 0 20px; }
 
+/* ---------- 庭シルエット背景（枯山水: 遠山・石灯籠・苔石・砂紋・苔） ---------- */
+.garden-bg {
+  position: fixed; inset: auto 0 0 0; z-index: -1;
+  height: min(40vh, 360px); pointer-events: none;
+  opacity: var(--garden-opacity);
+  -webkit-mask-image: linear-gradient(to top, #000 55%, transparent);
+  mask-image: linear-gradient(to top, #000 55%, transparent);
+}
+.garden-bg svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.garden-bg .g-far { fill: var(--garden-far); }
+.garden-bg .g-mid { fill: var(--garden-mid); }
+.garden-bg .g-near { fill: var(--garden-near); }
+.garden-bg .g-stone { fill: var(--garden-stone); }
+.garden-bg .g-lantern { fill: var(--garden-lantern); }
+.garden-bg .g-light { fill: var(--garden-light); }
+.garden-bg .g-moss { fill: var(--garden-moss); }
+.garden-bg .g-moss-2 { fill: var(--garden-moss-2); }
+.garden-bg .g-rake { stroke: var(--garden-line); stroke-width: 2.5; opacity: .8; }
+@media (max-width: 640px) {
+  .garden-bg { height: min(32vh, 240px); }
+}
+
 a { color: var(--primary); text-decoration: none; }
 @media (hover: hover) and (pointer: fine) {
   a:hover { text-decoration: underline; }
 }
 
-h1, h2, h3, h4 { line-height: 1.35; letter-spacing: .015em; font-weight: 700; }
-h1 { font-size: clamp(1.5rem, 4vw, 2.1rem); margin: .5em 0 .5em; }
-h2 { font-size: clamp(1.2rem, 3vw, 1.45rem); margin: 2.2em 0 .7em; }
-h3 { font-size: 1.08rem; margin: 1.6em 0 .5em; }
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  line-height: 1.4; letter-spacing: .01em; font-weight: 600;
+}
+h1 { font-size: clamp(1.55rem, 4vw, 2.15rem); margin: .5em 0 .5em; }
+h2 { font-size: clamp(1.22rem, 3vw, 1.5rem); margin: 2.2em 0 .7em; }
+h3 { font-size: 1.1rem; margin: 1.6em 0 .5em; }
 
 code {
   font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
@@ -128,7 +175,7 @@ blockquote {
 }
 .skip-link:focus { left: 12px; top: 12px; }
 
-/* ---------- ヘッダ ---------- */
+/* ---------- 繝倥ャ繝 ---------- */
 .site-header {
   position: sticky; top: 0; z-index: 50;
   background: color-mix(in srgb, var(--bg) 82%, transparent);
@@ -142,7 +189,8 @@ blockquote {
 }
 .brand {
   display: inline-flex; align-items: center; gap: 9px;
-  font-weight: 800; font-size: 1.12rem; letter-spacing: .01em;
+  font-family: var(--font-serif);
+  font-weight: 600; font-size: 1.18rem; letter-spacing: .02em;
   color: var(--text);
 }
 .brand:hover { text-decoration: none !important; }
@@ -158,7 +206,7 @@ blockquote {
 }
 .site-nav a.active { color: var(--primary); background: var(--primary-soft); }
 
-/* ---------- パンくず ---------- */
+/* ---------- 繝代Φ縺上★ ---------- */
 .breadcrumbs {
   font-size: .82rem; color: var(--text-muted);
   margin: 20px 0 4px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
@@ -167,7 +215,7 @@ blockquote {
 .breadcrumbs a { color: var(--text-muted); }
 .breadcrumbs span[aria-current] { color: var(--text); font-weight: 600; }
 
-/* ---------- ヒーロー ---------- */
+/* ---------- 繝偵・繝ｭ繝ｼ ---------- */
 .hero { padding: 64px 0 24px; text-align: center; }
 .hero h1 {
   font-size: clamp(1.8rem, 5vw, 2.7rem); margin: 0 0 .45em;
@@ -177,7 +225,7 @@ blockquote {
 }
 .hero p { color: var(--text-muted); font-size: 1.02rem; max-width: 600px; margin: 0 auto; }
 
-/* ---------- カード ---------- */
+/* ---------- 繧ｫ繝ｼ繝・---------- */
 .card-grid {
   display: grid; gap: 16px; margin: 30px 0;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -214,7 +262,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .card-legal .card-icon { background: var(--accent-legal-soft); }
 .card-meta { margin-top: 14px; font-size: .8rem; color: var(--text-muted); }
 
-/* トップのカードは控えめなスタガー入場（初回のみの装飾） */
+/* 繝医ャ繝励・繧ｫ繝ｼ繝峨・謗ｧ縺医ａ縺ｪ繧ｹ繧ｿ繧ｬ繝ｼ蜈･蝣ｴ・亥・蝗槭・縺ｿ縺ｮ陬・｣ｾ・・*/
 .hero + .card-grid > .card {
   opacity: 0;
   transform: translateY(10px);
@@ -224,7 +272,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .hero + .card-grid > .card:nth-child(3) { animation-delay: 120ms; }
 @keyframes card-in { to { opacity: 1; transform: translateY(0); } }
 
-/* ---------- バッジ ---------- */
+/* ---------- 繝舌ャ繧ｸ ---------- */
 .badge {
   display: inline-flex; align-items: center;
   font-size: .74rem; font-weight: 700; letter-spacing: .04em;
@@ -235,9 +283,12 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .badge-b2 { background: var(--success-soft); color: var(--success); border-color: transparent; }
 .badge-c1 { background: var(--accent-reading-soft); color: var(--accent-reading); border-color: transparent; }
 .badge-c2 { background: var(--accent-legal-soft); color: var(--accent-legal); border-color: transparent; }
+.badge-n5, .badge-n4 { background: var(--success-soft); color: var(--success); border-color: transparent; }
+.badge-n3 { background: var(--accent-legal-soft); color: var(--accent-legal); border-color: transparent; }
+.badge-n2, .badge-n1 { background: var(--accent-reading-soft); color: var(--accent-reading); border-color: transparent; }
 .badge-cat { background: var(--surface-2); }
 
-/* ---------- 一覧 ---------- */
+/* ---------- 荳隕ｧ ---------- */
 .list-item {
   display: block;
   background: var(--surface);
@@ -277,7 +328,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .chip.active { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
 .chip .count { opacity: .65; font-weight: 400; margin-left: 4px; }
 
-/* ---------- クイズ ---------- */
+/* ---------- 繧ｯ繧､繧ｺ ---------- */
 .quiz {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -372,7 +423,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .pager .dir { display: block; font-size: .75rem; color: var(--text-muted); }
 .pager .next { text-align: right; margin-left: auto; }
 
-/* ---------- フラッシュカード（一覧グリッド、各カード個別に反転） ---------- */
+/* ---------- 繝輔Λ繝・す繝･繧ｫ繝ｼ繝会ｼ井ｸ隕ｧ繧ｰ繝ｪ繝・ラ縲∝推繧ｫ繝ｼ繝牙句挨縺ｫ蜿崎ｻ｢・・---------- */
 .fc-bar {
   display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
   margin: 10px 0 18px;
@@ -405,7 +456,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
   background: none; border: none; padding: 0;
   cursor: pointer; font: inherit;
   -webkit-tap-highlight-color: transparent;
-  /* コピペ抑止: カード面のテキストは選択不可 */
+  /* 繧ｳ繝斐・謚第ｭ｢: 繧ｫ繝ｼ繝蛾擇縺ｮ繝・く繧ｹ繝医・驕ｸ謚樔ｸ榊庄 */
   user-select: none; -webkit-user-select: none;
 }
 .fc-cell-inner {
@@ -448,13 +499,18 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 }
 .fc-cell-meaning { font-size: 1rem; font-weight: 700; line-height: 1.3; }
 .fc-cell-reading { font-size: .82rem; color: var(--text-muted); font-weight: 600; }
+.fc-cell-example {
+  font-size: .76rem; color: var(--text-muted); font-weight: 400;
+  margin-top: 4px; line-height: 1.5;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
 .fc-cell.target .fc-cell-face { border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-soft); }
 .fc-cell.target { scroll-margin-top: 90px; }
 
 /* Vocabulary cards share the flashcard-grid UI (.fc-*). */
 .card-jp .card-icon { background: var(--primary-soft); }
 
-/* ---------- SNS / 教材 ---------- */
+/* ---------- SNS / 謨呎攝 ---------- */
 .sns-card {
   display: flex; gap: 18px; align-items: flex-start;
   background: var(--surface); border: 1px solid var(--border);
@@ -490,7 +546,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
   color: var(--text-muted); font-size: .9rem; margin: 24px 0;
 }
 
-/* ---------- ブログ ---------- */
+/* ---------- 繝悶Ο繧ｰ ---------- */
 .article-list .list-item h2, .article-list .list-item h3 { margin: 0 0 4px; font-size: 1.1rem; }
 .article-date { font-size: .8rem; color: var(--text-muted); }
 .article-body { max-width: 720px; }
@@ -498,7 +554,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .article-header { margin: 8px 0 30px; padding-bottom: 22px; border-bottom: 1px solid var(--border); }
 .article-header h1 { margin-bottom: .2em; }
 
-/* ---------- セクション見出し ---------- */
+/* ---------- 繧ｻ繧ｯ繧ｷ繝ｧ繝ｳ隕句・縺・---------- */
 .section-head {
   display: flex; align-items: baseline; justify-content: space-between;
   gap: 12px; flex-wrap: wrap; margin: 46px 0 4px;
@@ -507,12 +563,12 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .section-head .more { font-size: .88rem; font-weight: 600; }
 .lead { color: var(--text-muted); max-width: 660px; }
 
-/* ---------- フッタ ---------- */
+/* ---------- 繝輔ャ繧ｿ ---------- */
 .site-footer {
-  margin-top: 80px;
+  margin-top: 96px;
   border-top: 1px solid var(--border);
-  background: var(--surface);
-  padding: 40px 0 48px;
+  background: transparent;
+  padding: 40px 0 130px;
   text-align: center;
 }
 .footer-brand { font-weight: 800; margin: 0; }
@@ -521,7 +577,7 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .footer-nav a { font-size: .85rem; color: var(--text-muted); }
 .copyright { font-size: .78rem; color: var(--text-muted); margin: 0; }
 
-/* ---------- レスポンシブ ---------- */
+/* ---------- 繝ｬ繧ｹ繝昴Φ繧ｷ繝・---------- */
 @media (max-width: 640px) {
   .header-inner { flex-direction: column; align-items: flex-start; gap: 4px; }
   .site-nav { margin-left: -11px; }
@@ -538,3 +594,59 @@ a.card:active { transform: translateY(-1px) scale(.99); }
   .answer-panel.open { animation: none; }
   * { transition-duration: 0ms !important; }
 }
+
+/* ---------- inline vocabulary (Journal articles) ---------- */
+.article-body ruby { ruby-position: over; }
+.article-body rt {
+  font-size: 0.55em;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+.vb {
+  position: relative;
+  cursor: help;
+  border-bottom: 1.5px dotted var(--accent-reading);
+  outline: none;
+}
+.vb .vb-gloss {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 0.9em);
+  transform: translateX(-50%);
+  background: #222;
+  color: #fff;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  padding: 0.4em 0.7em;
+  border-radius: 6px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.12s ease;
+  z-index: 20;
+}
+.vb:hover .vb-gloss, .vb:focus .vb-gloss { opacity: 1; }
+
+/* vocabulary recap box at the end of articles */
+.article-body h2 + ul.vocab-list { margin-top: 0.75rem; }
+.vocab-list {
+  list-style: none;
+  padding: 1rem 1.25rem;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.vocab-list li { margin: 0.45em 0; }
+.vocab-box {
+  margin: 2.5rem 0 1rem 0;
+  padding: 1.25rem 1.5rem;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.vocab-box h2 { margin: 0 0 0.25rem 0; font-size: 1.15rem; }
+.vocab-box .jp-sub { font-size: 0.85rem; font-weight: normal; color: var(--text-muted); margin-left: 0.5em; }
+.vocab-box .vocab-list { background: none; border: none; padding: 0.25rem 0 0 0; }
+.vocab-box .vocab-list li ruby { font-size: 1.15em; font-weight: 600; }
+.vocab-box .vocab-gloss { color: var(--text-muted); }
+.vocab-cta { margin: 0.75rem 0 0 0; font-size: 0.85rem; color: var(--text-muted); }
