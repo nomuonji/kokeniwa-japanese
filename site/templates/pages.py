@@ -99,6 +99,88 @@ you are fully comfortable with kanji.</p>
         breadcrumbs=[("/about/", "About")], active_nav="/about/")
 
 
+def render_privacy(cfg):
+    """Privacy policy.
+
+    Required because GA4 sets cookies. Put an address in "contact_email" in
+    site_config.json to show it; with no address the page points readers at
+    the sister-site channels instead.
+    """
+    site_name = esc(cfg["site_name"])
+    ga4 = (cfg.get("analytics") or {}).get("ga4_measurement_id")
+    email = cfg.get("contact_email")
+
+    analytics_section = """
+<h2>Analytics</h2>
+<p>This site uses Google Analytics to understand how the site is used and to
+improve its content. Google Analytics sets cookies and collects information
+such as your IP address, the time of your visit, the pages you view and the
+site you came from. It does not collect information that identifies you
+personally, such as your name or address.</p>
+<p>If you would rather not be measured, you can disable cookies in your browser
+or install the
+<a href="https://tools.google.com/dlpage/gaoptout" rel="noopener nofollow">
+Google Analytics Opt-out Browser Add-on</a>.</p>
+<p>For how Google handles this data, see
+<a href="https://policies.google.com/technologies/partner-sites" rel="noopener nofollow">
+Google's policies and terms</a>.</p>
+<p>This site also uses Google Search Console to see how its pages appear in
+search results. Search Console reports aggregate figures such as search terms
+and impression counts, and does not identify individual visitors.</p>
+""" if ga4 else """
+<h2>Analytics</h2>
+<p>This site uses Google Search Console to see how its pages appear in search
+results. Search Console reports aggregate figures such as search terms and
+impression counts, and does not identify individual visitors.</p>
+"""
+
+    contact_html = (
+        f'<p>For questions about this policy, please write to '
+        f'<a href="mailto:{esc(email)}">{esc(email)}</a>.</p>'
+        if email else
+        '<p>For questions about this policy, please get in touch through the '
+        'contact channels listed on the <a href="/about/">About</a> page.</p>')
+
+    content = f"""
+<h1>Privacy Policy</h1>
+<p class="lead">How {site_name} ({esc(cfg["base_url"])}, "this site") handles
+personal information and visit data.</p>
+
+<h2>Personal information</h2>
+<p>This site never asks you to enter personal information such as your name,
+address or phone number. Answers you give in the quizzes and flashcards are
+handled in your browser only and are not sent to any server.</p>
+{analytics_section}
+<h2>External links</h2>
+<p>This site links to other websites. Once you leave, the information and
+services offered there are outside our control, and we cannot take
+responsibility for them.</p>
+
+<h2>Disclaimer</h2>
+<p>The study material on this site is prepared with care but comes with no
+guarantee of accuracy. We cannot accept liability for any loss arising from
+use of this site.</p>
+
+<h2>Copyright</h2>
+<p>The text, questions and explanations on this site belong to its author.
+Please do not republish or reproduce them without permission. Quoting a short
+passage is fine if you credit this site with a link.</p>
+
+<h2>Contact</h2>
+{contact_html}
+
+<h2>Changes</h2>
+<p>This policy may be revised without notice.</p>
+<p class="privacy-date">Effective: July 29, 2026</p>
+"""
+    return layout.page(
+        cfg, title="Privacy Policy",
+        description=f"How {cfg['site_name']} handles personal information, "
+                    "cookies and analytics.",
+        path="/privacy/", content=content,
+        breadcrumbs=[("/privacy/", "Privacy Policy")])
+
+
 def render_404(cfg):
     content = """
 <section class="hero">
