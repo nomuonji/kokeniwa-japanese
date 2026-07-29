@@ -68,17 +68,23 @@ def _analytics_html(cfg):
 
 def page(cfg, *, title, description, path, content, breadcrumbs=None,
          jsonld=None, og_type="website", active_nav=None, extra_scripts="",
-         noindex=False):
+         noindex=False, og_image="default", wide=False):
     """Return the full HTML for a page.
 
     path: root-relative path (e.g. "/vocab/n5/"). Used for canonical / OGP.
     breadcrumbs: [(path, label), ...] (Home is prepended automatically)
     jsonld: dict or list of dicts (BreadcrumbList is added automatically)
     active_nav: a NAV_ITEMS path (to highlight the current section)
+    og_image: slug under /static/og/ — built by scripts/build_og_images.py
+              (default / blog / vocab / quiz, and blog/{slug} per article)
+    wide: widen the content column so cards sit three across. Reading pages
+          keep the default width, where long lines would hurt.
     """
     site_name = cfg["site_name"]
     full_title = site_name if path == "/" else f"{title}｜{site_name}"
     canonical = cfg["base_url"] + path
+    # OGPは絶対URL必須
+    og_image_url = cfg["base_url"] + f"/static/og/{og_image}.png"
 
     jsonld_list = []
     if jsonld:
@@ -123,7 +129,15 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:url" content="{esc(canonical)}">
 <meta property="og:site_name" content="{esc(site_name)}">
-<meta name="twitter:card" content="summary">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="{esc(og_image_url)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{esc(full_title)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(full_title)}">
+<meta name="twitter:description" content="{esc(description)}">
+<meta name="twitter:image" content="{esc(og_image_url)}">
 <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/style.css">
 {_analytics_html(cfg)}{jsonld_html}
@@ -177,7 +191,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     <nav class="site-nav" aria-label="Main">{nav_html}</nav>
   </div>
 </header>
-<main id="main" class="container">
+<main id="main" class="container{' container-wide' if wide else ''}">
 {crumbs_html}
 {content}
 </main>
