@@ -11,7 +11,7 @@
 import os
 import random
 
-PAGES_BASE = os.environ.get("PAGES_BASE", "https://kokeniwa-japanese.pages.dev").rstrip("/")
+PAGES_BASE = os.environ.get("PAGES_BASE", "https://ja.kokeniwa.net").rstrip("/")
 
 # {n}=語数, {total}=総語数, {url}=一覧ページ
 HOOKS = [
