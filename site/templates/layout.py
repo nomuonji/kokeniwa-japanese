@@ -22,6 +22,22 @@ def breadcrumb_jsonld(cfg, crumbs):
     return {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": items}
 
 
+def _sister_html(cfg):
+    """Footer link to the sister site.
+
+    ja (Japanese for English speakers) and en (English for Japanese speakers)
+    barely share an audience, so keep it to one quiet line in the footer
+    instead of the nav. Remove "sister" from site_config.json to hide it.
+    """
+    s = cfg.get("sister")
+    if not s:
+        return ""
+    return (f'<p class="footer-sister">{esc(s["label"])} '
+            f'<a href="{esc(s["url"])}" hreflang="{esc(s["lang"])}" rel="noopener">'
+            f'{esc(s["name"])}</a>'
+            f'<span class="footer-sister-note">{esc(s["note"])}</span></p>')
+
+
 def page(cfg, *, title, description, path, content, breadcrumbs=None,
          jsonld=None, og_type="website", active_nav=None, extra_scripts="",
          noindex=False):
@@ -142,6 +158,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     <p class="footer-brand">{esc(site_name)}</p>
     <p class="footer-tagline">{esc(cfg["tagline"])}</p>
     <nav class="footer-nav" aria-label="Footer">{nav_html}</nav>
+{_sister_html(cfg)}
     <p class="copyright">&copy; {esc(site_name)}</p>
   </div>
 </footer>
