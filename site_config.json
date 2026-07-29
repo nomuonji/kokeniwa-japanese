@@ -5,6 +5,10 @@
   "base_url": "https://ja.kokeniwa.net",
   "lang": "en",
   "include_draft": true,
+  "analytics": {
+    "ga4_measurement_id": "G-RKDRPD1LX3",
+    "google_site_verification": ""
+  },
   "sister": {
     "name": "Kokeniwa English",
     "url": "https://en.kokeniwa.net",

@@ -575,7 +575,20 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .footer-tagline { color: var(--text-muted); font-size: .88rem; margin: 4px 0 16px; }
 .footer-nav { display: flex; gap: 4px 14px; justify-content: center; flex-wrap: wrap; margin-bottom: 16px; }
 .footer-nav a { font-size: .85rem; color: var(--text-muted); }
+/* One-line link to the sister site (ja <-> en). Kept deliberately quiet. */
+.footer-sister {
+  font-size: .8rem; color: var(--text-muted);
+  margin: 0 0 14px; display: flex; gap: 4px 8px;
+  justify-content: center; align-items: baseline; flex-wrap: wrap;
+}
+.footer-sister a { color: var(--primary); text-decoration: underline; text-underline-offset: 3px; }
+.footer-sister-note::before { content: "— "; }
+.footer-legal { font-size: .78rem; margin: 0 0 6px; }
+.footer-legal a { color: var(--text-muted); text-decoration: underline; text-underline-offset: 3px; }
 .copyright { font-size: .78rem; color: var(--text-muted); margin: 0; }
+
+/* Privacy policy effective date */
+.privacy-date { font-size: .82rem; color: var(--text-muted); margin-top: 28px; }
 
 /* ---------- 繝ｬ繧ｹ繝昴Φ繧ｷ繝・---------- */
 @media (max-width: 640px) {

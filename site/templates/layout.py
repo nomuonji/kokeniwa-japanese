@@ -38,6 +38,34 @@ def _sister_html(cfg):
             f'<span class="footer-sister-note">{esc(s["note"])}</span></p>')
 
 
+def _analytics_html(cfg):
+    """Search Console ownership meta tag and the GA4 tag.
+
+    Emits nothing when "analytics" in site_config.json is empty, so a local
+    or forked build never reports into someone else's property. GA4 only
+    fires on the production host, keeping the local
+    `python -m http.server` preview out of the numbers.
+    """
+    a = cfg.get("analytics") or {}
+    out = ""
+    if a.get("google_site_verification"):
+        out += ('<meta name="google-site-verification" '
+                f'content="{esc(a["google_site_verification"])}">\n')
+    ga4 = a.get("ga4_measurement_id")
+    if ga4:
+        host = cfg["base_url"].split("//", 1)[-1].rstrip("/")
+        out += (
+            f'<script async src="https://www.googletagmanager.com/gtag/js?id={esc(ga4)}"></script>\n'
+            "<script>\n"
+            "window.dataLayer=window.dataLayer||[];\n"
+            "function gtag(){dataLayer.push(arguments);}\n"
+            f'if(location.hostname==="{esc(host)}"){{gtag("js",new Date());'
+            f'gtag("config","{esc(ga4)}");}}\n'
+            "</script>\n"
+        )
+    return out
+
+
 def page(cfg, *, title, description, path, content, breadcrumbs=None,
          jsonld=None, og_type="website", active_nav=None, extra_scripts="",
          noindex=False):
@@ -98,7 +126,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/style.css">
-{jsonld_html}
+{_analytics_html(cfg)}{jsonld_html}
 </head>
 <body>
 <div class="garden-bg" aria-hidden="true">
@@ -159,6 +187,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     <p class="footer-tagline">{esc(cfg["tagline"])}</p>
     <nav class="footer-nav" aria-label="Footer">{nav_html}</nav>
 {_sister_html(cfg)}
+    <p class="footer-legal"><a href="/privacy/">Privacy Policy</a></p>
     <p class="copyright">&copy; {esc(site_name)}</p>
   </div>
 </footer>
