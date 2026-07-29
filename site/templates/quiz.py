@@ -9,7 +9,7 @@ from lib import config
 from lib.render import esc
 from templates import layout
 
-QUIZ_SCRIPT = '<script src="/static/quiz.js" defer></script>'
+QUIZ_SCRIPT = f'<script src="{layout.asset("/static/quiz.js")}" defer></script>'
 
 
 def category_url(category):

@@ -14,7 +14,7 @@ I know how this sounds. You came to Japan for shrines and cherry blossoms, and h
 
 Forget the fluorescent, sad-hotdog version. A Japanese konbini — 7-Eleven, Lawson, FamilyMart — is a small marvel of daily life ([the format is a genuine cultural institution here](https://en.wikipedia.org/wiki/Convenience_stores_in_Japan)). In one clean, 24-hour room you can:
 
-- Eat genuinely good food: rice balls ({{おにぎり|onigiri|rice ball}}), the famous {{卵|たまご|tamago · egg}}-salad sandwich, hot **oden** in winter, fresh coffee for about a dollar.
+- Eat genuinely good food: {{おにぎり|onigiri|onigiri · rice balls}}, the famous {{卵|たまご|tamago · egg}}-salad sandwich, hot **oden** in winter, fresh coffee for about a dollar.
 - Pay your utility bills, buy concert tickets, and ship your luggage ahead to your next hotel.
 - Use a clean toilet, an ATM that takes foreign cards, and a printer.
 

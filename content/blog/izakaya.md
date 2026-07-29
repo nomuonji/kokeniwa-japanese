@@ -10,7 +10,7 @@ vocab: 居酒屋|いざかや|izakaya · drinking place with food; お通し|お
 
 An {{居酒屋|いざかや|izakaya · drinking place with food}} gets translated as "Japanese pub," which sets you up to walk in expecting a bar and be confused by the menu, or expecting a restaurant and be confused by everything else.
 
-Neither is right. The word is *i* (to stay) + *sakaya* (sake shop): a sake shop you were allowed to sit down in. That origin still explains the room. Drinks lead, food supports, and you are expected to stay a while.
+Neither is right. The word is *i* (to stay) + *sakaya* (sake shop): [a sake shop you were allowed to stay and drink in](https://gogen-yurai.jp/izakaya/), back when shops sold sake by weight and let you taste it standing up. That origin still explains the room. Drinks lead, food supports, and you are expected to stay a while.
 
 Here's the actual sequence, because nobody explains it and every part of it is unremarkable once you know.
 
@@ -18,7 +18,7 @@ Here's the actual sequence, because nobody explains it and every part of it is u
 
 A small dish arrives within a minute. Pickles, simmered vegetables, something in a tiny bowl. You didn't order it, and it's not free.
 
-This is {{お通し|おとおし|otōshi · the seated charge dish}} — usually ¥300–700 per person, functionally a cover charge served as a snack. It is not a scam. In a country with no tipping, it's simply how the seat gets paid for, and it doubles as a way for the kitchen to signal your order was received. Not everywhere charges it: the chain Torikizoku states plainly that it has no otoshi or table fee, and at some places you can decline.
+This is {{お通し|おとおし|otōshi · the seated charge dish}} — usually ¥300–700 per person, functionally a cover charge served as a snack. It is not a scam. In a country with no tipping, it's simply how the seat gets paid for — and the name itself comes from the kitchen [signalling that your order had been "passed through"](https://style.iichiko.co.jp/finger-food/20240618/0329/). Not everywhere charges it: the chain Torikizoku states plainly that it has no otoshi or table fee, and at some places you can decline.
 
 If you have an allergy, say so when you sit. The dish can usually be swapped.
 
@@ -47,7 +47,7 @@ Sitting quietly with a raised finger, hoping to be noticed, is the thing that do
 
 ## Two words that decide your night
 
-**{{飲み放題|のみほうだい|nomihōdai · all-you-can-drink}}** — all-you-can-drink, usually 90 or 120 minutes, often bundled with a set course. Whether it's good value depends entirely on your pace: it's typically priced around three or four drinks. It also puts a clock on your table, and staff will come to tell you when it's ending.
+**{{飲み放題|のみほうだい|nomihōdai · all-you-can-drink}}** — usually 90 or 120 minutes, often bundled with a set course. Whether it's good value depends entirely on your pace: it's typically priced around three or four drinks. It also puts a clock on your table, and staff will come to tell you when it's ending.
 
 **Time limits generally.** Many places cap seatings at two hours when busy. You'll be told at the door. It isn't personal.
 
@@ -69,9 +69,12 @@ The honest advice: pick a small place that's about two-thirds full at 7pm on a w
 
 ## Sources & further reading
 
-- On the word and the institution: [Wikipedia — Izakaya](https://en.wikipedia.org/wiki/Izakaya)
-- On otōshi and why it's charged: [Tokyo Weekender](https://www.tokyoweekender.com/food-and-drink/otoshi-explained/)
-- On the pouring custom and drinking parties: [Wikipedia — Nomikai](https://en.wikipedia.org/wiki/Nomikai)
+*Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
+
+- 語源（「居続けて飲む酒屋」）: [語源由来辞典「居酒屋」](https://gogen-yurai.jp/izakaya/)
+- 江戸期からの成り立ちと業態の変遷: [Wikipedia（日本語版）「居酒屋」](https://ja.wikipedia.org/wiki/%E5%B1%85%E9%85%92%E5%B1%8B)
+- お通しの由来（「注文をお通ししました」の合図）と突き出し・先付けとの違い: [いいちこスタイル](https://style.iichiko.co.jp/finger-food/20240618/0329/)
+- なぜ座っただけで料金が発生するのか、という店側の事情: [山路力也（フードジャーナリスト）／Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/ec566bd3e8fea13cb78d3ee65b94deb522976cb1)
 
 ---
 

@@ -13,7 +13,7 @@ from lib import config
 from lib.render import esc
 from templates import layout
 
-GRID_SCRIPT = '<script src="/static/vocab-grid.js" defer></script>'
+GRID_SCRIPT = f'<script src="{layout.asset("/static/vocab-grid.js")}" defer></script>'
 
 
 def set_url(set_key):

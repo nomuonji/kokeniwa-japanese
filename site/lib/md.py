@@ -31,23 +31,51 @@ _BOLD = re.compile(r"\*\*([^*]+)\*\*")
 _ITALIC = re.compile(r"\*([^*]+)\*")
 _IMAGE = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)\)")
 _LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
-# 語彙記法: {{漢字|かな}} → ふりがな付き。{{漢字|かな|gloss}} → ＋ホバーで意味表示。
+# 語彙記法: {{漢字|かな}} → ふりがな付き。{{漢字|かな|gloss}} → ＋意味を括弧書きで併記。
+#
+# 以前は gloss をホバーのツールチップで出していたが、読者は英語話者で
+# 日本語は初見なので、ホバーしないと意味が分からない状態は「読めない」に等しい。
+# タッチ端末ではそもそもホバーが無い。意味は常に見えている必要がある。
 _VOCAB = re.compile(r"\{\{([^|{}]+)\|([^|{}]+?)(?:\|([^{}]+))?\}\}")
+# 既に括弧で囲まれた形（`**gaman** ({{我慢|がまん|gaman · endurance}})`）。
+# そのまま括弧を足すと「(我慢 (gaman · endurance))」と入れ子になるので、
+# この形だけは括弧を足さず、ダッシュでつなぐ。地の文が英語の語を既に出している
+# 書き方なので、gloss側のromaji（"·"の前）も落として重複を減らす。
+_VOCAB_PAREN = re.compile(r"\(\s*(\{\{[^{}]+\}\})\s*\)")
+
+
+def _ruby(word, kana):
+    return f"<ruby>{word}<rt>{kana}</rt></ruby>"
 
 
 def _vocab_sub(m):
     word, kana, gloss = m.group(1), m.group(2), m.group(3)
-    ruby = f"<ruby>{word}<rt>{kana}</rt></ruby>"
+    ruby = _ruby(word, kana)
     if gloss:
-        return (f'<span class="vb" tabindex="0">{ruby}'
-                f'<span class="vb-gloss" role="tooltip">{gloss.strip()}</span></span>')
+        return (f'<span class="vb">{ruby}'
+                f'<span class="vb-gloss"> ({gloss.strip()})</span></span>')
     return ruby
+
+
+def _vocab_paren_sub(m):
+    inner = _VOCAB.fullmatch(m.group(1))
+    if not inner:
+        return m.group(0)
+    word, kana, gloss = inner.group(1), inner.group(2), inner.group(3)
+    ruby = _ruby(word, kana)
+    if not gloss:
+        return f"({ruby})"
+    gloss = gloss.strip()
+    if "·" in gloss:
+        gloss = gloss.split("·", 1)[1].strip()
+    return f'(<span class="vb">{ruby}<span class="vb-gloss"> — {gloss}</span></span>)'
 
 
 def _inline(text):
     """インライン記法をHTMLに変換。先にエスケープし、記法部分だけタグ化する。"""
     text = html.escape(text, quote=False)
     text = _INLINE_CODE.sub(r"<code>\1</code>", text)
+    text = _VOCAB_PAREN.sub(_vocab_paren_sub, text)  # 括弧付きを先に処理する
     text = _VOCAB.sub(_vocab_sub, text)
     text = _IMAGE.sub(r'<img src="\2" alt="\1" loading="lazy">', text)
     text = _LINK.sub(r'<a href="\2">\1</a>', text)
