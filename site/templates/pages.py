@@ -1,6 +1,7 @@
 """Home, About, and 404 pages."""
 from lib import config
 from lib.render import esc
+from templates import blog as blog_tpl
 from templates import layout
 from templates import vocab as vocab_tpl
 
@@ -19,14 +20,12 @@ def render_home(cfg, *, counts, articles):
 
     latest = ""
     if articles:
-        items = "".join(
-            f'<a class="list-item" href="/blog/{a["slug"]}/">'
-            f'<h3>{esc(a["title"])}</h3>'
-            f'<span class="article-date">{esc(a["date"])}</span></a>'
-            for a in articles[:3])
+        # 一覧と同じカードを使う。トップだけ別の見た目にすると、
+        # 同じ記事が場所によって違う顔で出てきて散らかる。
+        items = "".join(blog_tpl.post_card(a) for a in articles[:3])
         latest = f"""
 <div class="section-head"><h2>From Honne Japan</h2><a class="more" href="/blog/">See all →</a></div>
-<div class="article-list">{items}</div>"""
+<div class="post-grid">{items}</div>"""
 
     content = f"""
 <section class="hero">

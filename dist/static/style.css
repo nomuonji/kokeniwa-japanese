@@ -104,6 +104,8 @@ body {
 }
 
 .container { max-width: 920px; margin: 0 auto; padding: 0 20px; }
+/* Listing pages only — wide enough for three cards across */
+.container-wide { max-width: 1120px; }
 
 /* ---------- 庭シルエット背景（枯山水: 遠山・石灯籠・苔石・砂紋・苔） ---------- */
 .garden-bg {
@@ -553,6 +555,159 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .article-body img { max-width: 100%; border-radius: var(--radius); }
 .article-header { margin: 8px 0 30px; padding-bottom: 22px; border-bottom: 1px solid var(--border); }
 .article-header h1 { margin-bottom: .2em; }
+.article-header .post-head { margin-bottom: 14px; }
+
+/* ---------- Blog as a media surface ---------- */
+
+/* Index / category header: eyebrow, headline, lead. */
+.blog-hero {
+  --topic: var(--primary);
+  --topic-soft: var(--primary-soft);
+  margin-bottom: 22px; padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.blog-hero .eyebrow {
+  margin: 0 0 6px;
+  font-size: .74rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--topic);
+}
+.blog-hero .eyebrow a { color: inherit; }
+.blog-hero h1 { margin: 0 0 10px; }
+.blog-hero .lead { margin: 0; }
+.blog-hero .hero-count { margin: 12px 0 0; font-size: .8rem; color: var(--text-muted); }
+
+/* Category rail. Counts show which areas are thick. Scrolls instead of
+   wrapping, so the grid below doesn't get pushed down on narrow screens. */
+.topic-rail {
+  display: flex; gap: 8px; margin-bottom: 26px;
+  overflow-x: auto; scrollbar-width: none; padding-bottom: 2px;
+}
+.topic-rail::-webkit-scrollbar { display: none; }
+.topic-rail .chip {
+  --topic: var(--primary);
+  --topic-soft: var(--primary-soft);
+  display: inline-flex; align-items: center; gap: 6px; white-space: nowrap;
+  padding: 7px 14px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--surface);
+  font-size: .84rem; font-weight: 600; color: var(--text);
+  transition: border-color 180ms var(--ease-out), background 180ms var(--ease-out);
+}
+.topic-rail .chip .chip-count {
+  font-size: .72rem; font-weight: 700; color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+@media (hover: hover) {
+  .topic-rail .chip:hover {
+    text-decoration: none; border-color: var(--topic); background: var(--topic-soft);
+  }
+}
+.topic-rail .chip.is-active {
+  background: var(--topic); border-color: var(--topic); color: var(--on-primary);
+}
+.topic-rail .chip.is-active .chip-count { color: var(--on-primary); opacity: .75; }
+
+/* Article cards. Category accent switches via .topic-*. */
+.post-featured, .post-card {
+  --topic: var(--primary);
+  --topic-soft: var(--primary-soft);
+  position: relative; display: block;
+  background: var(--surface);
+  border: 1px solid var(--border); border-radius: var(--radius-lg);
+  color: var(--text); overflow: hidden;
+  transition: border-color 180ms var(--ease-out), box-shadow 180ms var(--ease-out),
+              transform 180ms var(--ease-out);
+}
+.topic-reading { --topic: var(--accent-reading); --topic-soft: var(--accent-reading-soft); }
+.topic-uscpa   { --topic: var(--accent-uscpa);   --topic-soft: var(--accent-uscpa-soft); }
+.topic-legal   { --topic: var(--accent-legal);   --topic-soft: var(--accent-legal-soft); }
+
+.post-featured::before, .post-card::before {
+  content: ""; position: absolute; inset: 0 auto auto 0; z-index: 1;
+  height: 3px; width: 56px; background: var(--topic);
+  transition: width 260ms var(--ease-out);
+}
+@media (hover: hover) {
+  .post-featured:hover, .post-card:hover {
+    text-decoration: none; border-color: var(--topic);
+    box-shadow: var(--shadow-lift); transform: translateY(-2px);
+  }
+  .post-featured:hover::before, .post-card:hover::before { width: 100%; }
+  .post-featured:hover .post-more, .post-card:hover .post-more { gap: 9px; }
+}
+.post-featured:active, .post-card:active { transform: scale(.995); }
+
+/* Thumbnails come from scripts/build_og_images.py. The fixed aspect-ratio
+   keeps the card height stable while images are still loading. */
+.post-media { background: var(--surface-2); }
+.post-media img {
+  display: block; width: 100%; height: auto;
+  aspect-ratio: 640 / 336; object-fit: cover;
+}
+.post-body { padding: 20px 22px; }
+
+.post-featured {
+  margin-bottom: 26px;
+  background: linear-gradient(160deg, var(--topic-soft) 0%, transparent 58%), var(--surface);
+}
+.post-featured .post-body { padding: 28px 30px 26px; }
+@media (min-width: 760px) {
+  .post-featured { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); }
+  .post-featured .post-media { height: 100%; }
+  .post-featured .post-media img { height: 100%; aspect-ratio: auto; }
+  .post-featured .post-body { align-self: center; padding: 30px 34px; }
+}
+
+.post-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+.post-topic {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: .76rem; font-weight: 700; letter-spacing: .02em;
+  padding: 3px 11px; border-radius: 999px;
+  background: var(--topic-soft); color: var(--topic);
+  transition: background 180ms var(--ease-out), color 180ms var(--ease-out);
+}
+.post-topic-link { display: inline-flex; }
+@media (hover: hover) {
+  .post-topic-link:hover { text-decoration: none; }
+  .post-topic-link:hover .post-topic { background: var(--topic); color: var(--on-primary); }
+}
+.post-meta { font-size: .76rem; color: var(--text-muted); }
+.post-meta .dot { margin: 0 4px; }
+
+.post-title {
+  font-family: var(--font-serif);
+  margin: 0 0 10px; line-height: 1.45; font-size: 1.1rem; font-weight: 700;
+}
+.post-featured .post-title { font-size: 1.5rem; margin-bottom: 12px; }
+.post-desc {
+  margin: 0; font-size: .87rem; line-height: 1.75; color: var(--text-muted);
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.post-featured .post-desc { font-size: .93rem; -webkit-line-clamp: 4; max-width: 62ch; }
+.post-more {
+  display: inline-flex; align-items: center; gap: 5px;
+  margin-top: 14px; font-size: .84rem; font-weight: 700; color: var(--topic);
+  transition: gap 180ms var(--ease-out);
+}
+
+.post-grid {
+  display: grid; gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+/* Stretch so "Read" lines up at the bottom even when copy lengths differ */
+.post-grid .post-card { display: flex; flex-direction: column; }
+.post-grid .post-body { display: flex; flex-direction: column; flex: 1; }
+.post-grid .post-more { margin-top: auto; padding-top: 14px; }
+.related { margin-top: 56px; }
+.related .section-head { margin-top: 0; }
+
+@media (max-width: 640px) {
+  .post-featured .post-body { padding: 22px 20px 20px; }
+  .post-featured .post-title { font-size: 1.28rem; }
+  .post-grid { grid-template-columns: 1fr; }
+  .blog-hero { margin-bottom: 18px; padding-bottom: 18px; }
+  /* Bleed to the edges so it reads as scrollable */
+  .topic-rail { margin-inline: -20px; padding-inline: 20px; }
+}
 
 /* ---------- 繧ｻ繧ｯ繧ｷ繝ｧ繝ｳ隕句・縺・---------- */
 .section-head {

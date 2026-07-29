@@ -103,14 +103,20 @@ def build(cfg):
     # --- blog (optional) ---
     if articles:
         emit("/blog/", blog_tpl.render_index(cfg, articles))
+        # 記事末の「Keep reading」は同カテゴリを優先し、足りなければ新しい順で補う
         for a in articles:
-            emit(blog_tpl.article_url(a), blog_tpl.render_article(cfg, a))
+            others = [b for b in articles if b["slug"] != a["slug"]]
+            same = [b for b in others if b.get("category")
+                    and b["category"] == a.get("category")]
+            related = (same + [b for b in others if b not in same])[:3]
+            emit(blog_tpl.article_url(a), blog_tpl.render_article(cfg, a, related))
         cats = {}
         for a in articles:
             if a.get("category"):
                 cats.setdefault(a["category"], []).append(a)
         for cat, arts in sorted(cats.items()):
-            emit(blog_tpl.category_url(cat), blog_tpl.render_category(cfg, cat, arts))
+            emit(blog_tpl.category_url(cat),
+                 blog_tpl.render_category(cfg, cat, arts, articles))
 
     # --- static pages ---
     emit("/", pages_tpl.render_home(cfg, counts=counts, articles=articles))
