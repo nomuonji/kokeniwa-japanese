@@ -14,7 +14,7 @@ The dictionaries aren't being lazy. English genuinely has no phrase for this, be
 
 ## What it literally says
 
-Broken apart, it's two pieces. *Yoroshiku* is an adverb meaning roughly "favourably" or "in a good way." *Onegaishimasu* is a humble request — *I ask this of you*.
+Broken apart, it's two pieces. *Yoroshiku* is an adverb meaning roughly "favourably" or "in a good way" — [the word you add when you're asking someone to do you a good turn](https://www.weblio.jp/content/%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99). *Onegaishimasu* is a humble request — *I ask this of you*.
 
 So: **"I ask that you treat this favourably."** No subject, no object, no timeframe. Japanese is comfortable leaving all three out, and that vagueness is doing the work. It doesn't specify what you're asking for, because you're asking for all of it, in advance, forever.
 
@@ -34,7 +34,7 @@ Notice the through-line. It isn't a greeting. It's what you say at the moment re
 
 English splits this into pieces and loses the middle. *Nice to meet you* is about the present moment. *Please* attaches to one specific request. *Thanks in advance* is close, but it's transactional and, in some registers, faintly passive-aggressive.
 
-Japanese is doing something else: acknowledging that you are about to be in someone's care — {{世話になる|せわになる|sewa ni naru · to be in someone's care}} — and asking them to be generous about it, before you know what you'll need. It's a pre-emptive request for goodwill.
+Japanese is doing something else: acknowledging that you are about to be in someone's hands — the verb is {{世話になる|せわになる|sewa ni naru · to be in someone's care}} — and asking them to be generous about it, before you know what you'll need. It's a pre-emptive request for goodwill.
 
 It works because the relationship, not the transaction, is the unit. You're not asking for a favour. You're asking to be treated well across every unspecified favour to come.
 
@@ -44,7 +44,7 @@ Here's the part that isn't in the phrasebook: it isn't free.
 
 Saying *yoroshiku onegaishimasu* puts you inside a relationship where you now owe reciprocal goodwill. It's the verbal handshake on an ongoing obligation, and the person saying it back is agreeing to the same. The Japanese verb {{頼む|たのむ|tanomu · to ask a favour, to rely on}} sits underneath it — a word that means both *to ask* and *to rely on*, which is not a coincidence.
 
-This is why it can feel strangely heavy to say the first few times, and why saying it too casually to someone senior sounds off. It's also why the casual clipped form — just *yoroshiku* — is fine between friends but wrong on your first day at work. The shorter it gets, the less obligation it claims.
+This is why it can feel strangely heavy to say the first few times, and why saying it too casually to someone senior sounds off. It's also why the casual clipped form — just *yoroshiku* — is fine between friends but wrong on your first day at work, and why business Japanese [climbs through お願いします → お願いいたします → お願い申し上げます](https://tenshoku.mynavi.jp/knowhow/caripedia/249/) as the person gets more senior. The shorter it gets, the less obligation it claims.
 
 ## How to use it without overthinking
 
@@ -64,9 +64,11 @@ Still, of all the words I'd want a visitor to leave with, this is near the top. 
 
 ## Sources & further reading
 
-- A thorough breakdown of the phrase's uses and registers: [Tofugu](https://www.tofugu.com/japanese/yoroshiku-onegaishimasu-meaning/)
-- On *onegaishimasu* and the humble request forms: [Wikipedia — Japanese honorifics](https://en.wikipedia.org/wiki/Japanese_honorifics)
-- On the self-introduction the phrase closes: [Tofugu — Jikoshoukai](https://www.tofugu.com/japanese/jikoshoukai/)
+*Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
+
+- 語の意味と成り立ち: [Weblio辞書「よろしくお願いします」](https://www.weblio.jp/content/%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99)
+- なぜこの一言で通じるのか、という論考: [テンミニッツ・アカデミー「『よろしくお願いします』のホントの意味」](https://10mtv.jp/pc/column/article.php?column_article_id=4255)
+- 敬語としての使い分け（お願いします／いたします／申し上げます）: [マイナビ転職](https://tenshoku.mynavi.jp/knowhow/caripedia/249/)
 
 ---
 

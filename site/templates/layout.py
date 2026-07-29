@@ -1,7 +1,29 @@
 """Shared layout (header, footer, head meta)."""
+import hashlib
 import json
+from functools import lru_cache
+from pathlib import Path
 
 from lib.render import esc
+
+_STATIC_DIR = Path(__file__).resolve().parent.parent / "static"
+
+
+@lru_cache(maxsize=None)
+def asset(path):
+    """Append a content hash to a /static/... URL.
+
+    _headers serves /static/* with Cache-Control: max-age=86400, so without
+    this a CSS or JS change takes up to a day to reach returning visitors —
+    who meanwhile get new HTML against a stale stylesheet. The hash changes
+    only when the file does, so caching still works for everything else.
+    Unknown paths (e.g. JSON written straight into dist/) pass through.
+    """
+    f = _STATIC_DIR / path.removeprefix("/static/")
+    if not f.is_file():
+        return path
+    h = hashlib.sha1(f.read_bytes()).hexdigest()[:8]
+    return f"{path}?v={h}"
 
 NAV_ITEMS = [
     ("/vocab/", "Vocabulary"),
@@ -138,8 +160,8 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
 <meta name="twitter:title" content="{esc(full_title)}">
 <meta name="twitter:description" content="{esc(description)}">
 <meta name="twitter:image" content="{esc(og_image_url)}">
-<link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/static/style.css">
+<link rel="icon" href="{esc(asset("/static/favicon.svg"))}" type="image/svg+xml">
+<link rel="stylesheet" href="{esc(asset("/static/style.css"))}">
 {_analytics_html(cfg)}{jsonld_html}
 </head>
 <body>

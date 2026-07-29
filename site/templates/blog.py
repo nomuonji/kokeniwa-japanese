@@ -229,8 +229,9 @@ def _vocab_box(article):
         '<aside class="vocab-box" aria-label="Vocabulary from this article">'
         '<h2>Vocabulary from this article <span class="jp-sub">この記事の単語</span></h2>'
         f'<ul class="vocab-list">{"".join(items)}</ul>'
-        '<p class="vocab-cta">Hover the dotted words in the article for meanings — '
-        'then drill more with the <a href="/vocab/">free JLPT flashcards →</a></p>'
+        '<p class="vocab-cta">Every Japanese word above appears in the article with its '
+        'reading and meaning — drill these and more with the '
+        '<a href="/vocab/">free JLPT flashcards →</a></p>'
         '</aside>')
 
 

@@ -770,30 +770,17 @@ a.card:active { transform: translateY(-1px) scale(.99); }
   color: var(--text-muted);
   letter-spacing: 0.02em;
 }
-.vb {
-  position: relative;
-  cursor: help;
-  border-bottom: 1.5px dotted var(--accent-reading);
-  outline: none;
-}
+/* 本文に埋め込んだ日本語。ふりがな＋意味を括弧書きで併記する。
+   意味は常に見えている必要があるので、ホバーのツールチップにはしない
+   （読者は日本語が初見で、タッチ端末にはホバーが無い）。
+   括弧の中は本文より一段落とし、地の文の流れを切らないようにしている。 */
+.vb { white-space: nowrap; }
 .vb .vb-gloss {
-  position: absolute;
-  left: 50%;
-  bottom: calc(100% + 0.9em);
-  transform: translateX(-50%);
-  background: #222;
-  color: #fff;
-  font-size: 0.78rem;
-  line-height: 1.4;
-  padding: 0.4em 0.7em;
-  border-radius: 6px;
-  white-space: nowrap;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.12s ease;
-  z-index: 20;
+  font-size: .88em;
+  color: var(--text-muted);
+  white-space: normal;
 }
-.vb:hover .vb-gloss, .vb:focus .vb-gloss { opacity: 1; }
+.vb .vb-gloss em { font-style: normal; }
 
 /* vocabulary recap box at the end of articles */
 .article-body h2 + ul.vocab-list { margin-top: 0.75rem; }

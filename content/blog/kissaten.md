@@ -29,7 +29,7 @@ A kissaten isn't just old; it's a living piece of Shōwa Japan — a slower, mor
 
 - **Order something** — usually one drink per person; this is someone's livelihood, not a co-working space.
 - **Go for the morning set** if you can; it's the best value and the most local thing on the menu.
-- **Bring cash** ({{現金|げんきん|genkin · cash}})**.** Many are cash-only and proudly analog.
+- **Bring cash** ({{現金|げんきん|genkin}})**.** Many are cash-only and proudly analog.
 - **Slow down.** The whole point is that there's nowhere to rush to. Don't camp for four hours with a laptop, but do linger.
 
 Skip one famous café with a queue and find a kissaten with a faded sign instead. It's the closest thing Tokyo has to a time machine, and it comes with very good coffee.

@@ -34,7 +34,7 @@ That's an enormous, anxious thing to put on a person. And it's the exact opposit
 
 ## What ikigai actually means
 
-The word is simple. *Iki* ({{生きる|いきる|ikiru · to live}}) means "to live." *Gai* ({{甲斐|かい|kai · worth, value}}) means "worth" or "value." Together, {{生きがい|いきがい|ikigai · reason for living}}: **the thing that makes life feel worth living.**
+The word is simple. *Iki* ({{生きる|いきる|ikiru}}) means "to live." *Gai* ({{甲斐|かい|kai}}) means "worth" or "value." Together, {{生きがい|いきがい|ikigai · reason for living}}: **the thing that makes life feel worth living.**
 
 That's it. There is no requirement that it make money. No requirement that you're even good at it. No requirement that the world needs it.
 

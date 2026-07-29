@@ -29,8 +29,8 @@ That's why a grandmother will save a rubber band, use a towel until it's gauze, 
 Mottainai stretches far past objects. Japanese people say it about:
 
 - **Food** — half a bowl of {{ご飯|ごはん|gohan · rice}} left uneaten.
-- **Time** ({{時間|じかん|jikan · time}}) — an afternoon squandered.
-- **Talent** ({{才能|さいのう|sainō · talent}}) — a gifted person not using their gift ("*mottainai*, with a mind like that").
+- **Time** ({{時間|じかん|jikan}}) — an afternoon squandered.
+- **Talent** ({{才能|さいのう|sainō}}) — a gifted person not using their gift ("*mottainai*, with a mind like that").
 - **Opportunity** — a chance let slip.
 
 In every case it's the same twinge: *this had more worth in it than we let it give.*

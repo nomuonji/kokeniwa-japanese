@@ -26,7 +26,7 @@ After the 2011 earthquake, foreign coverage kept remarking on the absence of loo
 
 The trouble is that the phrase doesn't check its own boundaries.
 
-"There is no method" is a claim about reality. But nobody actually verifies it before saying it. In practice *shōganai* gets applied to the things that genuinely can't be changed **and** to the things that could be changed but would be uncomfortable to change — and the sentence sounds identical either way.
+"There is no method" is a claim about reality. But nobody actually verifies it before saying it. Japanese writing on the phrase splits the same way — [acceptance on one reading, a way of stopping thought on the other](https://cotoacademy.com/ja/learn-japanese-blog-shikata-ga-nai-shoganai-meaning/). In practice *shōganai* gets applied to the things that genuinely can't be changed **and** to the things that could be changed but would be uncomfortable to change — and the sentence sounds identical either way.
 
 The overtime that everyone hates and nobody schedules. The meeting that exists because it has always existed. The woman who gets asked when she's having children. The colleague whose obvious competence goes unpromoted because of the order people joined the company. Ask why, often enough, and you'll get *shōganai*.
 
@@ -62,9 +62,12 @@ That's the honest version. Not a beautiful philosophy, not a national failing. A
 
 ## Sources & further reading
 
-- On the phrase's history and range of use: [Wikipedia — Shikata ga nai](https://en.wikipedia.org/wiki/Shikata_ga_nai)
-- The term's harder history, including its use around the wartime incarceration of Japanese Americans and Canadians: [Canadian Museum for Human Rights](https://humanrights.ca/story/shikata-ga-nai-it-cant-be-helped)
-- On *gaman* and endurance as a related but distinct idea: [my piece on gaman](/blog/gaman/)
+*Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
+
+- 語の由来と用例、「是非も及ばず」との関係: [Wikipedia（日本語版）「仕方がない」](https://ja.wikipedia.org/wiki/%E4%BB%95%E6%96%B9%E3%81%8C%E3%81%AA%E3%81%84)
+- 受容としての「しょうがない」と、思考停止としての「しょうがない」: [Coto Academy（日本語）](https://cotoacademy.com/ja/learn-japanese-blog-shikata-ga-nai-shoganai-meaning/)
+- 関連する語の広がり: [Weblio類語辞典「仕方がない」](https://thesaurus.weblio.jp/content/%E4%BB%95%E6%96%B9%E3%81%8C%E3%81%AA%E3%81%84)
+- On *gaman* as a related but distinct idea: [my piece on gaman](/blog/gaman/)
 
 ---
 
