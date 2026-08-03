@@ -47,32 +47,31 @@ VOCAB_SETS = {
         "title": "Survival Phrases", "short": "Phrases", "icon": "💬",
         "description": "Practical set phrases for travel and daily life in Japan — greetings, requests and essentials.",
     },
-    # --- themed sets: 一時オフ（themed_*.jsonl データ未作成のため）。データが揃ったら復活する。 ---
-    # "travel": {
-    #     "slug": "travel", "file": "themed_travel.jsonl", "level": None, "group": "themed",
-    #     "title": "Travel Japanese", "short": "Travel", "icon": "🧳",
-    #     "description": "Practical words for getting around Japan — stations, hotels, restaurants, shopping and emergencies.",
-    # },
-    # "food": {
-    #     "slug": "food", "file": "themed_food.jsonl", "level": None, "group": "themed",
-    #     "title": "Food & Cooking Japanese", "short": "Food", "icon": "🍜",
-    #     "description": "Dishes, ingredients, flavors and restaurant Japanese — everything you need to eat well in Japan.",
-    # },
-    # "anime": {
-    #     "slug": "anime", "file": "themed_anime.jsonl", "level": None, "group": "themed",
-    #     "title": "Anime & Casual Japanese", "short": "Anime", "icon": "🎌",
-    #     "description": "Casual speech, slang and expressions you actually hear in anime, dramas and daily conversation.",
-    # },
-    # "business": {
-    #     "slug": "business", "file": "themed_business.jsonl", "level": None, "group": "themed",
-    #     "title": "Business Japanese", "short": "Business", "icon": "💼",
-    #     "description": "Keigo, office vocabulary and email phrases for working with Japanese companies.",
-    # },
-    # "onomatopoeia": {
-    #     "slug": "onomatopoeia", "file": "themed_onomatopoeia.jsonl", "level": None, "group": "themed",
-    #     "title": "Japanese Onomatopoeia", "short": "Onomatopoeia", "icon": "💥",
-    #     "description": "Giongo and gitaigo — the sound and mimetic words that make Japanese vivid and natural.",
-    # },
+    "travel": {
+        "slug": "travel", "file": "themed_travel.jsonl", "level": None, "group": "themed",
+        "title": "Travel Japanese", "short": "Travel", "icon": "🧳",
+        "description": "Practical words for getting around Japan — stations, hotels, restaurants, shopping and emergencies.",
+    },
+    "food": {
+        "slug": "food", "file": "themed_food.jsonl", "level": None, "group": "themed",
+        "title": "Food & Cooking Japanese", "short": "Food", "icon": "🍜",
+        "description": "Dishes, ingredients, flavors and restaurant Japanese — everything you need to eat well in Japan.",
+    },
+    "anime": {
+        "slug": "anime", "file": "themed_anime.jsonl", "level": None, "group": "themed",
+        "title": "Anime & Casual Japanese", "short": "Anime", "icon": "🎌",
+        "description": "Casual speech, slang and expressions you actually hear in anime, dramas and daily conversation.",
+    },
+    "business": {
+        "slug": "business", "file": "themed_business.jsonl", "level": None, "group": "themed",
+        "title": "Business Japanese", "short": "Business", "icon": "💼",
+        "description": "Keigo, office vocabulary and email phrases for working with Japanese companies.",
+    },
+    "onomatopoeia": {
+        "slug": "onomatopoeia", "file": "themed_onomatopoeia.jsonl", "level": None, "group": "themed",
+        "title": "Japanese Onomatopoeia", "short": "Onomatopoeia", "icon": "💥",
+        "description": "Giongo and gitaigo — the sound and mimetic words that make Japanese vivid and natural.",
+    },
     "adult": {
         "slug": "adult", "file": "adult.jsonl", "level": None,
         "title": "Mature Vocabulary (18+)", "short": "18+", "icon": "🔞",
