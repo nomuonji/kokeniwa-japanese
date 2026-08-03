@@ -4,15 +4,15 @@ name: Threads 自動投稿 (JP)
 # 投稿時刻: 07:00 / 12:00 / 20:00 JST(= UTC 22:00 / 03:00 / 11:00)
 # トークンとカーソルは Gist に保存し、期限が近づくと自動でリフレッシュする。
 #
-# 注意: これは「準備」段階のワークフロー。english-learner の日本語アカ投稿を
-# 停止して本番稼働に切り替えるまでは、下記 schedule をコメントアウトしたまま
-# にしておく(workflow_dispatch で手動テストのみ可能)。
+# 2026-08-03: english-learner 側のJP投稿ワークフロー(daily-*/reply-*)を停止し、
+# 本番稼働をこちらに一本化した。同一Threadsアカウント(THREADS_USER_ID_JP)を
+# 引き続き使用する(cursor は kokeniwa 側のデータで0から再開)。
 
 on:
-  # schedule:
-  #   - cron: "0 22 * * *"  # 07:00 JST
-  #   - cron: "0 3 * * *"   # 12:00 JST
-  #   - cron: "0 11 * * *"  # 20:00 JST
+  schedule:
+    - cron: "0 22 * * *"  # 07:00 JST
+    - cron: "0 3 * * *"   # 12:00 JST
+    - cron: "0 11 * * *"  # 20:00 JST
   workflow_dispatch:
     inputs:
       dry_run:

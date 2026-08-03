@@ -84,7 +84,7 @@ an instant answer check and a full English explanation.</p>
     return layout.page(
         cfg, title="Japanese Grammar Quiz",
         description=f"{len(problems)} free Japanese grammar quiz questions from JLPT N5 to N1 — particles, verb forms, keigo and more, each with an English explanation.",
-        path="/quiz/", content=content,
+        path="/quiz/", content=content, og_image="quiz",
         breadcrumbs=[("/quiz/", "Quiz")], active_nav="/quiz/")
 
 
@@ -101,7 +101,7 @@ def render_level(cfg, problems, level_key):
     return layout.page(
         cfg, title=f"Japanese Grammar Quiz — JLPT {lv['label']}",
         description=f"{len(subset)} JLPT {lv['label']} grammar quiz questions with English explanations. {lv['description']}",
-        path=path, content=content,
+        path=path, content=content, og_image="quiz",
         breadcrumbs=[("/quiz/", "Quiz"), (path, lv["label"])],
         active_nav="/quiz/")
 
@@ -119,7 +119,7 @@ def render_category(cfg, problems, slug):
     return layout.page(
         cfg, title=f"Japanese Grammar Quiz — {name}",
         description=f"{len(subset)} Japanese grammar quiz questions about {name.lower()}, each with an English explanation.",
-        path=path, content=content,
+        path=path, content=content, og_image="quiz",
         breadcrumbs=[("/quiz/", "Quiz"), (path, name)],
         active_nav="/quiz/")
 
@@ -175,7 +175,7 @@ def render_problem(cfg, problems, index):
     return layout.page(
         cfg, title=f"Grammar Quiz No.{p['id']} — {p['point']} ({lv['label']})",
         description=f"[JLPT {lv['label']}] {p['sentence_ja'][:60]} — {p['question_en'][:80]} With answer and English explanation.",
-        path=path, content=content, jsonld=jsonld,
+        path=path, content=content, jsonld=jsonld, og_image="quiz",
         breadcrumbs=[("/quiz/", "Quiz"),
                      (category_url(p["category"]), config.QUIZ_CATEGORIES[p["category"]]),
                      (path, f"No.{p['id']}")],

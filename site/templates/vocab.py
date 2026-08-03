@@ -76,7 +76,7 @@ Japanese word and its English meaning and reading. Free, no sign-up.</p>
     return layout.page(
         cfg, title="Japanese Vocabulary Flashcards (JLPT N5–N1)",
         description="Free Japanese vocabulary flashcards for English speakers: JLPT N5, N4, N3, N2, N1 and survival phrases with readings and romaji.",
-        path="/vocab/", content=content,
+        path="/vocab/", content=content, og_image="vocab",
         breadcrumbs=[("/vocab/", "Vocabulary")])
 
 
@@ -113,7 +113,7 @@ Flip only the ones you want to test yourself on.</p>
     return layout.page(
         cfg, title=vset["title"],
         description=f"{vset['description']}",
-        path=path, content=content, noindex=True,
+        path=path, content=content, noindex=True, og_image="vocab",
         breadcrumbs=[("/vocab/", "Vocabulary"), (path, vset["short"])],
         active_nav=(path if set_key == "phrases" else "/vocab/") if not mature else None,
         extra_scripts=GRID_SCRIPT)
