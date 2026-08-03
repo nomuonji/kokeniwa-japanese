@@ -68,6 +68,8 @@ SECTIONS = {
               "N5 to N1, free and without signup. Kanji, kana, meaning and example.", PRIMARY),
     "quiz": ("Japanese Quiz",
              "Check what you actually remember. Free, no signup.", EARTH),
+    "books": ("Bilingual Classics\nfor Reading Practice",
+              "Sherlock Holmes, Woolf and Marx, English and Japanese side by side.", EARTH),
 }
 
 

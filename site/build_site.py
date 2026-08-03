@@ -121,6 +121,7 @@ def build(cfg):
     # --- static pages ---
     emit("/", pages_tpl.render_home(cfg, counts=counts, articles=articles))
     emit("/about/", pages_tpl.render_about(cfg))
+    emit("/books/", pages_tpl.render_books(cfg))
     emit("/privacy/", pages_tpl.render_privacy(cfg))
     write_page("404.html", pages_tpl.render_404(cfg))
 
