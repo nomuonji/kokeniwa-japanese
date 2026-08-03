@@ -20,6 +20,8 @@ def amazon_url(asin):
     return with_tag(f"https://www.amazon.co.jp/dp/{asin}")
 
 
+KU_LANDING = "https://www.amazon.co.jp/kindle-dbs/hz/subscribe/ku"
+
 _AFFILIATE_NOTICE = (
     '<p class="affiliate-note">As an Amazon Associate, this site earns from '
     'qualifying purchases.</p>')
@@ -105,6 +107,19 @@ original English and a Japanese translation side by side, sentence by sentence �
 <strong>"Read the Classics" bilingual series</strong> (published under a sister imprint).
 All three are included with <strong>Kindle Unlimited</strong>.</p>
 
+<div class="ku-hero">
+  <div class="ku-hero-body">
+    <span class="ku-hero-label">Kindle Unlimited</span>
+    <h2>Read all 3 for free</h2>
+    <p>Subscribe to Kindle Unlimited and read every book below at no extra cost — plus
+    everything else in the Unlimited catalog. New subscribers get a 30-day free trial.</p>
+    <p class="ku-hero-actions">
+      <a class="follow-btn" href="{esc(with_tag(KU_LANDING))}"
+         rel="noopener" target="_blank">See Kindle Unlimited</a>
+    </p>
+  </div>
+</div>
+
 <h2>Why classics you already know?</h2>
 <p>You've probably read (or at least know the premise of) Sherlock Holmes or heard Woolf's
 famous line. That familiarity does a lot of the work for you: when you already know roughly
@@ -119,6 +134,13 @@ with no context at all.</p>
 and check yourself against the English, or read the English first and see how it was translated
 — either way works. There's no glossary or grammar notes; this is extensive reading, not a
 textbook.</p>
+
+<h2>Also working on your English?</h2>
+<p>This bilingual series comes from <a href="https://en.kokeniwa.net/books/" rel="noopener"
+target="_blank">Kokeniwa English</a>, a sister site with its own Kindle line for English
+learners — vocabulary for USCPA and legal English, plus a 200-question English reading
+comprehension workbook. Same idea, opposite direction: <a href="https://en.kokeniwa.net/books/"
+rel="noopener" target="_blank">see the full lineup →</a></p>
 
 {_AFFILIATE_NOTICE}
 """

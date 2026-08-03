@@ -807,6 +807,21 @@ a.card:active { transform: translateY(-1px) scale(.99); }
 .vocab-cta { margin: 0.75rem 0 0 0; font-size: 0.85rem; color: var(--text-muted); }
 
 /* ---------- Books (bilingual Kindle series) ---------- */
+.ku-hero {
+  background: linear-gradient(135deg, var(--primary-soft), var(--surface));
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-lg);
+  padding: 26px 28px; margin: 26px 0 8px;
+}
+.ku-hero-label {
+  display: inline-block; font-size: .74rem; font-weight: 700; letter-spacing: .06em;
+  background: var(--primary); color: var(--on-primary);
+  border-radius: 999px; padding: 3px 14px; margin-bottom: 10px;
+}
+.ku-hero h2 { margin: 0 0 8px; font-size: 1.15rem; }
+.ku-hero p { margin: 0 0 6px; font-size: .93rem; color: var(--text-muted); }
+.ku-hero-actions { margin-top: 16px !important; }
+
 .book-strip {
   display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 20px; margin: 20px 0 8px;
