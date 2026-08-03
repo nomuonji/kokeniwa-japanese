@@ -34,19 +34,21 @@ Free JLPT N1–N5 flashcards, quizzes & honest notes on Japanese culture.
 👇 All words + quizzes, free
 ```
 
-（リンクはプロフィールの外部リンク欄に `https://ja.kokeniwa.net` を設定）
+（リンクはプロフィールの外部リンク欄に `https://ja.kokeniwa.net` を設定。
+Kindle書籍はbioに詰め込まず、固定ポスト③で個別に案内する。）
 
 ## 固定ポスト案(3本)
 
-Threadsは投稿を最大3件までピン留めできる。用途の異なる3本を用意。
+Threadsは投稿を最大3件までピン留めできる。用途の異なる3本を用意
+(サイト紹介・使い方ガイド・Kindle書籍紹介)。
 
 ### 1. サイト紹介(トップに固定する筆頭候補)
 
 ```
 Kokeniwa Japanese 🌱
 
-Free JLPT vocabulary flashcards (N5→N1) + grammar quizzes for English speakers.
-No sign-up, no paywall — just words, kana, romaji & example sentences.
+Free JLPT vocabulary flashcards (N5→N1), grammar quizzes & honest essays on
+Japanese culture — for English speakers. No sign-up, no paywall.
 
 Start here 👇
 https://ja.kokeniwa.net/vocab/
@@ -64,16 +66,22 @@ Bookmark this thread and start with N5 basics:
 https://ja.kokeniwa.net/vocab/n5/
 ```
 
-### 3. サイト全体の案内(ブログ・クイズも含む)
+### 3. Kindle書籍紹介(新規)
+
+kokeniwa-english(姉妹サイト、英語学習者向け)で出している「名作で学ぶ英語多読シリーズ」
+(シャーロック・ホームズ/自分だけの部屋/共産党宣言、一文ごとの日英対訳)を、
+日本語学習者向けにも紹介する固定ポスト。既に知っている名作だからこそ、
+日本語の文が推測しやすい――という多読の切り口で訴求する。
 
 ```
-Beyond flashcards, Kokeniwa Japanese also has:
+Already know Sherlock Holmes? Read it in Japanese. 🔍
 
-📖 Honest essays on Japanese culture (mottainai, honne/tatemae, izakaya...)
-✅ Free grammar quizzes, JLPT N5–N1
-🀄 Survival phrases for travel
+3 public-domain classics, published sentence-by-sentence in English + Japanese
+(Sherlock Holmes / A Room of One's Own / The Communist Manifesto).
+You already know the plot — so the Japanese is much easier to guess.
 
-All free, no sign-up: https://ja.kokeniwa.net
+All 3 are free with Kindle Unlimited 👇
+https://ja.kokeniwa.net/books/
 ```
 
 ## 運用メモ
@@ -82,3 +90,6 @@ All free, no sign-up: https://ja.kokeniwa.net
   Threadsアプリ/Webから手動で行う(APIに profile 更新・pin 設定のエンドポイントが無いため)。
 - 固定ポストは通常投稿として1回post_text()すれば良く、`scripts/auto_post.py` の外側で
   一度だけ手動投稿すれば足りる(自動投稿ローテーションには含めない)。
+- Kindle書籍(/books/)はAmazonアソシエイトリンクを含むため、固定ポスト③を投稿する際も
+  「広告を含む」ことが分かる書き方にしている(Threadsには広告表示の明示義務があるため、
+  投稿本文内で購入導線であることが分かるようにする)。

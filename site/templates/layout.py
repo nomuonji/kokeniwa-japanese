@@ -30,6 +30,7 @@ NAV_ITEMS = [
     ("/vocab/phrases/", "Phrases"),
     ("/quiz/", "Quiz"),
     ("/blog/", "Honne Japan"),
+    ("/books/", "Books"),
     ("/about/", "About"),
 ]
 

@@ -1,9 +1,134 @@
-"""Home, About, and 404 pages."""
+"""Home, About, Books, and 404 pages."""
 from lib import config
 from lib.render import esc
 from templates import blog as blog_tpl
 from templates import layout
 from templates import vocab as vocab_tpl
+
+# Amazonアソシエイト。kokeniwa-english と同じアカウント/タグを流用する
+# (同一運営者の別サイトのため)。表示にあたっては景品表示法・アソシエイト規約により、
+# 広告である旨の明示(_AFFILIATE_NOTICE)を同じページに必ず出すこと。
+ASSOCIATE_TAG = "kokeniwa-22"
+
+
+def with_tag(url):
+    sep = "&" if "?" in url else "?"
+    return f"{url}{sep}tag={ASSOCIATE_TAG}"
+
+
+def amazon_url(asin):
+    return with_tag(f"https://www.amazon.co.jp/dp/{asin}")
+
+
+_AFFILIATE_NOTICE = (
+    '<p class="affiliate-note">As an Amazon Associate, this site earns from '
+    'qualifying purchases.</p>')
+
+# 「名作で学ぶ英語多読シリーズ」(名著翻訳ラボ、kokeniwa-english と共通の書籍)。
+# 英語圏の読者が既に知っている名作を、一文ごとの日英対訳で読めるため、
+# 日本語学習者にとっては「筋を知っている分、日本語の文が推測しやすい」多読教材になる。
+BILINGUAL_BOOKS = [
+    {
+        "slug": "holmes",
+        "title": "The Adventures of Sherlock Holmes",
+        "subtitle": "Japanese/English parallel text",
+        "author": "Arthur Conan Doyle",
+        "asin": "B0G8KQLQ5D",
+        "price": "¥300",
+        "cover": "/static/covers/holmes.jpg",
+        "icon": "🔍",
+        "lead": "All 12 classic stories, sentence-by-sentence in Japanese and English. "
+                "You already know the plot — so it's easier to guess the Japanese as you read.",
+    },
+    {
+        "slug": "woolf",
+        "title": "A Room of One's Own",
+        "subtitle": "English/Japanese parallel text",
+        "author": "Virginia Woolf",
+        "asin": "B0G7RXQHM9",
+        "price": "¥300",
+        "cover": "/static/covers/woolf.jpg",
+        "icon": "🚪",
+        "lead": "“A woman must have money and a room of her own.” "
+                "A landmark essay, read sentence-by-sentence in both languages.",
+    },
+    {
+        "slug": "marx",
+        "title": "The Communist Manifesto",
+        "subtitle": "Japanese/English parallel text",
+        "author": "Karl Marx",
+        "asin": "B0G9M1VB9V",
+        "price": "¥300",
+        "cover": "/static/covers/marx.jpg",
+        "icon": "📜",
+        "lead": "A historic text that shaped the modern world, in the original English "
+                "alongside a Japanese translation — good practice for denser, formal prose.",
+    },
+]
+
+
+def _book_strip():
+    """Cover thumbnail strip for the home page; click through to /books/."""
+    return "".join(
+        f'<a class="book-thumb" href="/books/">'
+        f'<img src="{esc(b["cover"])}" alt="{esc(b["title"])} cover" '
+        f'width="500" height="800" loading="lazy">'
+        f'<span>{esc(b["title"])}</span></a>'
+        for b in BILINGUAL_BOOKS)
+
+
+def _bilingual_card(b):
+    return f"""
+<article class="bl-card">
+  <div class="book-cover">
+    <img src="{esc(b["cover"])}" alt="{esc(b["title"])} cover" loading="lazy">
+    <span class="ku-badge">Kindle Unlimited</span>
+  </div>
+  <div class="bl-body">
+    <h3>{b["icon"]} {esc(b["title"])}</h3>
+    <p class="book-sub">{esc(b["author"])} · {esc(b["subtitle"])}</p>
+    <p>{esc(b["lead"])}</p>
+    <p class="book-actions">
+      <a class="follow-btn" href="{esc(amazon_url(b["asin"]))}"
+         rel="noopener" target="_blank">See on Amazon ({esc(b["price"])})</a>
+    </p>
+  </div>
+</article>"""
+
+
+def render_books(cfg):
+    cards = "".join(_bilingual_card(b) for b in BILINGUAL_BOOKS)
+    content = f"""
+<h1>Books</h1>
+<p class="lead">Three public-domain classics, each published as a Kindle edition with the
+original English and a Japanese translation side by side, sentence by sentence — part of the
+<strong>"Read the Classics" bilingual series</strong> (published under a sister imprint).
+All three are included with <strong>Kindle Unlimited</strong>.</p>
+
+<h2>Why classics you already know?</h2>
+<p>You've probably read (or at least know the premise of) Sherlock Holmes or heard Woolf's
+famous line. That familiarity does a lot of the work for you: when you already know roughly
+what a sentence is saying, it's much easier to work out how the Japanese says it. That's a
+genuinely effective way to build reading fluency — more effective than starting from a story
+with no context at all.</p>
+
+<div class="bl-list">{cards}</div>
+
+<h2>How to read them</h2>
+<p>Each page pairs one English sentence with its Japanese translation. Read the Japanese first
+and check yourself against the English, or read the English first and see how it was translated
+— either way works. There's no glossary or grammar notes; this is extensive reading, not a
+textbook.</p>
+
+{_AFFILIATE_NOTICE}
+"""
+    return layout.page(
+        cfg, title="Books — Bilingual Classics for Reading Practice",
+        description="Public-domain classics (Sherlock Holmes, Virginia Woolf, Karl Marx) as "
+                    "Kindle editions with English and Japanese side by side, sentence by "
+                    "sentence. Free with Kindle Unlimited.",
+        path="/books/", content=content, og_image="books",
+        breadcrumbs=[("/books/", "Books")], active_nav="/books/")
 
 
 def render_home(cfg, *, counts, articles):
@@ -47,6 +172,12 @@ def render_home(cfg, *, counts, articles):
 </div>
 
 {latest}
+
+<div class="section-head"><h2>Books</h2><a class="more" href="/books/">See all →</a></div>
+<p class="lead">Classics you already know — Sherlock Holmes, Virginia Woolf, Karl Marx —
+as Kindle editions with English and Japanese side by side. Free with Kindle Unlimited.</p>
+<div class="book-strip">{_book_strip()}</div>
+{_AFFILIATE_NOTICE}
 """
     jsonld = {
         "@context": "https://schema.org",
@@ -150,6 +281,13 @@ personal information and visit data.</p>
 address or phone number. Answers you give in the quizzes and flashcards are
 handled in your browser only and are not sent to any server.</p>
 {analytics_section}
+<h2>Affiliate disclosure</h2>
+<p>The <a href="/books/">Books</a> page links to Amazon.co.jp. This site is a participant in
+the Amazon Associates Program, an affiliate advertising program designed to provide a means
+for sites to earn advertising fees by linking to Amazon.co.jp. If you follow one of those
+links and make a purchase, Amazon may set a cookie and this site may earn a small commission
+at no extra cost to you.</p>
+
 <h2>External links</h2>
 <p>This site links to other websites. Once you leave, the information and
 services offered there are outside our control, and we cannot take
