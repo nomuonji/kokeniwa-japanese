@@ -855,6 +855,35 @@ a.card:active { transform: translateY(-1px) scale(.99); }
   border-top: 1px solid var(--border); padding-top: 14px; margin-top: 32px;
 }
 
+/* Small "leaflet" cross-promo to a sister site's books, tucked at the bottom of /books/. */
+.cross-promo {
+  display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+  background: var(--surface-2); border: 1px solid var(--border);
+  border-radius: var(--radius-lg); padding: 20px 24px; margin: 36px 0 0;
+}
+.cross-promo-covers {
+  display: flex; flex-shrink: 0; margin-left: 4px;
+}
+.cross-promo-covers img {
+  width: 56px; height: auto; border-radius: 4px;
+  box-shadow: var(--shadow-lift);
+  border: 2px solid var(--surface-2);
+  margin-left: -18px;
+  transition: transform 200ms var(--ease-out);
+}
+.cross-promo-covers img:first-child { margin-left: 0; }
+@media (hover: hover) and (pointer: fine) {
+  .cross-promo:hover .cross-promo-covers img { transform: translateY(-2px); }
+}
+.cross-promo-body { flex: 1; min-width: 220px; }
+.cross-promo-body h3 { margin: 0 0 6px; font-size: 1rem; }
+.cross-promo-body p { margin: 0 0 12px; font-size: .88rem; color: var(--text-muted); }
+.cross-promo-body .follow-btn { font-size: .85rem; padding: 8px 18px; }
+@media (max-width: 480px) {
+  .cross-promo { flex-direction: column; align-items: flex-start; }
+  .cross-promo-covers { margin: 0 0 4px; }
+}
+
 .book-sub { margin: 0 0 12px; color: var(--text-muted); font-size: .9rem; }
 .book-actions {
   display: flex; flex-wrap: wrap; align-items: center; gap: 16px;
