@@ -1,0 +1,1255 @@
+#separator:comma
+#html:false
+#deck:Travel Japanese
+#notetype:Basic
+#tags column:3
+空港,"airport
+くうこう · kuukou
+
+空港でチェックインをした。
+I checked in at the airport.",travel
+搭乗券,"boarding pass
+とうじょうけん · toujouken
+
+搭乗券を見せてください。
+Please show me your boarding pass.",travel
+手荷物,"baggage; carry-on luggage
+てにもつ · tenimotsu
+
+手荷物は一つまでです。
+You may bring only one piece of carry-on luggage.",travel
+預け荷物,"checked baggage
+あずけにもつ · azuke nimotsu
+
+預け荷物を受け取った。
+I picked up my checked baggage.",travel
+税関,"customs
+ぜいかん · zeikan
+
+税関で荷物を検査された。
+My luggage was inspected at customs.",travel
+入国審査,"immigration inspection
+にゅうこくしんさ · nyuukoku shinsa
+
+入国審査に長い列ができていた。
+There was a long line at immigration.",travel
+パスポート,"passport
+ぱすぽーと · pasupooto
+
+パスポートを忘れずに持ってきた。
+I remembered to bring my passport.",travel
+ビザ,"visa
+びざ · biza
+
+観光ビザを申請した。
+I applied for a tourist visa.",travel
+両替,"currency exchange
+りょうがえ · ryougae
+
+空港で円に両替した。
+I exchanged money for yen at the airport.",travel
+乗り換え,"transfer (train/flight)
+のりかえ · norikae
+
+新宿駅で乗り換えが必要だ。
+A transfer is necessary at Shinjuku Station.",travel
+直行便,"direct flight
+ちょっこうびん · chokkoubin
+
+直行便のチケットを予約した。
+I booked a ticket for a direct flight.",travel
+時刻表,"timetable
+じこくひょう · jikokuhyou
+
+バスの時刻表を確認した。
+I checked the bus timetable.",travel
+改札口,"ticket gate
+かいさつぐち · kaisatsuguchi
+
+改札口で切符を通した。
+I passed my ticket through the ticket gate.",travel
+切符売り場,"ticket counter
+きっぷうりば · kippu uriba
+
+切符売り場で乗車券を買った。
+I bought a ticket at the ticket counter.",travel
+自動券売機,"automatic ticket machine
+じどうけんばいき · jidou kenbaiki
+
+自動券売機でチケットを購入した。
+I purchased a ticket from the automatic ticket machine.",travel
+路線図,"route map
+ろせんず · rosenzu
+
+路線図を見て乗り換えを確認した。
+I checked the route map to confirm the transfer.",travel
+始発,"first train
+しはつ · shihatsu
+
+始発電車に乗って出発した。
+I departed on the first train.",travel
+終電,"last train
+しゅうでん · shuuden
+
+終電を逃してしまった。
+I missed the last train.",travel
+満室,"fully booked (rooms)
+まんしつ · manshitsu
+
+人気の宿は満室だった。
+The popular inn was fully booked.",travel
+宿泊,"lodging; staying overnight
+しゅくはく · shukuhaku
+
+京都で三泊宿泊する予定だ。
+I plan to stay overnight for three nights in Kyoto.",travel
+チェックイン,"check-in
+ちぇっくいん · chekkuin
+
+ホテルに午後三時にチェックインした。
+I checked in at the hotel at 3 p.m.",travel
+チェックアウト,"check-out
+ちぇっくあうと · chekkuauto
+
+朝十時にチェックアウトする。
+I will check out at 10 a.m.",travel
+民宿,"guesthouse; family-run inn
+みんしゅく · minshuku
+
+温泉地の民宿に泊まった。
+I stayed at a guesthouse in the hot spring town.",travel
+旅館,"traditional Japanese inn
+りょかん · ryokan
+
+老舗の旅館に宿泊した。
+I stayed at a long-established traditional inn.",travel
+相部屋,"shared room
+あいべや · aibeya
+
+格安の相部屋を予約した。
+I booked a cheap shared room.",travel
+個室,"private room
+こしつ · koshitsu
+
+個室のある食堂を選んだ。
+I chose a restaurant with private rooms.",travel
+露天風呂,"open-air bath
+ろてんぶろ · rotenburo
+
+露天風呂で景色を楽しんだ。
+I enjoyed the scenery from the open-air bath.",travel
+貸切,"private hire; reserved exclusively
+かしきり · kashikiri
+
+貸切風呂を予約した。
+I reserved a private bath.",travel
+観光案内所,"tourist information center
+かんこうあんないじょ · kankou annaijo
+
+駅前の観光案内所で地図をもらった。
+I got a map at the tourist information center in front of the station.",travel
+名所,"famous scenic spot
+めいしょ · meisho
+
+この町の名所を巡った。
+I toured the famous spots of this town.",travel
+名物,"local specialty
+めいぶつ · meibutsu
+
+この地域の名物を食べてみた。
+I tried this region's local specialty.",travel
+土産物店,"souvenir shop
+みやげものてん · miyagemono ten
+
+土産物店で友人へのお土産を選んだ。
+I chose souvenirs for my friends at the souvenir shop.",travel
+見どころ,"a highlight; worth seeing
+みどころ · midokoro
+
+このお寺の見どころを教えてもらった。
+I was told the highlights of this temple.",travel
+世界遺産,"World Heritage site
+せかいいさん · sekai isan
+
+世界遺産に登録された神社を訪れた。
+I visited a shrine registered as a World Heritage site.",travel
+展望台,"observation deck
+てんぼうだい · tenboudai
+
+展望台から街全体を見渡せた。
+I could see the whole city from the observation deck.",travel
+入場料,"admission fee
+にゅうじょうりょう · nyuujouryou
+
+美術館の入場料を払った。
+I paid the admission fee at the art museum.",travel
+周遊券,"excursion pass; tour ticket
+しゅうゆうけん · shuuyuuken
+
+お得な周遊券を利用した。
+I used a good-value excursion pass.",travel
+レンタカー,"rental car
+れんたかー · rentakaa
+
+レンタカーを借りて島を回った。
+I rented a car and drove around the island.",travel
+道に迷う,"to get lost
+みちにまよう · michi ni mayou
+
+知らない街で道に迷ってしまった。
+I got lost in an unfamiliar town.",travel
+迷子,"a lost child/person
+まいご · maigo
+
+迷子になった子供を保護した。
+They took in a lost child.",travel
+忘れ物,"lost item; something left behind
+わすれもの · wasuremono
+
+電車に忘れ物をしてしまった。
+I left something behind on the train.",travel
+遺失物,"lost property
+いしつぶつ · ishitsubutsu
+
+遺失物センターに問い合わせた。
+I inquired at the lost property center.",travel
+荷物預かり所,"baggage storage
+にもつあずかりじょ · nimotsu azukarijo
+
+荷物預かり所にスーツケースを預けた。
+I left my suitcase at the baggage storage.",travel
+両替所,"currency exchange counter
+りょうがえじょ · ryougaejo
+
+駅の両替所でドルを両替した。
+I exchanged dollars at the station's exchange counter.",travel
+現地,"the local area; on-site
+げんち · genchi
+
+現地の言葉を少し覚えた。
+I learned a bit of the local language.",travel
+現地時間,"local time
+げんちじかん · genchi jikan
+
+現地時間で夜の九時に到着した。
+I arrived at 9 p.m. local time.",travel
+時差,"time difference; jet lag
+じさ · jisa
+
+時差ぼけがなかなか治らない。
+My jet lag isn't going away easily.",travel
+入国手続き,"entry procedures
+にゅうこくてつづき · nyuukoku tetsuzuki
+
+入国手続きに時間がかかった。
+The entry procedures took time.",travel
+出国,"departure (from a country)
+しゅっこく · shukkoku
+
+出国審査を無事に終えた。
+I successfully finished the departure inspection.",travel
+免税店,"duty-free shop
+めんぜいてん · menzeiten
+
+免税店でお酒を買った。
+I bought alcohol at the duty-free shop.",travel
+急行,"express train
+きゅうこう · kyuukou
+
+急行電車に乗って時間を短縮した。
+I took the express train to save time.",travel
+各駅停車,"local train (stops at every station)
+かくえきていしゃ · kakueki teisha
+
+各駅停車でのんびり移動した。
+I traveled leisurely on the local train.",travel
+特急券,"limited express ticket
+とっきゅうけん · tokkyuuken
+
+特急券を追加で購入した。
+I purchased an additional limited express ticket.",travel
+指定席,"reserved seat
+していせき · shiteiseki
+
+指定席を事前に予約した。
+I reserved a seat in advance.",travel
+自由席,"non-reserved seat
+じゆうせき · jiyuuseki
+
+自由席に並んで座った。
+I lined up and sat in a non-reserved seat.",travel
+新幹線,"bullet train
+しんかんせん · shinkansen
+
+新幹線で大阪まで移動した。
+I traveled to Osaka by bullet train.",travel
+車内アナウンス,"in-train announcement
+しゃないあなうんす · shanai anaunsu
+
+車内アナウンスで次の駅を確認した。
+I confirmed the next station from the in-train announcement.",travel
+満員電車,"packed train
+まんいんでんしゃ · man'in densha
+
+朝の満員電車に揉まれた。
+I got jostled in the packed morning train.",travel
+運休,"service suspension
+うんきゅう · unkyuu
+
+大雪でバスが運休になった。
+The bus service was suspended due to heavy snow.",travel
+遅延,"delay
+ちえん · chien
+
+人身事故で電車が遅延した。
+The train was delayed due to an accident.",travel
+振替輸送,"alternative transport arrangement
+ふりかえゆそう · furikae yusou
+
+振替輸送で他の路線を利用した。
+I used another line through the alternative transport arrangement.",travel
+乗車券,"train ticket
+じょうしゃけん · joushaken
+
+乗車券を改札で提示した。
+I presented my ticket at the gate.",travel
+往復切符,"round-trip ticket
+おうふくきっぷ · oufuku kippu
+
+往復切符を購入して節約した。
+I saved money by buying a round-trip ticket.",travel
+片道,"one-way
+かたみち · katamichi
+
+片道の運賃を確認した。
+I checked the one-way fare.",travel
+運賃,"fare
+うんちん · unchin
+
+バスの運賃を小銭で払った。
+I paid the bus fare in coins.",travel
+バス停,"bus stop
+ばすてい · basutei
+
+バス停でバスを待った。
+I waited for the bus at the bus stop.",travel
+停留所,"bus/tram stop
+ていりゅうじょ · teiryuujo
+
+次の停留所で降りた。
+I got off at the next stop.",travel
+目的地,"destination
+もくてきち · mokutekichi
+
+目的地までタクシーで向かった。
+I headed to my destination by taxi.",travel
+経由,"via; by way of
+けいゆ · keiyu
+
+大阪経由で福岡へ行った。
+I went to Fukuoka via Osaka.",travel
+所要時間,"time required
+しょようじかん · shoyou jikan
+
+駅までの所要時間を調べた。
+I checked the time required to reach the station.",travel
+予約確認,"reservation confirmation
+よやくかくにん · yoyaku kakunin
+
+ホテルの予約確認メールが届いた。
+A hotel reservation confirmation email arrived.",travel
+キャンセル料,"cancellation fee
+きゃんせるりょう · kyanseru ryou
+
+直前のキャンセル料が発生した。
+A last-minute cancellation fee was incurred.",travel
+旅程,"itinerary
+りょてい · ryotei
+
+詳しい旅程を立てた。
+I made a detailed itinerary.",travel
+添乗員,"tour conductor
+てんじょういん · tenjouin
+
+添乗員がツアーを案内してくれた。
+The tour conductor guided our tour.",travel
+ガイドブック,"guidebook
+がいどぶっく · gaidobukku
+
+ガイドブックを片手に散策した。
+I walked around with a guidebook in hand.",travel
+現地ガイド,"local guide
+げんちがいど · genchi gaido
+
+現地ガイドに案内してもらった。
+I was shown around by a local guide.",travel
+貸自転車,"rental bicycle
+かしじてんしゃ · kashi jitensha
+
+貸自転車で市内を回った。
+I toured the city on a rental bicycle.",travel
+フェリー,"ferry
+ふぇりー · ferii
+
+フェリーで離島へ渡った。
+I crossed to the remote island by ferry.",travel
+渡し船,"ferry boat (small)
+わたしぶね · watashibune
+
+渡し船で対岸に渡った。
+I crossed to the opposite bank by ferry boat.",travel
+荷造り,"packing (luggage)
+にづくり · nizukuri
+
+前日の夜に荷造りをした。
+I packed my luggage the night before.",travel
+持ち物リスト,"packing checklist
+もちものりすと · mochimono risuto
+
+持ち物リストを作って確認した。
+I made a packing checklist to check things off.",travel
+変圧器,"voltage converter
+へんあつき · hen'atsuki
+
+変圧器を持って海外へ行った。
+I went abroad with a voltage converter.",travel
+変換プラグ,"plug adapter
+へんかんぷらぐ · henkan puragu
+
+変換プラグを忘れずに用意した。
+I made sure to prepare a plug adapter.",travel
+海外旅行保険,"overseas travel insurance
+かいがいりょこうほけん · kaigai ryokou hoken
+
+海外旅行保険に加入した。
+I signed up for overseas travel insurance.",travel
+予防接種,"vaccination
+よぼうせっしゅ · yobou sesshu
+
+渡航前に予防接種を受けた。
+I got vaccinated before the trip.",travel
+現地通貨,"local currency
+げんちつうか · genchi tsuuka
+
+現地通貨を少し用意しておいた。
+I prepared a bit of local currency beforehand.",travel
+クレジットカード払い,"payment by credit card
+くれじっとかーどばらい · kurejitto kaado barai
+
+クレジットカード払いに対応している店だった。
+It was a shop that accepted payment by credit card.",travel
+チップ,"tip (gratuity)
+ちっぷ · chippu
+
+レストランでチップを渡した。
+I gave a tip at the restaurant.",travel
+習慣の違い,"cultural differences (customs)
+しゅうかんのちがい · shuukan no chigai
+
+習慣の違いに戸惑った。
+I was confused by the cultural differences.",travel
+入場制限,"entry restriction
+にゅうじょうせいげん · nyuujou seigen
+
+人気の展示は入場制限があった。
+The popular exhibit had entry restrictions.",travel
+予約必須,"reservation required
+よやくひっす · yoyaku hissu
+
+このレストランは予約必須だ。
+This restaurant requires a reservation.",travel
+当日券,"same-day ticket
+とうじつけん · toujitsuken
+
+当日券を求めて並んだ。
+I lined up to get a same-day ticket.",travel
+混雑状況,"congestion status
+こんざつじょうきょう · konzatsu joukyou
+
+アプリで混雑状況を確認した。
+I checked the congestion status on the app.",travel
+穴場,"hidden gem; secret spot
+あなば · anaba
+
+観光客の少ない穴場を見つけた。
+I found a hidden gem with few tourists.",travel
+絶景,"spectacular view
+ぜっけい · zekkei
+
+山頂から絶景を眺めた。
+I gazed at the spectacular view from the summit.",travel
+撮影スポット,"photo spot
+さつえいすぽっと · satsuei supotto
+
+人気の撮影スポットで写真を撮った。
+I took photos at the popular photo spot.",travel
+行列,"queue; line
+ぎょうれつ · gyouretsu
+
+人気店の前に行列ができていた。
+There was a queue in front of the popular shop.",travel
+営業時間,"business hours
+えいぎょうじかん · eigyou jikan
+
+店の営業時間を確認した。
+I checked the shop's business hours.",travel
+定休日,"regular closing day
+ていきゅうび · teikyuubi
+
+月曜日が定休日の店だった。
+It was a shop closed on Mondays.",travel
+閉館時間,"closing time (of a facility)
+へいかんじかん · heikan jikan
+
+美術館の閉館時間を確認した。
+I checked the museum's closing time.",travel
+日帰り旅行,"day trip
+ひがえりょこう · higaeri ryokou
+
+温泉への日帰り旅行を楽しんだ。
+I enjoyed a day trip to a hot spring.",travel
+一人旅,"solo travel
+ひとりたび · hitoritabi
+
+初めての一人旅に出た。
+I set off on my first solo trip.",travel
+団体旅行,"group tour
+だんたいりょこう · dantai ryokou
+
+団体旅行でバスを利用した。
+We used a bus for the group tour.",travel
+自由旅行,"independent travel
+じゆうりょこう · jiyuu ryokou
+
+自由旅行で好きな場所を巡った。
+I visited places I liked on my independent trip.",travel
+弾丸旅行,"whirlwind trip
+だんがんりょこう · dangan ryokou
+
+一泊二日の弾丸旅行に行った。
+I went on a whirlwind two-day, one-night trip.",travel
+周遊,"touring around; circuit trip
+しゅうゆう · shuuyuu
+
+ヨーロッパを周遊した。
+I toured around Europe.",travel
+寄り道,"stopping by; detour
+よりみち · yorimichi
+
+帰りに温泉に寄り道した。
+On the way back, I stopped by a hot spring.",travel
+下調べ,"preliminary research
+したしらべ · shitashirabe
+
+旅行前にしっかり下調べをした。
+I did thorough preliminary research before the trip.",travel
+予定変更,"schedule change
+よていへんこう · yotei henkou
+
+天気により予定変更を余儀なくされた。
+We were forced to change our schedule due to the weather.",travel
+現地集合,"meeting on-site
+げんちしゅうごう · genchi shuugou
+
+現地集合で観光地を訪れた。
+We visited the tourist spot with a local meet-up.",travel
+待ち合わせ,"meeting up (appointment)
+まちあわせ · machiawase
+
+駅前で待ち合わせをした。
+We met up in front of the station.",travel
+荷物が重い,"the luggage is heavy
+にもつがおもい · nimotsu ga omoi
+
+荷物が重くて肩が痛くなった。
+My shoulder hurt because my luggage was heavy.",travel
+軽装,"light packing/clothing
+けいそう · keisou
+
+軽装で身軽に旅した。
+I traveled light with minimal luggage.",travel
+防寒着,"cold-weather clothing
+ぼうかんぎ · boukangi
+
+防寒着を余分に持ってきた。
+I brought extra cold-weather clothing.",travel
+雨具,"rain gear
+あまぐ · amagu
+
+雨具を忘れずに準備した。
+I made sure to prepare rain gear.",travel
+日焼け止め,"sunscreen
+ひやけどめ · hiyakedome
+
+日焼け止めを塗ってから出かけた。
+I applied sunscreen before going out.",travel
+虫よけ,"insect repellent
+むしよけ · mushiyoke
+
+虫よけスプレーを持参した。
+I brought insect repellent spray.",travel
+常備薬,"emergency medicine kit
+じょうびやく · joubiyaku
+
+常備薬を旅行かばんに入れた。
+I put my regular medicine in my travel bag.",travel
+救急箱,"first-aid kit
+きゅうきゅうばこ · kyuukyuubako
+
+救急箱を車に積んでおいた。
+I loaded the first-aid kit into the car.",travel
+体調管理,"health management (while traveling)
+たいちょうかんり · taichou kanri
+
+旅行中は体調管理に気をつけた。
+I was careful about my health during the trip.",travel
+食あたり,"food poisoning
+しょくあたり · shokuatari
+
+現地で食あたりになってしまった。
+I got food poisoning at my destination.",travel
+応急処置,"first aid
+おうきゅうしょち · oukyuu shochi
+
+けがに応急処置を施した。
+First aid was administered for the injury.",travel
+緊急連絡先,"emergency contact
+きんきゅうれんらくさき · kinkyuu renrakusaki
+
+緊急連絡先を家族に伝えた。
+I gave my emergency contact information to my family.",travel
+大使館,"embassy
+たいしかん · taishikan
+
+パスポートを紛失し大使館に連絡した。
+I lost my passport and contacted the embassy.",travel
+領事館,"consulate
+りょうじかん · ryoujikan
+
+領事館で再発行の手続きをした。
+I processed the reissuance at the consulate.",travel
+盗難,"theft
+とうなん · tounan
+
+バッグの盗難に遭った。
+My bag was stolen.",travel
+すり,"pickpocket
+すり · suri
+
+混雑した駅ですりに気をつけた。
+I was careful of pickpockets at the crowded station.",travel
+貴重品,"valuables
+きちょうひん · kichouhin
+
+貴重品はホテルの金庫に入れた。
+I put my valuables in the hotel safe.",travel
+詐欺,"scam; fraud
+さぎ · sagi
+
+観光客を狙った詐欺に注意した。
+I was careful of scams targeting tourists.",travel
+ぼったくり,"rip-off; overcharging
+ぼったくり · bottakuri
+
+ぼったくりの店を避けるようにした。
+I tried to avoid rip-off shops.",travel
+値切る,"to haggle; negotiate the price
+ねぎる · negiru
+
+市場で値切って買った。
+I haggled and bought it at the market.",travel
+言葉の壁,"language barrier
+ことばのかべ · kotoba no kabe
+
+言葉の壁を感じる場面が多かった。
+There were many situations where I felt the language barrier.",travel
+通訳アプリ,"translation app
+つうやくあぷり · tsuuyaku apuri
+
+通訳アプリを使って会話した。
+I conversed using a translation app.",travel
+筆談,"communicating by writing
+ひつだん · hitsudan
+
+筆談でなんとか意思疎通した。
+We managed to communicate through writing.",travel
+身振り手振り,"gestures (communication)
+みぶりてぶり · miburi teburi
+
+身振り手振りで注文を伝えた。
+I conveyed my order through gestures.",travel
+現地の人,"a local person
+げんちのひと · genchi no hito
+
+現地の人に道を尋ねた。
+I asked a local person for directions.",travel
+親切にしてもらう,"to be treated kindly
+しんせつにしてもらう · shinsetsu ni shite morau
+
+旅先で親切にしてもらった。
+I was treated kindly at my travel destination.",travel
+文化の違い,"cultural difference
+ぶんかのちがい · bunka no chigai
+
+文化の違いに驚くことが多かった。
+There were many things that surprised me about the cultural differences.",travel
+郷に入っては郷に従え,"when in Rome, do as the Romans do
+ごうにいってはごうにしたがえ · gou ni itte wa gou ni shitagae
+
+郷に入っては郷に従えの精神で過ごした。
+I lived by the spirit of 'when in Rome, do as the Romans do.'",travel
+現地時間に合わせる,"to adjust to local time
+げんちじかんにあわせる · genchi jikan ni awaseru
+
+到着後すぐ現地時間に合わせた。
+I adjusted to local time right after arrival.",travel
+帰国便,"return flight
+きこくびん · kikokubin
+
+帰国便のチェックインをした。
+I checked in for my return flight.",travel
+再入国,"re-entry (to a country)
+さいにゅうこく · sainyuukoku
+
+再入国許可の手続きをした。
+I processed the re-entry permit.",travel
+手続きを済ませる,"to complete the procedures
+てつづきをすませる · tetsuzuki o sumaseru
+
+空港で手続きを済ませた。
+I completed the procedures at the airport.",travel
+旅の思い出,"travel memories
+たびのおもいで · tabi no omoide
+
+旅の思い出を写真に残した。
+I preserved my travel memories in photos.",travel
+忘れられない旅,"an unforgettable trip
+わすれられないたび · wasurerarenai tabi
+
+忘れられない旅になった。
+It became an unforgettable trip.",travel
+また来たい,"wanting to come again
+またきたい · mata kitai
+
+また来たいと思う場所だった。
+It was a place I want to visit again.",travel
+リピーター,"repeat visitor
+りぴーたー · ripiitaa
+
+この温泉地のリピーターになった。
+I became a repeat visitor to this hot spring town.",travel
+旅慣れる,"to become accustomed to traveling
+たびなれる · tabinareru
+
+旅慣れてきて準備も早くなった。
+As I got used to traveling, my preparations became faster.",travel
+バックパッカー,"backpacker
+ばっくぱっかー · bakkupakkaa
+
+バックパッカーとして世界を回った。
+I traveled the world as a backpacker.",travel
+長期滞在,"long-term stay
+ちょうきたいざい · chouki taizai
+
+長期滞在向けのアパートを借りた。
+I rented an apartment for long-term stays.",travel
+予約サイト,"booking website
+よやくさいと · yoyaku saito
+
+予約サイトでホテルを比較した。
+I compared hotels on a booking website.",travel
+口コミ,"word of mouth; reviews
+くちこみ · kuchikomi
+
+口コミを参考にレストランを選んだ。
+I chose the restaurant based on reviews.",travel
+星の数,"star rating (number of stars)
+ほしのかず · hoshi no kazu
+
+星の数が多いホテルを選んだ。
+I chose a hotel with a high number of stars.",travel
+部屋タイプ,"room type
+へやたいぷ · heya taipu
+
+部屋タイプをツインに変更した。
+I changed the room type to a twin.",travel
+眺めのいい部屋,"a room with a nice view
+ながめのいいへや · nagame no ii heya
+
+眺めのいい部屋を予約した。
+I booked a room with a nice view.",travel
+朝食付き,"breakfast included
+ちょうしょくつき · choushoku tsuki
+
+朝食付きのプランを選んだ。
+I chose a plan with breakfast included.",travel
+素泊まり,"room only (no meals)
+すどまり · sudomari
+
+素泊まりで宿泊料を抑えた。
+I kept lodging costs down with room-only accommodation.",travel
+宿泊費,"lodging cost
+しゅくはくひ · shukuhakuhi
+
+宿泊費を予算内に収めた。
+I kept the lodging cost within budget.",travel
+予算オーバー,"over budget
+よさんおーばー · yosan oobaa
+
+旅行費用が予算オーバーになった。
+The travel expenses went over budget.",travel
+格安航空券,"discount airfare
+かくやすこうくうけん · kakuyasu koukuuken
+
+格安航空券を見つけた。
+I found a discount airfare.",travel
+格安航空会社,"low-cost carrier
+かくやすこうくうがいしゃ · kakuyasu koukuu gaisha
+
+格安航空会社を利用して費用を抑えた。
+I kept costs down by using a low-cost carrier.",travel
+座席指定,"seat selection
+ざせきしてい · zaseki shitei
+
+座席指定を事前に済ませた。
+I completed the seat selection in advance.",travel
+荷物制限,"baggage restriction
+にもつせいげん · nimotsu seigen
+
+航空会社の荷物制限を確認した。
+I checked the airline's baggage restrictions.",travel
+超過料金,"excess charge (baggage)
+ちょうかりょうきん · chouka ryoukin
+
+重量オーバーで超過料金を払った。
+I paid an excess charge for being overweight.",travel
+機内食,"in-flight meal
+きないしょく · kinaishoku
+
+機内食が意外においしかった。
+The in-flight meal was surprisingly delicious.",travel
+乗り継ぎ時間,"layover time
+のりつぎじかん · noritsugi jikan
+
+乗り継ぎ時間が短くて焦った。
+I was in a rush because the layover time was short.",travel
+欠航,"flight cancellation
+けっこう · kekkou
+
+悪天候でフライトが欠航になった。
+The flight was cancelled due to bad weather.",travel
+払い戻し,"refund
+はらいもどし · haraimodoshi
+
+航空券の払い戻しを申請した。
+I applied for a refund on the airline ticket.",travel
+予約変更,"reservation change
+よやくへんこう · yoyaku henkou
+
+予約変更の手続きをした。
+I processed a reservation change.",travel
+空席待ち,"waitlist (for a seat)
+くうせきまち · kuuseki machi
+
+満席で空席待ちになった。
+The flight was full, so I was placed on the waitlist.",travel
+座席のアップグレード,"seat upgrade
+ざせきのあっぷぐれーど · zaseki no appugureedo
+
+座席のアップグレードを頼んだ。
+I requested a seat upgrade.",travel
+機内持ち込み,"carry-on (bringing into the cabin)
+きないもちこみ · kinai mochikomi
+
+液体は機内持ち込みに制限がある。
+There are restrictions on carrying liquids into the cabin.",travel
+座席番号,"seat number
+ざせきばんごう · zaseki bangou
+
+座席番号を確認して座った。
+I checked my seat number and sat down.",travel
+非常口,"emergency exit
+ひじょうぐち · hijouguchi
+
+非常口の場所を確認した。
+I checked the location of the emergency exit.",travel
+救命胴衣,"life jacket
+きゅうめいどうい · kyuumei doui
+
+救命胴衣の使い方の説明を聞いた。
+I listened to the instructions on how to use the life jacket.",travel
+揺れ,"turbulence; shaking
+ゆれ · yure
+
+飛行機がひどい揺れに見舞われた。
+The plane was hit by severe turbulence.",travel
+シートベルト着用,"seatbelt fastening
+しーとべるとちゃくよう · shiitoberuto chakuyou
+
+シートベルト着用のサインが点灯した。
+The seatbelt sign lit up.",travel
+客室乗務員,"flight attendant
+きゃくしつじょうむいん · kyakushitsu joumuin
+
+客室乗務員に毛布をもらった。
+I received a blanket from the flight attendant.",travel
+機長,"pilot (captain)
+きちょう · kichou
+
+機長のアナウンスがあった。
+There was an announcement from the captain.",travel
+着陸,"landing
+ちゃくりく · chakuriku
+
+飛行機が無事に着陸した。
+The plane landed safely.",travel
+離陸,"takeoff
+りりく · ririku
+
+離陸が三十分遅れた。
+The takeoff was delayed by thirty minutes.",travel
+到着ロビー,"arrival lobby
+とうちゃくろびー · touchaku robii
+
+到着ロビーで家族が待っていた。
+My family was waiting in the arrival lobby.",travel
+出発ロビー,"departure lobby
+しゅっぱつろびー · shuppatsu robii
+
+出発ロビーで搭乗を待った。
+I waited to board in the departure lobby.",travel
+荷物受取所,"baggage claim
+にもつうけとりじょ · nimotsu uketorijo
+
+荷物受取所でスーツケースを待った。
+I waited for my suitcase at baggage claim.",travel
+到着ゲート,"arrival gate
+とうちゃくげーと · touchaku geeto
+
+到着ゲートで出迎えを受けた。
+I was greeted at the arrival gate.",travel
+送迎バス,"shuttle bus
+そうげいばす · sougei basu
+
+ホテルの送迎バスを利用した。
+I used the hotel's shuttle bus.",travel
+空港シャトル,"airport shuttle
+くうこうしゃとる · kuukou shatoru
+
+空港シャトルで市内へ向かった。
+I headed into the city on the airport shuttle.",travel
+貸切バス,"chartered bus
+かしきりばす · kashikiri basu
+
+貸切バスで観光地を巡った。
+We toured the sights on a chartered bus.",travel
+観光バス,"sightseeing bus
+かんこうばす · kankou basu
+
+観光バスツアーに参加した。
+I joined a sightseeing bus tour.",travel
+人力車,"rickshaw
+じんりきしゃ · jinrikisha
+
+人力車に乗って街を回った。
+I rode a rickshaw around the town.",travel
+屋形船,"traditional roofed pleasure boat
+やかたぶね · yakatabune
+
+屋形船で夜景を楽しんだ。
+I enjoyed the night view from a roofed pleasure boat.",travel
+遊覧船,"sightseeing boat
+ゆうらんせん · yuuransen
+
+遊覧船で湖を一周した。
+I went around the lake on a sightseeing boat.",travel
+ロープウェー,"cable car; ropeway
+ろーぷうぇー · roopuwee
+
+ロープウェーで山頂まで行った。
+I went to the summit by cable car.",travel
+登山道,"mountain trail
+とざんどう · tozandou
+
+登山道を三時間歩いた。
+I walked the mountain trail for three hours.",travel
+ハイキングコース,"hiking course
+はいきんぐこーす · haikingu koosu
+
+初心者向けのハイキングコースを選んだ。
+I chose a hiking course for beginners.",travel
+散策路,"walking path (leisurely)
+さんさくろ · sansakuro
+
+公園の散策路をゆっくり歩いた。
+I walked slowly along the park's walking path.",travel
+川下り,"river rafting/boat trip downstream
+かわくだり · kawakudari
+
+川下りを体験して楽しんだ。
+I enjoyed experiencing the river rafting trip.",travel
+温泉街,"hot spring town
+おんせんがい · onsengai
+
+温泉街を浴衣で散歩した。
+I strolled through the hot spring town in a yukata.",travel
+足湯,"foot bath
+あしゆ · ashiyu
+
+無料の足湯でくつろいだ。
+I relaxed in the free foot bath.",travel
+湯めぐり,"hot spring hopping
+ゆめぐり · yumeguri
+
+複数の旅館を巡る湯めぐりを楽しんだ。
+I enjoyed hot spring hopping between several inns.",travel
+参道,"approach to a shrine/temple
+さんどう · sandou
+
+参道の両側に土産物店が並んでいた。
+Souvenir shops lined both sides of the approach to the shrine.",travel
+鳥居,"torii gate (shrine entrance)
+とりい · torii
+
+大きな鳥居をくぐって境内に入った。
+I passed through the large torii gate into the shrine grounds.",travel
+御朱印,"shrine/temple seal stamp
+ごしゅいん · goshuin
+
+参拝の記念に御朱印をいただいた。
+I received a seal stamp as a memento of my visit.",travel
+お守り,"protective amulet
+おまもり · omamori
+
+旅の安全を願ってお守りを買った。
+I bought an amulet praying for safe travels.",travel
+絵馬,"wooden votive tablet
+えま · ema
+
+絵馬に願い事を書いた。
+I wrote my wish on a votive tablet.",travel
+おみくじ,"fortune-telling paper strip
+おみくじ · omikuji
+
+神社でおみくじを引いた。
+I drew a fortune-telling paper strip at the shrine.",travel
+参拝,"visiting and worshipping (shrine/temple)
+さんぱい · sanpai
+
+元旦に神社へ参拝した。
+I visited and worshipped at the shrine on New Year's Day.",travel
+座禅体験,"zazen meditation experience
+ざぜんたいけん · zazen taiken
+
+お寺で座禅体験に参加した。
+I took part in a zazen meditation experience at a temple.",travel
+精進料理,"Buddhist vegetarian cuisine
+しょうじんりょうり · shoujin ryouri
+
+寺で精進料理をいただいた。
+I had Buddhist vegetarian cuisine at the temple.",travel
+城下町,"castle town
+じょうかまち · joukamachi
+
+風情ある城下町を散策した。
+I strolled through the charming castle town.",travel
+町並み,"townscape; row of houses
+まちなみ · machinami
+
+古い町並みが保存されている。
+The old townscape has been preserved.",travel
+路地裏,"back alley
+ろじうら · rojiura
+
+路地裏の小さな店を見つけた。
+I found a small shop in a back alley.",travel
+商店街,"shopping street
+しょうてんがい · shoutengai
+
+地元の商店街を歩いた。
+I walked through the local shopping street.",travel
+屋台,"food stall
+やたい · yatai
+
+祭りの屋台で焼きそばを買った。
+I bought yakisoba from a food stall at the festival.",travel
+食べ歩き,"eating while walking around
+たべあるき · tabearuki
+
+食べ歩きを楽しみながら街を巡った。
+I toured the town enjoying food while walking.",travel
+地酒,"local sake
+じざけ · jizake
+
+地酒を試飲できる店に立ち寄った。
+I stopped by a shop where I could sample local sake.",travel
+名産品,"local specialty product
+めいさんひん · meisanhin
+
+名産品の漬物を買って帰った。
+I bought the local specialty pickles to take home.",travel
+手作り体験,"hands-on craft experience
+てづくりたいけん · tezukuri taiken
+
+陶芸の手作り体験に参加した。
+I took part in a hands-on pottery-making experience.",travel
+伝統工芸,"traditional craft
+でんとうこうげい · dentou kougei
+
+伝統工芸の工房を見学した。
+I toured a traditional craft workshop.",travel
+祭り,"festival
+まつり · matsuri
+
+夏祭りに合わせて旅行を計画した。
+I planned my trip to coincide with the summer festival.",travel
+花火大会,"fireworks display
+はなびたいかい · hanabi taikai
+
+花火大会を川辺から見た。
+I watched the fireworks display from the riverside.",travel
+紅葉狩り,"autumn leaf viewing
+もみじがり · momijigari
+
+京都で紅葉狩りを楽しんだ。
+I enjoyed autumn leaf viewing in Kyoto.",travel
+花見,"cherry blossom viewing
+はなみ · hanami
+
+公園で花見をして過ごした。
+I spent time cherry blossom viewing in the park.",travel
+雪景色,"snowy scenery
+ゆきげしき · yukigeshiki
+
+一面の雪景色に感動した。
+I was moved by the snowy scenery stretching all around.",travel
+避暑地,"summer resort (cool retreat)
+ひしょち · hishochi
+
+避暑地でのんびり過ごした。
+I spent a relaxing time at the summer resort.",travel
+離島,"remote island
+りとう · ritou
+
+美しい離島を訪れた。
+I visited a beautiful remote island.",travel
+秘境,"unexplored region; secluded spot
+ひきょう · hikyou
+
+秘境と呼ばれる渓谷を訪れた。
+I visited a valley called a hidden, unexplored region.",travel
+絶海の孤島,"remote island far from land
+ぜっかいのことう · zekkai no kotou
+
+絶海の孤島にある灯台を見学した。
+I toured a lighthouse on an isolated island far from land.",travel
+島巡り,"island hopping
+しまめぐり · shimameguri
+
+瀬戸内海の島巡りをした。
+I went island hopping in the Seto Inland Sea.",travel
+民族衣装,"traditional/ethnic costume
+みんぞくいしょう · minzoku ishou
+
+民族衣装を着て記念撮影をした。
+I took a memorial photo wearing traditional costume.",travel
+着物レンタル,"kimono rental
+きものれんたる · kimono rentaru
+
+着物レンタルをして観光した。
+I sightsaw while wearing a rented kimono.",travel
+体験プログラム,"hands-on program
+たいけんぷろぐらむ · taiken puroguramu
+
+漁業の体験プログラムに参加した。
+I participated in a fishing experience program.",travel
+民泊,"private lodging (homestay)
+みんぱく · minpaku
+
+民泊を利用して現地の暮らしを体験した。
+I used private lodging to experience local life.",travel
+ホームステイ,"homestay
+ほーむすてい · hoomusutei
+
+ホームステイ先の家族と仲良くなった。
+I became close with the family at my homestay.",travel
+送別会,"farewell party
+そうべつかい · soubetsukai
+
+帰国前に送別会を開いてもらった。
+A farewell party was held for me before I returned home.",travel
+連絡先を交換する,"to exchange contact information
+れんらくさきをこうかんする · renrakusaki o koukan suru
+
+旅先で出会った人と連絡先を交換した。
+I exchanged contact information with someone I met while traveling.",travel
+再会を約束する,"to promise to meet again
+さいかいをやくそくする · saikai o yakusoku suru
+
+別れ際に再会を約束した。
+We promised to meet again as we parted.",travel
+旅の恥はかき捨て,"anything goes while traveling (proverb)
+たびのはじはかきすて · tabi no haji wa kakisute
+
+旅の恥はかき捨てと開き直った。
+He shrugged it off with the idea that anything goes while traveling.",travel
+渡航先,"travel destination (country)
+とこうさき · tokousaki
+
+渡航先の治安を確認した。
+I checked the security situation of my travel destination.",travel
+渡航制限,"travel restriction
+とこうせいげん · tokou seigen
+
+渡航制限が解除された。
+The travel restriction was lifted.",travel
+帰省,"returning to one's hometown
+きせい · kisei
+
+お盆に実家へ帰省した。
+I returned to my hometown for the Obon holiday.",travel
+里帰り,"visiting one's parents' home
+さとがえり · satogaeri
+
+出産のため里帰りした。
+She returned to her parents' home to give birth.",travel
+墓参り,"visiting a grave
+はかまいり · hakamairi
+
+帰省中に墓参りをした。
+I visited the family grave during my hometown visit.",travel
+再訪,"revisiting
+さいほう · saihou
+
+十年ぶりにその街を再訪した。
+I revisited that town after ten years.",travel
+当てもなくさまよう,"to wander aimlessly
+あてもなくさまよう · ate mo naku samayou
+
+目的地も決めず街を当てもなくさまよった。
+I wandered aimlessly through the town without deciding on a destination.",travel
+気の向くまま,"following one's whims
+きのむくまま · ki no muku mama
+
+気の向くままに旅をした。
+I traveled following my whims.",travel
+行き当たりばったり,"haphazard; without a plan
+いきあたりばったり · ikiatari battari
+
+行き当たりばったりの旅を楽しんだ。
+I enjoyed a haphazard, unplanned trip.",travel
+計画を練る,"to work out a plan carefully
+けいかくをねる · keikaku o neru
+
+半年かけて計画を練った。
+I carefully worked out the plan over six months.",travel
+夢のような時間,"a dreamlike time
+ゆめのようなじかん · yume no you na jikan
+
+夢のような時間を過ごした。
+I spent a dreamlike time there.",travel
+かけがえのない経験,"an irreplaceable experience
+かけがえのないけいけん · kakegae no nai keiken
+
+かけがえのない経験になった。
+It became an irreplaceable experience.",travel

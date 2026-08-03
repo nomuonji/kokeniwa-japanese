@@ -1,0 +1,1255 @@
+#separator:comma
+#html:false
+#deck:Food & Cooking Japanese
+#notetype:Basic
+#tags column:3
+刺身,"sliced raw fish
+さしみ · sashimi
+
+新鮮な刺身を注文した。
+I ordered fresh sashimi.",food
+寿司,"sushi
+すし · sushi
+
+回転寿司で食事をした。
+I had a meal at a conveyor-belt sushi restaurant.",food
+天ぷら,"tempura
+てんぷら · tenpura
+
+エビの天ぷらが好物だ。
+Shrimp tempura is my favorite.",food
+焼き鳥,"grilled chicken skewers
+やきとり · yakitori
+
+居酒屋で焼き鳥を頼んだ。
+I ordered grilled chicken skewers at the izakaya.",food
+すき焼き,"sukiyaki (hot pot dish)
+すきやき · sukiyaki
+
+家族ですき焼きを囲んだ。
+The family gathered around a sukiyaki pot.",food
+しゃぶしゃぶ,"shabu-shabu (hot pot)
+しゃぶしゃぶ · shabushabu
+
+薄切り肉のしゃぶしゃぶを楽しんだ。
+I enjoyed shabu-shabu with thinly sliced meat.",food
+味噌汁,"miso soup
+みそしる · misoshiru
+
+朝食に味噌汁を作った。
+I made miso soup for breakfast.",food
+だし,"broth; soup stock
+だし · dashi
+
+昆布でだしを取った。
+I made broth using kelp.",food
+出汁巻き卵,"Japanese rolled omelet (dashi-flavored)
+だしまきたまご · dashimaki tamago
+
+出汁巻き卵を弁当に入れた。
+I put dashi-flavored rolled omelet in the lunch box.",food
+漬物,"pickled vegetables
+つけもの · tsukemono
+
+ご飯と一緒に漬物を食べた。
+I ate pickled vegetables with rice.",food
+納豆,"fermented soybeans
+なっとう · nattou
+
+納豆をご飯にかけて食べる。
+I eat fermented soybeans over rice.",food
+味噌,"miso (fermented soybean paste)
+みそ · miso
+
+手作りの味噌を使っている。
+I use homemade miso.",food
+醤油,"soy sauce
+しょうゆ · shouyu
+
+刺身に醤油をつけて食べる。
+I dip sashimi in soy sauce and eat it.",food
+出汁醤油,"dashi-flavored soy sauce
+だししょうゆ · dashi shouyu
+
+出汁醤油で豆腐を食べた。
+I ate tofu with dashi-flavored soy sauce.",food
+みりん,"sweet rice wine (cooking)
+みりん · mirin
+
+料理にみりんを加えた。
+I added mirin to the dish.",food
+料理酒,"cooking sake
+りょうりしゅ · ryourishu
+
+料理酒で肉を柔らかくした。
+I tenderized the meat with cooking sake.",food
+出し汁,"soup stock (broth)
+だしじる · dashijiru
+
+出し汁で野菜を煮た。
+I simmered the vegetables in soup stock.",food
+炊き込みご飯,"rice cooked with ingredients
+たきこみごはん · takikomi gohan
+
+栗の炊き込みご飯を作った。
+I made rice cooked with chestnuts.",food
+おにぎり,"rice ball
+おにぎり · onigiri
+
+梅干し入りのおにぎりを作った。
+I made a rice ball with pickled plum inside.",food
+お茶漬け,"rice with tea poured over it
+おちゃづけ · ochazuke
+
+夜食にお茶漬けを食べた。
+I had ochazuke as a late-night snack.",food
+雑炊,"rice porridge (savory)
+ぞうすい · zousui
+
+風邪の時は雑炊を食べる。
+I eat rice porridge when I have a cold.",food
+煮物,"simmered dish
+にもの · nimono
+
+母の煮物が懐かしい。
+I miss my mother's simmered dishes.",food
+焼き魚,"grilled fish
+やきざかな · yakizakana
+
+サバの焼き魚を定食で食べた。
+I had grilled mackerel as part of a set meal.",food
+煮魚,"simmered fish
+にざかな · nizakana
+
+カレイの煮魚を作った。
+I made simmered flatfish.",food
+揚げ物,"fried food
+あげもの · agemono
+
+揚げ物は控えめにしている。
+I try to eat fried food in moderation.",food
+唐揚げ,"Japanese fried chicken
+からあげ · karaage
+
+鶏の唐揚げをお弁当に詰めた。
+I packed fried chicken karaage into the lunch box.",food
+とんかつ,"breaded pork cutlet
+とんかつ · tonkatsu
+
+とんかつ定食を注文した。
+I ordered the tonkatsu set meal.",food
+コロッケ,"croquette
+ころっけ · korokke
+
+じゃがいものコロッケを揚げた。
+I fried potato croquettes.",food
+焼きそば,"fried noodles
+やきそば · yakisoba
+
+屋台で焼きそばを買った。
+I bought yakisoba from a food stall.",food
+焼きうどん,"fried udon noodles
+やきうどん · yakiudon
+
+野菜たっぷりの焼きうどんを作った。
+I made yakiudon loaded with vegetables.",food
+お好み焼き,"savory pancake
+おこのみやき · okonomiyaki
+
+大阪風のお好み焼きを食べた。
+I ate Osaka-style okonomiyaki.",food
+たこ焼き,"octopus balls
+たこやき · takoyaki
+
+熱々のたこ焼きを頬張った。
+I bit into a piping hot takoyaki.",food
+もんじゃ焼き,"monjayaki (runny savory pancake)
+もんじゃやき · monjayaki
+
+月島でもんじゃ焼きを食べた。
+I ate monjayaki in Tsukishima.",food
+ラーメン,"ramen
+らーめん · raamen
+
+豚骨ラーメンの有名店を訪れた。
+I visited a famous tonkotsu ramen shop.",food
+つけ麺,"dipping noodles
+つけめん · tsukemen
+
+濃厚なつけ麺を注文した。
+I ordered rich, thick-flavored tsukemen.",food
+そば,"buckwheat noodles
+そば · soba
+
+年越しそばを食べる習慣がある。
+There is a custom of eating soba on New Year's Eve.",food
+うどん,"udon noodles
+うどん · udon
+
+讃岐うどんを本場で食べた。
+I ate authentic Sanuki udon in its home region.",food
+だしの効いたスープ,"broth with a strong dashi flavor
+だしのきいたすーぷ · dashi no kiita suupu
+
+だしの効いたスープが自慢の店だ。
+It's a shop proud of its broth with a strong dashi flavor.",food
+麺のこし,"noodle firmness (bite)
+めんのこし · men no koshi
+
+麺のこしがちょうどよかった。
+The noodle's firmness was just right.",food
+薬味,"condiments; garnish
+やくみ · yakumi
+
+薬味にネギと生姜を添えた。
+I added green onion and ginger as condiments.",food
+香辛料,"spice
+こうしんりょう · koushinryou
+
+香辛料を効かせたカレーを作った。
+I made a curry with plenty of spice.",food
+風味,"flavor; aroma
+ふうみ · fuumi
+
+独特の風味が特徴の料理だ。
+It's a dish characterized by its distinctive flavor.",food
+旨味,"umami; savory flavor
+うまみ · umami
+
+昆布の旨味を存分に生かした。
+I made full use of the umami from the kelp.",food
+コク,"rich, deep flavor
+こく · koku
+
+バターを加えてコクを出した。
+I added butter to bring out a rich flavor.",food
+あっさり,"light; plain (in taste)
+あっさり · assari
+
+あっさりした味付けが好みだ。
+I prefer light seasoning.",food
+こってり,"rich; heavy (in taste)
+こってり · kotteri
+
+こってりしたラーメンを食べた。
+I ate rich, heavy-tasting ramen.",food
+さっぱり,"refreshing; crisp (taste)
+さっぱり · sappari
+
+さっぱりした酢の物が食べたい。
+I want to eat a refreshing vinegared dish.",food
+ぴりっと,"a spicy kick
+ぴりっと · piritto
+
+ぴりっとした辛さがアクセントになる。
+The spicy kick acts as an accent.",food
+まろやか,"mellow; mild (taste)
+まろやか · maroyaka
+
+まろやかな味わいのカレーだ。
+It's a curry with a mellow flavor.",food
+濃厚,"rich; concentrated (flavor)
+のうこう · noukou
+
+濃厚なチーズケーキを堪能した。
+I savored a rich cheesecake.",food
+下ごしらえ,"food preparation (preliminary)
+したごしらえ · shitagoshirae
+
+野菜の下ごしらえを済ませた。
+I finished preparing the vegetables.",food
+下味をつける,"to marinate; season beforehand
+したあじをつける · shitaaji o tsukeru
+
+鶏肉に下味をつけておいた。
+I marinated the chicken beforehand.",food
+アク抜き,"removing bitterness/scum
+あくぬき · akunuki
+
+ごぼうはアク抜きをしてから使う。
+Burdock root is used after removing its bitterness.",food
+灰汁,"scum; bitterness (in cooking)
+あく · aku
+
+煮物の灰汁を丁寧に取った。
+I carefully skimmed the scum from the simmered dish.",food
+面取り,"beveling (edges of cut vegetables)
+めんとり · mentori
+
+大根の面取りをしてから煮る。
+I bevel the edges of the daikon before simmering it.",food
+隠し包丁,"hidden knife cuts (to help cooking)
+かくしぼうちょう · kakushi bouchou
+
+味が染みるよう隠し包丁を入れた。
+I made hidden cuts so the flavor would soak in.",food
+みじん切り,"finely mincing
+みじんぎり · mijingiri
+
+玉ねぎをみじん切りにした。
+I finely minced the onion.",food
+千切り,"julienne; thin strips
+せんぎり · sengiri
+
+キャベツを千切りにした。
+I cut the cabbage into thin strips.",food
+乱切り,"rough-cutting (vegetables)
+らんぎり · rangiri
+
+にんじんを乱切りにして煮た。
+I roughly cut the carrots and simmered them.",food
+薄切り,"thin slicing
+うすぎり · usugiri
+
+豚肉を薄切りにした。
+I thinly sliced the pork.",food
+角切り,"dicing (cutting into cubes)
+かくぎり · kakugiri
+
+じゃがいもを角切りにした。
+I diced the potatoes.",food
+すりおろす,"to grate
+すりおろす · suriorosu
+
+大根をすりおろして添えた。
+I grated daikon and added it as a garnish.",food
+あえる,"to dress; toss (with sauce)
+あえる · aeru
+
+ほうれん草をごまであえた。
+I dressed the spinach with sesame.",food
+和える,"to mix/dress ingredients
+あえる · aeru
+
+野菜をドレッシングで和えた。
+I dressed the vegetables with dressing.",food
+炒める,"to stir-fry
+いためる · itameru
+
+野菜を強火で炒めた。
+I stir-fried the vegetables over high heat.",food
+蒸す,"to steam
+むす · musu
+
+茶碗蒸しを蒸して作った。
+I made chawanmushi by steaming it.",food
+茹でる,"to boil (food)
+ゆでる · yuderu
+
+パスタを茹でて水を切った。
+I boiled the pasta and drained the water.",food
+煮込む,"to stew; simmer for a long time
+にこむ · nikomu
+
+じっくり煮込んだシチューだ。
+It's a stew that was simmered slowly.",food
+あぶる,"to sear; lightly grill
+あぶる · aburu
+
+表面をさっとあぶった。
+I quickly seared the surface.",food
+炙り,"seared (esp. sushi)
+あぶり · aburi
+
+炙りサーモンの寿司を頼んだ。
+I ordered seared salmon sushi.",food
+仕込み,"food prep (restaurant term)
+しこみ · shikomi
+
+開店前に仕込みを済ませる。
+We finish the food prep before opening.",food
+盛り付け,"plating; food presentation
+もりつけ · moritsuke
+
+盛り付けにもこだわった料理だ。
+It's a dish where care was also taken with the plating.",food
+彩り,"color arrangement (of food)
+いろどり · irodori
+
+彩り豊かな弁当を作った。
+I made a colorfully arranged lunch box.",food
+器,"vessel; tableware
+うつわ · utsuwa
+
+季節に合わせて器を選んだ。
+I chose tableware to match the season.",food
+箸休め,"a palate cleanser dish
+はしやすめ · hashiyasume
+
+箸休めに酢の物を出した。
+I served a vinegared dish as a palate cleanser.",food
+締めの一品,"the final dish (closing course)
+しめのいっぴん · shime no ippin
+
+締めの一品に雑炊を頼んだ。
+I ordered rice porridge as the final dish.",food
+前菜,"appetizer
+ぜんさい · zensai
+
+前菜が盛りだくさんのコースだった。
+It was a course with a generous variety of appetizers.",food
+主菜,"main dish
+しゅさい · shusai
+
+主菜は牛肉のステーキだった。
+The main dish was beef steak.",food
+副菜,"side dish
+ふくさい · fukusai
+
+副菜にひじきの煮物を添えた。
+I added simmered hijiki seaweed as a side dish.",food
+一汁三菜,"one soup, three dishes (meal balance)
+いちじゅうさんさい · ichijuu sansai
+
+一汁三菜を基本とした献立にした。
+I made a menu based on the one-soup-three-dishes principle.",food
+献立,"menu; meal plan
+こんだて · kondate
+
+一週間分の献立を考えた。
+I planned a week's worth of menus.",food
+食材,"ingredients; food materials
+しょくざい · shokuzai
+
+旬の食材を使った料理を作った。
+I made a dish using seasonal ingredients.",food
+旬,"seasonal peak (of food)
+しゅん · shun
+
+今が旬の桃を食べた。
+I ate peaches that are now at their seasonal peak.",food
+産地直送,"direct-from-producer shipping
+さんちちょくそう · sanchi chokusou
+
+産地直送の野菜を購入した。
+I bought vegetables shipped directly from the producer.",food
+無農薬,"pesticide-free
+むのうやく · munouyaku
+
+無農薬の米を選んで買っている。
+I choose to buy pesticide-free rice.",food
+有機栽培,"organic farming
+ゆうきさいばい · yuuki saibai
+
+有機栽培の野菜を扱う店だ。
+It's a shop that handles organically grown vegetables.",food
+添加物,"food additive
+てんかぶつ · tenkabutsu
+
+添加物を使わない食品を選んだ。
+I chose food that doesn't use additives.",food
+賞味期限,"best-before date
+しょうみきげん · shoumi kigen
+
+賞味期限を確認してから食べた。
+I checked the best-before date before eating it.",food
+消費期限,"use-by date
+しょうひきげん · shouhi kigen
+
+消費期限が切れる前に使い切った。
+I used it all up before the use-by date expired.",food
+日持ち,"shelf life; keeping quality
+ひもち · himochi
+
+日持ちする常備菜を作り置きした。
+I made ahead some long-lasting preserved side dishes.",food
+作り置き,"meal prep (making ahead)
+つくりおき · tsukurioki
+
+週末に作り置きのおかずを準備した。
+I prepared meal-prepped side dishes over the weekend.",food
+冷凍保存,"freezer storage
+れいとうほぞん · reitou hozon
+
+余った食材を冷凍保存した。
+I stored the leftover ingredients in the freezer.",food
+解凍,"defrosting; thawing
+かいとう · kaitou
+
+冷凍肉を自然解凍した。
+I thawed the frozen meat naturally.",food
+下味冷凍,"freezing pre-marinated food
+したあじれいとう · shitaaji reitou
+
+下味冷凍で時短調理をしている。
+I save cooking time by freezing pre-marinated food.",food
+時短料理,"time-saving cooking
+じたんりょうり · jitan ryouri
+
+忙しい日は時短料理を作る。
+On busy days I make time-saving meals.",food
+手抜き料理,"quick and easy cooking (cutting corners)
+てぬきりょうり · tenuki ryouri
+
+疲れた日は手抜き料理で済ませる。
+On tiring days I get by with quick, easy cooking.",food
+レシピ,"recipe
+れしぴ · reshipi
+
+動画のレシピを参考にした。
+I referred to a video recipe.",food
+分量,"quantity; measurement (ingredients)
+ぶんりょう · bunryou
+
+調味料の分量を量った。
+I measured the quantity of the seasonings.",food
+味加減,"seasoning balance
+あじかげん · ajikagen
+
+味加減を見ながら調理した。
+I cooked while checking the seasoning balance.",food
+味見,"taste-testing
+あじみ · ajimi
+
+仕上げに味見をした。
+I did a taste test before finishing.",food
+隠し味,"secret ingredient
+かくしあじ · kakushiaji
+
+隠し味に味噌を少し加えた。
+I added a bit of miso as a secret ingredient.",food
+定食,"set meal
+ていしょく · teishoku
+
+焼き魚定食を頼んだ。
+I ordered the grilled fish set meal.",food
+日替わり定食,"daily special set meal
+ひがわりていしょく · higawari teishoku
+
+日替わり定食が安くておいしい。
+The daily special set meal is cheap and delicious.",food
+食べ放題,"all-you-can-eat
+たべほうだい · tabehoudai
+
+焼肉の食べ放題に行った。
+We went to an all-you-can-eat yakiniku restaurant.",food
+飲み放題,"all-you-can-drink
+のみほうだい · nomihoudai
+
+飲み放題付きのコースを頼んだ。
+We ordered a course that includes all-you-can-drink.",food
+お通し,"appetizer served automatically (izakaya)
+おとおし · otooshi
+
+お通しに枝豆が出てきた。
+Edamame came out as the automatic appetizer.",food
+一品料理,"a la carte dish
+いっぴんりょうり · ippin ryouri
+
+一品料理をいくつか注文した。
+I ordered several a la carte dishes.",food
+取り皿,"small individual plate
+とりざら · torizara
+
+取り皿を人数分もらった。
+I got individual plates for everyone.",food
+おかわり,"a second helping; refill
+おかわり · okawari
+
+ご飯のおかわりをした。
+I had a second helping of rice.",food
+大盛り,"large portion
+おおもり · oomori
+
+大盛りのラーメンを注文した。
+I ordered a large portion of ramen.",food
+小盛り,"small portion
+こもり · komori
+
+小盛りのご飯にしてもらった。
+I had them make it a small portion of rice.",food
+量が多い,"a large quantity (of food)
+りょうがおおい · ryou ga ooi
+
+この店は量が多いことで有名だ。
+This restaurant is famous for its large portions.",food
+食べきれない,"unable to finish eating
+たべきれない · tabekirenai
+
+量が多くて食べきれなかった。
+There was so much I couldn't finish it all.",food
+持ち帰り,"takeout
+もちかえり · mochikaeri
+
+残った料理を持ち帰りにした。
+I took the leftover food as takeout.",food
+出前,"food delivery (traditional)
+でまえ · demae
+
+寿司の出前を頼んだ。
+I ordered sushi delivery.",food
+配膳,"serving food (setting the table)
+はいぜん · haizen
+
+料理の配膳を手伝った。
+I helped serve the food.",food
+下膳,"clearing dishes
+げぜん · gezen
+
+食後に下膳を済ませた。
+I finished clearing the dishes after the meal.",food
+食べっぷり,"the way one eats (manner/gusto)
+たべっぷり · tabeppuri
+
+豪快な食べっぷりに驚いた。
+I was surprised by his hearty way of eating.",food
+箸使い,"chopstick manners/technique
+はしづかい · hashizukai
+
+きれいな箸使いを心がけている。
+I try to use my chopsticks with proper manners.",food
+食事作法,"table manners
+しょくじさほう · shokuji sahou
+
+食事作法を教わった。
+I was taught table manners.",food
+いただきます,"phrase said before eating
+いただきます · itadakimasu
+
+手を合わせていただきますと言った。
+I put my hands together and said 'itadakimasu.'",food
+ごちそうさま,"phrase said after eating
+ごちそうさま · gochisousama
+
+食べ終わってごちそうさまと言った。
+When I finished eating, I said 'gochisousama.'",food
+食欲,"appetite
+しょくよく · shokuyoku
+
+暑さで食欲がなくなった。
+My appetite disappeared due to the heat.",food
+満腹,"full (stomach)
+まんぷく · manpuku
+
+満腹になるまで食べた。
+I ate until I was full.",food
+腹八分目,"eating until 80% full
+はらはちぶんめ · hara hachibunme
+
+腹八分目を心がけている。
+I try to eat until only 80% full.",food
+間食,"snacking between meals
+かんしょく · kanshoku
+
+間食を控えるようにしている。
+I try to refrain from snacking between meals.",food
+おやつ,"snack (afternoon)
+おやつ · oyatsu
+
+三時のおやつにせんべいを食べた。
+I had rice crackers as my three o'clock snack.",food
+夜食,"late-night snack
+やしょく · yashoku
+
+仕事の合間に夜食を食べた。
+I ate a late-night snack between work tasks.",food
+間食を我慢する,"to resist snacking
+かんしょくをがまんする · kanshoku o gaman suru
+
+ダイエット中は間食を我慢する。
+While dieting, I resist snacking.",food
+偏食,"picky eating; unbalanced diet
+へんしょく · henshoku
+
+子供の偏食に悩んでいる。
+I am troubled by my child's picky eating.",food
+好き嫌い,"likes and dislikes (in food)
+すききらい · sukikirai
+
+好き嫌いなく何でも食べる。
+He eats anything without likes or dislikes.",food
+苦手な食べ物,"a food one dislikes/can't handle
+にがてなたべもの · nigate na tabemono
+
+パクチーが苦手な食べ物だ。
+Cilantro is a food I can't handle.",food
+アレルギー,"allergy
+あれるぎー · arerugii
+
+卵アレルギーがあるので注意している。
+I am careful because I have an egg allergy.",food
+食物繊維,"dietary fiber
+しょくもつせんい · shokumotsu sen'i
+
+食物繊維を意識して野菜を食べる。
+I eat vegetables mindful of dietary fiber.",food
+栄養バランス,"nutritional balance
+えいようばらんす · eiyou baransu
+
+栄養バランスを考えた献立にした。
+I made a menu that considers nutritional balance.",food
+糖質制限,"carbohydrate restriction (diet)
+とうしつせいげん · toushitsu seigen
+
+糖質制限のダイエットを試している。
+I'm trying a carbohydrate-restriction diet.",food
+カロリー,"calorie
+かろりー · karorii
+
+カロリーを気にして選んだ。
+I chose it while being mindful of calories.",food
+低カロリー,"low-calorie
+ていかろりー · tei karorii
+
+低カロリーのデザートを選んだ。
+I chose a low-calorie dessert.",food
+高たんぱく,"high-protein
+こうたんぱく · kou tanpaku
+
+高たんぱくな食事を心がけている。
+I try to eat a high-protein diet.",food
+間食用,"for snacking
+かんしょくよう · kanshokuyou
+
+間食用のナッツを常備している。
+I always keep nuts on hand for snacking.",food
+食生活,"eating habits; diet (lifestyle)
+しょくせいかつ · shoku seikatsu
+
+食生活を見直すことにした。
+I decided to reconsider my eating habits.",food
+外食,"eating out
+がいしょく · gaishoku
+
+週末は外食することが多い。
+We often eat out on weekends.",food
+自炊,"cooking for oneself
+じすい · jisui
+
+一人暮らしで自炊を始めた。
+I started cooking for myself since living alone.",food
+手料理,"home-cooked food
+てりょうり · teryouri
+
+母の手料理が恋しい。
+I miss my mother's home-cooked food.",food
+お袋の味,"mom's home cooking taste
+おふくろのあじ · ofukuro no aji
+
+お袋の味を再現しようとした。
+I tried to recreate the taste of my mother's home cooking.",food
+家庭料理,"home cooking
+かていりょうり · katei ryouri
+
+家庭料理を教える教室に通っている。
+I attend a class that teaches home cooking.",food
+郷土料理,"regional cuisine
+きょうどりょうり · kyoudo ryouri
+
+郷土料理を味わう旅をした。
+I took a trip to savor regional cuisine.",food
+創作料理,"creative cuisine
+そうさくりょうり · sousaku ryouri
+
+創作料理の店を予約した。
+I made a reservation at a creative cuisine restaurant.",food
+季節料理,"seasonal cuisine
+きせつりょうり · kisetsu ryouri
+
+季節料理を楽しめる店だ。
+It's a shop where you can enjoy seasonal cuisine.",food
+割烹,"traditional Japanese restaurant (fine dining)
+かっぽう · kappou
+
+割烹で本格的な和食を味わった。
+I savored authentic Japanese cuisine at a fine restaurant.",food
+板前,"Japanese chef
+いたまえ · itamae
+
+腕のいい板前がいる寿司屋だ。
+It's a sushi restaurant with a skilled chef.",food
+和菓子,"traditional Japanese sweets
+わがし · wagashi
+
+抹茶と和菓子をいただいた。
+I had matcha and traditional Japanese sweets.",food
+大福,"mochi filled with sweet bean paste
+だいふく · daifuku
+
+いちご大福を買って食べた。
+I bought and ate strawberry daifuku.",food
+どら焼き,"red bean pancake sandwich
+どらやき · dorayaki
+
+どら焼きが大好物だ。
+Dorayaki is my absolute favorite.",food
+羊羹,"sweet bean jelly
+ようかん · youkan
+
+お茶と一緒に羊羹を食べた。
+I ate youkan along with tea.",food
+あんこ,"sweet red bean paste
+あんこ · anko
+
+あんこがたっぷり入った饅頭だ。
+It's a bun packed with sweet red bean paste.",food
+団子,"dumplings (sweet rice)
+だんご · dango
+
+みたらし団子を三本食べた。
+I ate three sticks of mitarashi dango.",food
+きな粉,"roasted soybean flour
+きなこ · kinako
+
+きな粉をまぶした餅を食べた。
+I ate mochi coated with roasted soybean flour.",food
+抹茶,"matcha (powdered green tea)
+まっちゃ · maccha
+
+抹茶アイスを注文した。
+I ordered matcha ice cream.",food
+かき氷,"shaved ice dessert
+かきごおり · kakigoori
+
+夏にかき氷を食べるのが楽しみだ。
+I look forward to eating shaved ice in summer.",food
+あんみつ,"a jelly dessert with sweet toppings
+あんみつ · anmitsu
+
+あんみつを食後に注文した。
+I ordered anmitsu after the meal.",food
+パフェ,"parfait
+ぱふぇ · pafe
+
+季節限定のパフェを食べた。
+I ate a seasonal limited parfait.",food
+焼き菓子,"baked confectionery
+やきがし · yakigashi
+
+手土産に焼き菓子を選んだ。
+I chose baked confectionery as a gift.",food
+手土産,"a small gift (when visiting)
+てみやげ · temiyage
+
+訪問先に手土産を持参した。
+I brought a small gift to my visit.",food
+甘さ控えめ,"lightly sweetened
+あまさひかえめ · amasa hikaeme
+
+甘さ控えめのプリンが好きだ。
+I like lightly sweetened pudding.",food
+甘党,"someone with a sweet tooth
+あまとう · amatou
+
+甘党なのでケーキに目がない。
+I have a sweet tooth, so I can't resist cake.",food
+辛党,"someone who prefers savory/alcohol
+からとう · karatou
+
+父は辛党でお酒が好きだ。
+My father prefers savory food and likes alcohol.",food
+食後のデザート,"dessert after a meal
+しょくごのですーと · shokugo no desaato
+
+食後のデザートを楽しみにしていた。
+I was looking forward to dessert after the meal.",food
+飲食店,"restaurant; eatery
+いんしょくてん · inshokuten
+
+駅前の飲食店で食事をした。
+I had a meal at a restaurant near the station.",food
+個人経営,"privately run (business)
+こじんけいえい · kojin keiei
+
+個人経営の小さな店だ。
+It's a small, privately run shop.",food
+老舗,"long-established store
+しにせ · shinise
+
+創業百年の老舗を訪れた。
+I visited a long-established store founded 100 years ago.",food
+暖簾,"shop curtain (traditional)
+のれん · noren
+
+暖簾をくぐって店に入った。
+I passed through the shop curtain and entered.",food
+カウンター席,"counter seating
+かうんたーせき · kauntaa seki
+
+カウンター席で一人で食事をした。
+I ate alone at the counter seating.",food
+座敷,"tatami-mat room (dining)
+ざしき · zashiki
+
+座敷でくつろいで食事をした。
+I relaxed and ate in the tatami room.",food
+個室,"private dining room
+こしつ · koshitsu
+
+接待には個室を予約した。
+I reserved a private room for the business entertainment.",food
+予約席,"reserved seat
+よやくせき · yoyaku seki
+
+予約席の札が置かれていた。
+A reserved-seat sign was placed there.",food
+満席,"fully booked (restaurant)
+まんせき · manseki
+
+人気店で満席と言われた。
+I was told the popular restaurant was fully booked.",food
+相席,"sharing a table with strangers
+あいせき · aiseki
+
+混雑していたので相席になった。
+It was crowded, so I ended up sharing a table.",food
+注文を通す,"to place an order (to the kitchen)
+ちゅうもんをとおす · chuumon o toosu
+
+店員が注文を通した。
+The staff member placed the order.",food
+お品書き,"menu (traditional term)
+おしながき · oshinagaki
+
+お品書きを見て注文を決めた。
+I decided my order after looking at the menu.",food
+本日のおすすめ,"today's recommendation
+ほんじつのおすすめ · honjitsu no osusume
+
+本日のおすすめを店員に尋ねた。
+I asked the staff about today's recommendation.",food
+季節限定,"seasonal limited (menu item)
+きせつげんてい · kisetsu gentei
+
+季節限定メニューを注文した。
+I ordered from the seasonal limited menu.",food
+数量限定,"limited quantity
+すうりょうげんてい · suuryou gentei
+
+数量限定の商品は早めに売り切れた。
+The limited-quantity item sold out quickly.",food
+売り切れ,"sold out
+うりきれ · urikire
+
+人気メニューは売り切れだった。
+The popular menu item was sold out.",food
+仕入れ,"purchasing/procuring stock
+しいれ · shiire
+
+新鮮な魚を毎朝仕入れている。
+They procure fresh fish every morning.",food
+卸売市場,"wholesale market
+おろしうりしじょう · oroshiuri shijou
+
+卸売市場から直接仕入れている。
+They procure stock directly from the wholesale market.",food
+競り,"auction (fish market)
+せり · seri
+
+早朝の競りを見学した。
+I observed the early-morning fish auction.",food
+目利き,"an expert judge of quality
+めきき · mekiki
+
+魚の目利きができる料理人だ。
+He is a chef who can judge the quality of fish.",food
+厨房,"kitchen (restaurant)
+ちゅうぼう · chuubou
+
+厨房から良い香りが漂ってきた。
+A good aroma wafted from the kitchen.",food
+調理場,"cooking area
+ちょうりば · chouriba
+
+調理場は常に清潔に保たれている。
+The cooking area is always kept clean.",food
+客単価,"average spend per customer
+きゃくたんか · kyaku tanka
+
+客単価を上げるメニューを考えた。
+They devised a menu to increase the average spend per customer.",food
+回転率,"table turnover rate
+かいてんりつ · kaitenritsu
+
+ランチタイムは回転率が高い。
+The table turnover rate is high during lunchtime.",food
+看板メニュー,"signature menu item
+かんばんめにゅー · kanban menyuu
+
+看板メニューのカレーを注文した。
+I ordered the signature curry.",food
+隠れた名店,"a hidden gem restaurant
+かくれためいてん · kakureta meiten
+
+地元で有名な隠れた名店を訪れた。
+I visited a hidden gem restaurant famous among locals.",food
+行列のできる店,"a restaurant with a line out the door
+ぎょうれつのできるみせ · gyouretsu no dekiru mise
+
+行列のできる店として有名だ。
+It's famous as a restaurant with a line out the door.",food
+味自慢,"pride in the taste (of food)
+あじじまん · ajijiman
+
+味自慢のラーメン店だ。
+It's a ramen shop with pride in its taste.",food
+評判の店,"a well-reputed restaurant
+ひょうばんのみせ · hyouban no mise
+
+評判の店を予約した。
+I made a reservation at a well-reputed restaurant.",food
+食レポ,"food review/report
+しょくれぽ · shokurepo
+
+食レポ動画を参考にした。
+I referred to a food review video.",food
+インスタ映え,"Instagram-worthy
+いんすたばえ · insutabae
+
+インスタ映えするパフェを注文した。
+I ordered an Instagram-worthy parfait.",food
+映える,"to look great (photogenic)
+ばえる · baeru
+
+色鮮やかで映える料理だった。
+It was a vividly colored, photogenic dish.",food
+米粒,"grain of rice
+こめつぶ · kometsubu
+
+米粒一つ残さず食べた。
+I ate without leaving even a single grain of rice.",food
+新米,"newly harvested rice
+しんまい · shinmai
+
+秋に新米を炊いて食べた。
+I cooked and ate newly harvested rice in autumn.",food
+銘柄米,"brand-name rice
+めいがらまい · meigaramai
+
+銘柄米を取り寄せて食べ比べた。
+I ordered brand-name rice and did a taste comparison.",food
+精米,"rice polishing
+せいまい · seimai
+
+玄米を自分で精米している。
+I polish brown rice myself.",food
+玄米,"brown rice
+げんまい · genmai
+
+健康のために玄米を食べている。
+I eat brown rice for my health.",food
+もち米,"glutinous rice
+もちごめ · mochigome
+
+もち米で赤飯を炊いた。
+I cooked red rice using glutinous rice.",food
+粒ぞろい,"uniform grain size (quality)
+つぶぞろい · tsubuzoroi
+
+粒ぞろいの立派な米だ。
+It's fine rice with a uniform grain size.",food
+食感,"texture (of food)
+しょっかん · shokkan
+
+もちもちとした食感が特徴だ。
+It's characterized by a chewy, mochi-like texture.",food
+歯ごたえ,"chewiness; bite
+はごたえ · hagotae
+
+シャキシャキとした歯ごたえが好きだ。
+I like the crisp, crunchy bite.",food
+ぱりぱり,"crispy (sound/texture)
+ぱりぱり · paripari
+
+ぱりぱりの海苔を巻いて食べた。
+I wrapped it in crispy seaweed and ate it.",food
+もちもち,"chewy; mochi-like texture
+もちもち · mochimochi
+
+もちもちの食パンを買った。
+I bought chewy, mochi-textured white bread.",food
+ふわふわ,"fluffy (texture)
+ふわふわ · fuwafuwa
+
+ふわふわのオムレツを作った。
+I made a fluffy omelet.",food
+とろとろ,"melty; thick and gooey
+とろとろ · torotoro
+
+とろとろのチーズがたまらない。
+The melty cheese is irresistible.",food
+さくさく,"crispy; crunchy (light)
+さくさく · sakusaku
+
+さくさくの天ぷらを揚げた。
+I fried crispy tempura.",food
+ジューシー,"juicy
+じゅーしー · juushii
+
+ジューシーなハンバーグを堪能した。
+I savored a juicy hamburger steak.",food
+香ばしい,"aromatic; savory-smelling (roasted)
+こうばしい · koubashii
+
+香ばしい匂いが食欲をそそる。
+The aromatic smell stimulates the appetite.",food
+食感がいい,"good texture
+しょっかんがいい · shokkan ga ii
+
+食感がいい野菜を選んだ。
+I chose vegetables with a good texture.",food
+味わい深い,"deep, complex flavor
+あじわいぶかい · ajiwai bukai
+
+味わい深いスープに感動した。
+I was moved by the deep, complex flavor of the soup.",food
+絶品,"exquisite; superb dish
+ぜっぴん · zeppin
+
+絶品と評判のカレーを食べた。
+I ate the curry that has a reputation for being exquisite.",food
+美味,"delicious taste
+びみ · bimi
+
+美味な料理に舌鼓を打った。
+I smacked my lips over the delicious dish.",food
+舌鼓を打つ,"to smack one's lips (in delight)
+したつづみをうつ · shitatsuzumi o utsu
+
+郷土料理に舌鼓を打った。
+I smacked my lips in delight at the local cuisine.",food
+食べ応えがある,"satisfying (filling); worth eating
+たべごたえがある · tabegotae ga aru
+
+食べ応えがある定食だった。
+It was a filling, satisfying set meal.",food
+手ごろな値段,"reasonable price
+てごろなねだん · tegoro na nedan
+
+手ごろな値段の定食屋を見つけた。
+I found a set-meal restaurant with reasonable prices.",food
+コスパがいい,"good value for money
+こすぱがいい · kosupa ga ii
+
+コスパがいいランチだった。
+It was a lunch that was great value for money.",food
+食通,"gourmet; food connoisseur
+しょくつう · shokutsuu
+
+食通の友人におすすめを聞いた。
+I asked my gourmet friend for recommendations.",food
+グルメ,"gourmet food
+ぐるめ · gurume
+
+ご当地グルメを食べ歩いた。
+I ate my way through the local gourmet food.",food
+食通り,"restaurant street (food alley)
+しょくどおり · shokudoori
+
+賑やかな食通りを歩いた。
+I walked through the bustling restaurant street.",food
+食い倒れ,"eating oneself into ruin (excessive food spending)
+くいだおれ · kuidaore
+
+大阪の食い倒れを体験した。
+I experienced Osaka's tradition of extravagant eating.",food
+晩酌,"an evening drink (with dinner)
+ばんしゃく · banshaku
+
+父は毎晩晩酌をしている。
+My father has an evening drink every night.",food
+つまみ,"snack to accompany drinks
+つまみ · tsumami
+
+日本酒に合うつまみを用意した。
+I prepared a snack that goes well with sake.",food
+乾杯,"cheers; toast
+かんぱい · kanpai
+
+再会を祝って乾杯した。
+We made a toast to celebrate our reunion.",food
+注ぎ足す,"to top up (a drink)
+つぎたす · tsugitasu
+
+お酒をグラスに注ぎ足した。
+I topped up the alcohol in the glass.",food
+酔いが回る,"to become intoxicated
+よいがまわる · yoi ga mawaru
+
+すぐに酔いが回ってしまった。
+I quickly became intoxicated.",food
+二日酔い,"hangover
+ふつかよい · futsukayoi
+
+二日酔いで頭が痛い。
+My head hurts from a hangover.",food
+飲みすぎる,"to drink too much
+のみすぎる · nomisugiru
+
+昨夜は飲みすぎてしまった。
+I drank too much last night.",food
+ほろ酔い,"pleasantly tipsy
+ほろよい · horoyoi
+
+ほろ酔い気分で帰宅した。
+I went home feeling pleasantly tipsy.",food
+利き酒,"sake tasting
+ききざけ · kikizake
+
+蔵元で利き酒を体験した。
+I experienced sake tasting at the brewery.",food
+酒蔵,"sake brewery
+さかぐら · sakagura
+
+歴史ある酒蔵を見学した。
+I toured a historic sake brewery.",food
+日本酒,"Japanese sake
+にほんしゅ · nihonshu
+
+辛口の日本酒を頼んだ。
+I ordered a dry Japanese sake.",food
+甘口,"sweet (taste, esp. sake/miso)
+あまくち · amakuchi
+
+甘口のカレーを注文した。
+I ordered a mild, sweet curry.",food
+辛口,"dry/spicy (taste, esp. sake)
+からくち · karakuchi
+
+辛口のカレーが好きだ。
+I like spicy curry.",food
+地ビール,"local craft beer
+じびーる · jibiiru
+
+地ビールを飲み比べた。
+I did a comparative tasting of local craft beers.",food
+梅酒,"plum wine
+うめしゅ · umeshu
+
+手作りの梅酒を振る舞った。
+I served homemade plum wine.",food
+果実酒,"fruit liqueur/wine
+かじつしゅ · kajitsushu
+
+果実酒を炭酸で割って飲んだ。
+I drank the fruit liqueur mixed with soda.",food
+食前酒,"aperitif
+しょくぜんしゅ · shokuzenshu
+
+食前酒として梅酒が出された。
+Plum wine was served as an aperitif.",food
+締めのラーメン,"ramen to finish off a drinking session
+しめのらーめん · shime no raamen
+
+飲んだ後は締めのラーメンを食べる。
+After drinking, I eat ramen to finish off the night.",food
+二軒目,"the second bar/restaurant of the night
+にけんめ · nikenme
+
+二軒目のバーへ移動した。
+We moved on to the second bar of the night.",food
+はしご酒,"bar hopping
+はしござけ · hashigozake
+
+友人とはしご酒を楽しんだ。
+I enjoyed bar hopping with friends.",food
+割り勘,"splitting the bill
+わりかん · warikan
+
+飲み会の代金を割り勘にした。
+We split the bill for the drinking party.",food
+奢る,"to treat (pay for someone)
+おごる · ogoru
+
+後輩に食事を奢った。
+I treated my junior colleague to a meal.",food
