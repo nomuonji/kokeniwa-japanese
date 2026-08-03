@@ -98,6 +98,33 @@ def _bilingual_card(b):
 </article>"""
 
 
+# kokeniwa-english「英語トレーニングシリーズ」の表紙だけを小さく見せるための最小データ。
+# 詳細(ASIN・値段・特徴)は持たず、あくらまで en.kokeniwa.net/books/ へのパンフレット的導線。
+ENGLISH_SERIES_COVERS = [
+    {"title": "USCPA Vocabulary 1000", "cover": "/static/covers/uscpa.jpg"},
+    {"title": "Legal English Vocabulary 1000", "cover": "/static/covers/legal.jpg"},
+    {"title": "English Reading Comprehension, 200 Questions", "cover": "/static/covers/reading.jpg"},
+]
+
+
+def _cross_promo_html():
+    thumbs = "".join(
+        f'<img src="{esc(b["cover"])}" alt="{esc(b["title"])} cover" loading="lazy">'
+        for b in ENGLISH_SERIES_COVERS)
+    return f"""
+<div class="cross-promo">
+  <div class="cross-promo-covers">{thumbs}</div>
+  <div class="cross-promo-body">
+    <h3>Also working on your English?</h3>
+    <p>This bilingual series comes from <strong>Kokeniwa English</strong>, a sister site with
+    its own Kindle line for English learners — vocabulary for USCPA and legal English, plus a
+    200-question reading comprehension workbook. Same idea, opposite direction.</p>
+    <a class="follow-btn" href="https://en.kokeniwa.net/books/" rel="noopener" target="_blank">
+      See the English training series →</a>
+  </div>
+</div>"""
+
+
 def render_books(cfg):
     cards = "".join(_bilingual_card(b) for b in BILINGUAL_BOOKS)
     content = f"""
@@ -135,12 +162,7 @@ and check yourself against the English, or read the English first and see how it
 — either way works. There's no glossary or grammar notes; this is extensive reading, not a
 textbook.</p>
 
-<h2>Also working on your English?</h2>
-<p>This bilingual series comes from <a href="https://en.kokeniwa.net/books/" rel="noopener"
-target="_blank">Kokeniwa English</a>, a sister site with its own Kindle line for English
-learners — vocabulary for USCPA and legal English, plus a 200-question English reading
-comprehension workbook. Same idea, opposite direction: <a href="https://en.kokeniwa.net/books/"
-rel="noopener" target="_blank">see the full lineup →</a></p>
+{_cross_promo_html()}
 
 {_AFFILIATE_NOTICE}
 """
