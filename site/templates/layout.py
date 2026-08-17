@@ -35,6 +35,39 @@ NAV_ITEMS = [
 ]
 
 
+# Site-wide announcement bar, used to promote the Kindle books.
+#
+# Edit text/link and it applies to every page. Set to None to hide it.
+# The close button is remembered in localStorage per id, so bump the id
+# whenever the wording changes (to show it again to people who dismissed it).
+ANNOUNCE = {
+    "id": "kindle-2026-07",
+    "text": "New Kindle editions of Sherlock Holmes, Virginia Woolf and Marx — "
+            "all three free with Kindle Unlimited.",
+    "short": "Read the Classics: 3 Kindle editions, free with Kindle Unlimited",
+    "link": "/books/",
+    "link_label": "See the books",
+}
+
+
+def _announce_html():
+    a = ANNOUNCE
+    if not a:
+        return ""
+    return f"""
+<div class="announce" id="announce" data-announce-id="{esc(a["id"])}" hidden>
+  <div class="container announce-inner">
+    <span class="announce-icon" aria-hidden="true">📚</span>
+    <p class="announce-text">
+      <span class="announce-full">{esc(a["text"])}</span>
+      <span class="announce-short">{esc(a["short"])}</span>
+    </p>
+    <a class="announce-link" href="{esc(a["link"])}">{esc(a["link_label"])} →</a>
+    <button type="button" class="announce-close" aria-label="Close announcement">×</button>
+  </div>
+</div>"""
+
+
 def breadcrumb_jsonld(cfg, crumbs):
     items = [{
         "@type": "ListItem",
@@ -103,6 +136,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     wide: widen the content column so cards sit three across. Reading pages
           keep the default width, where long lines would hurt.
     """
+    announce_html = _announce_html()
     site_name = cfg["site_name"]
     full_title = site_name if path == "/" else f"{title}｜{site_name}"
     canonical = cfg["base_url"] + path
@@ -205,6 +239,8 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
   </svg>
 </div>
 <a class="skip-link" href="#main">Skip to content</a>
+<div class="site-top">
+{announce_html}
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="/">
@@ -214,6 +250,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     <nav class="site-nav" aria-label="Main">{nav_html}</nav>
   </div>
 </header>
+</div>
 <main id="main" class="container{' container-wide' if wide else ''}">
 {crumbs_html}
 {content}
@@ -229,6 +266,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
   </div>
 </footer>
 {extra_scripts}
+<script src="{esc(asset("/static/announce.js"))}" defer></script>
 </body>
 </html>
 """
