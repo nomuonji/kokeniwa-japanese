@@ -177,9 +177,44 @@ blockquote {
 }
 .skip-link:focus { left: 12px; top: 12px; }
 
+/* ---------- announcement bar ---------- */
+.announce {
+  background: var(--primary); color: var(--on-primary);
+  font-size: .86rem; position: relative; z-index: 20;
+}
+.announce[hidden] { display: none; }
+.announce-inner {
+  display: flex; align-items: center; gap: 12px;
+  padding-top: 10px; padding-bottom: 10px;
+}
+.announce-icon { flex-shrink: 0; }
+.announce-text { margin: 0; flex: 1; min-width: 0; line-height: 1.5; }
+.announce-short { display: none; }
+.announce-link {
+  flex-shrink: 0; color: var(--on-primary); font-weight: 700;
+  text-decoration: underline; text-underline-offset: 3px; white-space: nowrap;
+}
+.announce-link:hover { opacity: .85; }
+.announce-close {
+  flex-shrink: 0; background: none; border: 0; cursor: pointer;
+  color: var(--on-primary); font-size: 1.2rem; line-height: 1;
+  padding: 4px 6px; border-radius: 6px; opacity: .8;
+}
+.announce-close:hover { opacity: 1; background: rgba(255, 255, 255, .15); }
+
+@media (max-width: 720px) {
+  .announce { font-size: .8rem; }
+  .announce-full { display: none; }
+  .announce-short { display: inline; }
+}
+
 /* ---------- 繝倥ャ繝 ---------- */
-.site-header {
+/* Keep the announcement bar and header together in one sticky block,
+   so the bar doesn't scroll away while the header stays put. */
+.site-top {
   position: sticky; top: 0; z-index: 50;
+}
+.site-header {
   background: color-mix(in srgb, var(--bg) 82%, transparent);
   backdrop-filter: blur(12px) saturate(1.4);
   -webkit-backdrop-filter: blur(12px) saturate(1.4);
