@@ -26,7 +26,7 @@ When you need assistance, say *sumimasen* first. Then use a short question and p
 
 ## Small words on signs
 
-*Kita* and *minami* mean north and south; *higashi* and *nishi* mean east and west. *Chika* is underground, *ch上* is above ground, and *kaidan* means stairs. At a station, *ban-sen* is platform number, *h方面* (*houmen*) indicates the direction of travel, and *jiyuu-seki* means a non-reserved seat. These are not words you need to produce fluently. Recognizing them while walking is enough.
+*Kita* and *minami* mean north and south; *higashi* and *nishi* mean east and west. *Chika* is underground, *chijō* (地上) is above ground, and *kaidan* means stairs. At a station, *ban-sen* is platform number, *houmen* (方面) indicates the direction of travel, and *jiyuu-seki* means a non-reserved seat. These are not words you need to produce fluently. Recognizing them while walking is enough.
 
 For emergencies, *tasukete* means “help,” *byouin* is hospital, and *keisatsu* is police. Japan is safe, but knowing these words lowers the cost of asking. Keep your accommodation name written in Japanese, especially when taking a taxi. Showing a screen with the address and saying *koko made onegaishimasu* (“to here, please”) is a perfectly competent travel interaction.
 
