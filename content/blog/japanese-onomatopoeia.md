@@ -34,6 +34,8 @@ Pay attention to the vowel pattern. *Pika-pika* is bright and shiny, while *bika
 
 ## Sources & further reading
 
+Keep a four-word notebook organised by sense rather than by alphabetical order: sound, movement, texture, and emotion. Add one sentence and, if possible, a tiny sketch. *Bisho-bisho* beside a drawing of a wet umbrella is easier to recall than a translation list. Later, listen for the same word in a drama or podcast and mark whether the speaker uses it for a literal state or a metaphorical mood.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [擬音語・擬態語 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%93%AC%E9%9F%B3%E8%AA%9E%E3%83%BB%E6%93%AC%E6%85%8B%E8%AA%9E)

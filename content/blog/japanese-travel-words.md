@@ -32,6 +32,8 @@ For emergencies, *tasukete* means “help,” *byouin* is hospital, and *keisats
 
 ## Sources & further reading
 
+Make a small phone note before travelling with three columns: Japanese, pronunciation, and the place where you expect to see it. Add words from station signs as you encounter them. This is more useful than downloading a giant phrase list because the words stay tied to a real route. Review the note on the train and delete words you now recognize automatically.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [日本の鉄道 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%84%E9%81%93)

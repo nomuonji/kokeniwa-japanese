@@ -32,6 +32,8 @@ At a shop, *irasshaimase* is said by the staff; you do not need to answer with t
 
 ## Sources & further reading
 
+Listen to the greeting that starts an interaction and the one that closes it. *Irasshaimase* welcomes you into a shop; *arigatou gozaimasu* sends you out with thanks. At work, the same people may use *ohayou gozaimasu* at the start of a shift and *otsukaresama desu* when leaving. These pairs show that Japanese greetings organise transitions, not just times of day.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [挨拶 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%8C%A8%E6%8B%B6)

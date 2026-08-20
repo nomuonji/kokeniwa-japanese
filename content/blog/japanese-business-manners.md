@@ -34,6 +34,8 @@ When a meeting ends, *honjitsu wa arigatou gozaimashita* means “thank you for 
 
 ## Sources & further reading
 
+For learners, the best business-manner exercise is to write one short message and identify its function: greeting, request, deadline, or closing. Do not translate every formula literally. Ask what the phrase is doing to the relationship. Once that purpose is clear, the polite wording becomes easier to remember and less likely to sound like a copied template.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [名刺 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%90%8D%E5%88%BA)

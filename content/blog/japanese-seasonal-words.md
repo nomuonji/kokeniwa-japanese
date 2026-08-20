@@ -34,6 +34,8 @@ Seasonal language can be practical too. *Kisetsu no kawari-me* means the change 
 
 ## Sources & further reading
 
+Seasonal words are especially useful for small talk because they are specific without being intrusive. You can comment on *tsuyu*, ask whether someone likes *momiji*, or mention that a food is in season without asking about private life. Notice the response: a short agreement may be all the person wants, or it may open a longer story about family, travel, or a favorite restaurant.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [季節 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%AD%A3%E7%AF%80)

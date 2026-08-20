@@ -32,6 +32,8 @@ When a menu lists *shun no osusume*, it is pointing to the chef’s seasonal rec
 
 ## Sources & further reading
 
+Photographs help, but do not let them become your only strategy. Cover the English description and guess from the cooking word first. Then compare your guess with the picture or ask the staff. This turns an ordinary lunch into repeated, low-pressure reading practice. After a few visits, *yaki*, *age*, *mushi*, and *nama* start to feel like familiar prefixes rather than isolated vocabulary.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [日本料理 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86)

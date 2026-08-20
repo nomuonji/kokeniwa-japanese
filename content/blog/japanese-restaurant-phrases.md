@@ -34,6 +34,8 @@ If you change your mind, *kore wa iranai desu* (“I do not need this”) is cle
 
 ## Sources & further reading
 
+Save a screenshot of the phrases you need before entering a restaurant. In a noisy room, pronunciation may be harder than pointing to text. Staff may answer in Japanese, English, or by showing a menu; all three are successful communication. The goal is not to perform a perfect dialogue. It is to make your request clear and give the other person an easy way to respond.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [外食 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%96%E9%A3%9F)

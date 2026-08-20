@@ -34,6 +34,8 @@ The safest approach is curiosity rather than correction. If a colleague says “
 
 ## Sources & further reading
 
+Loanwords also reveal pronunciation. Japanese usually inserts vowels to fit its syllable pattern, so “consent” becomes *konsento* and “salaryman” becomes *sarariman*. When you hear an unfamiliar katakana word, try the English source only as a hypothesis. It may be a Japanese abbreviation, a changed meaning, or a word borrowed through another language. The surprise is part of the vocabulary lesson.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [和製英語 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%92%8C%E8%A3%BD%E8%8B%B1%E8%AA%9E)
