@@ -26,6 +26,18 @@ Children call their parents *okaasan* and *otoosan*, and adults may continue to 
 
 Write two sentences for each relative: one about your own family and one about another person’s. For example, *haha wa Osaka ni sundeimasu* (“My mother lives in Osaka”) versus *Tanaka-san no okaasan* (“Tanaka’s mother”). This practice makes the social angle visible and prevents the common mistake of using the familiar form everywhere.
 
+## Names change by situation
+
+The same person can be *haha* when you describe your own mother to someone outside the family, *okaasan* when you speak to her, and *Tanaka-san no okaasan* when you mention another person’s mother. This is not a rigid rule for every family. Some adults use familiar forms in casual conversation, so listen to the relationship and setting before copying a form.
+
+## Grandparents, uncles, and cousins
+
+*Sofu* and *sobo* are formal words for one’s own grandfather and grandmother; *ojiisan* and *obaasan* are common when addressing someone or describing another person’s relatives. *Oji* means uncle and *oba* aunt in a neutral or humble description. Cousins are *itoko*. When the relationship is complicated, Japanese speakers often add a name or age order rather than relying on one word alone.
+
+## Practice with two viewpoints
+
+Choose a family photograph and describe it twice: first as your own family, then as a friend’s family. Add *watashi no*, *Tanaka-san no*, or an honorific prefix where appropriate. This makes the viewpoint shift automatic and prevents a vocabulary list from becoming a collection of context-free translations.
+
 ## Sources & further reading
 
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*

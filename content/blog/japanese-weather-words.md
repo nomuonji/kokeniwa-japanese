@@ -26,6 +26,18 @@ vocab: 天気|てんき|tenki · weather; 湿気|しっけ|shikke · humidity; �
 
 Start with an observation: *Kyou wa atsui desu ne* (“It is hot today, isn’t it?”). The listener can agree, disagree, or add a detail. This is not empty language. It is a low-risk way to establish a shared moment before talking about work, plans, or travel.
 
+## Useful forecast phrases
+
+*Ashita wa ame ga furisou desu* means “It looks like it will rain tomorrow.” *Ame ga futteimasu* describes rain that is falling now, while *ame ga yamu* means the rain stops. For a forecast, *yohou* is weather forecast and *kakudo* is the chance or likelihood in a practical context. These phrases help you move from naming the weather to making a plan.
+
+## Seasonal vocabulary
+
+Japanese weather talk changes with the calendar. *Haru* is spring, *natsu* summer, *aki* autumn, and *fuyu* winter. *Kogarashi* describes a cold late-autumn wind, while *natsuバテ* means summer fatigue. You do not need to memorize every seasonal word at once. Add one term when you encounter it in a forecast, conversation, or train announcement.
+
+## A short practice routine
+
+Write one sentence about today, one about tomorrow, and one about a recent change. Read them aloud, then replace the adjective with a noun phrase such as *shikke* or *tsuyoi kaze*. This small substitution exercise builds flexible weather vocabulary instead of a list that only works in flashcards.
+
 ## Sources & further reading
 
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*

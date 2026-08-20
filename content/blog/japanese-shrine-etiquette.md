@@ -28,6 +28,18 @@ At the hall, the common pattern is two bows, two claps, a quiet prayer, and one 
 
 Shrines are living neighborhood spaces. People come to pray for exams, weddings, health, and ordinary luck. Take photographs where allowed, avoid blocking worshippers, and remember that a beautiful gate is also someone’s daily religious environment.
 
+## When the usual sequence changes
+
+Not every shrine has the same layout or an open purification basin. Follow signs, staff instructions, and the behavior of people who are praying. During festivals, a queue may replace the quiet approach described above. If a rope, barrier, or closed area is present, do not cross it for a photograph. Respecting a local instruction is more important than completing a memorized sequence.
+
+## Offerings and omikuji
+
+A small coin is optional; there is no required amount for a respectful visit. Place it gently in the offering box rather than throwing it toward the shrine. If you draw *omikuji*, read the result quietly and use the designated tying place if one is provided. Charms and talismans are commonly purchased at the shrine office, where staff can explain their purpose.
+
+## Photography and accessibility
+
+Ask before photographing ceremonies, priests, worshippers, or children. Keep tripods and bags out of narrow paths, and leave room for people using wheelchairs or walking aids. Some historic shrines have stone steps and uneven ground, so check the official site and plan extra time. A calm visit is possible even when you cannot follow every traditional movement.
+
 ## Sources & further reading
 
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*

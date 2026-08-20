@@ -26,6 +26,18 @@ Use slang with friends of a similar age, in casual online spaces, and when quoti
 
 Record the whole sentence, not the slang word alone. Note the speaker’s age, relationship, and emotional tone. A word that sounds friendly in a drama may be too intimate in a shop. Japanese speakers constantly adjust register; learners do not need to sound “native” by using the strongest slang available.
 
+## Positive and negative readings
+
+Context changes the direction of many slang words. *Yabai* can praise a concert or warn that a train is late; the speaker’s intonation and the surrounding noun carry the clue. *Maji* can show excitement, disbelief, or irritation. When watching a clip, write the whole line and the reaction that follows it instead of translating the word in isolation.
+
+## Texting and spoken slang
+
+Online writing often shortens words or adds repeated vowels, emoji, and punctuation. A message such as *w* or *草* signals laughter in a particular internet register, but it is not a neutral expression for every situation. Treat online forms as reading vocabulary first. In conversation, use a safer standard phrase until you have heard the slang from people in a similar relationship.
+
+## A register check before speaking
+
+Ask three questions: Am I speaking to a close friend? Is the setting private and casual? Have I heard this exact expression used by someone like me? If any answer is no, choose a neutral phrase such as *hontou desu ka* or *sugoi desu ne*. Understanding slang is useful even when producing it would be inappropriate.
+
 ## Sources & further reading
 
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
