@@ -36,6 +36,8 @@ On escalators, stand on the locally customary side and leave the other side open
 
 ## Sources & further reading
 
+The most useful train phrase is often not a sentence but a station name pronounced clearly. If you miss a stop, get off safely and ask at the gate rather than trying to run between platforms. *Tsugi no eki* means “the next station”; *oriru* means “to get off.” A calm correction is part of good etiquette too. Nobody expects a visitor to know a complex network on the first ride.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [日本の鉄道 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%84%E9%81%93)

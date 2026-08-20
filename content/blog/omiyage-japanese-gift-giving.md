@@ -34,6 +34,8 @@ If someone gives you food, receive it with both hands and say *arigatou gozaimas
 
 ## Sources & further reading
 
+Regional identity is part of the pleasure. A sweet from Hokkaido, tea from Shizuoka, or a small cake from a local station tells the recipient where you were and gives them an easy conversation topic. That is why an individually wrapped, ordinary-looking box can be more welcome than an expensive generic souvenir. The social information is inside the packaging.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [土産 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%9C%9F%E7%94%A3)

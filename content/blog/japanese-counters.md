@@ -37,6 +37,8 @@ People use *nin* most of the time: *san-nin desu* (“we are three people”). T
 
 ## Sources & further reading
 
+One practical drill is to count objects around you in Japanese. Count bottles with *hon*, books with *satsu*, and people with *nin*. Say the number aloud, then change it: one bottle, two bottles, three bottles. The sound changes become familiar through the mouth faster than through a chart. When a counter is genuinely unknown, *hitotsu* through *tootsu* can often function as a general “one thing, two things” series in casual speech.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [助数詞 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%8A%A9%E6%95%B0%E8%A9%9E)

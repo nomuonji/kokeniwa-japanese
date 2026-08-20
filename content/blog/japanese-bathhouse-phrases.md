@@ -32,6 +32,8 @@ If you need to leave the bath because the water is too hot, say *atsui desu ne* 
 
 ## Sources & further reading
 
+If this is your first visit, choose a smaller neighborhood bath at an uncrowded time. You can watch the sequence without feeling rushed, and the staff have more time to answer a question. Bring a small plastic bag for wet items and check whether the facility sells towels. Preparation removes the awkwardness that beginners often mistake for a language problem.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [知っておきたい、日本のお風呂・温泉・銭湯の文化とマナー — MATCHA](https://matcha-jp.com/jp/2534)

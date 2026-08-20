@@ -34,6 +34,8 @@ At a formal meal, courses may arrive slowly. That is part of the pacing, not a f
 
 ## Sources & further reading
 
+If you are unsure, watch the person who invited you rather than the most elaborate etiquette video online. Restaurants differ by region, price, and cuisine. A tiny pause before copying a gesture is better than confidently applying a rule where it does not belong. Courtesy is adaptive: thank the host, keep shared dishes tidy, and let the food remain the centre of the meal.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [箸 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E7%AE%B8)

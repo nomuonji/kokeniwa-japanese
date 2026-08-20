@@ -30,6 +30,8 @@ Questions also make the pattern clearer. *Nani ga suki desu ka?* asks which thin
 
 ## Sources & further reading
 
+When practising, write pairs of sentences that differ by only one particle and add a context line. “Who bought the coffee?” — *Mika ga koohii o kaimashita.* “As for Mika, she bought coffee” — *Mika wa koohii o kaimashita.* The context is not decoration; it is what makes the particle choice natural. Reading short dialogues is often more helpful than memorizing an abstract definition.
+
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
 - [助詞 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E5%8A%A9%E8%A9%9E)
