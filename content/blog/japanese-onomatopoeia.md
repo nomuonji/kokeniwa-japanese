@@ -38,8 +38,8 @@ Keep a four-word notebook organised by sense rather than by alphabetical order: 
 
 *Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
 
-- [擬音語・擬態語 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E6%93%AC%E9%9F%B3%E8%AA%9E%E3%83%BB%E6%93%AC%E6%85%8B%E8%AA%9E)
-- [オノマトペ — 日本語学習サイト](https://www.edewakaru.com/archives/17962656.html)
+- [オノマトペの組み立て — 国立国語研究所](https://kotoba.ninjal.ac.jp/digest/02/d-02-06/)
+- [擬声語・擬態語 — コトバンク](https://kotobank.jp/word/%E6%93%AC%E5%A3%B0%E8%AA%9E%E6%93%AC%E6%85%8B%E8%AA%9E-1526011)
 
 ---
 
