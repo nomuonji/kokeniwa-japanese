@@ -137,8 +137,13 @@ def build(cfg):
     emit("/about/", pages_tpl.render_about(cfg))
     emit("/books/", pages_tpl.render_books(cfg))
     emit(pages_tpl.ONOMATOPOEIA_BOOK_PATH, pages_tpl.render_onomatopoeia_book(cfg))
+    emit(pages_tpl.ANIME_BOOK_PATH, pages_tpl.render_anime_book(cfg))
+    emit(pages_tpl.COLLOCATIONS_BOOK_PATH, pages_tpl.render_collocations_book(cfg))
+    emit(pages_tpl.COLLOCATIONS_SAMPLE_PATH, pages_tpl.render_collocations_sample(cfg))
     emit(pages_tpl.KINDLE_BONUS_PATH, pages_tpl.render_kindle_bonus(cfg), noindex=True)
     emit(pages_tpl.ONOMATOPOEIA_BONUS_PATH, pages_tpl.render_onomatopoeia_bonus(cfg), noindex=True)
+    emit(pages_tpl.ANIME_BONUS_PATH, pages_tpl.render_anime_bonus(cfg), noindex=True)
+    emit(pages_tpl.COLLOCATIONS_BONUS_PATH, pages_tpl.render_collocations_bonus(cfg), noindex=True)
     emit("/privacy/", pages_tpl.render_privacy(cfg))
     write_page("404.html", pages_tpl.render_404(cfg))
 
