@@ -74,19 +74,53 @@ INTERPRETATION_NOTES = {
 # checks retained from the supplementary set.  The remaining problems are
 # open English-rendering tasks.
 OPTIONS = {
-152: ["Anyone may join the training, whether or not they have experience.", "Only people with experience may join the training.", "Applicants must prove that they lack experience.", "The training is intended only for experienced staff."],
-156: ["The law was designed to protect personal information.", "The law allows personal information to be published freely.", "The law protects only information held by government offices.", "The law was enacted after personal information had been lost."],
-160: ["Disaster preparedness should be considered in everyday life.", "Disasters can be handled only by emergency services.", "Everyday life should stop when a disaster occurs.", "Preparedness matters only after a disaster has happened."],
-164: ["Breaking basic promises makes it difficult to earn trust.", "Keeping basic promises is unnecessary once trust is earned.", "Trust is guaranteed by explaining a broken promise.", "The speaker is praising someone for breaking a promise."],
-168: ["We cannot say with certainty that the method is best.", "The method has already been proved to be the best.", "The speaker refuses to discuss any method.", "The method is best only because it is the newest."],
-172: ["Experts identified problems that are easily overlooked in the system's operation.", "Experts agreed that the system has no operational problems.", "The problems were solved before the experts examined the system.", "The sentence discusses a system that has not yet begun operating."],
-176: ["The proposed method has the advantage of reducing costs.", "The proposed method requires costs to rise substantially.", "The method was rejected because no one proposed it.", "The sentence says that the advantage is unrelated to costs."],
-180: ["What is needed is a system not dependent on individual effort alone.", "The solution is to demand more effort from each individual.", "Individual effort makes every system unnecessary.", "The speaker says no system can ever be created."],
-184: ["Focusing too much on results can make us lose sight of learning in the process.", "The process matters only after the final result is known.", "Results should never be evaluated in any way.", "Learning is possible only when results are ignored completely."],
-188: ["From his explanation, the choice seems to have sufficient reasons behind it.", "His explanation proves that the choice has already succeeded.", "The choice has no reason behind it because the speaker is uncertain.", "The speaker rejects the choice despite hearing the explanation."],
-192: ["It is best to be thoroughly prepared in advance.", "Preparation is unnecessary if the situation is familiar.", "The speaker advises preparing only after a problem occurs.", "Preparation is presented as impossible in every situation."],
-196: ["Appropriate measures require listening to the people concerned.", "Measures should be decided without consulting anyone concerned.", "Only people outside the issue can formulate measures.", "Listening is useful only after measures have failed."],
-200: ["A clue to a solution lies in continued dialogue across different positions.", "People in different positions should avoid talking to one another.", "The solution is to make every participant hold the same position.", "Dialogue matters only after the problem has disappeared."],
+152: ["Anyone may join the training, whether or not they have experience.", "Only applicants with some prior experience may join the training.", "Experience is not required, but attendance is mandatory for everyone.", "The training is open only to people who can document their experience."],
+156: ["The law was enacted for the purpose of protecting personal information.", "The law makes individuals solely responsible for protecting their data.", "The law was enacted to promote the wider use of personal information.", "The law protects personal information only after it has been disclosed."],
+160: ["Disaster preparedness should be kept in mind precisely in everyday life.", "Preparedness should be considered mainly when a disaster is already happening.", "Only emergency professionals need to prepare during ordinary life.", "Everyday routines should take priority over preparing for disasters."],
+164: ["Failing to keep even basic promises makes it difficult to earn trust.", "Once trust has been earned, keeping minor promises is no longer important.", "Explaining why a promise was broken is enough to preserve trust.", "Trust remains difficult to earn even when basic promises are kept."],
+168: ["We cannot say with certainty that the method is the best.", "The method is probably the best, although some details remain uncertain.", "The speaker is certain that the method is not the best.", "The speaker is unwilling to compare this method with any other."],
+172: ["We organized operational issues that experts had identified as easy to overlook.", "We concluded that experts had overlooked every problem in the system's operation.", "Experts reorganized the system after its operational problems were resolved.", "We organized problems that experts said had already been corrected."],
+176: ["The proposed method has the advantage of keeping costs down.", "The proposed method makes future costs easier to predict.", "The method reduces costs only because the proposal was rejected.", "The sentence says cost is a concern, not an advantage of the method."],
+180: ["What is needed is a system that does not rely on individual effort alone.", "What is needed is a system that rewards greater individual effort.", "The system should eliminate the need for any individual effort.", "No system can reduce dependence on individual effort."],
+184: ["Focusing too much on results can make us lose sight of learning in the process.", "Results matter more because learning from the process is uncertain.", "Focusing too much on the process can make us lose sight of results.", "Learning from the process matters only when the final result is poor."],
+188: ["Judging from his explanation, there appears to be good reason for the choice.", "His explanation proves that the choice was correct.", "His explanation suggests that the choice has no adequate basis.", "Regardless of his explanation, the choice appears unreasonable."],
+192: ["It is best to be thoroughly prepared in advance.", "Advance preparation is advisable only when the risk is high.", "Preparation should be limited to the minimum that seems necessary.", "Too much advance preparation is likely to make matters worse."],
+196: ["Appropriate measures cannot be developed without listening to those affected.", "Measures may be drafted before listening to those affected and revised afterward.", "It is enough to consult representatives rather than the people directly affected.", "Listening to those affected is helpful but not necessary for appropriate measures."],
+200: ["A clue to a solution lies precisely in continued dialogue among people with different positions.", "Dialogue becomes useful only after the different sides narrow their differences.", "A solution requires everyone involved to adopt the same position.", "Repeated dialogue among different sides makes a solution harder to find."],
+}
+
+# Corrections from the publication-wide language and assessment review.  These
+# are applied after importing both the original 150 grammar items and the
+# 50-item supplement so a rebuild cannot reintroduce a corrected issue.
+REVIEW_CORRECTIONS = {
+    1: {"point": "を (direct object)", "explanation_en": "見ました (saw) is transitive here, and 猫 is the thing being seen. The direct object is therefore marked by を: 猫を見ました."},
+    9: {"sentence_ja": "先生は明日、こちらの学校にいらっしゃるそうです。", "translation_en": "I hear the teacher will be coming to our school tomorrow.", "explanation_en": "いらっしゃる is the honorific (sonkeigo) form of 来る here. こちらの学校 and the context establish the direction as coming to the speaker's school."},
+    17: {"explanation_en": "To say 'not as cold as last year,' use the comparison standard + ほど + negative: 去年ほど寒くない. より can also occur with a negative predicate, but it produces a different comparison rather than this 'not as ... as' pattern."},
+    27: {"sentence_ja": "病院の中では大きな声で話してはいけません。"},
+    30: {"translation_en": "If you're looking for sushi, the restaurant in front of the station is good.", "explanation_en": "なら takes up sushi as the topic and gives advice about it: 寿司なら means 'if we're talking about sushi.' A form such as 寿司だったら is also grammatical, but なら is the direct topic-taking conditional used here."},
+    35: {"explanation_en": "より marks the standard of comparison: 飛行機より安い means 'cheaper than the plane.' ほど appears in other comparison patterns, including 飛行機ほど高くない ('not as expensive as the plane'), but that is a different sentence structure."},
+    39: {"point": "に (destination and purpose)", "explanation_en": "The first に marks the destination, 家に, and the second marks the purpose of movement, 遊びに. The destination could also take へ, but the purpose before 来る takes に."},
+    65: {"translation_en": "We will call you later."},
+    72: {"translation_en": "\"Thank you very much.\" \"Thank you, too.\""},
+    75: {"explanation_en": "Inside a relative clause, the subject is normally marked by が (or sometimes の): 母が作ったカレー. A topic-marking は is generally avoided in this neutral pattern, though contrastive は can occur in more specialized contexts."},
+    80: {"point": "なるほど (acknowledging an explanation)", "sentence_ja": "「この道をまっすぐ行くと駅に着きますよ」「なるほど、分かりました」", "translation_en": "\"Go straight down this road and you'll reach the station.\" \"I see. Got it.\"", "explanation_en": "なるほど signals that an explanation now makes sense to the listener: 'I see.' It is a natural response after receiving and understanding new information."},
+    89: {"translation_en": "In rural Japan, a growing number of towns are experiencing population decline.", "explanation_en": "〜つつある expresses a gradual change in progress. The clause 人口が減りつつある modifies 町, describing towns whose populations are currently declining."},
+    91: {"explanation_en": "When reporting another person's desire from observable behavior, Japanese commonly uses 〜たがる: 飼いたがっています. Plain 〜たい can still appear in quotations and contexts where the person's stated intention is being reported directly."},
+    92: {"translation_en": "I was tired, so I fell asleep with the light still on."},
+    101: {"translation_en": "Please refrain from making phone calls while on board."},
+    113: {"sentence_ja": "去年、日本語を習いはじめました。"},
+    119: {"point": "お〜になる／お〜ください", "translation_en": "The server said, 'Please call a member of staff once you've decided what to order.'"},
+    122: {"translation_en": "I ate two bowls of ramen!", "explanation_en": "Bowls and cups of food or drink take 〜杯: ラーメン二杯. The particle も presents two bowls as a surprisingly large amount, which the exclamation in the English rendering conveys."},
+    128: {"point": "Honorific ご覧になる"},
+    141: {"translation_en": "Calling his room dirty is an understatement—it's more like a storage room."},
+    154: {"sentence_ja": "大雪のため、航空会社は多くの便の欠航を余儀なくされた。", "translation_en": "Because of heavy snow, the airline was forced to cancel many flights.", "explanation_en": "「欠航を余儀なくされた」 means that circumstances forced the airline to cancel flights. The airline is the party compelled to act; 多くの便の欠航 is the action it had no choice but to take."},
+    159: {"translation_en": "Interaction with other countries gradually changed the atmosphere of the town."},
+    170: {"translation_en": "While continuing her research, she also mentors younger students."},
+    172: {"sentence_ja": "私たちは、専門家が指摘した制度運用上の見落とされがちな問題を整理した。", "translation_en": "We organized operational issues that experts had identified as easy to overlook.", "explanation_en": "「専門家が指摘した」 modifies 「制度運用上の見落とされがちな問題」. The main predicate is 「整理した」, whose explicit subject is 「私たち」."},
+    173: {"translation_en": "Support from groups with a long history in the area is helping sustain disaster victims' daily lives.", "explanation_en": "「地域で長く活動してきた団体による支援」 is support provided by groups with a long history in the area. 「被災者の生活を支えている」 says that support is sustaining victims' daily lives."},
+    177: {"translation_en": "According to the report, half of the survey participants feel anxious."},
+    188: {"translation_en": "Judging from his explanation, there appears to be good reason for that choice."},
+    191: {"translation_en": "As of today, this counter will no longer be accepting requests.", "explanation_en": "「本日をもって」 is a formal cutoff expression meaning 'as of today.' 「受付」 means that the counter will stop accepting the relevant requests or submissions; the exact type depends on the surrounding context."},
 }
 SUPPLEMENT_EXPLANATIONS = {
 151:"「建設をめぐって」 means 'over/concerning the construction'; 「意見が分かれている」 says residents hold differing views, not that construction is complete.",
@@ -184,6 +218,8 @@ def main():
         item["translation_en"] = TRANSLATION_OVERRIDES.get(item["id"], item["translation_en"])
         item["explanation_en"] = SUPPLEMENT_EXPLANATIONS[item["id"]]
         rows.append(item)
+    for item in rows:
+        item.update(REVIEW_CORRECTIONS.get(item["id"], {}))
     assert len(rows) == 200 and len({r['sentence_ja'] for r in rows}) == 200
     OUT.write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in rows)+"\n", encoding="utf-8")
     print(f"Rebuilt {len(rows)} complete, unique sentences; {sum(r['format']=='quiz' for r in rows)} contextual quizzes.")
