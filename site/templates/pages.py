@@ -296,7 +296,7 @@ def render_onomatopoeia_book(cfg):
 <h1>{esc(ONOMATOPOEIA_BOOK['title'])}</h1>
 <p class="lead">{esc(ONOMATOPOEIA_BOOK['subtitle'])}</p>
 <div class="note-box"><strong>Editorial preview:</strong> the production pipeline and page are complete.
-Chapters 1–3 are approved; 220 of 250 entries still await item-by-item language approval. This edition is not yet for sale.</div>
+Chapters 1–5 are approved; 200 of 250 entries still await item-by-item language approval. This edition is not yet for sale.</div>
 <div class="bl-card">
   <div class="book-cover"><img src="{ONOMATOPOEIA_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
