@@ -88,6 +88,10 @@ def validate(key, cfg, publication=False):
     chapters = Counter(row.get("chapter") for row in rows)
     if key == "onomatopoeia" and chapters != Counter({i: 10 for i in range(1, 26)}):
         errors.append(f"onomatopoeia chapters must be 25 x 10; found {dict(chapters)}")
+    if key == "anime" and chapters != Counter({i: 10 for i in range(1, 26)}):
+        errors.append(f"anime chapters must be 25 x 10; found {dict(chapters)}")
+    if key == "collocations" and chapters != Counter({i: 50 for i in range(1, 11)}):
+        errors.append(f"collocation chapters must be 10 x 50; found {dict(chapters)}")
     chapter_titles = {}
     for row in rows:
         chapter_titles.setdefault(row.get("chapter"), set()).add(row.get("chapter_title"))

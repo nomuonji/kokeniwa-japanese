@@ -86,6 +86,15 @@ ONOMATOPOEIA_BOOK = _BOOK_CONFIG["books"]["onomatopoeia"]
 ONOMATOPOEIA_BOOK_PATH = f"/books/{ONOMATOPOEIA_BOOK['bonus_slug']}/"
 ONOMATOPOEIA_BONUS_PATH = f"/kindle/{ONOMATOPOEIA_BOOK['bonus_slug']}/"
 ONOMATOPOEIA_COVER = "/static/covers/onomatopoeia-in-context.jpg"
+ANIME_BOOK = _BOOK_CONFIG["books"]["anime"]
+ANIME_BOOK_PATH = f"/books/{ANIME_BOOK['bonus_slug']}/"
+ANIME_BONUS_PATH = f"/kindle/{ANIME_BOOK['bonus_slug']}/"
+ANIME_COVER = "/static/covers/anime-in-context.jpg"
+COLLOCATIONS_BOOK = _BOOK_CONFIG["books"]["collocations"]
+COLLOCATIONS_BOOK_PATH = f"/books/{COLLOCATIONS_BOOK['bonus_slug']}/"
+COLLOCATIONS_BONUS_PATH = f"/kindle/{COLLOCATIONS_BOOK['bonus_slug']}/"
+COLLOCATIONS_COVER = "/static/covers/collocations-in-context.jpg"
+COLLOCATIONS_SAMPLE_PATH = "/collocations/"
 
 
 def _book_strip():
@@ -98,7 +107,15 @@ def _book_strip():
                     f'<img src="{ONOMATOPOEIA_COVER}" alt="{esc(ONOMATOPOEIA_BOOK["title"])} cover" '
                     f'width="1600" height="2560" loading="lazy">'
                     f'<span>{esc(ONOMATOPOEIA_BOOK["title"])}</span></a>')
-    return reading + onomatopoeia + "".join(
+    anime = (f'<a class="book-thumb" href="{ANIME_BOOK_PATH}">'
+             f'<img src="{ANIME_COVER}" alt="{esc(ANIME_BOOK["title"])} cover" '
+             f'width="1600" height="2560" loading="lazy">'
+             f'<span>{esc(ANIME_BOOK["title"])}</span></a>')
+    collocations = (f'<a class="book-thumb" href="{COLLOCATIONS_BOOK_PATH}">'
+                    f'<img src="{COLLOCATIONS_COVER}" alt="{esc(COLLOCATIONS_BOOK["title"])} cover" '
+                    f'width="1600" height="2560" loading="lazy">'
+                    f'<span>{esc(COLLOCATIONS_BOOK["title"])}</span></a>')
+    return reading + onomatopoeia + anime + collocations + "".join(
         f'<a class="book-thumb" href="/books/">'
         f'<img src="{esc(b["cover"])}" alt="{esc(b["title"])} cover" '
         f'width="500" height="800" loading="lazy">'
@@ -156,8 +173,8 @@ def render_books(cfg):
     cards = "".join(_bilingual_card(b) for b in BILINGUAL_BOOKS)
     content = f"""
 <h1>Books</h1>
-<p class="lead">A focused Japanese reading workbook, plus three public-domain classics
-for extensive reading. Choose sentence-level explanation or bilingual reading practice.</p>
+<p class="lead">Context-first Japanese workbooks, a focused reading trainer, and three
+public-domain classics for extensive reading. Choose the kind of practice you need.</p>
 
 <h2>Japanese Training Series</h2>
 <article class="bl-card">
@@ -174,6 +191,36 @@ for extensive reading. Choose sentence-level explanation or bilingual reading pr
       <a class="follow-btn" href="https://www.amazon.com/dp/{READING_BOOK['asin']}"
          rel="noopener" target="_blank">See on Amazon ({READING_BOOK['price']})</a>
       <a class="book-sitelink" href="/reading/">Try the free questions →</a>
+    </p>
+  </div>
+</article>
+
+<article class="bl-card">
+  <div class="book-cover">
+    <img src="{ANIME_COVER}" alt="{esc(ANIME_BOOK['title'])} cover" loading="lazy">
+  </div>
+  <div class="bl-body">
+    <h3>💬 {esc(ANIME_BOOK['title'])}</h3>
+    <p class="book-sub">{esc(_BOOK_CONFIG['author'])} · {esc(ANIME_BOOK['subtitle'])}</p>
+    <p>A 250-entry guide to dialogue, character and production vocabulary, story language,
+    and fandom terms, organized into 25 themed chapters.</p>
+    <p class="book-actions">
+      <a class="follow-btn" href="{ANIME_BOOK_PATH}">Book details and free sample →</a>
+    </p>
+  </div>
+</article>
+
+<article class="bl-card">
+  <div class="book-cover">
+    <img src="{COLLOCATIONS_COVER}" alt="{esc(COLLOCATIONS_BOOK['title'])} cover" loading="lazy">
+  </div>
+  <div class="bl-body">
+    <h3>🔗 {esc(COLLOCATIONS_BOOK['title'])}</h3>
+    <p class="book-sub">{esc(_BOOK_CONFIG['author'])} · {esc(COLLOCATIONS_BOOK['subtitle'])}</p>
+    <p>Build more natural Japanese with 500 evidence-linked word pairings in 10 chapters,
+    plus a public 50-item sample and an expanded purchaser file.</p>
+    <p class="book-actions">
+      <a class="follow-btn" href="{COLLOCATIONS_BOOK_PATH}">Book details and free sample →</a>
     </p>
   </div>
 </article>
@@ -300,6 +347,148 @@ first row as field names, then choose which columns appear on the front and back
         description="Purchaser study-file download for Japanese Onomatopoeia in Context.",
         path=ONOMATOPOEIA_BONUS_PATH, content=content,
         breadcrumbs=[(ONOMATOPOEIA_BONUS_PATH, "Reader Bonus")], noindex=True)
+
+
+def _draft_purchase(book):
+    amazon = book.get("amazon_url")
+    if amazon:
+        return (f'<a class="follow-btn" href="{esc(amazon)}" rel="sponsored noopener" '
+                f'target="_blank">See on Amazon (${esc(book["price_usd"])})</a>')
+    return '<span class="book-sitelink">Amazon listing pending final editorial and publication approval.</span>'
+
+
+def render_anime_book(cfg):
+    content = f"""
+<h1>{esc(ANIME_BOOK['title'])}</h1>
+<p class="lead">{esc(ANIME_BOOK['subtitle'])}</p>
+<div class="note-box"><strong>Editorial preview:</strong> all 250 entries and production assets are drafted.
+The final review will rebalance the dialogue section and approve every usage label before publication.</div>
+<div class="bl-card">
+  <div class="book-cover"><img src="{ANIME_COVER}" alt="Book cover" loading="lazy"></div>
+  <div class="bl-body">
+    <p>This context-first guide separates language heard in stories from words used to discuss
+    characters, production, genres, games, and fan activity.</p>
+    <ul>
+      <li>250 entries in 25 themed chapters</li>
+      <li>Four practical sections: dialogue, production, story, and fandom</li>
+      <li>Clear Casual, Rude, Fandom, and Recognition-only usage labels</li>
+      <li>An expanded, Anki-ready purchaser CSV</li>
+    </ul>
+    <p class="book-actions">{_draft_purchase(ANIME_BOOK)}
+      <a class="book-sitelink" href="/vocab/anime/">Try the free flashcards →</a>
+    </p>
+  </div>
+</div>
+<h2>Free sample</h2>
+<p>The existing flashcard set provides all 250 headwords with short examples. The book draft adds
+chapter order, context, register, usage guidance, and review checks.</p>
+<p><a class="follow-btn" href="/vocab/anime/">Open the anime and manga flashcards</a></p>
+"""
+    return layout.page(
+        cfg, title=f"{ANIME_BOOK['title']} — Kokeniwa Japanese",
+        description="A context-first guide to 250 Japanese words and phrases used in stories, production, and fandom.",
+        path=ANIME_BOOK_PATH, content=content, og_image="books",
+        breadcrumbs=[("/books/", "Books"), (ANIME_BOOK_PATH, ANIME_BOOK["title"])],
+        active_nav="/books/")
+
+
+def render_anime_bonus(cfg):
+    return _render_series_bonus(cfg, ANIME_BOOK, ANIME_BONUS_PATH,
+                                "chapter, section, register, speaker image, usage guidance, and safety-label")
+
+
+def render_collocations_book(cfg):
+    content = f"""
+<h1>{esc(COLLOCATIONS_BOOK['title'])}</h1>
+<p class="lead">{esc(COLLOCATIONS_BOOK['subtitle'])}</p>
+<div class="note-box"><strong>Editorial preview:</strong> all 500 candidates are drafted with a source reference.
+Pair boundaries, translations, and examples remain queued for the final language review.</div>
+<div class="bl-card">
+  <div class="book-cover"><img src="{COLLOCATIONS_COVER}" alt="Book cover" loading="lazy"></div>
+  <div class="bl-body">
+    <p>Knowing individual words is not enough: natural Japanese depends on the words and particles
+that normally occur together. This workbook turns those pairings into a chapter-by-chapter practice set.</p>
+    <ul>
+      <li>500 candidates in 10 chapters of 50</li>
+      <li>Level, category, particle, and source-evidence fields</li>
+      <li>Examples drawn from the site's existing learning corpus</li>
+      <li>A public 50-item sample and expanded purchaser CSV</li>
+    </ul>
+    <p class="book-actions">{_draft_purchase(COLLOCATIONS_BOOK)}
+      <a class="book-sitelink" href="{COLLOCATIONS_SAMPLE_PATH}">Read the 50-item sample →</a>
+    </p>
+  </div>
+</div>
+<h2>Free sample</h2>
+<p>Preview five draft pairings from each of the ten chapters before the editorial pass.</p>
+<p><a class="follow-btn" href="{COLLOCATIONS_SAMPLE_PATH}">Open the collocation sample</a></p>
+"""
+    return layout.page(
+        cfg, title=f"{COLLOCATIONS_BOOK['title']} — Kokeniwa Japanese",
+        description="A draft context-first guide to 500 Japanese word pairings for more natural everyday Japanese.",
+        path=COLLOCATIONS_BOOK_PATH, content=content, og_image="books",
+        breadcrumbs=[("/books/", "Books"), (COLLOCATIONS_BOOK_PATH, COLLOCATIONS_BOOK["title"])],
+        active_nav="/books/")
+
+
+def _render_series_bonus(cfg, book, path, extra_fields):
+    content = f"""
+<h1>{esc(book['title'])} — Reader Bonus</h1>
+<p class="lead">Thank you for reading. This expanded file is designed for structured review.</p>
+<div class="note-box">
+  <h2>Expanded Anki-ready CSV</h2>
+  <p>The purchaser edition adds {esc(extra_fields)} fields beyond the public sample.</p>
+  <p><a class="follow-btn" href="/downloads/{esc(book['bonus_file'])}">Download the expanded CSV</a></p>
+</div>
+<h2>Import notes</h2>
+<p>The file uses UTF-8 with a BOM for reliable Japanese text in Excel and Anki. Use the first row
+as field names and choose the fields you want on the front and back of each card.</p>
+"""
+    return layout.page(
+        cfg, title=f"{book['title']} — Reader Bonus",
+        description=f"Purchaser study-file download for {book['title']}.",
+        path=path, content=content, breadcrumbs=[(path, "Reader Bonus")], noindex=True)
+
+
+def render_collocations_bonus(cfg):
+    return _render_series_bonus(cfg, COLLOCATIONS_BOOK, COLLOCATIONS_BONUS_PATH,
+                                "chapter, level, category, particle, evidence, nuance, and misuse-note")
+
+
+def render_collocations_sample(cfg):
+    source = config.ROOT / COLLOCATIONS_BOOK["source"]
+    rows = [json.loads(line) for line in source.read_text(encoding="utf-8").splitlines() if line.strip()]
+    chosen = []
+    per_chapter = {}
+    for row in rows:
+        chapter = int(row["chapter"])
+        if per_chapter.get(chapter, 0) < 5:
+            chosen.append(row)
+            per_chapter[chapter] = per_chapter.get(chapter, 0) + 1
+    sections = []
+    for chapter in sorted(per_chapter):
+        chapter_rows = [row for row in chosen if int(row["chapter"]) == chapter]
+        title = chapter_rows[0].get("chapter_title", f"Chapter {chapter}")
+        items = "".join(
+            f'<article class="collocation-item"><h3>{esc(row["jp"])}</h3>'
+            f'<p>{esc(row["en"])}</p><div class="card-meta">{esc(row.get("level", ""))} · '
+            f'{esc(row.get("category", ""))}</div></article>' for row in chapter_rows)
+        sections.append(f'<section class="collocation-section"><h2>Chapter {chapter}: {esc(title)}</h2>'
+                        f'<div class="collocation-grid">{items}</div></section>')
+    content = f"""
+<h1>50 Japanese Collocations: Free Sample</h1>
+<p class="lead">Five draft pairings from each chapter of <em>{esc(COLLOCATIONS_BOOK['title'])}</em>.</p>
+<div class="note-box"><strong>Preview status:</strong> these entries are structurally complete but await
+the same final language and evidence review as the full manuscript.</div>
+{''.join(sections)}
+<p><a class="follow-btn" href="{COLLOCATIONS_BOOK_PATH}">Back to the book page</a></p>
+"""
+    return layout.page(
+        cfg, title="50 Japanese Collocations — Free Sample",
+        description="A free 50-item sample from Natural Japanese Collocations.",
+        path=COLLOCATIONS_SAMPLE_PATH, content=content, og_image="books",
+        breadcrumbs=[("/books/", "Books"), (COLLOCATIONS_SAMPLE_PATH, "Collocations sample")],
+        active_nav="/books/")
 
 
 def render_home(cfg, *, counts, articles):

@@ -30,7 +30,7 @@
       "output_dir": "Anime & Manga Japanese in Context",
       "epub_file": "Anime_and_Manga_Japanese_in_Context.epub",
       "amazon_url": "",
-      "status": "not_started"
+      "status": "editorial_draft"
     },
     "collocations": {
       "title": "Natural Japanese Collocations",
@@ -45,7 +45,7 @@
       "output_dir": "Natural Japanese Collocations",
       "epub_file": "Natural_Japanese_Collocations.epub",
       "amazon_url": "",
-      "status": "not_started"
+      "status": "editorial_draft"
     }
   }
 }
