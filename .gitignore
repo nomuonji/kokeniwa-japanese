@@ -6,3 +6,6 @@ __pycache__/
 # Google サービスアカウントの鍵と、そこから取得した解析レポート
 .secrets/
 reports/
+
+# Local browser screenshots from the reading-site smoke test
+.tmp-reading-preview/

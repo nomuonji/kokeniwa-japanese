@@ -68,10 +68,26 @@ BILINGUAL_BOOKS = [
     },
 ]
 
+READING_BOOK = {
+    "title": "Japanese Reading Training: 200 Questions",
+    "subtitle": "Read Japanese Through Grammar, Context, and Nuance",
+    "author": "Kokeniwa Japanese",
+    "price": "$4.99",
+    "asin": "B0H8WJ25GS",
+    "cover": "/static/covers/japanese-reading.jpg",
+}
+
+KINDLE_BONUS_PATH = "/kindle/japanese-reading-200/"
+KINDLE_BONUS_FILE = "japanese_reading_200_anki.csv"
+
 
 def _book_strip():
     """Cover thumbnail strip for the home page; click through to /books/."""
-    return "".join(
+    reading = (f'<a class="book-thumb" href="/books/">'
+               f'<img src="{READING_BOOK["cover"]}" alt="{esc(READING_BOOK["title"])} cover" '
+               f'width="1600" height="2560" loading="lazy">'
+               f'<span>{esc(READING_BOOK["title"])}</span></a>')
+    return reading + "".join(
         f'<a class="book-thumb" href="/books/">'
         f'<img src="{esc(b["cover"])}" alt="{esc(b["title"])} cover" '
         f'width="500" height="800" loading="lazy">'
@@ -129,7 +145,30 @@ def render_books(cfg):
     cards = "".join(_bilingual_card(b) for b in BILINGUAL_BOOKS)
     content = f"""
 <h1>Books</h1>
-<p class="lead">Three public-domain classics, each published as a Kindle edition with the
+<p class="lead">A focused Japanese reading workbook, plus three public-domain classics
+for extensive reading. Choose sentence-level explanation or bilingual reading practice.</p>
+
+<h2>Japanese Training Series</h2>
+<article class="bl-card">
+  <div class="book-cover">
+    <img src="{READING_BOOK['cover']}" alt="{esc(READING_BOOK['title'])} cover" loading="lazy">
+  </div>
+  <div class="bl-body">
+    <h3>📘 {esc(READING_BOOK['title'])}</h3>
+    <p class="book-sub">{esc(READING_BOOK['author'])} · {esc(READING_BOOK['subtitle'])}</p>
+    <p>Work through 200 complete Japanese sentences, from particles and everyday requests
+    to workplace language, inference, dense clauses and formal argument. Every problem has
+    a natural English rendering and a detailed explanation of the reading point.</p>
+    <p class="book-actions">
+      <a class="follow-btn" href="https://www.amazon.com/dp/{READING_BOOK['asin']}"
+         rel="noopener" target="_blank">See on Amazon ({READING_BOOK['price']})</a>
+      <a class="book-sitelink" href="/reading/">Try the free questions →</a>
+    </p>
+  </div>
+</article>
+
+<h2>Bilingual classics</h2>
+<p>Three public-domain classics, each published as a Kindle edition with the
 original English and a Japanese translation side by side, sentence by sentence — part of the
 <strong>"Read the Classics" bilingual series</strong> (published under a sister imprint).
 All three are included with <strong>Kindle Unlimited</strong>.</p>
@@ -205,6 +244,16 @@ def render_home(cfg, *, counts, articles):
 <div class="section-head"><h2>JLPT vocabulary by level</h2><a class="more" href="/vocab/">All sets →</a></div>
 <div class="card-grid">{"".join(level_cards)}</div>
 
+<div class="section-head"><h2>Japanese reading practice</h2><a class="more" href="/reading/">All 200 →</a></div>
+<div class="card-grid">
+  <a class="card card-reading" href="/reading/">
+    <span class="card-icon">📖</span>
+    <h2>Reading Training: 200 Questions</h2>
+    <p>Translate complete Japanese sentences and check your reading against natural English.</p>
+    <div class="card-meta">200 questions · detailed explanations in the Kindle edition</div>
+  </a>
+</div>
+
 <div class="section-head"><h2>Everyday Japanese</h2></div>
 <div class="card-grid">
   <a class="card card-jp" href="/vocab/phrases/">
@@ -218,8 +267,8 @@ def render_home(cfg, *, counts, articles):
 {latest}
 
 <div class="section-head"><h2>Books</h2><a class="more" href="/books/">See all →</a></div>
-<p class="lead">Classics you already know — Sherlock Holmes, Virginia Woolf, Karl Marx —
-as Kindle editions with English and Japanese side by side. Free with Kindle Unlimited.</p>
+<p class="lead">A 200-question Japanese reading workbook, plus classics you already know
+in English/Japanese parallel editions.</p>
 <div class="book-strip">{_book_strip()}</div>
 {_AFFILIATE_NOTICE}
 """
@@ -234,6 +283,28 @@ as Kindle editions with English and Japanese side by side. Free with Kindle Unli
     return layout.page(
         cfg, title=cfg["site_name"], description=cfg["description"],
         path="/", content=content, jsonld=jsonld)
+
+
+def render_kindle_bonus(cfg):
+    content = f"""
+<h1>Japanese Reading Training — Reader Bonus</h1>
+<p class="lead">Thank you for reading <em>{esc(READING_BOOK['title'])}</em>.</p>
+<div class="note-box">
+  <h2>Anki-ready study file</h2>
+  <p>Download all 200 Japanese sentences with their natural English renderings as a UTF-8 CSV.
+  Import it into Anki or another flashcard app and review the sentences in either direction.</p>
+  <p><a class="follow-btn" href="/downloads/{KINDLE_BONUS_FILE}">Download the CSV</a></p>
+</div>
+<h2>CSV columns</h2>
+<p><code>Japanese</code>, <code>English</code>, <code>Category</code>, and <code>Reading point</code>.</p>
+<p>The detailed explanations remain in the Kindle book. The download is designed for quick
+recall practice after you have worked through the chapter.</p>
+"""
+    return layout.page(
+        cfg, title="Japanese Reading Training — Reader Bonus",
+        description="Reader bonus download for Japanese Reading Training: 200 Questions.",
+        path=KINDLE_BONUS_PATH, content=content,
+        breadcrumbs=[(KINDLE_BONUS_PATH, "Reader Bonus")], noindex=True)
 
 
 def render_about(cfg):
