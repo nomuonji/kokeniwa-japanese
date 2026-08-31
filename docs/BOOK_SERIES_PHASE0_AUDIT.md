@@ -19,8 +19,8 @@ The following are not build errors; they require a Japanese-language editorial d
 - Items 182 (`がたつく`) and 183 (`ぐらつく`) are derived verbs; the series needs a consistent policy on derived mimetic verbs.
 - Items 200 (`だらだら流れる`), 230 (`がりがりに痩せる`), 237 (`ぴしゃりと`), and 247 (`しくしくと`) are stored as phrase-shaped headwords while most entries are citation forms. Normalize or document this policy.
 - Several meanings are polysemous (for example `ぷんぷん`, `ごろごろ`, `ぴりぴり`) and need separate usage/contrast treatment rather than one generic note.
-- Chapters 1–2 (items 1–20) now have individually written usage notes, comparisons, second examples, and misuse notes and are marked `approved`.
-- The newly added usage notes for items 21–250 are structural placeholders derived from the existing glosses. Those 230 entries remain deliberately marked `review_status: pending`.
+- Chapters 1–3 (items 1–30) now have individually written usage notes, comparisons, second examples, and misuse notes and are marked `approved`.
+- The newly added usage notes for items 31–250 are structural placeholders derived from the existing glosses. Those 220 entries remain deliberately marked `review_status: pending`.
 - `example_ja_2`, `example_en_2`, and `contrast` remain empty until written and checked item by item. The publication validator rejects them.
 
 ## Implemented pipeline
@@ -40,11 +40,11 @@ The following are not build errors; they require a Japanese-language editorial d
 - Output synchronization: PASS (250 source rows present in EPUB; bonus filename/URL, cover, site pages, and CSV agree).
 - Browser: PASS at 1440×1000 and 390×844; cover loads, detail page renders, bonus page is `noindex,follow`, and download exists.
 - EPUB ZIP/CRC and source synchronization: PASS.
-- Publication data gate: EXPECTED FAIL (230 entries pending; their second examples and contrasts are not yet written).
+- Publication data gate: EXPECTED FAIL (220 entries pending; their second examples and contrasts are not yet written).
 - Amazon/ASIN publication gate: EXPECTED FAIL (listing does not exist and status is `editorial_draft`).
 - EPUBCheck: NOT RUN. The official checker requires Java, which is not installed in this environment.
 - Kindle Previewer: NOT RUN. Kindle Previewer is not installed in this environment.
 
 ## Publishing decision
 
-Do not upload this EPUB to KDP. It contains an explicit `EDITORIAL DRAFT — DO NOT PUBLISH` notice. Continue Phase 1 at Gate 2 from Chapter 3: item-by-item Japanese/English usage, contrast, and second-example review.
+Do not upload this EPUB to KDP. It contains an explicit `EDITORIAL DRAFT — DO NOT PUBLISH` notice. Continue Phase 1 at Gate 2 from Chapter 4: item-by-item Japanese/English usage, contrast, and second-example review.
