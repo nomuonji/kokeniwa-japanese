@@ -29,6 +29,7 @@ NAV_ITEMS = [
     ("/vocab/", "Vocabulary"),
     ("/vocab/phrases/", "Phrases"),
     ("/quiz/", "Quiz"),
+    ("/reading/", "Reading"),
     ("/blog/", "Honne Japan"),
     ("/books/", "Books"),
     ("/about/", "About"),
@@ -41,12 +42,11 @@ NAV_ITEMS = [
 # The close button is remembered in localStorage per id, so bump the id
 # whenever the wording changes (to show it again to people who dismissed it).
 ANNOUNCE = {
-    "id": "kindle-2026-07",
-    "text": "New Kindle editions of Sherlock Holmes, Virginia Woolf and Marx — "
-            "all three free with Kindle Unlimited.",
-    "short": "Read the Classics: 3 Kindle editions, free with Kindle Unlimited",
-    "link": "/books/",
-    "link_label": "See the books",
+    "id": "reading-workbook-2026-08",
+    "text": "New: Japanese Reading Training — 200 complete sentences with English answers and detailed explanations.",
+    "short": "New: Japanese Reading Training, 200 Questions",
+    "link": "/reading/",
+    "link_label": "Try the questions",
 }
 
 
