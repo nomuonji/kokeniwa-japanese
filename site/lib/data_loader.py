@@ -12,6 +12,12 @@ QUIZ_REQUIRED_FIELDS = [
     "choices", "answer_index", "translation_en", "explanation_en", "status",
 ]
 
+READING_REQUIRED_FIELDS = [
+    "id", "category", "point", "difficulty", "format", "sentence_ja",
+    "question_en", "choices", "answer_index", "translation_en",
+    "explanation_en", "status",
+]
+
 
 def load_vocab(set_key):
     """Load a vocabulary set (JSONL) and return it as an id-sorted list."""
@@ -60,3 +66,25 @@ def load_quiz_problems():
             problems.append(p)
     problems.sort(key=lambda p: p["id"])
     return problems
+
+
+def load_reading_problems():
+    path = config.DATA_DIR / "reading_problems.jsonl"
+    if not path.exists():
+        return []
+    problems = []
+    with open(path, encoding="utf-8") as f:
+        for lineno, line in enumerate(f, 1):
+            if not line.strip():
+                continue
+            p = json.loads(line)
+            missing = [k for k in READING_REQUIRED_FIELDS if k not in p]
+            if missing:
+                raise ValueError(f"{path.name}:{lineno} missing fields: {missing}")
+            if p["status"] != "published":
+                continue
+            if p["format"] == "quiz" and not (0 <= p["answer_index"] < len(p["choices"])):
+                raise ValueError(f"{path.name}:{lineno} answer_index out of range")
+            p["id"] = int(p["id"])
+            problems.append(p)
+    return sorted(problems, key=lambda p: p["id"])

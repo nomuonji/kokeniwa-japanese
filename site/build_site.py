@@ -19,6 +19,7 @@ from templates import blog as blog_tpl
 from templates import pages as pages_tpl
 from templates import quiz as quiz_tpl
 from templates import vocab as vocab_tpl
+from templates import reading as reading_tpl
 
 
 def load_articles():
@@ -99,6 +100,19 @@ def build(cfg):
         for i in range(len(problems)):
             emit(quiz_tpl.problem_url(problems[i]),
                  quiz_tpl.render_problem(cfg, problems, i))
+
+    # --- Japanese reading practice (public answers only; Kindle holds explanations) ---
+    reading_problems = data_loader.load_reading_problems()
+    if reading_problems:
+        emit("/reading/", reading_tpl.render_index(cfg, reading_problems))
+        categories = []
+        for p in reading_problems:
+            if p["category"] not in categories:
+                categories.append(p["category"])
+        for category in categories:
+            emit(reading_tpl.category_url(category), reading_tpl.render_category(cfg, reading_problems, category))
+        for i in range(len(reading_problems)):
+            emit(reading_tpl.problem_url(reading_problems[i]), reading_tpl.render_problem(cfg, reading_problems, i))
 
     # --- blog (optional) ---
     if articles:
