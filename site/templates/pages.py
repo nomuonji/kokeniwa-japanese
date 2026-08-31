@@ -1,4 +1,5 @@
 """Home, About, Books, and 404 pages."""
+import json
 from lib import config
 from lib.render import esc
 from templates import blog as blog_tpl
@@ -80,6 +81,12 @@ READING_BOOK = {
 KINDLE_BONUS_PATH = "/kindle/japanese-reading-200/"
 KINDLE_BONUS_FILE = "japanese_reading_200_anki.csv"
 
+_BOOK_CONFIG = json.loads((config.ROOT / "data" / "book_series.json").read_text(encoding="utf-8"))
+ONOMATOPOEIA_BOOK = _BOOK_CONFIG["books"]["onomatopoeia"]
+ONOMATOPOEIA_BOOK_PATH = f"/books/{ONOMATOPOEIA_BOOK['bonus_slug']}/"
+ONOMATOPOEIA_BONUS_PATH = f"/kindle/{ONOMATOPOEIA_BOOK['bonus_slug']}/"
+ONOMATOPOEIA_COVER = "/static/covers/onomatopoeia-in-context.jpg"
+
 
 def _book_strip():
     """Cover thumbnail strip for the home page; click through to /books/."""
@@ -87,7 +94,11 @@ def _book_strip():
                f'<img src="{READING_BOOK["cover"]}" alt="{esc(READING_BOOK["title"])} cover" '
                f'width="1600" height="2560" loading="lazy">'
                f'<span>{esc(READING_BOOK["title"])}</span></a>')
-    return reading + "".join(
+    onomatopoeia = (f'<a class="book-thumb" href="{ONOMATOPOEIA_BOOK_PATH}">'
+                    f'<img src="{ONOMATOPOEIA_COVER}" alt="{esc(ONOMATOPOEIA_BOOK["title"])} cover" '
+                    f'width="1600" height="2560" loading="lazy">'
+                    f'<span>{esc(ONOMATOPOEIA_BOOK["title"])}</span></a>')
+    return reading + onomatopoeia + "".join(
         f'<a class="book-thumb" href="/books/">'
         f'<img src="{esc(b["cover"])}" alt="{esc(b["title"])} cover" '
         f'width="500" height="800" loading="lazy">'
@@ -167,6 +178,21 @@ for extensive reading. Choose sentence-level explanation or bilingual reading pr
   </div>
 </article>
 
+<article class="bl-card">
+  <div class="book-cover">
+    <img src="{ONOMATOPOEIA_COVER}" alt="{esc(ONOMATOPOEIA_BOOK['title'])} cover" loading="lazy">
+  </div>
+  <div class="bl-body">
+    <h3>💥 {esc(ONOMATOPOEIA_BOOK['title'])}</h3>
+    <p class="book-sub">{esc(_BOOK_CONFIG['author'])} · {esc(ONOMATOPOEIA_BOOK['subtitle'])}</p>
+    <p>Learn 250 mimetic expressions by situation, with register notes, original examples,
+    common traps, chapter checks, and an expanded purchaser study file.</p>
+    <p class="book-actions">
+      <a class="follow-btn" href="{ONOMATOPOEIA_BOOK_PATH}">Book details and free sample →</a>
+    </p>
+  </div>
+</article>
+
 <h2>Bilingual classics</h2>
 <p>Three public-domain classics, each published as a Kindle edition with the
 original English and a Japanese translation side by side, sentence by sentence — part of the
@@ -212,6 +238,68 @@ textbook.</p>
                     "sentence. Free with Kindle Unlimited.",
         path="/books/", content=content, og_image="books",
         breadcrumbs=[("/books/", "Books")], active_nav="/books/")
+
+
+def render_onomatopoeia_book(cfg):
+    amazon = ONOMATOPOEIA_BOOK.get("amazon_url")
+    purchase = (f'<a class="follow-btn" href="{esc(amazon)}" rel="sponsored noopener" '
+                f'target="_blank">See on Amazon (${esc(ONOMATOPOEIA_BOOK["price_usd"])})</a>') if amazon else (
+                '<span class="book-sitelink">Amazon listing pending final editorial and publication approval.</span>')
+    content = f"""
+<h1>{esc(ONOMATOPOEIA_BOOK['title'])}</h1>
+<p class="lead">{esc(ONOMATOPOEIA_BOOK['subtitle'])}</p>
+<div class="note-box"><strong>Editorial preview:</strong> the production pipeline and page are complete.
+Chapters 1–2 are approved; 230 of 250 entries still await item-by-item language approval. This edition is not yet for sale.</div>
+<div class="bl-card">
+  <div class="book-cover"><img src="{ONOMATOPOEIA_COVER}" alt="Book cover" loading="lazy"></div>
+  <div class="bl-body">
+    <p>Japanese mimetic words are easy to translate badly and hard to use naturally. This
+    workbook groups 250 expressions by scene and explains what each one can describe,
+    its register, and the English glosses that can mislead you.</p>
+    <ul>
+      <li>25 themed chapters with 10 expressions each</li>
+      <li>Original Japanese examples with natural English translations</li>
+      <li>A production format for usage notes, contrasts, misuse warnings, and chapter mini-checks</li>
+      <li>An expanded, Anki-ready purchaser CSV</li>
+    </ul>
+    <p class="book-actions">{purchase}
+      <a class="book-sitelink" href="/vocab/onomatopoeia/">Try the free flashcards →</a>
+    </p>
+  </div>
+</div>
+<h2>Free sample</h2>
+<p>The public flashcards let you try all 250 headwords with a short meaning and example.
+The book adds thematic sequencing, context, register, comparisons, misuse notes, and review checks.</p>
+<p><a class="follow-btn" href="/vocab/onomatopoeia/">Open the onomatopoeia flashcards</a></p>
+{_AFFILIATE_NOTICE if amazon else ''}
+"""
+    return layout.page(
+        cfg, title=f"{ONOMATOPOEIA_BOOK['title']} — Kokeniwa Japanese",
+        description="A context-first guide to 250 Japanese onomatopoeia and mimetic expressions, with usage notes, original examples, and review checks.",
+        path=ONOMATOPOEIA_BOOK_PATH, content=content, og_image="books",
+        breadcrumbs=[("/books/", "Books"), (ONOMATOPOEIA_BOOK_PATH, ONOMATOPOEIA_BOOK["title"])],
+        active_nav="/books/")
+
+
+def render_onomatopoeia_bonus(cfg):
+    content = f"""
+<h1>{esc(ONOMATOPOEIA_BOOK['title'])} — Reader Bonus</h1>
+<p class="lead">Thank you for reading. This expanded file is designed for review after each chapter.</p>
+<div class="note-box">
+  <h2>Expanded Anki-ready CSV</h2>
+  <p>The purchaser edition adds chapter, register, context, a second-example field,
+  comparison, and misuse-note columns that are not included in the public CSV.</p>
+  <p><a class="follow-btn" href="/downloads/{esc(ONOMATOPOEIA_BOOK['bonus_file'])}">Download the expanded CSV</a></p>
+</div>
+<h2>Import notes</h2>
+<p>The file uses UTF-8 with a BOM for reliable Japanese text in Excel and Anki. Map the
+first row as field names, then choose which columns appear on the front and back of your cards.</p>
+"""
+    return layout.page(
+        cfg, title=f"{ONOMATOPOEIA_BOOK['title']} — Reader Bonus",
+        description="Purchaser study-file download for Japanese Onomatopoeia in Context.",
+        path=ONOMATOPOEIA_BONUS_PATH, content=content,
+        breadcrumbs=[(ONOMATOPOEIA_BONUS_PATH, "Reader Bonus")], noindex=True)
 
 
 def render_home(cfg, *, counts, articles):

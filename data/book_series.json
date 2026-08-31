@@ -1,0 +1,51 @@
+{
+  "series_name": "Kokeniwa Japanese in Context",
+  "author": "Kokeniwa Japanese",
+  "books": {
+    "onomatopoeia": {
+      "title": "Japanese Onomatopoeia in Context",
+      "subtitle": "250 Expressive Words for Daily Life, Anime & Manga",
+      "identifier": "kokeniwa-japanese-onomatopoeia-250",
+      "source": "data/themed_onomatopoeia.jsonl",
+      "expected_count": 250,
+      "price_usd": "4.99",
+      "bonus_slug": "japanese-onomatopoeia-250",
+      "bonus_file": "onomatopoeia_book_bonus.csv",
+      "cover_file": "cover.jpg",
+      "output_dir": "Japanese Onomatopoeia in Context",
+      "epub_file": "Japanese_Onomatopoeia_in_Context.epub",
+      "amazon_url": "",
+      "status": "editorial_draft"
+    },
+    "anime": {
+      "title": "Anime & Manga Japanese in Context",
+      "subtitle": "250 Words and Phrases for Characters, Stories & Fandom",
+      "identifier": "kokeniwa-anime-manga-japanese-250",
+      "source": "data/themed_anime.jsonl",
+      "expected_count": 250,
+      "price_usd": "4.99",
+      "bonus_slug": "anime-manga-japanese-250",
+      "bonus_file": "anime_book_bonus.csv",
+      "cover_file": "cover.jpg",
+      "output_dir": "Anime & Manga Japanese in Context",
+      "epub_file": "Anime_and_Manga_Japanese_in_Context.epub",
+      "amazon_url": "",
+      "status": "not_started"
+    },
+    "collocations": {
+      "title": "Natural Japanese Collocations",
+      "subtitle": "500 Word Pairings for More Natural Everyday Japanese",
+      "identifier": "kokeniwa-natural-japanese-collocations-500",
+      "source": "data/themed_collocations.jsonl",
+      "expected_count": 500,
+      "price_usd": "6.99",
+      "bonus_slug": "natural-japanese-collocations-500",
+      "bonus_file": "collocations_book_bonus.csv",
+      "cover_file": "cover.jpg",
+      "output_dir": "Natural Japanese Collocations",
+      "epub_file": "Natural_Japanese_Collocations.epub",
+      "amazon_url": "",
+      "status": "not_started"
+    }
+  }
+}

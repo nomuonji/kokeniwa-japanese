@@ -9,3 +9,6 @@ reports/
 
 # Local browser screenshots from the reading-site smoke test
 .tmp-reading-preview/
+
+# Local browser screenshots from book-series smoke tests
+.codex-temp/
