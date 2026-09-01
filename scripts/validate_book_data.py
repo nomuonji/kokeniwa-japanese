@@ -79,6 +79,17 @@ def validate(key, cfg, publication=False):
             warnings.append(f"{label}: unusually long Japanese example; review for quotation risk")
         if key == "anime" and row.get("safety_label") is None:
             errors.append(f"{label}: anime data requires safety_label")
+        if key == "anime" and row.get("safety_label") not in {
+            "Safe", "Casual", "Rude", "Fandom", "Recognition only"
+        }:
+            errors.append(f"{label}: invalid anime safety_label")
+        if key == "anime" and row.get("review_status") == "approved":
+            anime_required = ("speaker_image", "real_life_use", "example_ja_2", "example_en_2", "contrast")
+            anime_empty = [field for field in anime_required if row.get(field) in (None, "", [])]
+            if anime_empty:
+                errors.append(f"{label}: approved anime row has incomplete usage fields {anime_empty}")
+            if "Confirm current nuance" in row.get("usage_note_en", ""):
+                errors.append(f"{label}: approved anime row retains draft usage note")
     if ids != list(range(1, expected + 1)):
         errors.append("ids must be consecutive and ordered from 1")
     for label, values in (("headword", heads), ("Japanese example", examples)):
@@ -92,6 +103,11 @@ def validate(key, cfg, publication=False):
         errors.append(f"anime chapters must be 25 x 10; found {dict(chapters)}")
     if key == "collocations" and chapters != Counter({i: 50 for i in range(1, 11)}):
         errors.append(f"collocation chapters must be 10 x 50; found {dict(chapters)}")
+    if key == "anime" and publication:
+        sections = Counter(row.get("section") for row in rows)
+        target = Counter({"dialogue": 100, "story": 50, "production": 40, "fandom": 60})
+        if sections != target:
+            errors.append(f"anime publication sections must be {dict(target)}; found {dict(sections)}")
     chapter_titles = {}
     for row in rows:
         chapter_titles.setdefault(row.get("chapter"), set()).add(row.get("chapter_title"))
