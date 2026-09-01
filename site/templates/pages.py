@@ -205,7 +205,8 @@ public-domain classics for extensive reading. Choose the kind of practice you ne
     <p>A 250-entry guide to dialogue, character and production vocabulary, story language,
     and fandom terms, organized into 25 themed chapters.</p>
     <p class="book-actions">
-      <a class="follow-btn" href="{ANIME_BOOK_PATH}">Book details and free sample →</a>
+      <a class="follow-btn" href="{esc(ANIME_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See on Amazon (${esc(ANIME_BOOK['price_usd'])})</a>
+      <a class="book-sitelink" href="{ANIME_BOOK_PATH}">Book details and free sample →</a>
     </p>
   </div>
 </article>
@@ -220,7 +221,8 @@ public-domain classics for extensive reading. Choose the kind of practice you ne
     <p>Build more natural Japanese with 500 evidence-linked word pairings in 10 chapters,
     plus a public 50-item sample and an expanded purchaser file.</p>
     <p class="book-actions">
-      <a class="follow-btn" href="{COLLOCATIONS_BOOK_PATH}">Book details and free sample →</a>
+      <a class="follow-btn" href="{esc(COLLOCATIONS_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See on Amazon (${esc(COLLOCATIONS_BOOK['price_usd'])})</a>
+      <a class="book-sitelink" href="{COLLOCATIONS_BOOK_PATH}">Book details and free sample →</a>
     </p>
   </div>
 </article>
@@ -235,7 +237,8 @@ public-domain classics for extensive reading. Choose the kind of practice you ne
     <p>Learn 250 mimetic expressions by situation, with register notes, original examples,
     common traps, chapter checks, and an expanded purchaser study file.</p>
     <p class="book-actions">
-      <a class="follow-btn" href="{ONOMATOPOEIA_BOOK_PATH}">Book details and free sample →</a>
+      <a class="follow-btn" href="{esc(ONOMATOPOEIA_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See on Amazon (${esc(ONOMATOPOEIA_BOOK['price_usd'])})</a>
+      <a class="book-sitelink" href="{ONOMATOPOEIA_BOOK_PATH}">Book details and free sample →</a>
     </p>
   </div>
 </article>
