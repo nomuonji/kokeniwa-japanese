@@ -639,8 +639,8 @@ scripts/check_book_outputs.py
 - [x] サイト紹介ページとnoindex特典ページを実装
 - [x] EPUB、表紙、拡張CSV、KDPメタデータ草案を生成
 - [x] データ・サイト・EPUB・CSVの構造／同期検査
-- [x] 章1〜11の110件を言語品質レビューし、`approved` に更新
-- [ ] 章12〜25の残り140件を言語品質レビュー（`pending`）
+- [x] 章1〜14の140件を言語品質レビューし、`approved` に更新
+- [ ] 章15〜25の残り110件を言語品質レビュー（`pending`）
 - [ ] 類義語比較と第2例文の執筆・レビュー
 - [ ] EPUBCheck（実行環境にJavaなし）
 - [ ] Kindle Previewer（未インストール）
