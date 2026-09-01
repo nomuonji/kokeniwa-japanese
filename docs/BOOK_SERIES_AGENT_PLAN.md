@@ -642,7 +642,7 @@ scripts/check_book_outputs.py
 - [x] 全25章・250件の言語品質レビューを完了し、`approved` に更新
 - [x] 全250件の類義語比較、第2例文、誤用注意を執筆・レビュー
 - [x] EPUBCheck 5.3.0（ポータブルTemurin JREで0 errors / 0 warnings）
-- [ ] Kindle Previewer（未インストール）
+- [ ] Kindle Previewer（Amazon署名済み公式インストーラー取得・検証済み。EULA同意とインストール待ち）
 - [ ] ユーザー最終承認とKDP申請
 
 詳細: `docs/BOOK_SERIES_PHASE0_AUDIT.md`
@@ -662,7 +662,7 @@ scripts/check_book_outputs.py
 - [x] 全250件のニュアンス、比較、第2例文を執筆・レビュー
 - [x] 章末ミニチェックの最終確認（25章×3問、選択肢重複なし）
 - [x] EPUBCheck 5.3.0（0 errors / 0 warnings）
-- [ ] Kindle Previewer、ユーザー承認、KDP申請
+- [ ] Kindle Previewer（公式インストーラー準備済み）、ユーザー承認、KDP申請
 
 ### Phase 3：コロケーション
 
@@ -676,7 +676,7 @@ scripts/check_book_outputs.py
 - [x] 全500件のコロケーション境界、自然さ、訳、例文、出典レビュー完了（出版ゲート通過）
 - [x] ニュアンス、混同注意を500件の正本に反映し、10章×3問の練習問題と500件索引を生成・検査
 - [x] EPUBCheck 5.3.0（0 errors / 0 warnings）
-- [ ] Kindle Previewer、ユーザー承認、KDP申請
+- [ ] Kindle Previewer（公式インストーラー準備済み）、ユーザー承認、KDP申請
 
 ### 作成パス完了時の自動検査
 
