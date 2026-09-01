@@ -298,8 +298,7 @@ def render_onomatopoeia_book(cfg):
     content = f"""
 <h1>{esc(ONOMATOPOEIA_BOOK['title'])}</h1>
 <p class="lead">{esc(ONOMATOPOEIA_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Now available:</strong> this Kindle edition has been submitted to Amazon KDP with KDP Select.
-Availability may take up to 72 hours while Amazon completes its review.</div>
+<div class="note-box"><strong>Now available:</strong> this Kindle edition is part of KDP Select.</div>
 <div class="bl-card">
   <div class="book-cover"><img src="{ONOMATOPOEIA_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
@@ -364,8 +363,7 @@ def render_anime_book(cfg):
     content = f"""
 <h1>{esc(ANIME_BOOK['title'])}</h1>
 <p class="lead">{esc(ANIME_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Now available:</strong> this Kindle edition has been submitted to Amazon KDP with KDP Select.
-Availability may take up to 72 hours while Amazon completes its review.</div>
+<div class="note-box"><strong>Now available:</strong> this Kindle edition is part of KDP Select.</div>
 <div class="bl-card">
   <div class="book-cover"><img src="{ANIME_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
@@ -404,8 +402,7 @@ def render_collocations_book(cfg):
     content = f"""
 <h1>{esc(COLLOCATIONS_BOOK['title'])}</h1>
 <p class="lead">{esc(COLLOCATIONS_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Now available:</strong> this Kindle edition has been submitted to Amazon KDP with KDP Select.
-Availability may take up to 72 hours while Amazon completes its review.</div>
+<div class="note-box"><strong>Now available:</strong> this Kindle edition is part of KDP Select.</div>
 <div class="bl-card">
   <div class="book-cover"><img src="{COLLOCATIONS_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
