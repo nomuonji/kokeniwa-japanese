@@ -14,8 +14,8 @@
       "cover_file": "cover.jpg",
       "output_dir": "Japanese Onomatopoeia in Context",
       "epub_file": "Japanese_Onomatopoeia_in_Context.epub",
-      "amazon_url": "",
-      "status": "editorial_draft"
+      "amazon_url": "https://www.amazon.co.jp/s?k=Japanese+Onomatopoeia+in+Context&i=digital-text",
+      "status": "submitted_kdp_select"
     },
     "anime": {
       "title": "Anime & Manga Japanese in Context",
@@ -29,8 +29,8 @@
       "cover_file": "cover.jpg",
       "output_dir": "Anime & Manga Japanese in Context",
       "epub_file": "Anime_and_Manga_Japanese_in_Context.epub",
-      "amazon_url": "",
-      "status": "editorial_draft"
+      "amazon_url": "https://www.amazon.co.jp/s?k=Anime+and+Manga+Japanese+in+Context&i=digital-text",
+      "status": "submitted_kdp_select"
     },
     "collocations": {
       "title": "Natural Japanese Collocations",
@@ -44,8 +44,8 @@
       "cover_file": "cover.jpg",
       "output_dir": "Natural Japanese Collocations",
       "epub_file": "Natural_Japanese_Collocations.epub",
-      "amazon_url": "",
-      "status": "editorial_draft"
+      "amazon_url": "https://www.amazon.co.jp/s?k=Natural+Japanese+Collocations+in+Context&i=digital-text",
+      "status": "submitted_kdp_select"
     }
   }
 }
