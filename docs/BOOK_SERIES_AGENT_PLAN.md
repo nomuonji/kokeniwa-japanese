@@ -641,7 +641,7 @@ scripts/check_book_outputs.py
 - [x] データ・サイト・EPUB・CSVの構造／同期検査
 - [x] 全25章・250件の言語品質レビューを完了し、`approved` に更新
 - [x] 全250件の類義語比較、第2例文、誤用注意を執筆・レビュー
-- [ ] EPUBCheck（実行環境にJavaなし）
+- [x] EPUBCheck 5.3.0（ポータブルTemurin JREで0 errors / 0 warnings）
 - [ ] Kindle Previewer（未インストール）
 - [ ] ユーザー最終承認とKDP申請
 
@@ -661,7 +661,8 @@ scripts/check_book_outputs.py
 - [x] 作中会話100・物語50・キャラクター／制作40・ファン60へ再調整
 - [x] 全250件のニュアンス、比較、第2例文を執筆・レビュー
 - [x] 章末ミニチェックの最終確認（25章×3問、選択肢重複なし）
-- [ ] EPUBCheck、Kindle Previewer、ユーザー承認、KDP申請
+- [x] EPUBCheck 5.3.0（0 errors / 0 warnings）
+- [ ] Kindle Previewer、ユーザー承認、KDP申請
 
 ### Phase 3：コロケーション
 
@@ -674,7 +675,8 @@ scripts/check_book_outputs.py
 - [x] 出版ゲートにコロケーション境界、誤用例、比較、第2例文、出典、仮説明残存の検査を追加
 - [x] 全500件のコロケーション境界、自然さ、訳、例文、出典レビュー完了（出版ゲート通過）
 - [x] ニュアンス、混同注意を500件の正本に反映し、10章×3問の練習問題と500件索引を生成・検査
-- [ ] EPUBCheck、Kindle Previewer、ユーザー承認、KDP申請
+- [x] EPUBCheck 5.3.0（0 errors / 0 warnings）
+- [ ] Kindle Previewer、ユーザー承認、KDP申請
 
 ### 作成パス完了時の自動検査
 
@@ -684,6 +686,9 @@ scripts/check_book_outputs.py
 - [x] 3冊の紹介／特典ページと50件サンプルをデスクトップ・モバイルで表示検査
 - [x] 3冊横断の見出し重複、出典参照、危険なHTML・制御文字、長文引用兆候の検査
 - [x] 正本レビュー後にEPUB、購入者CSV、サイトを一括再生成し、章末問題・索引を検査
+- [x] EPUBCheck 5.3.0で3冊を検査し、表紙ページ到達性を修正後、全冊0 errors / 0 warnings
+- [x] Kindle公式ガイドに合わせて固定フォント・固定行間を除去し、日本語本文へ言語属性を付与
+- [x] KDPメタデータ3冊をレビュー完了状態、権利宣言、AIコンテンツ申告込みで更新
 - [ ] 出版ゲート（正本レビュー完了。Amazon URL設定と`publication_ready`への変更は未実施）
 
 ## Phase 0：共通基盤
@@ -736,17 +741,17 @@ scripts/check_book_outputs.py
 
 3冊すべてについて、次が揃った時点で本計画を完了とする。
 
-- [ ] 正本データ完成
-- [ ] 言語品質レビュー完了
-- [ ] 教育設計レビュー完了
-- [ ] 権利チェック完了
-- [ ] EPUB完成
-- [ ] 表紙完成
-- [ ] KDPメタデータ完成
-- [ ] サイト紹介ページ完成
-- [ ] 読者特典ページ完成
-- [ ] 購入者向けAnki/CSV完成
-- [ ] 自動検査合格
+- [x] 正本データ完成
+- [x] 言語品質レビュー完了
+- [x] 教育設計レビュー完了
+- [x] 権利チェック完了
+- [x] EPUB完成（EPUBCheck 5.3.0、全冊0 errors / 0 warnings）
+- [x] 表紙完成（1600×2560、RGB、メタデータ表記一致）
+- [x] KDPメタデータ完成
+- [x] サイト紹介ページ完成
+- [x] 読者特典ページ完成
+- [x] 購入者向けAnki/CSV完成
+- [x] 自動検査合格
 - [ ] Kindle Previewer確認完了
 - [ ] ユーザー最終承認
 - [ ] KDP公開申請完了
