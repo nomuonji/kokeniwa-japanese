@@ -89,7 +89,7 @@ ONOMATOPOEIA_COVER = "/static/covers/onomatopoeia-in-context.jpg"
 ANIME_BOOK = _BOOK_CONFIG["books"]["anime"]
 ANIME_BOOK_PATH = f"/books/{ANIME_BOOK['bonus_slug']}/"
 ANIME_BONUS_PATH = f"/kindle/{ANIME_BOOK['bonus_slug']}/"
-ANIME_COVER = "/static/covers/anime-in-context.jpg"
+ANIME_COVER = "/static/covers/anime-japanese-context.jpg"
 COLLOCATIONS_BOOK = _BOOK_CONFIG["books"]["collocations"]
 COLLOCATIONS_BOOK_PATH = f"/books/{COLLOCATIONS_BOOK['bonus_slug']}/"
 COLLOCATIONS_BONUS_PATH = f"/kindle/{COLLOCATIONS_BOOK['bonus_slug']}/"
@@ -298,8 +298,8 @@ def render_onomatopoeia_book(cfg):
     content = f"""
 <h1>{esc(ONOMATOPOEIA_BOOK['title'])}</h1>
 <p class="lead">{esc(ONOMATOPOEIA_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Editorial preview:</strong> the production pipeline and page are complete.
-Chapters 1–5 are approved; 200 of 250 entries still await item-by-item language approval. This edition is not yet for sale.</div>
+<div class="note-box"><strong>Now available:</strong> this Kindle edition has been submitted to Amazon KDP with KDP Select.
+Availability may take up to 72 hours while Amazon completes its review.</div>
 <div class="bl-card">
   <div class="book-cover"><img src="{ONOMATOPOEIA_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
@@ -364,8 +364,8 @@ def render_anime_book(cfg):
     content = f"""
 <h1>{esc(ANIME_BOOK['title'])}</h1>
 <p class="lead">{esc(ANIME_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Editorial preview:</strong> all 250 entries and production assets are drafted.
-The final review will rebalance the dialogue section and approve every usage label before publication.</div>
+<div class="note-box"><strong>Now available:</strong> this Kindle edition has been submitted to Amazon KDP with KDP Select.
+Availability may take up to 72 hours while Amazon completes its review.</div>
 <div class="bl-card">
   <div class="book-cover"><img src="{ANIME_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
@@ -404,8 +404,8 @@ def render_collocations_book(cfg):
     content = f"""
 <h1>{esc(COLLOCATIONS_BOOK['title'])}</h1>
 <p class="lead">{esc(COLLOCATIONS_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Editorial preview:</strong> all 500 candidates are drafted with a source reference.
-Pair boundaries, translations, and examples remain queued for the final language review.</div>
+<div class="note-box"><strong>Now available:</strong> this Kindle edition has been submitted to Amazon KDP with KDP Select.
+Availability may take up to 72 hours while Amazon completes its review.</div>
 <div class="bl-card">
   <div class="book-cover"><img src="{COLLOCATIONS_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
