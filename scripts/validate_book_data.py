@@ -90,6 +90,32 @@ def validate(key, cfg, publication=False):
                 errors.append(f"{label}: approved anime row has incomplete usage fields {anime_empty}")
             if "Confirm current nuance" in row.get("usage_note_en", ""):
                 errors.append(f"{label}: approved anime row retains draft usage note")
+        if key == "collocations" and row.get("review_status") == "approved":
+            collocation_required = (
+                "headword", "collocation", "particle", "meaning_en", "literal_trap_en",
+                "wrong_example", "correct_example", "evidence", "contrast",
+                "example_ja_2", "example_en_2", "misuse_note_en",
+            )
+            collocation_empty = [
+                field for field in collocation_required
+                if row.get(field) in (None, "", [])
+            ]
+            if collocation_empty:
+                errors.append(
+                    f"{label}: approved collocation row has incomplete editorial fields "
+                    f"{collocation_empty}"
+                )
+            if "Draft candidate" in row.get("usage_note_en", ""):
+                errors.append(f"{label}: approved collocation retains draft usage note")
+            if row.get("correct_example") != row.get("collocation"):
+                errors.append(f"{label}: correct_example must match the reviewed collocation")
+            if row.get("wrong_example") == row.get("correct_example"):
+                errors.append(f"{label}: wrong_example duplicates correct_example")
+            if row.get("example_ja", "").rstrip("。！？") == row.get("collocation"):
+                errors.append(f"{label}: approved collocation still uses the head phrase as its example")
+            evidence = row.get("evidence")
+            if not isinstance(evidence, list) or not evidence:
+                errors.append(f"{label}: approved collocation requires recorded evidence")
     if ids != list(range(1, expected + 1)):
         errors.append("ids must be consecutive and ordered from 1")
     for label, values in (("headword", heads), ("Japanese example", examples)):
