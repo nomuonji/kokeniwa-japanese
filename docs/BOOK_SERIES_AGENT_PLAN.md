@@ -693,7 +693,7 @@ scripts/check_book_outputs.py
 - [x] KDPメタデータ3冊をレビュー完了状態、権利宣言、AIコンテンツ申告込みで更新
 - [x] Kindle Previewer 3で3冊を実機相当表示確認し、各冊Quality Checks「No issues found」
 - [x] GitHub `main`へpush済み。公開サイトの購入者特典CSV 3種をGET確認（HTTP 200、Content-Disposition: attachment）
-- [x] 第1巻（Japanese Onomatopoeia in Context）のKDP価格設定を保存し、KDPセレクト登録を有効化（KDP本棚の出版直前状態）
+- [x] 第1巻（Japanese Onomatopoeia in Context）のKDP価格設定を保存し、KDPセレクト登録を有効化して出版申請済み（KDP本棚で提出確認、販売開始まで最大72時間）
 - [ ] 出版ゲート（正本レビュー完了。Amazon URL設定と`publication_ready`への変更は未実施）
 
 ## Phase 0：共通基盤
