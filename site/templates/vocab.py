@@ -69,6 +69,7 @@ def render_vocab_home(cfg, counts):
 survival phrases — {total} cards in total. Tap a card to flip between the
 Japanese word and its English meaning and reading. Free, no sign-up.</p>
 <h2>By JLPT level</h2>
+<p class="level-guide">New to Japanese? Start with <a href="/vocab/n5/">N5</a>. The levels progress from N5 (beginner) through N4, N3, and N2 to N1 (advanced).</p>
 {_set_cards(counts, level_keys)}
 {themed_html}
 {other_html}
@@ -98,8 +99,8 @@ def render_trainer(cfg, set_key, words):
                      f'Download this set as an Anki deck (CSV)</a>.</p>')
     content = f"""
 <h1>{esc(vset["title"])}</h1>
-<p class="lead">All {total} cards. Tap a card to reveal its English meaning and reading.
-Flip only the ones you want to test yourself on.</p>
+<p class="lead">{total} cards, shown 48 at a time. Search by Japanese, English, kana, or romaji.
+Tap a card to reveal its meaning and reading.</p>
 {warning}
 {anki_link}
 <div id="vocab-app"

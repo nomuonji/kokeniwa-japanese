@@ -205,7 +205,7 @@ public-domain classics for extensive reading. Choose the kind of practice you ne
     <p>A 250-entry guide to dialogue, character and production vocabulary, story language,
     and fandom terms, organized into 25 themed chapters.</p>
     <p class="book-actions">
-      <a class="follow-btn" href="{esc(ANIME_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See on Amazon (${esc(ANIME_BOOK['price_usd'])})</a>
+      <a class="follow-btn" href="{esc(ANIME_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See current price on Amazon</a>
       <a class="book-sitelink" href="{ANIME_BOOK_PATH}">Book details and free sample →</a>
     </p>
   </div>
@@ -221,7 +221,7 @@ public-domain classics for extensive reading. Choose the kind of practice you ne
     <p>Build more natural Japanese with 500 evidence-linked word pairings in 10 chapters,
     plus a public 50-item sample and an expanded purchaser file.</p>
     <p class="book-actions">
-      <a class="follow-btn" href="{esc(COLLOCATIONS_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See on Amazon (${esc(COLLOCATIONS_BOOK['price_usd'])})</a>
+      <a class="follow-btn" href="{esc(COLLOCATIONS_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See current price on Amazon</a>
       <a class="book-sitelink" href="{COLLOCATIONS_BOOK_PATH}">Book details and free sample →</a>
     </p>
   </div>
@@ -237,7 +237,7 @@ public-domain classics for extensive reading. Choose the kind of practice you ne
     <p>Learn 250 mimetic expressions by situation, with register notes, original examples,
     common traps, chapter checks, and an expanded purchaser study file.</p>
     <p class="book-actions">
-      <a class="follow-btn" href="{esc(ONOMATOPOEIA_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See on Amazon (${esc(ONOMATOPOEIA_BOOK['price_usd'])})</a>
+      <a class="follow-btn" href="{esc(ONOMATOPOEIA_BOOK['amazon_url'])}" rel="sponsored noopener" target="_blank">See current price on Amazon</a>
       <a class="book-sitelink" href="{ONOMATOPOEIA_BOOK_PATH}">Book details and free sample →</a>
     </p>
   </div>
@@ -293,12 +293,12 @@ textbook.</p>
 def render_onomatopoeia_book(cfg):
     amazon = ONOMATOPOEIA_BOOK.get("amazon_url")
     purchase = (f'<a class="follow-btn" href="{esc(amazon)}" rel="sponsored noopener" '
-                f'target="_blank">See on Amazon (${esc(ONOMATOPOEIA_BOOK["price_usd"])})</a>') if amazon else (
+                f'target="_blank">See current price on Amazon</a>') if amazon else (
                 '<span class="book-sitelink">Amazon listing pending final editorial and publication approval.</span>')
     content = f"""
 <h1>{esc(ONOMATOPOEIA_BOOK['title'])}</h1>
 <p class="lead">{esc(ONOMATOPOEIA_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Now available:</strong> this Kindle edition is part of KDP Select.</div>
+<p class="book-status">See Amazon for current availability, price, and edition details.</p>
 <div class="bl-card">
   <div class="book-cover"><img src="{ONOMATOPOEIA_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
@@ -308,7 +308,7 @@ def render_onomatopoeia_book(cfg):
     <ul>
       <li>25 themed chapters with 10 expressions each</li>
       <li>Original Japanese examples with natural English translations</li>
-      <li>A production format for usage notes, contrasts, misuse warnings, and chapter mini-checks</li>
+      <li>Usage notes, contrasts, common mistakes, and chapter review questions</li>
       <li>An expanded, Anki-ready purchaser CSV</li>
     </ul>
     <p class="book-actions">{purchase}
@@ -355,7 +355,7 @@ def _draft_purchase(book):
     amazon = book.get("amazon_url")
     if amazon:
         return (f'<a class="follow-btn" href="{esc(amazon)}" rel="sponsored noopener" '
-                f'target="_blank">See on Amazon (${esc(book["price_usd"])})</a>')
+                f'target="_blank">See current price on Amazon</a>')
     return '<span class="book-sitelink">Amazon listing pending final editorial and publication approval.</span>'
 
 
@@ -363,7 +363,7 @@ def render_anime_book(cfg):
     content = f"""
 <h1>{esc(ANIME_BOOK['title'])}</h1>
 <p class="lead">{esc(ANIME_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Now available:</strong> this Kindle edition is part of KDP Select.</div>
+<p class="book-status">See Amazon for current availability, price, and edition details.</p>
 <div class="bl-card">
   <div class="book-cover"><img src="{ANIME_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
@@ -381,7 +381,7 @@ def render_anime_book(cfg):
   </div>
 </div>
 <h2>Free sample</h2>
-<p>The existing flashcard set provides all 250 headwords with short examples. The book draft adds
+<p>The existing flashcard set provides all 250 headwords with short examples. The book adds
 chapter order, context, register, usage guidance, and review checks.</p>
 <p><a class="follow-btn" href="/vocab/anime/">Open the anime and manga flashcards</a></p>
 """
@@ -402,7 +402,7 @@ def render_collocations_book(cfg):
     content = f"""
 <h1>{esc(COLLOCATIONS_BOOK['title'])}</h1>
 <p class="lead">{esc(COLLOCATIONS_BOOK['subtitle'])}</p>
-<div class="note-box"><strong>Now available:</strong> this Kindle edition is part of KDP Select.</div>
+<p class="book-status">See Amazon for current availability, price, and edition details.</p>
 <div class="bl-card">
   <div class="book-cover"><img src="{COLLOCATIONS_COVER}" alt="Book cover" loading="lazy"></div>
   <div class="bl-body">
@@ -410,7 +410,7 @@ def render_collocations_book(cfg):
 that normally occur together. This workbook turns those pairings into a chapter-by-chapter practice set.</p>
     <ul>
       <li>500 candidates in 10 chapters of 50</li>
-      <li>Level, category, particle, and source-evidence fields</li>
+      <li>Pairings organized by level, topic, and particle</li>
       <li>Examples drawn from the site's existing learning corpus</li>
       <li>A public 50-item sample and expanded purchaser CSV</li>
     </ul>
@@ -513,13 +513,20 @@ def render_home(cfg, *, counts, articles):
 <div class="post-grid">{items}</div>"""
 
     content = f"""
-<section class="hero">
-  <h1>{esc(cfg["tagline"])}</h1>
-  <p>{esc(cfg["description"])}</p>
+<section class="hero home-hero">
+  <p class="eyebrow">Kokeniwa Japanese · Free, no sign-up</p>
+  <h1>Make Japanese part<br>of your everyday.</h1>
+  <p>Build your vocabulary, read in context, and check what you understand. Free practice, at your own pace.</p>
+  <div class="hero-actions"><a class="follow-btn" href="/vocab/n5/">Start with N5 vocabulary →</a><a href="/reading/articles/">Read a Japanese story →</a></div>
 </section>
+<div class="learning-paths" aria-label="Choose your practice">
+  <a href="/vocab/"><span>01 / Vocabulary</span><strong>Find your level</strong><small>JLPT N5–N1 and everyday themes →</small></a>
+  <a href="/reading/articles/"><span>02 / Reading</span><strong>Read in context</strong><small>Stories with sentence translations →</small></a>
+  <a href="/quiz/"><span>03 / Practice</span><strong>Check your understanding</strong><small>Multiple-choice Japanese quizzes →</small></a>
+</div>
 
 <div class="section-head"><h2>JLPT vocabulary by level</h2><a class="more" href="/vocab/">All sets →</a></div>
-<div class="card-grid">{"".join(level_cards)}</div>
+<div class="card-grid level-grid">{"".join(level_cards)}</div>
 
 <div class="section-head"><h2>Japanese reading practice</h2><a class="more" href="/reading/">All 200 →</a></div>
 <div class="card-grid">
@@ -528,6 +535,12 @@ def render_home(cfg, *, counts, articles):
     <h2>Reading Training: 200 Questions</h2>
     <p>Translate complete Japanese sentences and check your reading against natural English.</p>
     <div class="card-meta">200 questions · detailed explanations in the Kindle edition</div>
+  </a>
+  <a class="card card-reading" href="/reading/articles/">
+    <span class="card-icon" aria-hidden="true">📚</span>
+    <h2>Read a complete story</h2>
+    <p>Practice with longer texts. Open a sentence’s translation and explore vocabulary and grammar in context.</p>
+    <div class="card-meta">Browse the long reading library →</div>
   </a>
 </div>
 
@@ -538,6 +551,12 @@ def render_home(cfg, *, counts, articles):
     <h2>Survival Phrases</h2>
     <p>Greetings, requests and essentials for travel and daily life in Japan.</p>
     <div class="card-meta">{counts["phrases"]} cards · tap to flip</div>
+  </a>
+  <a class="card card-jp" href="/vocab/">
+    <span class="card-icon" aria-hidden="true">🌿</span>
+    <h2>Follow your interests</h2>
+    <p>Explore themed vocabulary alongside the JLPT levels. Find a set that fits what you want to say or understand.</p>
+    <div class="card-meta">Browse all vocabulary sets →</div>
   </a>
 </div>
 
@@ -586,7 +605,8 @@ recall practice after you have worked through the chapter.</p>
 
 def render_about(cfg):
     content = """
-<h1>About Honne Japan</h1>
+<h1>About Kokeniwa Japanese</h1>
+<p class="lead">Kokeniwa Japanese combines free language practice with Honne Japan, our journal about Japanese language and culture.</p>
 <p class="lead"><em>Honne</em> (本音) means your true feelings — the opposite of <em>tatemae</em>,
 the polite face Japan usually shows visitors. Honne Japan is where I write the honne: honest
 notes on Japanese language and culture, plus free tools to actually learn the language.</p>

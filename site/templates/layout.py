@@ -25,15 +25,8 @@ def asset(path):
     h = hashlib.sha1(f.read_bytes()).hexdigest()[:8]
     return f"{path}?v={h}"
 
-NAV_ITEMS = [
-    ("/vocab/", "Vocabulary"),
-    ("/vocab/phrases/", "Phrases"),
-    ("/quiz/", "Quiz"),
-    ("/reading/", "Reading"),
-    ("/blog/", "Honne Japan"),
-    ("/books/", "Books"),
-    ("/about/", "About"),
-]
+NAV_ITEMS = [('/vocab/', 'Vocabulary'), ('/quiz/', 'Grammar quiz'), ('/reading/', 'Sentences'), ('/reading/articles/', 'Long reading'), ('/blog/', 'Culture & language'), ('/books/', 'Books')]
+
 
 
 # Site-wide announcement bar, used to promote the Kindle books.
@@ -43,7 +36,7 @@ NAV_ITEMS = [
 # whenever the wording changes (to show it again to people who dismissed it).
 ANNOUNCE = {
     "id": "reading-workbook-2026-08",
-    "text": "New: Japanese Reading Training — 200 complete sentences with English answers and detailed explanations.",
+    "text": "Japanese Reading Training: try 200 sentences with free English answers. Detailed explanations are in the book.",
     "short": "New: Japanese Reading Training, 200 Questions",
     "link": "/reading/",
     "link_label": "Try the questions",
@@ -136,7 +129,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     wide: widen the content column so cards sit three across. Reading pages
           keep the default width, where long lines would hurt.
     """
-    announce_html = _announce_html()
+    announce_html = _announce_html() if path in ("/", "/books/", "/blog/") else ""
     site_name = cfg["site_name"]
     full_title = site_name if path == "/" else f"{title}｜{site_name}"
     canonical = cfg["base_url"] + path
@@ -167,10 +160,29 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
         for j in jsonld_list
     )
 
+    selected = next((href for href, _ in sorted(NAV_ITEMS, key=lambda item: len(item[0]), reverse=True)
+                     if path.startswith(href)), active_nav)
     nav_html = "".join(
-        f'<a href="{href}"{" class=\"active\"" if href == active_nav else ""}>{label}</a>'
-        for href, label in NAV_ITEMS
-    )
+        f'<a href="{href}"' + (' class="active" aria-current="page"' if href == selected else '')
+        + f'>{label}</a>' for href, label in NAV_ITEMS)
+
+
+    if path.startswith("/reading/") and 'class="quiz"' in content:
+        scope = '<p class="exercise-scope">English answers are free. Detailed explanations are in the <a href="/books/">book edition</a>.</p>'
+        content = content.replace('<article class="quiz"', scope + '<article class="quiz"', 1)
+
+    if 'class="quiz"' in content:
+        fallback = '<noscript><p class="scope-note">JavaScript is off, so the answer is shown below instead of the interactive quiz.</p><style>.quiz .answer-panel{display:block}.quiz .choices,.quiz [data-reveal]{display:none}</style></noscript>'
+        # Insert next to the exercise rather than after the footer.
+        content = content.replace('<article class="quiz"', fallback + '<article class="quiz"', 1)
+
+    section_nav = ""
+    if path.startswith("/reading/"):
+        section_nav = '<nav class="section-nav" aria-label="Reading options">'
+        for href, label in [("/reading/", "Sentence practice"), ("/reading/articles/", "Long readings")]:
+            current = path.startswith(href) if href.endswith("articles/") else not path.startswith("/reading/articles/")
+            section_nav += f'<a href="{href}"' + (' aria-current="page"' if current else '') + f'>{label}</a>'
+        section_nav += '</nav>'
 
     return f"""<!DOCTYPE html>
 <html lang="{esc(cfg["lang"])}">
@@ -195,11 +207,19 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
 <meta name="twitter:title" content="{esc(full_title)}">
 <meta name="twitter:description" content="{esc(description)}">
 <meta name="twitter:image" content="{esc(og_image_url)}">
+<meta name="theme-color" content="#4d6a38">
+<meta name="application-name" content="{esc(site_name)}">
+<meta name="app-version" content="{esc(cfg["build_version"])}">
 <link rel="icon" href="{esc(asset("/static/favicon.svg"))}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{esc(asset("/static/apple-touch-icon.png"))}">
+<link rel="manifest" href="/static/manifest.webmanifest">
 <link rel="stylesheet" href="{esc(asset("/static/style.css"))}">
+<link rel="stylesheet" href="{esc(asset("/static/experience.css"))}">
+<link rel="stylesheet" href="{esc(asset("/static/garden.css"))}">
+<link rel="stylesheet" href="{esc(asset("/static/pwa.css"))}">
 {_analytics_html(cfg)}{jsonld_html}
 </head>
-<body>
+<body class="{'site-home' if path == '/' else 'site-inner'}">
 <div class="garden-bg" aria-hidden="true">
   <svg viewBox="0 0 1440 400" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg">
     <path class="g-far" d="M0 214 C 240 150 430 176 620 200 S 1060 150 1440 188 L1440 400 L0 400 Z"/>
@@ -244,29 +264,33 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="/">
-      <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M4 20.5V5.5M8 8h8M8 11.5h5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M3 23C2 18 8 14 14 15C20 14 26 18 25 24C24 29 5 29 3 23Z" fill="currentColor" opacity=".3"/><path d="M4 20C4 14 10 9 16 12C21 9 26 15 25 20C21 18 19 23 15 20C10 23 9 18 4 20Z" fill="currentColor"/><path d="M21 12Q22 6 28 5Q29 12 21 12Z" fill="currentColor"/><path d="M21 16L23 10" stroke="currentColor" stroke-width="1.5"/></svg>
       <span>{esc(site_name)}</span>
     </a>
-    <nav class="site-nav" aria-label="Main">{nav_html}</nav>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav" hidden>Menu</button>
+    <nav id="main-nav" class="site-nav" aria-label="Main">{nav_html}</nav>
   </div>
 </header>
 </div>
-<main id="main" class="container{' container-wide' if wide else ''}">
+<main tabindex="-1" id="main" class="container{' container-wide' if wide else ''}">
 {crumbs_html}
+{section_nav}
 {content}
 </main>
 <footer class="site-footer">
   <div class="container">
     <p class="footer-brand">{esc(site_name)}</p>
     <p class="footer-tagline">{esc(cfg["tagline"])}</p>
-    <nav class="footer-nav" aria-label="Footer">{nav_html}</nav>
+    <nav class="footer-nav" aria-label="Footer">{nav_html}<a href="/vocab/phrases/">Everyday phrases</a><a href="/about/">About</a></nav>
 {_sister_html(cfg)}
     <p class="footer-legal"><a href="/privacy/">Privacy Policy</a></p>
     <p class="copyright">&copy; {esc(site_name)}</p>
   </div>
 </footer>
+<script src="{esc(asset("/static/experience.js"))}" defer></script>
 {extra_scripts}
 <script src="{esc(asset("/static/announce.js"))}" defer></script>
+<script src="{esc(asset("/static/pwa.js"))}" defer></script>
 </body>
 </html>
 """

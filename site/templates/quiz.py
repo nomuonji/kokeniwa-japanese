@@ -162,7 +162,7 @@ def render_problem(cfg, problems, index):
   <p class="verdict" role="status"></p>
   <div class="answer-panel" id="{panel_id}">{content_panel}</div>
 </article>
-<nav class="pager">{prev_link}{next_link}</nav>
+<nav class="pager">{prev_link}{next_link}</nav><p><a href="/quiz/">Back to all questions →</a></p>
 """
     jsonld = {
         "@context": "https://schema.org",

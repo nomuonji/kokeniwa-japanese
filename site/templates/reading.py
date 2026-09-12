@@ -44,7 +44,7 @@ def _category_chips(problems, active=None):
     counts = {}
     for p in problems:
         counts[p["category"]] = counts.get(p["category"], 0) + 1
-    return '<div class="chip-row">' + "".join(
+    return '<div class="chip-row"><a class="chip" href="/reading/">All sentences</a>' + "".join(
         f'<a class="chip{" active" if c == active else ""}" href="{category_url(c)}">'
         f'{esc(c)}<span class="count">{counts[c]}</span></a>' for c in counts) + '</div>'
 
@@ -52,6 +52,8 @@ def _category_chips(problems, active=None):
 def render_index(cfg, problems):
     content = f'''<h1>Japanese Reading Training</h1>
 <p class="lead">Read complete Japanese sentences in context. This free set includes {len(problems)} questions with natural English answers.</p>
+<p class="scope-note">These exercises include answers and translations. For free grammar and vocabulary notes alongside the text, try <a href="/reading/articles/">long reading</a>.</p>
+<p><a class="follow-btn" href="{problem_url(problems[0])}">Try the first sentence →</a></p>
 <h2>Browse by category</h2>{_category_chips(problems)}<h2>All questions</h2>{_list_items(problems)}'''
     return layout.page(cfg, title="Japanese Reading Training", description=f"Japanese reading practice: {len(problems)} sentences with English answers.", path="/reading/", content=content, og_image="reading", breadcrumbs=[("/reading/", "Reading")], active_nav="/reading/")
 
@@ -80,5 +82,5 @@ def render_problem(cfg, problems, index):
         attrs = ""
     prev_link = f'<a class="prev" href="{problem_url(problems[index-1])}">← Previous</a>' if index else ""
     next_link = f'<a class="next" href="{problem_url(problems[index+1])}">Next →</a>' if index < len(problems)-1 else ""
-    content = f'''<h1>Japanese Reading No.{p["id"]}</h1><article class="quiz"{attrs}><div class="quiz-meta">{_badges(p)}<span class="badge">{esc(p["point"])}</span></div><p class="sentence-en" lang="ja">{esc(p["sentence_ja"])}</p>{interaction}</article><nav class="pager">{prev_link}{next_link}</nav>'''
+    content = f'''<h1>Japanese Reading No.{p["id"]}</h1><article class="quiz"{attrs}><div class="quiz-meta">{_badges(p)}<span class="badge">{esc(p["point"])}</span></div><p class="sentence-en" lang="ja">{esc(p["sentence_ja"])}</p>{interaction}</article><nav class="pager">{prev_link}{next_link}</nav><p><a href="/reading/">Back to all questions →</a></p>'''
     return layout.page(cfg, title=f"Japanese Reading No.{p['id']} | {p['point']}", description=f"Japanese reading practice No.{p['id']}: {p['sentence_ja']}", path=path, content=content, og_image="reading", breadcrumbs=[("/reading/", "Reading"), (path, f"No.{p['id']}")], active_nav="/reading/", extra_scripts=QUIZ_SCRIPT)

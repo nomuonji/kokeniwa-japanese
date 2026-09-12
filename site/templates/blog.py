@@ -115,7 +115,7 @@ def post_card(a, *, heading="h3", featured=False):
     label = "Read the story" if featured else "Read"
     return f"""
 <a class="{kind} topic-{cls}" href="{article_url(a)}">
-  {_cover_img(a, eager=featured)}
+{_cover_img(a, eager=featured)}
   <div class="post-body">
     <div class="post-head">{_cat_badge(name)}{_meta_line(a)}</div>
     <{heading} class="post-title">{esc(a["title"])}</{heading}>
@@ -174,7 +174,7 @@ def render_index(cfg, articles):
                 f'<div class="post-grid">{"".join(post_card(a) for a in arts)}</div>')
         body = (f"""
 <header class="blog-hero">
-  <p class="eyebrow">Journal</p>
+  <p class="eyebrow">The Kokeniwa Japanese journal</p>
   <h1>Honne Japan</h1>
   <p class="lead">{esc(INDEX_LEAD)}</p>
 </header>"""

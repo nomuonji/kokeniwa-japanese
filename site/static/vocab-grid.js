@@ -11,8 +11,10 @@
 
   var src = app.getAttribute("data-src");
 
+  function load() {
+  app.innerHTML = '<p class="lead" role="status">Loading cards…</p>';
   fetch(src)
-    .then(function (r) { return r.json(); })
+    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then(function (data) {
       init(data.words || []);
       // Re-render on hash-only changes (in-page deep links) too.
@@ -20,7 +22,11 @@
     })
     .catch(function () {
       app.innerHTML = '<p class="lead">Failed to load the data. Please try again later.</p>';
+      var retry = el("button", "fc-btn", "Try again");
+      retry.type = "button"; retry.addEventListener("click", load); app.appendChild(retry);
     });
+  }
+  load();
 
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -37,7 +43,7 @@
 
     // --- control bar ---
     var bar = el("div", "fc-bar");
-    var flipAllBtn = el("button", "fc-btn", "Show all meanings");
+    var flipAllBtn = el("button", "fc-btn", "Reveal visible cards");
     flipAllBtn.type = "button";
     flipAllBtn.setAttribute("aria-pressed", "false");
     bar.appendChild(flipAllBtn);
@@ -90,10 +96,10 @@
     // --- flip all / reset ---
     var allFlipped = false;
     flipAllBtn.addEventListener("click", function () {
-      allFlipped = !allFlipped;
+      allFlipped = !Array.from(grid.querySelectorAll(".fc-cell:not([hidden])")).every(function (cell) { return cell.classList.contains("flipped"); });
       flipAllBtn.setAttribute("aria-pressed", String(allFlipped));
-      flipAllBtn.textContent = allFlipped ? "Show all Japanese" : "Show all meanings";
-      grid.querySelectorAll(".fc-cell").forEach(function (c) {
+      flipAllBtn.textContent = allFlipped ? "Reset visible cards" : "Reveal visible cards";
+      grid.querySelectorAll(".fc-cell:not([hidden])").forEach(function (c) {
         c.classList.toggle("flipped", allFlipped);
       });
     });
@@ -108,5 +114,6 @@
         });
       }
     }
+    if (window.enhanceStudyGrid) window.enhanceStudyGrid(app);
   }
 })();
