@@ -1,0 +1,84 @@
+{
+  "sentences": {
+    "「すみません」は、日本語学習者が早い段階で覚える言葉の一つだ。": [
+      {"text": "「すみません」は、", "role": "topic"},
+      {"text": "日本語学習者が早い段階で覚える言葉の一つだ。", "role": "predicate"}
+    ],
+    "教科書では「I'm sorry」と訳されることが多いが、実際の会話では謝罪以外の場面にもよく現れる。": [
+      {"text": "教科書では", "role": "topic"},
+      {"text": "「I'm sorry」と", "role": "quote"},
+      {"text": "訳されることが多いが、", "role": "connector"},
+      {"text": "実際の会話では", "role": "topic"},
+      {"text": "謝罪以外の場面にも", "role": "modifier"},
+      {"text": "よく", "role": "modifier"},
+      {"text": "現れる。", "role": "predicate"}
+    ],
+    "店員を呼ぶときや、人に道をたずねるときにも、この言葉は自然に使われる。": [
+      {"text": "店員を呼ぶときや、", "role": "clause"},
+      {"text": "人に道をたずねるときにも、", "role": "clause"},
+      {"text": "この言葉は", "role": "topic"},
+      {"text": "自然に", "role": "modifier"},
+      {"text": "使われる。", "role": "predicate"}
+    ],
+    "たとえば、知らない人に声をかける前に「すみません」と言うと、相手の注意を少し借りる合図になる。": [
+      {"text": "たとえば、", "role": "connector"},
+      {"text": "知らない人に声をかける前に", "role": "clause"},
+      {"text": "「すみません」と", "role": "quote"},
+      {"text": "言うと、", "role": "clause"},
+      {"text": "相手の注意を少し借りる合図に", "role": "complement"},
+      {"text": "なる。", "role": "predicate"}
+    ],
+    "ここでは、自分が悪いことをしたと認めているわけではない。": [
+      {"text": "ここでは、", "role": "topic"},
+      {"text": "自分が悪いことをしたと", "role": "clause"},
+      {"text": "認めているわけではない。", "role": "predicate"}
+    ],
+    "相手の時間や空間に入り込むことへの、小さな配慮を先に示している。": [
+      {"text": "相手の時間や空間に入り込むことへの、", "role": "modifier"},
+      {"text": "小さな配慮を", "role": "object"},
+      {"text": "先に", "role": "modifier"},
+      {"text": "示している。", "role": "predicate"}
+    ],
+    "また、何かをしてもらったあとに「すみません」と言う人もいる。": [
+      {"text": "また、", "role": "connector"},
+      {"text": "何かをしてもらったあとに", "role": "clause"},
+      {"text": "「すみません」と", "role": "quote"},
+      {"text": "言う人も", "role": "subject"},
+      {"text": "いる。", "role": "predicate"}
+    ],
+    "この場合には、「手間をかけさせてしまった」という気持ちと、「ありがとう」に近い感謝が重なっている。": [
+      {"text": "この場合には、", "role": "topic"},
+      {"text": "「手間をかけさせてしまった」という気持ちと、", "role": "subject"},
+      {"text": "「ありがとう」に近い感謝が", "role": "subject"},
+      {"text": "重なっている。", "role": "predicate"}
+    ],
+    "英語の一語に置き換えようとすると、この重なりは見えにくくなる。": [
+      {"text": "英語の一語に", "role": "complement"},
+      {"text": "置き換えようとすると、", "role": "clause"},
+      {"text": "この重なりは", "role": "topic"},
+      {"text": "見えにくくなる。", "role": "predicate"}
+    ],
+    "つまり、「すみません」を理解するには、辞書の意味だけでなく、会話の中で何を調整している言葉なのかを見る必要がある。": [
+      {"text": "つまり、", "role": "connector"},
+      {"text": "「すみません」を理解するには、", "role": "clause"},
+      {"text": "辞書の意味だけでなく、", "role": "object"},
+      {"text": "会話の中で何を調整している言葉なのかを", "role": "object"},
+      {"text": "見る必要がある。", "role": "predicate"}
+    ],
+    "日本語には、情報そのものよりも、人と人の距離をなめらかにするために働く表現が少なくない。": [
+      {"text": "日本語には、", "role": "topic"},
+      {"text": "情報そのものよりも、", "role": "modifier"},
+      {"text": "人と人の距離をなめらかにするために働く表現が", "role": "subject"},
+      {"text": "少なくない。", "role": "predicate"}
+    ],
+    "言葉を覚えるときは、「何と訳すか」だけでなく、「いつ、なぜ使うか」まで一緒に見ると、理解が深くなる。": [
+      {"text": "言葉を覚えるときは、", "role": "clause"},
+      {"text": "「何と訳すか」だけでなく、", "role": "object"},
+      {"text": "「いつ、なぜ使うか」まで", "role": "object"},
+      {"text": "一緒に", "role": "modifier"},
+      {"text": "見ると、", "role": "clause"},
+      {"text": "理解が", "role": "subject"},
+      {"text": "深くなる。", "role": "predicate"}
+    ]
+  }
+}
