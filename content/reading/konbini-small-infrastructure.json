@@ -1,0 +1,172 @@
+{
+  "slug": "konbini-small-infrastructure",
+  "title_ja": "コンビニはなぜ「小さなインフラ」になったのか",
+  "title_en": "How Convenience Stores Became Tiny Infrastructure",
+  "date": "2026-09-12",
+  "topic": "Everyday Japan",
+  "level": "N3–N2",
+  "minutes": 6,
+  "description": "A short original article about why convenience stores in Japan feel less like shops and more like everyday infrastructure.",
+  "orientation_en": "Watch how long Japanese sentences group information before the final predicate. Read each colored unit as one chunk instead of translating word by word.",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "ja": "日本のコンビニに入ると、食べ物や飲み物だけでなく、生活に必要な小さな用事まで一度に済ませられる。",
+          "en": "When you enter a convenience store in Japan, you can take care of not only food and drinks but also small everyday errands all at once."
+        },
+        {
+          "ja": "旅行者にとっては便利な店に見えるが、住んでいる人にとっては日常の動線の一部になっている。",
+          "en": "To a traveler it may look like a convenient shop, but to people who live there it has become part of their everyday routine."
+        },
+        {
+          "ja": "その理由は、商品が多いからだけではない。",
+          "en": "The reason is not simply that the stores carry many products."
+        }
+      ],
+      "notes": [
+        {
+          "type": "word",
+          "quote": "用事",
+          "explanation_en": "An errand, task, or matter you need to take care of."
+        },
+        {
+          "type": "phrase",
+          "quote": "〜にとっては",
+          "explanation_en": "Marks a viewpoint: 'for ...' or 'from ...'s perspective.'"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "ja": "コンビニは、駅や住宅街、オフィス街など、人が毎日通る場所の近くにある。",
+          "en": "Convenience stores are found near places people pass through every day, such as stations, residential areas, and office districts."
+        },
+        {
+          "ja": "そこで客は、朝食を買い、荷物を受け取り、料金を払い、ときにはコピー機まで使う。",
+          "en": "There, customers buy breakfast, pick up parcels, pay bills, and sometimes even use the copier."
+        },
+        {
+          "ja": "一つ一つは小さな用事でも、別々の場所へ行かずに済むことには大きな価値がある。",
+          "en": "Each task may be small, but there is real value in not having to go to separate places for all of them."
+        }
+      ],
+      "notes": [
+        {
+          "type": "grammar",
+          "quote": "〜ずに済む",
+          "explanation_en": "Means 'to manage without doing ...' or 'not have to do ...'."
+        },
+        {
+          "type": "nuance",
+          "quote": "まで",
+          "explanation_en": "Here it adds a sense of extension: even something as far as using a copier is included."
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "ja": "さらに、店は一日の時間帯に合わせて役割を少しずつ変える。",
+          "en": "The store also changes its role little by little depending on the time of day."
+        },
+        {
+          "ja": "朝は急いでいる会社員が多く、昼は弁当や飲み物が動き、夜には翌朝の買い物をする人もいる。",
+          "en": "In the morning there are many office workers in a hurry, at lunchtime bento and drinks move quickly, and at night some people shop for the next morning."
+        },
+        {
+          "ja": "同じ小さな空間が、時間によって違う需要を受け止めている。",
+          "en": "The same small space absorbs different kinds of demand depending on the hour."
+        }
+      ],
+      "notes": [
+        {
+          "type": "phrase",
+          "quote": "〜に合わせて",
+          "explanation_en": "Means adapting or adjusting something to match another condition."
+        },
+        {
+          "type": "word",
+          "quote": "需要",
+          "explanation_en": "Demand; the need or desire for goods or services."
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "ja": "だからコンビニの強さは、「何でもある」ことよりも、「今ここで必要なことがだいたいできる」ことにある。",
+          "en": "That is why the strength of convenience stores lies less in 'having everything' than in 'being able to do most of what you need right here and now.'"
+        },
+        {
+          "ja": "大きな施設ではなくても、生活の細かな摩擦を減らせば、場所はインフラのような存在になれる。",
+          "en": "Even without being a large facility, a place can become infrastructure-like if it reduces the small frictions of everyday life."
+        },
+        {
+          "ja": "身近すぎて意識しない便利さほど、なくなったときにその役割がよく見える。",
+          "en": "The conveniences we take most for granted are often the ones whose role becomes clearest when they disappear."
+        }
+      ],
+      "notes": [
+        {
+          "type": "grammar",
+          "quote": "〜ことにある",
+          "explanation_en": "Used to say that the essence, reason, or strength of something lies in a particular point."
+        },
+        {
+          "type": "nuance",
+          "quote": "身近すぎて意識しない",
+          "explanation_en": "Literally 'too familiar to notice'; a natural way to describe things taken for granted."
+        }
+      ]
+    }
+  ],
+  "guide": {
+    "summary_en": "The article argues that Japanese convenience stores function as small-scale infrastructure because they reduce many tiny frictions in daily life: errands, payments, food, parcel pickup, and other tasks can all happen in one familiar place.",
+    "vocabulary": [
+      "用事（ようじ） — errand; something you need to do",
+      "動線（どうせん） — the path or flow of people's movement",
+      "住宅街（じゅうたくがい） — residential area",
+      "料金（りょうきん） — fee or charge",
+      "需要（じゅよう） — demand"
+    ],
+    "patterns": [
+      "〜だけでなく — not only ...",
+      "〜にとっては — from the perspective of ...",
+      "〜ずに済む — to manage without doing ...",
+      "〜に合わせて — to adjust to / match ...",
+      "〜ことにある — to lie in the fact that ..."
+    ],
+    "grammar": [
+      "Long Japanese sentences often delay the main predicate until the end. Hold earlier chunks in memory without forcing an English word order onto them.",
+      "In 一つ一つは小さな用事でも, でも works concessively: 'even if each one is only a small errand.'"
+    ],
+    "nuance": [
+      "動線 is common in design, retail and urban-planning contexts. It describes how people actually move through a space.",
+      "摩擦 is literally 'friction,' but here it is metaphorical: small inconveniences, extra steps, waiting, or switching locations."
+    ],
+    "paraphrases": [
+      "日常の動線の一部になっている → 毎日の生活の流れに入っている",
+      "生活の細かな摩擦を減らす → 毎日の小さな不便を減らす"
+    ],
+    "background": [
+      "The article describes a general feature of convenience-store use in Japan, not a claim that every store offers every service.",
+      "Services vary by chain and location, but bill payment, parcel services and multifunction copiers are common examples."
+    ],
+    "comprehension": [
+      {
+        "q": "Why does the article say convenience stores are more than places with many products?",
+        "a": "Because they let people combine many small everyday tasks in one place and reduce the friction of moving between separate services."
+      },
+      {
+        "q": "How does the role of the store change during the day?",
+        "a": "Different groups and needs dominate at different times, such as rushed workers in the morning, lunch demand at midday, and next-day shopping at night."
+      }
+    ],
+    "output": [
+      "In Japanese, describe one place in your town that saves you several small errands.",
+      "Use 〜ずに済む in a sentence about something that makes your daily life easier."
+    ]
+  }
+}
