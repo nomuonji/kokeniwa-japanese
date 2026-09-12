@@ -1,0 +1,177 @@
+{
+  "slug": "sumimasen-beyond-apology",
+  "title_ja": "「すみません」はなぜ謝る以外にも使われるのか",
+  "title_en": "Why Sumimasen Means More Than 'I'm Sorry'",
+  "date": "2026-09-12",
+  "topic": "Language & Culture",
+  "level": "N3–N2",
+  "minutes": 6,
+  "description": "An original Japanese reading about how すみません works as apology, attention-getter, consideration, and sometimes even gratitude.",
+  "orientation_en": "Notice how Japanese meaning is distributed across context, not just dictionary definitions. Pay special attention to clauses that explain why すみません feels natural in different situations.",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "ja": "「すみません」は、日本語学習者が早い段階で覚える言葉の一つだ。",
+          "en": "Sumimasen is one of the words Japanese learners tend to learn at an early stage."
+        },
+        {
+          "ja": "教科書では「I'm sorry」と訳されることが多いが、実際の会話では謝罪以外の場面にもよく現れる。",
+          "en": "Textbooks often translate it as 'I'm sorry,' but in real conversation it frequently appears in situations other than apologies."
+        },
+        {
+          "ja": "店員を呼ぶときや、人に道をたずねるときにも、この言葉は自然に使われる。",
+          "en": "It is also naturally used when calling a staff member or asking someone for directions."
+        }
+      ],
+      "notes": [
+        {
+          "type": "phrase",
+          "quote": "早い段階で",
+          "explanation_en": "Means 'at an early stage.' It is common in discussions of learning, development, or processes."
+        },
+        {
+          "type": "grammar",
+          "quote": "〜ことが多い",
+          "explanation_en": "A common pattern meaning 'often ...' or 'it is often the case that ...'."
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "ja": "たとえば、知らない人に声をかける前に「すみません」と言うと、相手の注意を少し借りる合図になる。",
+          "en": "For example, saying sumimasen before speaking to a stranger acts as a signal that you are borrowing a little of their attention."
+        },
+        {
+          "ja": "ここでは、自分が悪いことをしたと認めているわけではない。",
+          "en": "Here, you are not admitting that you did something wrong."
+        },
+        {
+          "ja": "相手の時間や空間に入り込むことへの、小さな配慮を先に示している。",
+          "en": "Instead, you are showing a small amount of consideration in advance for entering the other person's time or space."
+        }
+      ],
+      "notes": [
+        {
+          "type": "phrase",
+          "quote": "声をかける",
+          "explanation_en": "To speak to, call out to, or initiate conversation with someone."
+        },
+        {
+          "type": "grammar",
+          "quote": "〜わけではない",
+          "explanation_en": "Rejects an overly simple interpretation: 'it is not that ...' or 'that does not mean ...'."
+        },
+        {
+          "type": "nuance",
+          "quote": "注意を少し借りる",
+          "explanation_en": "A metaphorical way to describe briefly asking for someone's attention without sounding demanding."
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "ja": "また、何かをしてもらったあとに「すみません」と言う人もいる。",
+          "en": "Some people also say sumimasen after someone has done something for them."
+        },
+        {
+          "ja": "この場合には、「手間をかけさせてしまった」という気持ちと、「ありがとう」に近い感謝が重なっている。",
+          "en": "In this case, a feeling of 'I made you go to some trouble' overlaps with gratitude close to 'thank you.'"
+        },
+        {
+          "ja": "英語の一語に置き換えようとすると、この重なりは見えにくくなる。",
+          "en": "If you try to replace it with a single English word, that overlap becomes harder to see."
+        }
+      ],
+      "notes": [
+        {
+          "type": "grammar",
+          "quote": "〜てもらう",
+          "explanation_en": "Expresses receiving the benefit of someone doing something for you."
+        },
+        {
+          "type": "phrase",
+          "quote": "手間をかけさせる",
+          "explanation_en": "To cause someone extra work, effort, or trouble."
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "ja": "つまり、「すみません」を理解するには、辞書の意味だけでなく、会話の中で何を調整している言葉なのかを見る必要がある。",
+          "en": "In other words, to understand sumimasen, you need to look not only at its dictionary meaning but also at what the word is adjusting inside the interaction."
+        },
+        {
+          "ja": "日本語には、情報そのものよりも、人と人の距離をなめらかにするために働く表現が少なくない。",
+          "en": "Japanese has quite a few expressions that work less to convey information itself and more to smooth the distance between people."
+        },
+        {
+          "ja": "言葉を覚えるときは、「何と訳すか」だけでなく、「いつ、なぜ使うか」まで一緒に見ると、理解が深くなる。",
+          "en": "When learning a word, your understanding deepens if you look not only at how to translate it but also at when and why it is used."
+        }
+      ],
+      "notes": [
+        {
+          "type": "grammar",
+          "quote": "〜には、〜必要がある",
+          "explanation_en": "A useful pattern for stating what is necessary in order to achieve something."
+        },
+        {
+          "type": "nuance",
+          "quote": "距離をなめらかにする",
+          "explanation_en": "Not literal physical distance; it describes making social interaction smoother and less abrupt."
+        }
+      ]
+    }
+  ],
+  "guide": {
+    "summary_en": "The article explains that すみません cannot be understood only as an apology. Depending on context, it can soften an interruption, acknowledge the burden placed on someone, or overlap with gratitude. Its function is partly social: it helps manage the distance between speakers.",
+    "vocabulary": [
+      "謝罪（しゃざい） — apology",
+      "配慮（はいりょ） — consideration; thoughtfulness",
+      "手間（てま） — time and effort; trouble",
+      "感謝（かんしゃ） — gratitude",
+      "距離（きょり） — distance; here, social distance"
+    ],
+    "patterns": [
+      "〜ことが多い — often ...",
+      "〜ときにも — also when ...",
+      "〜わけではない — it is not that ...",
+      "〜てもらう — to receive the benefit of someone doing ...",
+      "〜には〜必要がある — in order to ..., it is necessary to ..."
+    ],
+    "grammar": [
+      "The sentence 自分が悪いことをしたと認めているわけではない uses と to mark the content of 認める: what is being acknowledged.",
+      "In 見ると、理解が深くなる, と marks a natural result: when/if you look at those things together, understanding deepens."
+    ],
+    "nuance": [
+      "すみません can sound apologetic, attention-getting, considerate, grateful, or several of these at once depending on situation and tone.",
+      "〜わけではない is especially useful when correcting a likely misunderstanding without flatly saying 'no.'"
+    ],
+    "paraphrases": [
+      "相手の注意を少し借りる → 相手に少しだけこちらを見てもらう",
+      "人と人の距離をなめらかにする → 人間関係をぎこちなくしないようにする"
+    ],
+    "background": [
+      "There is no one-to-one English equivalent that covers every use of すみません.",
+      "The appropriate expression depends on relationship, setting, tone, and how much burden or interruption is involved."
+    ],
+    "comprehension": [
+      {
+        "q": "What does すみません do before speaking to a stranger?",
+        "a": "It can signal that you are asking for a small amount of the person's attention while showing consideration for the interruption."
+      },
+      {
+        "q": "Why can すみません overlap with gratitude?",
+        "a": "Because the speaker may both appreciate what the other person did and acknowledge that it took effort or caused inconvenience."
+      }
+    ],
+    "output": [
+      "Write two short situations in Japanese: one where すみません is mainly an apology and one where it is mainly an attention-getter.",
+      "Use 〜わけではない to correct a possible misunderstanding about a Japanese word or custom."
+    ]
+  }
+}
