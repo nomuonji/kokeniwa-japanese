@@ -20,6 +20,7 @@ from templates import pages as pages_tpl
 from templates import quiz as quiz_tpl
 from templates import vocab as vocab_tpl
 from templates import reading as reading_tpl
+from templates import reading_articles as reading_articles_tpl
 
 
 def load_articles():
@@ -43,6 +44,35 @@ def load_articles():
             "vocab": meta.get("vocab", ""),
             "html": html,
         })
+    articles.sort(key=lambda a: a["date"], reverse=True)
+    return articles
+
+
+def load_reading_articles():
+    """Load JSON long readings and fail fast on broken article data."""
+    articles = []
+    reading_dir = config.CONTENT_DIR / "reading"
+    if not reading_dir.is_dir():
+        return articles
+    for path in sorted(reading_dir.glob("*.json")):
+        article = json.loads(path.read_text(encoding="utf-8"))
+        for key in ("slug", "title_ja", "title_en", "date", "description", "paragraphs"):
+            if not article.get(key):
+                raise ValueError(f"{path.name}: missing required field {key}")
+        if article["slug"] != path.stem:
+            raise ValueError(f"{path.name}: slug must match filename")
+        if not isinstance(article["paragraphs"], list) or not article["paragraphs"]:
+            raise ValueError(f"{path.name}: paragraphs must be a non-empty list")
+        for p_index, paragraph in enumerate(article["paragraphs"]):
+            sentences = paragraph.get("sentences", [])
+            if not isinstance(sentences, list) or not sentences:
+                raise ValueError(f"{path.name}: paragraph {p_index + 1} has no sentences")
+            for s_index, sentence in enumerate(sentences):
+                if not sentence.get("ja") or not sentence.get("en"):
+                    raise ValueError(
+                        f"{path.name}: paragraph {p_index + 1} sentence {s_index + 1} needs ja and en"
+                    )
+        articles.append(article)
     articles.sort(key=lambda a: a["date"], reverse=True)
     return articles
 
@@ -72,6 +102,7 @@ def build(cfg):
     vocab_data = {k: data_loader.load_vocab(k) for k in config.VOCAB_SETS}
     counts = {k: len(v) for k, v in vocab_data.items()}
     articles = load_articles()
+    long_readings = load_reading_articles()
 
     # --- vocabulary (grid + light JSON; grids are noindex) ---
     emit("/vocab/", vocab_tpl.render_vocab_home(cfg, counts))
@@ -113,6 +144,17 @@ def build(cfg):
             emit(reading_tpl.category_url(category), reading_tpl.render_category(cfg, reading_problems, category))
         for i in range(len(reading_problems)):
             emit(reading_tpl.problem_url(reading_problems[i]), reading_tpl.render_problem(cfg, reading_problems, i))
+
+    # --- long-form Japanese reading (separate from one-sentence training) ---
+    if long_readings:
+        emit("/reading/articles/", reading_articles_tpl.render_index(cfg, long_readings))
+        for i, article in enumerate(long_readings):
+            prev_article = long_readings[i - 1] if i > 0 else None
+            next_article = long_readings[i + 1] if i < len(long_readings) - 1 else None
+            emit(
+                reading_articles_tpl.article_url(article),
+                reading_articles_tpl.render_article(cfg, article, prev_article, next_article),
+            )
 
     # --- blog (optional) ---
     if articles:
