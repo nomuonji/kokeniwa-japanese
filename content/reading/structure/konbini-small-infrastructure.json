@@ -1,0 +1,90 @@
+{
+  "sentences": {
+    "日本のコンビニに入ると、食べ物や飲み物だけでなく、生活に必要な小さな用事まで一度に済ませられる。": [
+      {"text": "日本のコンビニに入ると、", "role": "clause"},
+      {"text": "食べ物や飲み物だけでなく、", "role": "object"},
+      {"text": "生活に必要な小さな用事まで", "role": "object"},
+      {"text": "一度に", "role": "modifier"},
+      {"text": "済ませられる。", "role": "predicate"}
+    ],
+    "旅行者にとっては便利な店に見えるが、住んでいる人にとっては日常の動線の一部になっている。": [
+      {"text": "旅行者にとっては", "role": "topic"},
+      {"text": "便利な店に", "role": "complement"},
+      {"text": "見えるが、", "role": "connector"},
+      {"text": "住んでいる人にとっては", "role": "topic"},
+      {"text": "日常の動線の一部に", "role": "complement"},
+      {"text": "なっている。", "role": "predicate"}
+    ],
+    "その理由は、商品が多いからだけではない。": [
+      {"text": "その理由は、", "role": "topic"},
+      {"text": "商品が多いからだけではない。", "role": "predicate"}
+    ],
+    "コンビニは、駅や住宅街、オフィス街など、人が毎日通る場所の近くにある。": [
+      {"text": "コンビニは、", "role": "topic"},
+      {"text": "駅や住宅街、オフィス街など、", "role": "modifier"},
+      {"text": "人が毎日通る場所の近くに", "role": "modifier"},
+      {"text": "ある。", "role": "predicate"}
+    ],
+    "そこで客は、朝食を買い、荷物を受け取り、料金を払い、ときにはコピー機まで使う。": [
+      {"text": "そこで", "role": "connector"},
+      {"text": "客は、", "role": "topic"},
+      {"text": "朝食を買い、", "role": "clause"},
+      {"text": "荷物を受け取り、", "role": "clause"},
+      {"text": "料金を払い、", "role": "clause"},
+      {"text": "ときにはコピー機まで", "role": "object"},
+      {"text": "使う。", "role": "predicate"}
+    ],
+    "一つ一つは小さな用事でも、別々の場所へ行かずに済むことには大きな価値がある。": [
+      {"text": "一つ一つは小さな用事でも、", "role": "clause"},
+      {"text": "別々の場所へ", "role": "modifier"},
+      {"text": "行かずに済むことには", "role": "topic"},
+      {"text": "大きな価値が", "role": "subject"},
+      {"text": "ある。", "role": "predicate"}
+    ],
+    "さらに、店は一日の時間帯に合わせて役割を少しずつ変える。": [
+      {"text": "さらに、", "role": "connector"},
+      {"text": "店は", "role": "topic"},
+      {"text": "一日の時間帯に合わせて", "role": "modifier"},
+      {"text": "役割を", "role": "object"},
+      {"text": "少しずつ", "role": "modifier"},
+      {"text": "変える。", "role": "predicate"}
+    ],
+    "朝は急いでいる会社員が多く、昼は弁当や飲み物が動き、夜には翌朝の買い物をする人もいる。": [
+      {"text": "朝は", "role": "topic"},
+      {"text": "急いでいる会社員が多く、", "role": "clause"},
+      {"text": "昼は", "role": "topic"},
+      {"text": "弁当や飲み物が動き、", "role": "clause"},
+      {"text": "夜には", "role": "topic"},
+      {"text": "翌朝の買い物をする人も", "role": "subject"},
+      {"text": "いる。", "role": "predicate"}
+    ],
+    "同じ小さな空間が、時間によって違う需要を受け止めている。": [
+      {"text": "同じ小さな空間が、", "role": "subject"},
+      {"text": "時間によって", "role": "modifier"},
+      {"text": "違う需要を", "role": "object"},
+      {"text": "受け止めている。", "role": "predicate"}
+    ],
+    "だからコンビニの強さは、「何でもある」ことよりも、「今ここで必要なことがだいたいできる」ことにある。": [
+      {"text": "だから", "role": "connector"},
+      {"text": "コンビニの強さは、", "role": "topic"},
+      {"text": "「何でもある」ことよりも、", "role": "modifier"},
+      {"text": "「今ここで必要なことがだいたいできる」ことに", "role": "complement"},
+      {"text": "ある。", "role": "predicate"}
+    ],
+    "大きな施設ではなくても、生活の細かな摩擦を減らせば、場所はインフラのような存在になれる。": [
+      {"text": "大きな施設ではなくても、", "role": "clause"},
+      {"text": "生活の細かな摩擦を", "role": "object"},
+      {"text": "減らせば、", "role": "clause"},
+      {"text": "場所は", "role": "topic"},
+      {"text": "インフラのような存在に", "role": "complement"},
+      {"text": "なれる。", "role": "predicate"}
+    ],
+    "身近すぎて意識しない便利さほど、なくなったときにその役割がよく見える。": [
+      {"text": "身近すぎて意識しない便利さほど、", "role": "topic"},
+      {"text": "なくなったときに", "role": "clause"},
+      {"text": "その役割が", "role": "subject"},
+      {"text": "よく", "role": "modifier"},
+      {"text": "見える。", "role": "predicate"}
+    ]
+  }
+}
