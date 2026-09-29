@@ -1,80 +1,154 @@
 ---
-title: How an Izakaya Actually Works — the Otōshi, the Rhythm, and the Bill
+title: How an Izakaya Works — Otōshi, Ordering, and What to Check Before You Sit
 date: 2026-07-29
-description: An izakaya is not a Japanese pub and not a restaurant. Here's the actual sequence — the small dish you didn't order, why you keep ordering in waves, and how the bill gets split.
+description: Learn what an izakaya is, how otōshi and table charges can work, useful Japanese phrases for checking fees and allergies, and what varies from one establishment to another.
 category: Real Tokyo
-vocab: 居酒屋|いざかや|izakaya · drinking place with food; お通し|おとおし|otōshi · the seated charge dish; とりあえず生|とりあえずなま|toriaezu nama · "a draft to start"; お会計|おかいけい|okaikei · the bill; 割り勘|わりかん|warikan · splitting the bill evenly; 飲み放題|のみほうだい|nomihōdai · all-you-can-drink
+vocab: 居酒屋|いざかや|izakaya · drinking place with food; お通し|おとおし|otōshi · small dish sometimes served after seating; とりあえず生|とりあえずなま|toriaezu nama · "a draft to start"; お会計|おかいけい|okaikei · the bill; 割り勘|わりかん|warikan · splitting the bill evenly; 飲み放題|のみほうだい|nomihōdai · all-you-can-drink
 ---
 
-*The most useful room in Japan, and the one most visitors use wrong.*
+An {{居酒屋|いざかや|izakaya · drinking place with food}} is a Japanese drinking-and-dining establishment. “Japanese pub” is a useful shortcut, but the actual format varies widely: some are large chains with tablet ordering, some are small counter shops, and some operate more like restaurants with alcohol.
 
-An {{居酒屋|いざかや|izakaya · drinking place with food}} gets translated as "Japanese pub," which sets you up to walk in expecting a bar and be confused by the menu, or expecting a restaurant and be confused by everything else.
+The written word is **居酒屋**:
 
-Neither is right. The word is *i* (to stay) + *sakaya* (sake shop): [a sake shop you were allowed to stay and drink in](https://gogen-yurai.jp/izakaya/), back when shops sold sake by weight and let you taste it standing up. That origin still explains the room. Drinks lead, food supports, and you are expected to stay a while.
+- 居 — to be / stay
+- 酒 — alcohol / sake
+- 屋 — shop / establishment
 
-Here's the actual sequence, because nobody explains it and every part of it is unremarkable once you know.
+Those characters help explain the modern word, but **a character-by-character breakdown is not the same thing as a verified historical etymology**. Historical explanations differ in detail, so it is safer to separate the written meaning from claims about exactly how the business type originated.
 
-## You sit down and receive food you didn't order
+For visitors, the most important practical point is simpler: **fees, ordering systems, time limits, and otōshi rules differ by establishment.**
 
-A small dish arrives within a minute. Pickles, simmered vegetables, something in a tiny bowl. You didn't order it, and it's not free.
+## Otōshi: the small dish you may not have ordered
 
-This is {{お通し|おとおし|otōshi · the seated charge dish}} — usually ¥300–700 per person, functionally a cover charge served as a snack. It is not a scam. In a country with no tipping, it's simply how the seat gets paid for — and the name itself comes from the kitchen [signalling that your order had been "passed through"](https://style.iichiko.co.jp/finger-food/20240618/0329/). Not everywhere charges it: the chain Torikizoku states plainly that it has no otoshi or table fee, and at some places you can decline.
+At many izakaya, a small dish called {{お通し|おとおし|otōshi · small dish sometimes served after seating}} may arrive soon after you sit down.
 
-If you have an allergy, say so when you sit. The dish can usually be swapped.
+It may be connected to a table or seating charge. The amount, whether it is served, whether it can be declined, and whether another seating fee also applies can vary by establishment.
 
-## Drinks come first, and they come fast
+The National Consumer Affairs Center of Japan specifically advises visitors to check charges because an otōshi may be billed even if it was not separately ordered, and there can be questions about whether another table charge applies.
 
-The convention is that everyone orders a first drink immediately, before looking at the food menu. The reflex phrase is {{とりあえず生|とりあえずなま|toriaezu nama}} — "a draft beer to start with" — and it exists precisely so nobody has to decide anything yet.
+- 国民生活センター: https://www.cht.kokusen.go.jp/ja/food/post-4.html
 
-Then you wait. Food doesn't get ordered until the drinks land and everyone has said *kanpai*. Two things follow from this that catch people out:
+So avoid treating “¥300–700” or any other fixed range as a national rule. If price matters, ask before ordering.
 
-- **Don't start drinking before the toast.** Even in a casual place. Wait the extra fifteen seconds.
-- **Don't pour your own.** You fill other people's glasses, they fill yours. In a group this is genuinely the norm, not an etiquette-blog invention. Alone or as a couple, nobody cares.
+### Useful phrase: check the charge
 
-## Food arrives whenever it's ready
+> お通しはいくらですか。  
+> *Otōshi wa ikura desu ka?*  
+> “How much is the otōshi?”
 
-This is the part that reads as chaos to visitors: dishes come out in no particular order, one or two at a time, whenever the kitchen finishes them. Your fried chicken may arrive before the salad and after the second beer.
+> 席料はありますか。  
+> *Sekiryō wa arimasu ka?*  
+> “Is there a table/seating charge?”
 
-It isn't disorganised — it's the design. You order in **waves**: three or four small plates now, look at what happened, order more in twenty minutes. Everything is shared, straight off the middle of the table.
+> お通しと席料は別ですか。  
+> *Otōshi to sekiryō wa betsu desu ka?*  
+> “Are the otōshi and seating charge separate?”
 
-Ordering everything at once, restaurant-style, is the single most common visitor mistake. The food lands in a pile, goes cold, and the evening loses its shape. Order less than you think, then keep going. The room is built for a three-hour stay.
+## Allergies: do not assume the dish can simply be swapped
 
-## Getting attention is loud, and that's correct
+If you have an allergy, tell the staff before eating anything you did not order.
 
-You call the staff. Out loud. A clear *sumimasen!* across the room is the expected behaviour, not a rudeness — the same point I make in the piece on [sumimasen](/blog/sumimasen/). Many izakaya now have a call button on the table; press it without hesitation.
+> アレルギーがあります。これは何が入っていますか。  
+> *Arerugī ga arimasu. Kore wa nani ga haitte imasu ka?*  
+> “I have an allergy. What is in this?”
 
-Sitting quietly with a raised finger, hoping to be noticed, is the thing that does not work. Staff are not scanning for eye contact. They're waiting to be called.
+> 食べられないものがあります。お通しを確認してもいいですか。  
+> *Taberarenai mono ga arimasu. Otōshi o kakunin shite mo ii desu ka?*  
+> “There are things I can’t eat. May I check what the otōshi is?”
 
-## Two words that decide your night
+Do not rely on the assumption that every restaurant can replace it. Ask the specific establishment.
 
-**{{飲み放題|のみほうだい|nomihōdai · all-you-can-drink}}** — usually 90 or 120 minutes, often bundled with a set course. Whether it's good value depends entirely on your pace: it's typically priced around three or four drinks. It also puts a clock on your table, and staff will come to tell you when it's ending.
+## Ordering patterns vary
 
-**Time limits generally.** Many places cap seatings at two hours when busy. You'll be told at the door. It isn't personal.
+Some groups order drinks first, some order food and drinks together, and many modern chains use tablets or QR menus.
 
-## The bill
+You may hear:
 
-You pay at the register on the way out, not at the table. Ask for {{お会計|おかいけい|okaikei · the bill}}, or make a small crossed-fingers gesture across the room, which everyone understands.
+> {{とりあえず生|とりあえずなま|toriaezu nama}}  
+> “A draft beer to start.”
 
-Groups usually do {{割り勘|わりかん|warikan · splitting the bill evenly}} — the total divided evenly by heads, regardless of who ate or drank what. Nobody itemises. If you drank nothing and want to pay less, you'll need to say so before the split is calculated, and it will be slightly awkward. Among students and younger groups, splitting by app is now normal.
+It is a familiar phrase, not a rule that everyone must order beer.
 
-Tipping does not exist. Leaving money on the table will get you chased down the street.
+Similarly, shared plates are common in many izakaya, but not every dish must be shared and not every group orders in the same rhythm.
 
-## Which one to walk into
+## Getting staff attention
 
-- **Chains** (Torikizoku, Watami, Shirokiya) — cheap, reliable, picture menus, often English. There is no shame in these; Japanese people use them constantly.
-- **Small independents** — six seats, one person cooking, no English menu. Better food, higher chance of a lovely evening, higher chance of standing outside reading a sign you can't read.
-- **Yokochō alleys** (Omoide Yokochō in Shinjuku, Nonbei Yokochō in Shibuya) — clusters of tiny bars. Atmospheric, cramped, and often with a cover charge higher than you'd expect. Worth doing once with modest expectations.
+Depending on the venue, you may:
 
-The honest advice: pick a small place that's about two-thirds full at 7pm on a weekday. Empty at that hour means something; completely packed means you'll wait.
+- call “すみません” (*sumimasen*)
+- press a table call button
+- use a tablet
+- order at the counter
+
+A clear *sumimasen* is normal in many restaurants, but use the system the venue provides.
+
+## Nomihōdai and time limits
+
+{{飲み放題|のみほうだい|nomihōdai · all-you-can-drink}} plans often have a time limit, but the duration, last-order rule, eligible drinks, minimum group size, and food-course requirement differ.
+
+Before buying one, check:
+
+> 飲み放題は何分ですか。  
+> *Nomihōdai wa nan-pun desu ka?*  
+> “How many minutes is the all-you-can-drink plan?”
+
+> ラストオーダーは何時ですか。  
+> *Rasuto ōdā wa nanji desu ka?*  
+> “When is last order?”
+
+Do not assume a universal 90- or 120-minute rule.
+
+## Paying the bill
+
+{{お会計|おかいけい|okaikei · the bill}} is the standard word to ask for the check.
+
+> お会計お願いします。  
+> *Okaikei onegaishimasu.*  
+> “The bill, please.”
+
+Some places ask you to pay at the register; others bring the bill to the table; some use self-checkout. Follow the venue’s instructions.
+
+{{割り勘|わりかん|warikan · splitting the bill evenly}} means dividing a bill, often evenly, but groups do not always split the same way.
+
+## A practical first-visit checklist
+
+Before you settle in, check the things that can actually change your bill or experience:
+
+1. Is there an otōshi or table charge?
+2. Are they separate charges?
+3. Are there allergens in the otōshi?
+4. Is there a time limit?
+5. If using nomihōdai, when is last order?
+6. How does this venue take orders and payment?
+
+That is more reliable than assuming every izakaya follows one national script.
+
+## Where the word and visitor guidance come from
+
+JNTO and GO TOKYO both provide current visitor-oriented explanations of izakaya dining:
+
+- JNTO: https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/
+- GO TOKYO: https://www.gotokyo.org/en/story/guide/pub-grub-decoded-a-guide-to-japanese-izakaya/index.html
+
+For fee disputes and otōshi/table-charge questions, the National Consumer Affairs Center is the more useful public source:
+
+- 国民生活センター: https://www.cht.kokusen.go.jp/ja/food/post-4.html
+
+## Vocabulary
+
+- {{居酒屋|いざかや|izakaya · drinking place with food}}
+- {{お通し|おとおし|otōshi · small dish sometimes served after seating}}
+- {{とりあえず生|とりあえずなま|toriaezu nama · "a draft to start"}}
+- {{お会計|おかいけい|okaikei · the bill}}
+- {{割り勘|わりかん|warikan · splitting the bill evenly}}
+- {{飲み放題|のみほうだい|nomihōdai · all-you-can-drink}}
 
 ## Sources & further reading
 
-*Japanese-language sources — what Japanese readers read about this, not what's written for visitors.*
-
-- 語源（「居続けて飲む酒屋」）: [語源由来辞典「居酒屋」](https://gogen-yurai.jp/izakaya/)
-- 江戸期からの成り立ちと業態の変遷: [Wikipedia（日本語版）「居酒屋」](https://ja.wikipedia.org/wiki/%E5%B1%85%E9%85%92%E5%B1%8B)
-- お通しの由来（「注文をお通ししました」の合図）と突き出し・先付けとの違い: [いいちこスタイル](https://style.iichiko.co.jp/finger-food/20240618/0329/)
-- なぜ座っただけで料金が発生するのか、という店側の事情: [山路力也（フードジャーナリスト）／Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/ec566bd3e8fea13cb78d3ee65b94deb522976cb1)
+- JNTO, izakaya dining guide: https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/
+- 国民生活センター, restaurant/otōshi charge guidance: https://www.cht.kokusen.go.jp/ja/food/post-4.html
+- GO TOKYO, izakaya guide: https://www.gotokyo.org/en/story/guide/pub-grub-decoded-a-guide-to-japanese-izakaya/index.html
+- 語源由来辞典「居酒屋」: https://gogen-yurai.jp/izakaya/
 
 ---
 
