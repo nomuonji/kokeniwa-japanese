@@ -1,83 +1,151 @@
 ---
-title: The Ikigai Chart Isn't Japanese — Here's What Ikigai Actually Means
+title: Ikigai Meaning — What the Four-Circle Diagram Gets Wrong and What the Word Can Mean
 date: 2026-07-15
-description: The famous four-circle ikigai diagram isn't Japanese — it was made in the West in 2014. A Japanese writer explains what ikigai actually means, and how to find yours.
+description: Ikigai is broader than the famous four-circle career diagram. Here is what academic research says about the diagram's modern history, how Japanese research treats ikigai, and how the word appears in everyday Japanese.
 category: Japanese Words
-vocab: 生きがい|いきがい|ikigai · reason for living; 生きる|いきる|ikiru · to live; 甲斐|かい|kai · worth, value; 朝|あさ|asa · morning; お茶|おちゃ|ocha · tea; 散歩|さんぽ|sanpo · a walk
+vocab: 生きがい|いきがい|ikigai · what makes life feel worth living; 生きる|いきる|ikiru · to live; 甲斐|かい|kai · worth, value; 朝|あさ|asa · morning; お茶|おちゃ|ocha · tea; 散歩|さんぽ|sanpo · a walk
 ---
 
-*A Spanish astrologer drew that four-circle diagram in 2011. I grew up with the real thing.*
+The four-circle *ikigai* graphic is everywhere: what you love, what you are good at, what the world needs, and what you can be paid for.
 
-You've seen the chart. Four overlapping circles — what you love, what you're good at, what the world needs, what you can be paid for — with one glowing word in the middle: **ikigai**. It's on LinkedIn, in TED decks, on the walls of coworking spaces. It promises that if you can just line up all four circles, you'll unlock a meaningful, purpose-driven life.
+It can be a useful career-reflection tool. But it should not be treated as a settled Japanese definition of {{生きがい|いきがい|ikigai · what makes life feel worth living}}.
 
-I'm Japanese. I grew up with this word. And I have to tell you something a little awkward:
+A 2024 peer-reviewed review notes two important points:
 
-**We don't use that chart. Most Japanese people have never seen it.**
+1. there is no single academically agreed definition of *ikigai*;
+2. the popular four-circle diagram does not come from the scientific literature on ikigai.
 
-Not because it's a secret. Because it isn't ours.
+- Review article: https://pmc.ncbi.nlm.nih.gov/articles/PMC10936145/
 
-## The four-circle "ikigai" diagram was drawn in the West
+That is a more careful starting point than saying either “the diagram is the true Japanese secret” or “the diagram is completely fake.”
 
-Here's the part almost no one shares. That famous Venn diagram wasn't handed down through Japanese tradition. It was drawn in **2011 by a Spanish astrologer named Andrés Zuzunaga** — and the word in the middle wasn't "ikigai." It was **"purpose"** ([the origin is well documented](https://ikigaitribe.com/ikigai/ikigai-misunderstood/)).
+## What we can say about the diagram's modern history
 
-Then in **2014**, a British entrepreneur named Marc Winn watched a TED talk about longevity in Okinawa that mentioned ikigai, looked at Zuzunaga's "purpose" diagram, and simply **swapped the center word to "ikigai."** He wrote it up in [a blog post that, by his own account, took about 45 minutes](https://www.sloww.co/ikigai/). It went viral. It has since been reproduced billions of times.
+The 2024 review discusses an earlier “Purpose” diagram associated with Andrés Zuzunaga and a 2014 Marc Winn blog post that connected the diagram to *ikigai*.
 
-So the "ancient Japanese secret to purpose" you've been shown is, quite literally, a Western self-help graphic with a Japanese word pasted over the middle. It's a good diagram about *career purpose*. It is **not** what ikigai means.
+The evidence supports a modern, non-academic development path. It does **not** justify every viral detail that later articles repeat.
 
-## What the chart quietly gets wrong
+For example, claims such as “a marketer made it in exactly 45 minutes” should not be presented as established historical fact unless the original source is verified directly.
 
-Look closely at what the four-circle version is actually telling you. To have ikigai, you supposedly need all four: love it, be good at it, get paid for it, and have the world need it.
+So the cautious version is:
 
-Read that again. It means: *if the thing you love doesn't pay you, you don't have ikigai yet.* If you haven't fused your passion, your talent, your income, and your social impact into one perfect job — you're incomplete.
+> The now-famous four-circle *ikigai* diagram appears to have developed from a pre-existing “purpose” diagram and was connected to the word *ikigai* in English-language self-help writing around 2014.
 
-That's an enormous, anxious thing to put on a person. And it's the exact opposite of how the word is used in Japan. The chart turned a gentle, everyday word into one more productivity target to fail at.
+That is different from saying the four circles are an old Japanese teaching.
 
-## What ikigai actually means
+## What ikigai means in Japanese research
 
-The word is simple. *Iki* ({{生きる|いきる|ikiru}}) means "to live." *Gai* ({{甲斐|かい|kai}}) means "worth" or "value." Together, {{生きがい|いきがい|ikigai · reason for living}}: **the thing that makes life feel worth living.**
+Japanese scholarship has used *ikigai* in several overlapping ways, including subjective feelings that life is worth living, sources of purpose or motivation, and psychosocial well-being.
 
-That's it. There is no requirement that it make money. No requirement that you're even good at it. No requirement that the world needs it.
+The important point is that research does not reduce the concept to four career criteria.
 
-The neuroscientist [Ken Mogi](https://ikigaitribe.com/podcasts/podcast06/), who wrote a whole book on the subject (*The Little Book of Ikigai*), puts it plainly: ikigai applies to small everyday things just as much as to big goals and achievements. When Japanese researchers actually ask people what their ikigai is, they don't name one heroic life-purpose. They list **many** things — often hobbies, family, a daily walk, a garden — and most of them have nothing to do with work.
+Examples of Japanese academic work include:
 
-Ikigai in Japan is closer to *reasons*, plural, than to *purpose*, singular. And most of those reasons are small.
+- J-STAGE article: https://www.jstage.jst.go.jp/article/jans1981/25/3/25_61/_article/-char/ja
+- J-STAGE article: https://www.jstage.jst.go.jp/article/jjprs/3/1/3_1/_article/-char/ja/
 
-## The real thing looks completely unremarkable
+JapanGov also presents *ikigai* in a broad everyday-life context rather than as a strict career formula:
 
-Let me give you the version I actually grew up around.
+- https://www.japan.go.jp/kizuna/2022/01/ikigai_the_japanese_secret_to_a_joyful_life.html
 
-My grandmother's ikigai was her {{朝|あさ|asa · morning}}. The specific order of it: open the window, water the plants on the veranda, make {{お茶|おちゃ|ocha · tea}}, sit. That was not a step toward anything. It *was* the thing.
+## The word itself
 
-An old man at my neighborhood sento (public bath) has gone at the same time every evening for decades. His ikigai isn't "bathing." It's the nod he exchanges with the same three regulars.
+{{生きがい|いきがい|ikigai · what makes life feel worth living}} contains:
 
-None of this fits inside a Venn diagram. None of it is monetizable. None of it would survive a LinkedIn post. And all of it is far closer to ikigai than "find the intersection of your passion and the market."
+- {{生きる|いきる|ikiru · to live}}
+- {{甲斐|かい|kai · worth, value}}
 
-## So how do you actually "find" your ikigai?
+In everyday language, *ikigai* can refer to something that gives a person motivation, enjoyment, meaning, or a reason to keep going.
 
-Here's the reframe, and it's a relief: **you don't hunt for it. You notice it.**
+It does not have to be a job.
 
-Stop looking for the One Big Thing that justifies your existence. That search is the Western chart talking, and it mostly produces guilt. Instead, try what the word actually points at:
+It also does not have to be tiny or domestic. For one person it may be family; for another, research, work, a hobby, a community, or a long-term goal.
 
-- Write down the small reasons you got out of bed this week. The first coffee. A text from someone. A show you're mid-way through. Ten minutes of sun.
-- Notice which small things you already protect — the routines you don't skip even when you're busy.
-- Add one on purpose. A plant. A walk. A weekly call.
+## Natural Japanese examples
 
-Ken Mogi calls the spirit of it *starting small*, *the joy of little things*, and *being in the here and now*. That list you just wrote is more genuinely ikigai than any four-circle chart will ever be.
+> 孫の成長が生きがいです。  
+> *Mago no seichō ga ikigai desu.*  
+> “Watching my grandchild grow is one of the things that makes life meaningful to me.”
 
-## If the chart made you feel behind — let it go
+> 毎朝の散歩が生きがいになっている。  
+> *Maiasa no sanpo ga ikigai ni natte iru.*  
+> “My morning walk has become something I really live for.”
 
-If you've ever looked at that diagram and felt like a failure for not having turned your passion into your paycheck, I want you to hear this clearly: that pressure is not an ancient Japanese teaching. It's a graphic a marketer assembled in 45 minutes in 2014.
+> 仕事だけが生きがいではない。  
+> *Shigoto dake ga ikigai de wa nai.*  
+> “Work is not the only thing that gives life meaning.”
 
-The real word is kinder than that. It was never asking you to monetize your soul. It was only ever pointing at the small, unglamorous things that quietly make a life worth living — and gently suggesting you notice a few more of them.
+> この活動に生きがいを感じる。  
+> *Kono katsudō ni ikigai o kanjiru.*  
+> “I feel a sense of purpose in this activity.”
 
-That's ikigai. No circles required.
+These examples show why a single English word like *purpose* or *passion* does not cover every use.
+
+## Academic usage, everyday usage, and personal interpretation are different
+
+It helps to keep three layers separate.
+
+### Academic usage
+
+Researchers operationalize *ikigai* differently depending on the study. There is no single universal measurement or definition accepted across all research.
+
+### Everyday usage
+
+People can use *ikigai* for work, relationships, routines, hobbies, goals, or other sources of meaning.
+
+### My own experience
+
+In my own family, the word often appeared around modest routines: {{朝|あさ|asa · morning}} coffee, plants, a regular {{散歩|さんぽ|sanpo · a walk}}, or time with family.
+
+That is one lived example. It is not the only “authentic Japanese” definition.
+
+## So is the four-circle chart useless?
+
+No.
+
+It can still be a practical career exercise if you like it. The problem begins when the diagram is presented as:
+
+- an ancient Japanese model;
+- the one correct definition of *ikigai*;
+- proof that meaningful life requires paid work;
+- a scientific framework validated by Japanese ikigai research.
+
+Those stronger claims go beyond the evidence.
+
+A better label would be:
+
+> **a modern purpose/career diagram sometimes branded as ikigai**
+
+Use it if it helps, but do not confuse the tool with the whole concept.
+
+## A less rigid way to reflect on your own ikigai
+
+Instead of forcing one answer into four circles, try several prompts:
+
+- What activities make a normal week feel worth continuing?
+- Who or what do you reliably make time for?
+- What do you want to get better at even without external reward?
+- What responsibilities feel meaningful rather than merely compulsory?
+- What small routines would you miss if they disappeared?
+
+These are reflection prompts, not a traditional Japanese test.
+
+## Vocabulary
+
+- {{生きがい|いきがい|ikigai · what makes life feel worth living}}
+- {{生きる|いきる|ikiru · to live}}
+- {{甲斐|かい|kai · worth, value}}
+- {{朝|あさ|asa · morning}}
+- {{お茶|おちゃ|ocha · tea}}
+- {{散歩|さんぽ|sanpo · a walk}}
 
 ## Sources & further reading
 
-- On the diagram's real origin (Zuzunaga, 2011 → Winn, 2014): [Ikigai Tribe — "Ikigai Misunderstood"](https://ikigaitribe.com/ikigai/ikigai-misunderstood/) and [Sloww — "Ikigai: The True Meaning"](https://www.sloww.co/ikigai/)
-- Why it isn't a Venn diagram: [Nicholas Kemp, "Ikigai Is Not a Venn Diagram" (Medium)](https://medium.com/ikigai-insights/ikigai-is-not-a-venn-diagram-cca7abba323)
-- On the everyday meaning: Ken Mogi, *The Little Book of Ikigai*; [interview on the five pillars](https://ikigaitribe.com/podcasts/podcast06/)
+- Peer-reviewed 2024 review of the concept and diagram history: https://pmc.ncbi.nlm.nih.gov/articles/PMC10936145/
+- JapanGov overview: https://www.japan.go.jp/kizuna/2022/01/ikigai_the_japanese_secret_to_a_joyful_life.html
+- Japanese research: https://www.jstage.jst.go.jp/article/jans1981/25/3/25_61/_article/-char/ja
+- Japanese research: https://www.jstage.jst.go.jp/article/jjprs/3/1/3_1/_article/-char/ja/
 
 ---
 
-*I write **Honne Japan** — honest notes on Japanese living. (Honne, 本音, means your true feelings: the opposite of tatemae, the polite face Japan usually shows visitors.) One small, un-aesthetic idea each week — how it actually works, not how it photographs: [Honne Japan on Substack →](https://honnejapan.substack.com).*
+*I write **Honne Japan** — honest notes on Japanese living. One small, un-aesthetic idea each week: [Honne Japan on Substack →](https://honnejapan.substack.com).*
