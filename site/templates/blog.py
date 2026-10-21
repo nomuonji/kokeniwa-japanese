@@ -89,9 +89,12 @@ def _cat_badge(name):
 
 
 def _meta_line(a):
+    updated = a.get("updated", a["date"])
+    update_html = (f' · Updated <time datetime="{esc(updated)}">{esc(updated)}</time>'
+                   if updated != a["date"] else "")
     return (f'<span class="post-meta"><time datetime="{esc(a["date"])}">{esc(a["date"])}</time>'
             f'<span class="dot" aria-hidden="true">·</span>'
-            f'{reading_minutes(a)} min read</span>')
+            f'{reading_minutes(a)} min read{update_html}</span>')
 
 
 def _cover_img(article, *, eager=False):
@@ -266,6 +269,7 @@ def render_article(cfg, article, related=()):
         "headline": article["title"],
         "description": article.get("description", ""),
         "datePublished": article["date"],
+        "dateModified": article.get("updated", article["date"]),
         "inLanguage": "en",
         "articleSection": article.get("category", ""),
         "image": cfg["base_url"] + f"/static/og/{cover_og(article)}.png",

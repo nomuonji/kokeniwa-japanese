@@ -57,6 +57,7 @@ def load_articles():
             "slug": path.stem,
             "title": meta["title"],
             "date": meta["date"],
+            "updated": meta.get("updated", meta["date"]),
             "description": meta.get("description", ""),
             "category": meta.get("category", ""),
             "vocab": meta.get("vocab", ""),
@@ -123,7 +124,7 @@ def build(cfg):
     long_readings = load_reading_articles()
 
     # --- vocabulary (grid + light JSON; grids are noindex) ---
-    emit("/vocab/", vocab_tpl.render_vocab_home(cfg, counts))
+    emit("/vocab/", vocab_tpl.render_vocab_home(cfg, counts, vocab_data))
     data_dir = config.DIST_DIR / "static" / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
     for set_key, words in vocab_data.items():

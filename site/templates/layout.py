@@ -131,7 +131,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     """
     announce_html = _announce_html() if path in ("/", "/books/", "/blog/") else ""
     site_name = cfg["site_name"]
-    full_title = site_name if path == "/" else f"{title}｜{site_name}"
+    full_title = cfg.get("home_title", site_name) if path == "/" else f"{title}｜{site_name}"
     canonical = cfg["base_url"] + path
     # OGPは絶対URL必須
     og_image_url = cfg["base_url"] + f"/static/og/{og_image}.png"
