@@ -50,7 +50,7 @@ def _set_cards(counts, set_keys):
     return f'<div class="card-grid">{"".join(cards)}</div>'
 
 
-def render_vocab_home(cfg, counts):
+def render_vocab_home(cfg, counts, vocab_data):
     """/vocab/ — index of the public sets (indexable)."""
     total = sum(counts[k] for k in config.PUBLIC_SETS)
     level_keys = [k for k in config.PUBLIC_SETS if k in config.LEVEL_SETS]
@@ -63,6 +63,15 @@ def render_vocab_home(cfg, counts):
     other_html = ""
     if other_keys:
         other_html = f"<h2>Phrases</h2>{_set_cards(counts, other_keys)}"
+    # A small, readable lesson on the indexable hub; the full trainers stay noindex.
+    sample_ids = (12, 13, 18, 19, 24, 25)
+    sample_words = {w["id"]: w for w in vocab_data["n5"]}
+    rows = "".join(
+        f'<tr><th scope="row" lang="ja">{esc(w["jp"])}</th>'
+        f'<td><span lang="ja">{esc(w["kana"])}</span><br>{esc(w["romaji"])}</td>'
+        f'<td>{esc(w["en"])}</td>'
+        f'<td><span lang="ja">{esc(w["example_ja"])}</span><br>{esc(w["example_en"])}</td></tr>'
+        for w in (sample_words[i] for i in sample_ids))
     content = f"""
 <h1>Japanese Vocabulary Flashcards</h1>
 <p class="lead">Learn Japanese words from JLPT N5 to N1, plus themed sets and
@@ -73,6 +82,33 @@ Japanese word and its English meaning and reading. Free, no sign-up.</p>
 {_set_cards(counts, level_keys)}
 {themed_html}
 {other_html}
+<section class="vocab-preview" aria-labelledby="vocab-sample-title">
+<h2 id="vocab-sample-title">Try six beginner Japanese words in pairs</h2>
+<p>Start with three contrasts: expensive and cheap, hot and cold weather, near and far.
+Read the sentence before covering the meaning. This tests the word in context rather than its spelling alone.</p>
+<div class="vocab-table-wrap" role="region" aria-label="Beginner vocabulary examples" tabindex="0">
+<table><caption>Japanese words, readings and English example translations</caption>
+<thead><tr><th scope="col">Word</th><th scope="col">Reading / romaji</th><th scope="col">Meaning</th><th scope="col">Example</th></tr></thead>
+<tbody>{rows}</tbody></table></div>
+<p>Notice that <span lang="ja">高い</span> can mean tall or expensive; the price in the example selects the second meaning.
+<span lang="ja">暑い</span> describes hot weather, rather than a hot object, for which you would use <span lang="ja">熱い</span>.</p>
+<p><a href="/vocab/n5/#w12">Practise these words in the N5 flashcards</a>, or
+<a href="/quiz/level/n5/">try beginner grammar questions</a>. For a sentence containing both topic and subject markers,
+see <a href="/blog/japanese-particles-wa-ga/">wa vs ga with examples and practice</a>.</p>
+<h2>Which Japanese vocabulary set should you choose?</h2>
+<p>If basic words and kana still slow you down, use N5 first. If you can recall them in sentences,
+try N4, then move upward when the current set feels familiar. These are Kokeniwa's study groupings,
+not an official or exhaustive JLPT word list: the <a href="https://www.jlpt.jp/e/faq/index.html">JLPT FAQ</a>
+explains why vocabulary, kanji and grammar specifications are no longer published.</p>
+<p>For a trip, choose Travel or Survival Phrases instead of working through every level.
+For casual dialogue, use Anime &amp; Casual Japanese and read the
+<a href="/blog/japanese-slang-for-learners/">slang guide</a> for context.
+To connect individual words to longer sentences, use <a href="/reading/articles/">bilingual Japanese reading practice</a>.</p>
+<h2>Use the cards without memorising their order</h2>
+<p>Choose a few words, say a meaning before flipping, and return to the ones you missed.
+On the next visit, use search to mix words from different parts of the set.
+Each public trainer also links to its downloadable Anki CSV if you prefer reviewing outside the browser.</p>
+</section>
 """
     return layout.page(
         cfg, title="Japanese Vocabulary Flashcards (JLPT N5–N1)",
