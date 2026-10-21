@@ -1,4 +1,4 @@
-const VERSION = '9a8c53c6def86e58';
+const VERSION = '9a4f03349ad727e8';
 const CACHE_NAME = 'kokeniwa-' + VERSION;
 const CORE = [
   '/',
