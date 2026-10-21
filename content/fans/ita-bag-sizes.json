@@ -1,0 +1,75 @@
+{
+  "slug": "ita-bag-sizes",
+  "title": "Ita bag sizes & badge count calculator",
+  "description": "Estimate how many round badges fit in an ita bag with a non-overlapping grid calculator. Compare 57 mm and 75 mm layouts using your usable dimensions.",
+  "category": "Ita bags",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "There is no reliable “A4 bag = X badges” conversion. Badge count depends on the usable panel, the covered badge diameter, spacing and layout. Use measured millimetres for a simple grid, and product-specific instructions for overlapping layouts.",
+  "sections": [
+    {
+      "id": "calculator",
+      "title": "Try a non-overlapping badge layout",
+      "paragraphs": [
+        "Enter the usable flat panel size, not the bag’s outer dimensions. For badge diameter, measure the widest part with its cover on. The gap is the clear distance between neighbouring badge edges. The margin is reserved on each edge of the panel.",
+        "This tool lays out round faces in straight rows. It does not model staggered rows, overlapping faces, pin positions, curved corners, fabric stretch or weight. A result of zero means the selected grid cannot fit a complete badge, not that the bag is unusable."
+      ]
+    },
+    {
+      "id": "formula",
+      "title": "How the count is calculated",
+      "paragraphs": [
+        "For each direction, usable length = panel length − 2 × margin. Count = floor((usable length + gap) ÷ (diameter + gap)), limited to zero or more. Multiply columns by rows. The diagram centres the resulting grid in the panel.",
+        "Example: a 280 × 210 mm usable panel with 57 mm badges, zero gap and zero margin holds 4 columns × 3 rows = 12 in this model. At 75 mm, the same panel holds 3 × 2 = 6. These are geometry examples, not claims about a particular bag."
+      ]
+    },
+    {
+      "id": "published",
+      "title": "Why a seller may show a higher number",
+      "paragraphs": [
+        "COADE states up to 24 badges of 57 mm on its original 278 × 210 mm sheet. A straight non-overlapping grid on those dimensions gives only 12. Those figures describe different layouts. The product’s intended mounting arrangement should be checked on its own terms; this calculator cannot validate it.",
+        "Likewise, COADE’s 2026 A4 sheet for approximately 75 mm badges lists up to 15. Do not interpret 15 as the result of this grid formula or as a promise that any A4 bag will hold that sheet."
+      ],
+      "sources": [
+        "insert",
+        "new"
+      ]
+    },
+    {
+      "id": "choose",
+      "title": "Work backwards from your badge collection",
+      "paragraphs": [],
+      "items": [
+        "Count the badges you actually want visible, rather than buying enough to fill an advertised maximum.",
+        "Try both panel orientations. A wide panel and a tall one may hold different grids.",
+        "Use the outer covered diameter. Even a small increase can remove an entire column.",
+        "Allow space for ribbons, rosettes and other decorations before calculating.",
+        "Check the assembled weight and the bag’s own instructions separately; this tool calculates space only."
+      ]
+    },
+    {
+      "id": "shopping",
+      "title": "A practical way to compare two bags",
+      "paragraphs": [
+        "Write down each bag’s usable display width and height, and check the insertion opening. Enter both sets of measurements with the same diameter and gap. Compare the diagram as well as the count: a row hidden by a rounded window is not a useful row. If a listing provides only outer dimensions, ask for the display-pocket measurements before treating the result as a fit estimate."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "insert",
+      "title": "COADE: original ita-bag sheet, October 2022",
+      "url": "https://www.coade-net.co.jp/blog/32915/"
+    },
+    {
+      "id": "new",
+      "title": "COADE: mini and 75 mm sheets, April 2026",
+      "url": "https://www.coade-net.co.jp/blog/38117/"
+    }
+  ],
+  "related": [
+    "ita-bag-inserts",
+    "can-badge-sizes"
+  ],
+  "tool": "badge-grid"
+}

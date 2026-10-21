@@ -1,0 +1,105 @@
+{
+  "slug": "cheki-photo-sizes",
+  "title": "Cheki photo sizes: instax mini, bromides & sleeves",
+  "description": "Compare instax mini outer dimensions with the image area and L-size prints. Measure fan photos and choose sleeves using usable internal dimensions.",
+  "category": "Protecting goods",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "For a sleeve, measure the whole photo, including its border. Instax mini film is 54 × 86 mm in portrait orientation; its image area is smaller. A photo described as “cheki-style” or “bromide” still needs its own stated dimensions.",
+  "sections": [
+    {
+      "id": "dimensions",
+      "title": "Physical photo size is not image size",
+      "paragraphs": [
+        "Fujifilm’s instax mini Link specification gives an 86 × 54 mm film size and a 62 × 46 mm picture size. Rotated to portrait orientation, that is a 54 × 86 mm outer rectangle around a 46 × 62 mm image. A sleeve sized only for the image would be too small for the physical print."
+      ],
+      "table": [
+        [
+          "Format or measurement",
+          "Width × height in portrait orientation",
+          "Use this for"
+        ],
+        [
+          "Instax mini film, whole item",
+          "54 × 86 mm",
+          "Sleeve or pocket fit"
+        ],
+        [
+          "Instax mini picture area",
+          "46 × 62 mm",
+          "Understanding the printed image area"
+        ],
+        [
+          "Fujifilm L-size print example",
+          "89 × 127 mm",
+          "Checking an L-print holder, subject to its fit allowance"
+        ]
+      ],
+      "sources": [
+        "photo",
+        "lprint"
+      ],
+      "diagram": "photo-sizes"
+    },
+    {
+      "id": "names",
+      "title": "Cheki, bromide and trading card are not one size",
+      "paragraphs": [
+        "Do not extend the mini dimensions to all instax formats or to merchandise that imitates an instant-photo border. A printed character card can look like an instant photograph while using a different outer size. Likewise, “bromide” on a goods listing does not by itself prove the item is an L-size print. Read the actual dimensions.",
+        "If you bought a photo from an event and the packaging gives no measurements, measure that item directly. The white border counts. If an autograph, raised decoration or extra layer changes its thickness, include that in your storage decision."
+      ]
+    },
+    {
+      "id": "sleeves",
+      "title": "Check the holder from the inside out",
+      "paragraphs": [
+        "Compare the photo’s outside dimensions with the sleeve or pocket’s usable internal dimensions. A package’s outer dimensions are not the same thing as its storage capacity. COADE lists distinct sleeve and case accessories for paper goods, so check the intended format rather than treating every transparent accessory as interchangeable."
+      ],
+      "sources": [
+        "goods"
+      ]
+    },
+    {
+      "id": "stack",
+      "title": "Measure again when adding layers",
+      "paragraphs": [
+        "A sleeved photo takes more space than the bare photo. If it will go inside a rigid case or album pocket, use the sleeved item’s outer measurements for the next fit check. Do not assume a holder advertised for the bare format has room for a second protector.",
+        "Make a paper template if you are ordering a display mount online. Mark the full outer rectangle and the visible image area separately. This helps you see whether a window will hide a border, a signature or the bottom of the picture."
+      ]
+    },
+    {
+      "id": "shopping",
+      "title": "Before buying a pack of sleeves",
+      "paragraphs": [],
+      "items": [
+        "Identify the exact photo format or measure the item itself.",
+        "Distinguish outer photo size from the printed picture area.",
+        "Find usable internal dimensions and intended item thickness in the holder specification.",
+        "Check which side opens and whether a flap reduces usable room.",
+        "Check whether your planned album or case accepts the already-sleeved item.",
+        "Try a single fit before storing a collection in the same layered arrangement."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "photo",
+      "title": "Fujifilm: instax mini Link specifications",
+      "url": "https://www.instax.com/mini_link/en/spec.html"
+    },
+    {
+      "id": "lprint",
+      "title": "Fujifilm: L-size design-frame print",
+      "url": "https://pg-ja.fujifilm.com/P003-000001.html"
+    },
+    {
+      "id": "goods",
+      "title": "COADE: fan-goods accessories",
+      "url": "https://www.coade-net.co.jp/products/oshikatsu/"
+    }
+  ],
+  "related": [
+    "can-badge-sizes",
+    "acrylic-stand-vs-keychain"
+  ]
+}

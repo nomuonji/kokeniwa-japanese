@@ -25,7 +25,7 @@ def asset(path):
     h = hashlib.sha1(f.read_bytes()).hexdigest()[:8]
     return f"{path}?v={h}"
 
-NAV_ITEMS = [('/vocab/', 'Vocabulary'), ('/quiz/', 'Grammar quiz'), ('/reading/', 'Sentences'), ('/reading/articles/', 'Long reading'), ('/blog/', 'Culture & language'), ('/books/', 'Books')]
+NAV_ITEMS = [('/vocab/', 'Vocabulary'), ('/quiz/', 'Grammar quiz'), ('/reading/', 'Sentences'), ('/reading/articles/', 'Long reading'), ('/blog/', 'Culture & language'), ('/books/', 'Books'), ('/fans/', 'Fan guides')]
 
 
 
@@ -217,6 +217,7 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
 <link rel="stylesheet" href="{esc(asset("/static/experience.css"))}">
 <link rel="stylesheet" href="{esc(asset("/static/garden.css"))}">
 <link rel="stylesheet" href="{esc(asset("/static/pwa.css"))}">
+{'<link rel="stylesheet" href="' + esc(asset('/static/fans.css')) + '">' if path.startswith('/fans/') else ''}
 {_analytics_html(cfg)}{jsonld_html}
 </head>
 <body class="{'site-home' if path == '/' else 'site-inner'}">

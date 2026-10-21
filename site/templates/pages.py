@@ -560,6 +560,9 @@ def render_home(cfg, *, counts, articles):
   </a>
 </div>
 
+<div class="section-head"><h2>Japanese fan goods guides</h2><a class="more" href="/fans/">All guides →</a></div>
+<div class="card-grid"><a class="card" href="/fans/ita-bag-sizes/"><h2>Plan your ita bag</h2><p>Estimate a badge layout with your own measurements. Compare sizes before choosing an insert.</p><div class="card-meta">Badge-count calculator →</div></a><a class="card" href="/fans/japanese-preorder-labels/"><h2>Read the listing before you order</h2><p>Understand preorder labels, random goods and what a BOX actually promises.</p><div class="card-meta">Practical buying guides →</div></a></div>
+
 {latest}
 
 <div class="section-head"><h2>Books</h2><a class="more" href="/books/">See all →</a></div>

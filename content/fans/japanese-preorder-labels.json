@@ -1,0 +1,122 @@
+{
+  "slug": "japanese-preorder-labels",
+  "title": "Japanese preorder labels: reservation, made-to-order & stock",
+  "description": "Read Japanese fan-goods order labels: yoyaku, juchū seisan, toriyose, stock and bonuses. Use a checklist for dates, selection and seller-specific terms.",
+  "category": "Buying goods",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "A preorder, a made-to-order item and an item being sourced from a supplier describe different order situations. Separate the order deadline from the expected release and shipment dates, then check the rules of the shop taking your payment.",
+  "sections": [
+    {
+      "id": "labels",
+      "title": "Translate the status before making a decision",
+      "paragraphs": [],
+      "table": [
+        [
+          "Japanese",
+          "Working translation",
+          "What to verify"
+        ],
+        [
+          "予約 / 予約受付",
+          "Preorder / accepting preorders",
+          "Order window, payment timing and expected release"
+        ],
+        [
+          "受注生産",
+          "Made to order",
+          "Cutoff, production schedule and this offer’s terms"
+        ],
+        [
+          "在庫あり",
+          "Listed as in stock",
+          "Current selectable variant and dispatch information"
+        ],
+        [
+          "取り寄せ",
+          "Sourcing from a supplier",
+          "Whether availability is confirmed"
+        ],
+        [
+          "発売予定",
+          "Planned release",
+          "Estimate rather than your delivery date"
+        ],
+        [
+          "発送予定",
+          "Planned dispatch",
+          "When the seller expects to send the item"
+        ],
+        [
+          "特典",
+          "Bonus",
+          "Eligibility, quantity and any cutoff or stock condition"
+        ]
+      ]
+    },
+    {
+      "id": "dates",
+      "title": "Keep three dates separate",
+      "paragraphs": [
+        "The reservation deadline is when an order window closes. The release date is when the product is planned to become available. The dispatch date concerns the shop sending your order. Delivery to your address is another step. A date beside one of these labels should not silently become a promise about all the others.",
+        "For a timed offer, record the stated time zone too. Check the actual checkout and confirmation for the product variant you selected; a campaign banner can describe a wider range than your cart contains."
+      ]
+    },
+    {
+      "id": "shop",
+      "title": "Shop policy matters as much as the vocabulary",
+      "paragraphs": [
+        "Animate Online Shop’s ordering FAQ explains its own sourcing and order-change rules. For example, a supplier-sourced item involves checking availability and may not be obtainable. Its buyer-requested cancellation policy is also specific to that shop. Do not apply those conditions to another retailer because both use Japanese preorder labels.",
+        "Good Smile’s referenced BOX listing separately describes orders through its own shop and partner shops. It directs readers to partner-specific order periods. That is a useful reminder to read the page for the seller you are actually using."
+      ],
+      "sources": [
+        "order",
+        "box"
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Treat a bonus as a separate eligibility question",
+      "paragraphs": [
+        "A picture of a bonus does not establish that your order includes it. Find the qualifying product, minimum quantity or spend if stated, campaign dates, shop restriction and any while-supplies-last wording. Distinguish the product itself from a shop-specific extra.",
+        "If the bonus is the reason you are ordering, locate its exact condition before paying. If you cannot establish eligibility from the offer, ask the seller. Do not substitute an old announcement or a different shop’s promotion for the current listing."
+      ]
+    },
+    {
+      "id": "record",
+      "title": "Copy this order-note checklist",
+      "paragraphs": [],
+      "items": [
+        "Product and selected variant; quantity; single unit or BOX.",
+        "Seller and order status: preorder, made to order, stock or sourcing.",
+        "Order cutoff and time zone; expected release; expected dispatch.",
+        "Payment timing and the seller’s cancellation/change conditions.",
+        "Bonus eligibility and whether the cart or confirmation identifies it.",
+        "Shipping destination and any restriction stated by this seller."
+      ]
+    },
+    {
+      "id": "mixed",
+      "title": "Check what happens to a mixed order",
+      "paragraphs": [
+        "If you combine an in-stock item with a preorder, inspect the shop’s shipment grouping and payment rules before assuming the available item leaves immediately. The labels describe products; your order’s dispatch arrangement is a separate question. Save the confirmation and return to the seller’s current support information if a schedule changes."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "order",
+      "title": "Animate Online Shop: ordering FAQ",
+      "url": "https://www.animate-onlineshop.jp/faq/order/order.html"
+    },
+    {
+      "id": "box",
+      "title": "Good Smile: K-ON! trading plush strap BOX listing",
+      "url": "https://www.goodsmile.com/ja/product/1145608/けいおん+ふわ雨シリーズ+トレーディングぬいぐるみストラップ+BOX（全5種）"
+    }
+  ],
+  "related": [
+    "blind-box-vs-complete-set",
+    "japanese-concert-seat-types"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "can-badge-sizes",
+  "title": "Japanese can badge sizes: choosing covers that fit",
+  "description": "Read Japanese can badge and protector sizes. Understand 57 mm, nominal diameter, cover compatibility and why covered badges need fresh measurements.",
+  "category": "Protecting goods",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "A “57 mm can badge” label describes the badge size, not the outer size of every compatible cover. Choose a protector for the stated badge shape and supported size range, then measure the covered badge again when planning a display.",
+  "sections": [
+    {
+      "id": "labels",
+      "title": "Read these parts of the listing",
+      "paragraphs": [],
+      "table": [
+        [
+          "Japanese label",
+          "What to look for"
+        ],
+        [
+          "缶バッジ / kan bajji",
+          "Pin-back badge; check the actual shape"
+        ],
+        [
+          "直径 / chokkei",
+          "Diameter, usually for a round item"
+        ],
+        [
+          "約 / yaku",
+          "Approximately; the number is not an exact-fit guarantee"
+        ],
+        [
+          "対応サイズ / taiō saizu",
+          "Supported item size, rather than necessarily the cover’s own size"
+        ],
+        [
+          "外寸 / 内寸",
+          "Outer dimensions / inner dimensions"
+        ],
+        [
+          "丸型・四角・ハート",
+          "Round, square and heart shapes"
+        ]
+      ]
+    },
+    {
+      "id": "range",
+      "title": "A familiar number is not a universal standard",
+      "paragraphs": [
+        "COADE’s cover range includes products for several badge sizes and shapes, rather than one protector for all badges. Its range history mentions 57, 32 and 75 mm products. These numbers are useful search terms, but they are not an exhaustive list of sizes or evidence that another maker’s cover fits."
+      ],
+      "sources": [
+        "cover"
+      ]
+    },
+    {
+      "id": "fit",
+      "title": "Use a two-stage fit check",
+      "paragraphs": [
+        "First match the unprotected badge to the cover’s stated compatible dimensions and shape. Then use the covered item’s outer dimensions to choose an album pocket, insert layout or storage box. Reusing the nominal badge diameter at the second stage can make a planned row too wide.",
+        "A front-facing circle does not tell you everything about thickness, rim shape or rear hardware. If the seller gives a compatibility list or fitting instructions, read those alongside the number. A cover that requires force is a reason to stop and recheck the match, not proof that the badge just needs pushing harder."
+      ]
+    },
+    {
+      "id": "different",
+      "title": "Cover, sleeve and display holder are different jobs",
+      "paragraphs": [
+        "COADE describes its badge covers as slip-on vinyl protection, and lists separate accessories for storing or displaying goods. Decide what you need before searching: a fitted cover for carrying, pockets for organising, or a display accessory. A product photo of several items together does not necessarily mean every component is included."
+      ],
+      "sources": [
+        "goods"
+      ]
+    },
+    {
+      "id": "checklist",
+      "title": "Before ordering protectors",
+      "paragraphs": [],
+      "items": [
+        "Confirm the exact badge you own, including whether it is round or another shape.",
+        "Look for compatible item size as well as the protector’s external dimensions.",
+        "Check the pack quantity: one bag of covers is not necessarily one cover.",
+        "Look for an opening or installation diagram and check how the pin remains accessible.",
+        "Try one protector before equipping an entire collection when the fit is uncertain.",
+        "Measure again with the cover installed before using the ita-bag calculator."
+      ]
+    },
+    {
+      "id": "example",
+      "title": "The one-millimetre mistake",
+      "paragraphs": [
+        "Suppose a panel is 285 mm wide. Five uncovered 57 mm faces fill that width exactly in a zero-gap grid. If your covered badges measure 58 mm, five would need 290 mm, so only four fit in that model. This is an illustration of the calculation, not a measured claim about any particular cover. Leave space based on your own assembled items."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cover",
+      "title": "COADE: badge-cover range",
+      "url": "https://www.coade-net.co.jp/special/badge_cover_10th/"
+    },
+    {
+      "id": "goods",
+      "title": "COADE: fan-goods accessories",
+      "url": "https://www.coade-net.co.jp/products/oshikatsu/"
+    }
+  ],
+  "related": [
+    "ita-bag-sizes",
+    "cheki-photo-sizes"
+  ]
+}

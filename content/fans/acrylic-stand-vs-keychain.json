@@ -1,0 +1,123 @@
+{
+  "slug": "acrylic-stand-vs-keychain",
+  "title": "Acrylic stand vs acrylic keychain: what are you buying?",
+  "description": "Understand acrysta and ac-key listings: bases, connector holes, hardware, included parts and measurements to check before buying Japanese character goods.",
+  "category": "Choosing goods",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "An acrylic stand is intended to stand on a base; an acrylic keychain is intended to hang from hardware. Some products support both uses, but do not assume a stand includes a chain or that a keychain comes with a matching base.",
+  "sections": [
+    {
+      "id": "names",
+      "title": "Recognise the abbreviated Japanese names",
+      "paragraphs": [],
+      "table": [
+        [
+          "Listing term",
+          "Practical meaning"
+        ],
+        [
+          "アクリルスタンド / アクスタ",
+          "Acrylic stand; check the base and assembly parts"
+        ],
+        [
+          "アクリルキーホルダー / アクキー",
+          "Acrylic keychain; check the connector and attachment"
+        ],
+        [
+          "台座 / daiza",
+          "Base"
+        ],
+        [
+          "ボールチェーン",
+          "Ball chain"
+        ],
+        [
+          "ナスカン",
+          "Clasp-style attachment; examine its actual shape"
+        ],
+        [
+          "本体 / 付属品",
+          "Main item / included accessories"
+        ]
+      ]
+    },
+    {
+      "id": "example",
+      "title": "A convertible product is a specific design",
+      "paragraphs": [
+        "ACCEA’s acrylic-stand service offers a base and an optional ball chain, allowing that product design to work as a hanging item too. Its keychain service separately lists attachment options. These are examples of why you should inspect the item configuration rather than infer everything from “acrylic.” They do not establish interchangeability across makers."
+      ],
+      "sources": [
+        "stand",
+        "keychain"
+      ]
+    },
+    {
+      "id": "parts",
+      "title": "Read the included-parts line",
+      "paragraphs": [
+        "Look for a complete photograph or parts list. Check whether the listing sells one character piece, the base alone, a replacement part or a full set. If several characters appear in an example display, find the quantity stated in the actual offer.",
+        "For a stand, the tab on the character piece must match the base slot. A spare base that looks similar in a photograph may have a different slot width or thickness. For a keychain, check that the attachment is included and that there is a usable connection point. Neither use can be established by the front illustration alone."
+      ]
+    },
+    {
+      "id": "measure",
+      "title": "Compare the dimensions that matter",
+      "paragraphs": [],
+      "table": [
+        [
+          "Your intended use",
+          "Measurements to check"
+        ],
+        [
+          "Desk or shelf display",
+          "Assembled height, base footprint and space around it"
+        ],
+        [
+          "Hanging on a bag",
+          "Total hanging length, connector opening and nearby items it may touch"
+        ],
+        [
+          "Storage in a sleeve",
+          "Largest flat-piece width and height, plus thickness"
+        ],
+        [
+          "Carrying several stands",
+          "Each piece and base separately; how they will be kept from rubbing"
+        ]
+      ]
+    },
+    {
+      "id": "decision",
+      "title": "Choose by where the item will live",
+      "paragraphs": [
+        "For a fixed shelf display, the base footprint and stability matter more than whether a chain could be added. For a bag, inspect the hanging arrangement and think about contact with zips or other goods. For travel, consider how the detached base and character piece will be stored. This is a use-case comparison, not a durability ranking.",
+        "Keep the product’s care instructions and materials description with the item. Do not assume that a cleaner or storage accessory recommended for another acrylic product is suitable for this one."
+      ]
+    },
+    {
+      "id": "question",
+      "title": "A useful question to send a seller",
+      "paragraphs": [
+        "Instead of asking only “Is this an acrysta?”, ask for the exact included parts and assembled dimensions: “Does this item include the base and hanging hardware, and what are the body and base measurements?” That turns an abbreviation into information you can use to make a purchase decision."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "stand",
+      "title": "ACCEA: acrylic figures and stands",
+      "url": "https://www.accea.co.jp/novelty/uv/figure.html"
+    },
+    {
+      "id": "keychain",
+      "title": "ACCEA: acrylic keychains",
+      "url": "https://www.accea.co.jp/novelty/keychain/"
+    }
+  ],
+  "related": [
+    "blind-box-vs-complete-set",
+    "japanese-preorder-labels"
+  ]
+}

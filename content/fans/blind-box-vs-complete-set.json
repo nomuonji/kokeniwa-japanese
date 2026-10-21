@@ -1,0 +1,115 @@
+{
+  "slug": "blind-box-vs-complete-set",
+  "title": "Japanese blind merch: random, BOX and complete-set labels",
+  "description": "Understand random Japanese merchandise listings. Learn why buying one of each is different from buying the same number of random packs, with an official example.",
+  "category": "Buying goods",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "A quantity equal to the number of designs does not itself guarantee a complete set. “BOX” also needs an explicit contents statement. Read whether the exact product listing promises all designs, allows duplicates, or sells individual random items.",
+  "sections": [
+    {
+      "id": "words",
+      "title": "Separate format from the contents promise",
+      "paragraphs": [],
+      "table": [
+        [
+          "Japanese label",
+          "What it tells you—and what to check"
+        ],
+        [
+          "ランダム",
+          "Random selection; check whether choosing a design is possible"
+        ],
+        [
+          "トレーディング",
+          "A trading product format; read the selection and assortment details"
+        ],
+        [
+          "全5種",
+          "Five designs in the range; not automatically five items in your order"
+        ],
+        [
+          "単品 / バラ",
+          "An individual unit; check its selection rule"
+        ],
+        [
+          "BOX",
+          "A boxed sales unit; check the number and assortment inside"
+        ],
+        [
+          "コンプリート / 全種セット",
+          "A complete-set claim; check which designs it explicitly includes"
+        ]
+      ]
+    },
+    {
+      "id": "worked",
+      "title": "Worked example: singles are not the same as the BOX",
+      "paragraphs": [
+        "Good Smile’s K-ON! Fuwame trading plush strap listing distinguishes a five-design BOX from individual random purchases. It explicitly says one BOX completes the range, while purchasing five individual units is not supplied as the BOX. In this particular listing, the complete-set promise belongs to the specified BOX product.",
+        "Use that example to read other listings, not as a rule for every Good Smile product or every brand. The page was checked on October 21, 2026; its displayed preorder period was earlier in 2026. It is an explanation of wording, not a current stock recommendation."
+      ],
+      "sources": [
+        "box"
+      ]
+    },
+    {
+      "id": "decision",
+      "title": "Choose the purchase format for your actual goal",
+      "paragraphs": [],
+      "table": [
+        [
+          "Your goal",
+          "Evidence you need"
+        ],
+        [
+          "One specific character",
+          "A selectable-design listing or a clearly identified individual item"
+        ],
+        [
+          "Any surprise from the range",
+          "The random unit’s quantity and possible contents"
+        ],
+        [
+          "Every regular design",
+          "An explicit complete-assortment promise for the exact set or BOX"
+        ],
+        [
+          "A secret or bonus design too",
+          "A statement that it is included; the regular-set promise may not cover it"
+        ]
+      ]
+    },
+    {
+      "id": "odds",
+      "title": "Do not invent odds from the design count",
+      "paragraphs": [
+        "“Five designs” does not prove equal probabilities, independent draws or a particular carton arrangement. Without those conditions, a probability calculator would create false precision. Even when a seller promises a complete BOX, it does not follow that five loose units have that property.",
+        "If duplicates would leave you disappointed, decide the acceptable purchase format before choosing a quantity. Read resale or second-hand listings separately: an opened assortment, an empty BOX and a manufacturer-sealed BOX are materially different offers."
+      ]
+    },
+    {
+      "id": "check",
+      "title": "Before checkout",
+      "paragraphs": [],
+      "items": [
+        "Confirm whether your selected variant is a single unit or a BOX.",
+        "Check items per order, designs in the range and any explicit assortment promise separately.",
+        "Check whether extras shown in the photo are included in this sales unit.",
+        "Save the product description and order confirmation so you can identify exactly what you purchased.",
+        "If the assortment statement is unclear, ask the seller before ordering rather than interpreting the range count as a guarantee."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "box",
+      "title": "Good Smile: K-ON! trading plush strap BOX listing",
+      "url": "https://www.goodsmile.com/ja/product/1145608/けいおん+ふわ雨シリーズ+トレーディングぬいぐるみストラップ+BOX（全5種）"
+    }
+  ],
+  "related": [
+    "japanese-preorder-labels",
+    "acrylic-stand-vs-keychain"
+  ]
+}

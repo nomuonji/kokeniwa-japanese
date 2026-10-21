@@ -21,3 +21,5 @@ jobs:
         run: python -m compileall -q site
       - name: Build static site and check links
         run: python site/build_site.py
+      - name: Check badge grid geometry
+        run: node tests/fan-grid.test.cjs
