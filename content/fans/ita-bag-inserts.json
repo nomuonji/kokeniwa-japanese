@@ -1,0 +1,110 @@
+{
+  "slug": "ita-bag-inserts",
+  "title": "Ita bag inserts: measure your bag before choosing a sheet",
+  "description": "Choose an ita bag insert by usable width, height, opening and badge size. Compare published COADE sheet dimensions and avoid the A4/A3 fit trap.",
+  "category": "Ita bags",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "Choose an insert by its actual dimensions and your bag’s usable display pocket. An A4 or A3 label alone does not establish that a rigid sheet will pass through the opening or sit behind the window.",
+  "sections": [
+    {
+      "id": "measure",
+      "title": "Measure three places, not just the outside of the bag",
+      "paragraphs": [
+        "Start with the display compartment, not the bag’s advertised outer dimensions. Lay a paper template inside it before buying a stiff insert. Paper can bend more easily than the finished insert, so a tight paper fit is a reason to measure again."
+      ],
+      "items": [
+        "Measure the opening the insert must pass through, including zips and seams.",
+        "Measure the flat usable area inside the display compartment. Exclude curved corners and hardware.",
+        "Measure the clear window separately. A sheet may fit inside while the outer row of badges stays hidden.",
+        "Add the thickness of covered badges and check that the compartment closes without pressure."
+      ]
+    },
+    {
+      "id": "examples",
+      "title": "Published sheet sizes: useful examples, not a bag-size standard",
+      "paragraphs": [
+        "COADE’s product announcements give the dimensions below. These are examples from specific products; they are not measurements of every bag advertised as mini, A4 or A3. Match the current product specification before ordering."
+      ],
+      "table": [
+        [
+          "Published sheet",
+          "Width × height",
+          "Manufacturer’s stated capacity"
+        ],
+        [
+          "Original sheet (2022)",
+          "278 × 210 mm",
+          "Up to 24 badges of 57 mm"
+        ],
+        [
+          "L-size sheet (2023)",
+          "410 × 330 mm",
+          "Up to 63 badges in its supported range"
+        ],
+        [
+          "Mini 57 mm sheet (2026)",
+          "180 × 135 mm",
+          "Up to 12 badges in its supported range"
+        ]
+      ],
+      "sources": [
+        "insert",
+        "large",
+        "new"
+      ]
+    },
+    {
+      "id": "mounting",
+      "title": "Match the mounting method to the badges",
+      "paragraphs": [
+        "An insert can be a backing for pins, a fabric-covered board, or a purpose-made sheet with slots. Those designs do not place the badge face in exactly the same way. COADE’s original sheet uses cuts for inserting pins. A plain board with a neat grid is a different layout.",
+        "If you want the manufacturer’s illustrated capacity, use its illustrated orientation and attachment method. Do not copy that number onto a different sheet simply because the outside dimensions look similar."
+      ],
+      "sources": [
+        "insert"
+      ]
+    },
+    {
+      "id": "template",
+      "title": "Make a quick fit template",
+      "paragraphs": [
+        "Draw the intended insert outline on scrap paper. Mark the transparent window and the opening width. Add circles at the outer size of your badges with covers fitted. This makes hidden corners and blocked edges visible before you buy anything."
+      ],
+      "items": [
+        "If the bag already includes a removable insert, measure that insert first.",
+        "Check whether a replacement needs tabs, handles or a particular fastening point.",
+        "Do not cut a purchased insert until you have checked its instructions and return conditions.",
+        "Keep a little working room for attaching pins; a mathematically exact fit can be awkward to assemble."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Which question should you answer next?",
+      "paragraphs": [
+        "Already own the bag? Keep the usable area you measured and test a simple layout in the badge-count calculator. Still choosing a bag? Start with the number of badges you want to display, then compare the required area with the actual pocket dimensions. The calculator estimates a non-overlapping grid; it does not reproduce a slotted manufacturer layout."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "insert",
+      "title": "COADE: original ita-bag sheet, October 2022",
+      "url": "https://www.coade-net.co.jp/blog/32915/"
+    },
+    {
+      "id": "large",
+      "title": "COADE: L-size ita-bag sheet, February 2023",
+      "url": "https://www.coade-net.co.jp/blog/33037/"
+    },
+    {
+      "id": "new",
+      "title": "COADE: mini and 75 mm sheets, April 2026",
+      "url": "https://www.coade-net.co.jp/blog/38117/"
+    }
+  ],
+  "related": [
+    "ita-bag-sizes",
+    "can-badge-sizes"
+  ]
+}

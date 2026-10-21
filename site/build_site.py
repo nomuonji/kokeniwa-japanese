@@ -16,6 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from lib import config, data_loader, md
 from lib.render import write_page
+from templates import fans as fans_tpl
 from templates import blog as blog_tpl
 from templates import pages as pages_tpl
 from templates import quiz as quiz_tpl
@@ -192,6 +193,13 @@ def build(cfg):
         for cat, arts in sorted(cats.items()):
             emit(blog_tpl.category_url(cat),
                  blog_tpl.render_category(cfg, cat, arts, articles))
+
+    # --- dedicated search acquisition channel: practical fandom guides ---
+    fan_guides = fans_tpl.load_guides(config.CONTENT_DIR / "fans")
+    if fan_guides:
+        emit("/fans/", fans_tpl.render_index(cfg, fan_guides))
+        for guide in fan_guides:
+            emit(fans_tpl.url(guide), fans_tpl.render_guide(cfg, guide, fan_guides))
 
     # --- static pages ---
     emit("/", pages_tpl.render_home(cfg, counts=counts, articles=articles))

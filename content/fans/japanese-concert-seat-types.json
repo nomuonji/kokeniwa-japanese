@@ -1,0 +1,114 @@
+{
+  "slug": "japanese-concert-seat-types",
+  "title": "Japanese concert seat types: restricted view, seated-only & standing",
+  "description": "Decode Japanese concert ticket seat labels and read event-specific restrictions. Compare annotated seats, seated-only areas and standing admission before choosing.",
+  "category": "Live events",
+  "date": "2026-10-21",
+  "updated": "2026-10-21",
+  "answer": "Read the event’s explanation of each ticket category before choosing. A numbered seat, a seated-only category and a restricted-view category answer different questions: where you are assigned, whether you may stand, and what you may be unable to see.",
+  "sections": [
+    {
+      "id": "labels",
+      "title": "Three separate things to check",
+      "paragraphs": [],
+      "table": [
+        [
+          "Common Japanese label",
+          "Working meaning",
+          "Question to answer"
+        ],
+        [
+          "指定席",
+          "Assigned seating",
+          "How is a seat allocated, and what area can this category include?"
+        ],
+        [
+          "注釈付き指定席",
+          "Assigned seating with a stated qualification",
+          "Exactly what view or other limitation does this event disclose?"
+        ],
+        [
+          "着席指定席",
+          "Seated-only assigned seating",
+          "What does this event require throughout the performance?"
+        ],
+        [
+          "立見 / スタンディング",
+          "Standing admission/category",
+          "Is there an assigned position or an entry order?"
+        ],
+        [
+          "整理番号",
+          "Entry/order number",
+          "How does this number affect admission for this event?"
+        ]
+      ]
+    },
+    {
+      "id": "view",
+      "title": "Restricted view: read the qualification itself",
+      "paragraphs": [
+        "Yorushika’s official 2026 tour information explains that its annotated reserved seats may have a poor view or no view of the performance and production, depending on the seat. That wording matters more than the reassuring word “reserved.” A paid, allocated place is not a promise of a clear stage view.",
+        "This is a dated example from the 2026 tour, checked on October 21, 2026. It is not an offer of currently available tickets or a description of every venue’s annotated seats."
+      ],
+      "sources": [
+        "concert"
+      ]
+    },
+    {
+      "id": "seated",
+      "title": "Seated-only is a behaviour rule",
+      "paragraphs": [
+        "For Hatsune Miku’s Japan Tour 2025, the official audience guidelines required people in the specified upper-floor seated areas to remain seated during the performance. That historical rule illustrates why “there is a seat” and “standing is allowed” are different facts.",
+        "For your event, locate the exact rule attached to the category you select. Do not infer it from photographs of a previous tour. If remaining seated or standing is important to you, clarify the rule before buying."
+      ],
+      "sources": [
+        "seated"
+      ]
+    },
+    {
+      "id": "standing",
+      "title": "A number is not automatically a seat number",
+      "paragraphs": [
+        "For a standing category, check whether a displayed number controls entry order, a fixed position or something else specified by the organiser. Look for the floor plan and admission instructions together. Do not use a reserved-seating chart to interpret a standing ticket.",
+        "Likewise, a venue map shows the building, while the event’s ticket categories describe the arrangement being sold. Stage position and blocked areas can differ between productions. Use the map published for the actual event where available."
+      ]
+    },
+    {
+      "id": "check",
+      "title": "A ticket-reading checklist",
+      "paragraphs": [],
+      "items": [
+        "Exact event, date and venue; do not mix dates within a tour.",
+        "Category description, including all view and behaviour restrictions.",
+        "Event-specific seat map or standing-area information.",
+        "Whether allocation details are known at purchase or announced later.",
+        "Admission instructions, including the ticket format and any identity requirements stated by the organiser.",
+        "Current organiser guidance if an accessibility or companion arrangement is necessary."
+      ]
+    },
+    {
+      "id": "next",
+      "title": "Keep the category explanation with the ticket",
+      "paragraphs": [
+        "Save the official explanation alongside the purchase confirmation. If a term is unclear, ask the official ticket contact about that exact category and event. A dictionary translation is a starting point; the event’s disclosed conditions are what make the ticket usable for your plans."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "concert",
+      "title": "Yorushika: 2026 tour ticket information",
+      "url": "https://yorushika.com/feature/livetour2026_ichininsho?lang=en"
+    },
+    {
+      "id": "seated",
+      "title": "Hatsune Miku Japan Tour 2025: audience guidelines",
+      "url": "https://piapro.net/japantour2025/guideline_en.html"
+    }
+  ],
+  "related": [
+    "japanese-preorder-labels",
+    "ita-bag-inserts"
+  ]
+}
