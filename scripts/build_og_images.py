@@ -22,6 +22,9 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import og_pop  # noqa: E402  ポップなテイストの描画(サイト・Instagramと共通)
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "site" / "static" / "og"
 BLOG_OUT = OUT_DIR / "blog"
@@ -68,6 +71,8 @@ SECTIONS = {
               "N5 to N1, free and without signup. Kanji, kana, meaning and example.", PRIMARY),
     "quiz": ("Japanese Quiz",
              "Check what you actually remember. Free, no signup.", EARTH),
+    "reading": ("Japanese Reading\nTraining",
+                "200 sentences with natural English answers. Free, no signup.", PRIMARY),
     "books": ("Bilingual Classics\nfor Reading Practice",
               "Sherlock Holmes, Woolf and Marx, English and Japanese side by side.", EARTH),
 }
@@ -187,75 +192,32 @@ def _garden(d, light=False):
     moss_cap(d, 806, 600, 40, [11, 15, 17, 15, 11])
 
 
+# section -> palette (same as pop.css / Instagram) and kokemaru's speech bubble
+SECTION_STYLE = {
+    "default": ("sakura", "One word at a time!"),
+    "blog": ("mint", None),
+    "vocab": ("sakura", "N5 to N1"),
+    "quiz": ("mint", "Test yourself!"),
+    "reading": ("lav", "Read it slowly"),
+    "books": ("peach", "Side by side"),
+}
+
+
 def build(slug, title, desc, accent):
-    img = Image.new("RGB", (W, H), BG)
-    vgradient(img, BG_TOP, BG)
-    d = ImageDraw.Draw(img)
-    _garden(d)
-    draw_brand(d)
-
-    d.rounded_rectangle([72, 178, 79, 178 + 58 * len(title.split("\n"))], radius=4, fill=accent)
-    f_title = font(SERIF, 74, "Bold")
-    y = 168
-    for line in title.split("\n"):
-        d.text((104, y), line, font=f_title, fill=TEXT)
-        y += 100
-    f_desc = font(SANS, 27)
-    for line in wrap_words(desc, f_desc, W - 104 - 180, 2):
-        d.text((104, y + 30), line, font=f_desc, fill=MUTED)
-        y += 40
-
-    d.text((104, H - 76), DOMAIN, font=font(SANS, 26, "Medium"), fill=MUTED)
-    d.rectangle([0, H - 8, W, H], fill=accent)
-
+    """Section OGP in the pop style. `accent` is left over from the old design."""
+    pal, bubble = SECTION_STYLE.get(slug, ("sakura", None))
+    img = og_pop.section(title, desc, pal, SITE, DOMAIN, bubble)
     return save_png(img, OUT_DIR / f"{slug}.png")
 
 
+CATEGORY_PAL = {"Japanese Words": "sakura", "Culture & Communication": "mint", "Real Tokyo": "peach"}
+
+
 def build_article_cover(slug, title, category, desc):
-    """記事のOGPと、一覧カードのサムネ。
-
-    カード内では200px幅ほどに縮むので、庭の描き込みは控えめにして
-    タイトルを主役にしている。要素を足すと小さいときに団子になる。
-    """
-    accent = CATEGORY_ACCENT.get(category, PRIMARY)
-    img = Image.new("RGB", (W, H), BG)
-    vgradient(img, BG_TOP, BG)
-    d = ImageDraw.Draw(img)
-    _garden(d, light=True)
-    draw_brand(d)
-
-    if category:
-        f_cat = font(SANS, 28, "Bold")
-        cw = d.textlength(category, font=f_cat)
-        d.rounded_rectangle([72, 150, 72 + cw + 44, 200], radius=25, fill=accent)
-        d.text((94, 158), category, font=f_cat, fill=BG_TOP)
-
-    # 横だけでなく縦の収まりも見る。ここを縦に見ないと、行数が増えたときに
-    # 説明文とドメインを踏み抜く。
-    y, TITLE_BOTTOM = 232, 496
-    for size in (64, 56, 48, 42):
-        f_title = font(SERIF, size, "Bold")
-        lh = round(size * 1.28)
-        max_lines = max(1, (TITLE_BOTTOM - y) // lh)
-        lines = wrap_words(title, f_title, W - 72 - 150, max_lines)
-        if len(" ".join(lines).split()) >= len(title.split()):
-            break
-    for line in lines:
-        d.text((72, y), line, font=f_title, fill=TEXT)
-        y += lh
-
-    if desc and TITLE_BOTTOM - y >= 44:
-        f_desc = font(SANS, 25)
-        d.text((72, y + 14), wrap_words(desc, f_desc, W - 72 - 260, 1)[0],
-               font=f_desc, fill=MUTED)
-
-    d.text((72, H - 74), DOMAIN, font=font(SANS, 25, "Medium"), fill=MUTED)
-    d.rectangle([0, H - 8, W, H], fill=accent)
-
+    """Article OGP and the listing-card thumbnail."""
+    img = og_pop.article(title, category, desc, CATEGORY_PAL.get(category, "sakura"), SITE, DOMAIN)
     og = save_png(img, BLOG_OUT / f"{slug}.png")
     card = BLOG_OUT / f"{slug}-card.webp"
-    # 一覧に何枚も並ぶので、OGPより一段軽くする（q82→q76 で16KB→13KB、
-    # 表示サイズが350px前後なので劣化は見えない）
     img.resize((CARD_W, CARD_H), Image.LANCZOS).save(card, quality=76, method=6)
     return og, card
 
