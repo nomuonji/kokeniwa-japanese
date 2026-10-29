@@ -143,7 +143,8 @@ def page(cfg, *, title, description, path, content, breadcrumbs=None,
     full_title = cfg.get("home_title", site_name) if path == "/" else f"{title}｜{site_name}"
     canonical = cfg["base_url"] + path
     # OGPは絶対URL必須
-    og_image_url = cfg["base_url"] + f"/static/og/{og_image}.png"
+    # 内容ハッシュを付けて、画像を差し替えたときに SNS 側のキャッシュを確実に更新させる
+    og_image_url = cfg["base_url"] + asset(f"/static/og/{og_image}.png")
 
     jsonld_list = []
     if jsonld:
