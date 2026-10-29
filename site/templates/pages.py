@@ -518,6 +518,8 @@ def render_home(cfg, *, counts, articles):
   <h1>Make Japanese part<br>of your everyday.</h1>
   <p>Build your vocabulary, read in context, and check what you understand. Free practice, at your own pace.</p>
   <div class="hero-actions"><a class="follow-btn" href="/vocab/n5/">Start with N5 vocabulary →</a><a href="/reading/articles/">Read a Japanese story →</a></div>
+  <p class="hero-bubble" aria-hidden="true">One word at a time!</p>
+  <img class="hero-mascot" src="/static/kokemaru.svg" alt="" width="132" height="142">
 </section>
 <div class="learning-paths" aria-label="Choose your practice">
   <a href="/vocab/"><span>01 / Vocabulary</span><strong>Find your level</strong><small>JLPT N5–N1 and everyday themes →</small></a>
