@@ -12,3 +12,6 @@ reports/
 
 # Local browser screenshots from book-series smoke tests
 .codex-temp/
+
+# Instagram 用に生成したカード画像(ローカル確認用)
+out/
