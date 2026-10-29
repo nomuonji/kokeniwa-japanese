@@ -51,7 +51,12 @@ def jp_vocab_pick(acc):
     text = fjp.build_post(level, rows)
     meta = {"slug": fjp.LEVELS[level]["slug"], "first_id": rows[0]["id"],
             "total": len(words), "words": [f"{r['jp']} ({r['romaji']})" for r in rows]}
-    return {"posts": [text], "kind": "jp_vocab", "meta": meta,
+    card_rows = [{"id": r["id"], "term": r["jp"], "reading": f"{r['kana']} · {r['romaji']}",
+                  "meaning": r["en"], "example": r.get("example_ja", ""),
+                  "example_sub": r.get("example_en", ""), "tag": f"JLPT {level.upper()}"}
+                 for r in rows]
+    return {"posts": [text], "kind": "jp_vocab", "meta": meta, "level": level,
+            "rows": rows, "card_rows": card_rows,
             "label": f"jp_vocab:{level} cursor={cur}/{len(words)}"}
 
 
@@ -124,6 +129,24 @@ def post_account(name, acc):
             "root_id": ids[0], "replied": False,
             "posted_at": NOW.isoformat(),
         }
+    return cur
+
+
+def post_instagram(name, acc, cur):
+    """Threads と同じ中身を Instagram へ(連携済みのアカウントのみ)。
+
+    Threads 投稿が成功した後に呼ぶ。失敗しても Threads 側の状態は保存されるよう、
+    例外は呼び出し元でまとめて扱う。
+    """
+    if not DRY_RUN and not (acc.get("instagram") or {}).get("enabled"):
+        return None  # 未連携: 画像生成ライブラリも読まない(Threads 投稿に一切影響させない)
+    import ig_post  # Pillow を使うので必要なときだけ読む
+    try:
+        return ig_post.post(name, acc, cur, NOW, REFRESH_BEFORE, dry_run=DRY_RUN)
+    except Exception as e:
+        if acc.get("instagram") is not None:
+            acc["instagram"]["last_error"] = f"{NOW.isoformat()} {str(e)[:500]}"
+        raise
 
 
 def main():
@@ -144,11 +167,18 @@ def main():
                 changed = True
             if maybe_refresh(name, acc):
                 changed = True
-            post_account(name, acc)
+            cur = post_account(name, acc)
             changed = True
         except Exception as e:
             errors.append(name)
             print(f"[{name}] 失敗: {e}")
+            traceback.print_exc()
+            continue
+        try:
+            post_instagram(name, acc, cur)
+        except Exception as e:  # Instagram の失敗で Threads の進捗を失わない
+            errors.append(f"{name}(instagram)")
+            print(f"[{name}] Instagram 失敗: {e}")
             traceback.print_exc()
 
     if changed and not DRY_RUN:
